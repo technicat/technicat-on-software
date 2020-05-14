@@ -1,11 +1,6 @@
 = Seven Habits of Highly Effective Programmers
 
-:toc:
-:toc-placement!:
-
 As a software engineer, you might want any number of things out of your job - a steady paycheck, the opportunity to work on interesting projects, a springboard to the next better job, or maybe you just like hanging out with other programmers. But by "effective", I mean the ability to complete projects in a timely manner with the expected quality. After working on dozens of software releases, I believe the following practices will bring you there, and while they may involve sticking your neck out, I'd like to think they will also advance your professional reputation, career longevity, and personal satisfaction.
-
-toc::[]
 
 == Understand Your Requirements
 
@@ -106,6 +101,7 @@ I shipped one Unix-based application that had a problem linking some functions s
 Crank up the warning levels on your compilers, sprinkle your code with assertions, and log the build and test-time warnings. Better yet, include a count of those warnings in your build metrics so you know if you're dealing with them or letting them accumulate.
 
 == Optimal Programming
+
 === Code with Purpose
 
 On the other extreme from cut-and-pasters are those who change code just to make it look prettier (at least to them). While it's laudable to have a programming esthetic, it's a waste of time (and a useless risk) to change code just so it looks better to you. It's aggressively annoying to go through and change code that other people have written just so it looks better to you.
@@ -113,6 +109,7 @@ On the other extreme from cut-and-pasters are those who change code just to make
 A fastidious coworker of mine went through our codebase and removed all the expletives. Probably no one would have complained if he had just cleaned up the code written by the entry level employees, but the expletives belonged to the technical lead of our group who was also one of the few distinguished Fellows at the company.
 
 === Do No Harm
+
 "Refactoring" is all the rage, now, but programmers often take it to mean any code cleanup or redesign. The trick is in reorganizing code for the better without breaking anything. If you break existing functionality in the name of progress, you're sending one of two messages: 1) your time is more important than everyone else's, or 2) you're incapable of touching code without breaking it.
 
 I had one particularly contentious coworker who decided to reimplement the parser in our system but left the code in an unbuildable state by everyone else. I asked him to revert his changes and then found the code was buildable but not runnable - asked about it, he replied that he removed the parser entirely "per your request". Not a team player.
@@ -158,6 +155,7 @@ You wouldn't just hop into your car before deciding where you want to go, right?
 Distractions will come up day-to-day, so you won't always be able to accomplish what you want. And contrary to those who treat software engineering groups as vending machines (they would probably shake us vigorously if they could) some tasks take more than a day. So think about what you want to accomplish by Friday, and if you do, then you can enjoy the weekend that much more.
 
 == Continuous Education
+
 A corporate soccer team member once asked me, as we were lacing up our cleats, "what's the secret to C programming?" If there was such a secret, I'd be hawking it on late night TV along with ab machines and how to get rich in real estate. Sorry, there's no shortcut - you have to learn and practice and make some mistakes. And you don't necessarily have to rely on corporate training or going back to school - there are plenty of (inter)national and local professional groups, books, and of course, the Internet.
 
 === It's Science
@@ -201,5 +199,5 @@ One CTO interviewed me over the phone by asking me to sketch out the resulting s
 There's also the blame game. As an engineer, you can't rely on your money and looks - all you've got is your credibility. So if you make a mistake - 'fess up.
 
 I had the privilege of working with a senior engineer who was never wrong. When his Java code was crashing on multiprocessor systems, it was Sun's bug. When I took over the code and pointed out the UI code was not supposed to run in multiple threads, he insisted there was only one thread. When I listed the seven threads (that I could find) in the code, he agreed I shouldn't have all those threads and I'd better fix it. He programmed in that fashion too - he didn't fix any bugs, he just covered them up with more code.
- 
+
 Finally, a bit of time-saving advice: Don't get dragged into stupid arguments. Stupidity is contagious.
