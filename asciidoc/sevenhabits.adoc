@@ -148,7 +148,7 @@ I had one boss who after asking for an estimated completion time would say, "do 
 
 All I can say is, stick to your guns and give a realistic prediction. Any concessions should be based on pragmatic tradeoffs between features and resources. Be clear about the assumptions, dependencies and resources on which the schedule is based, and get it written down somewhere so you can jog defective memories later.
 
-== Plan Your Progress
+=== Plan Your Progress
 
 You wouldn't just hop into your car before deciding where you want to go, right? And probably you have a route in mind before you start driving, too. Similarly, before you sit down at our computer, you should know what you want to accomplish that day and have some idea how.
 
