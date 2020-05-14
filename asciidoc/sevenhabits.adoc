@@ -12,7 +12,9 @@ Get a demonstrable system working as early as possible. This means establishing 
 
 There is a classical school of thought that believes if you design everything up front, then all you have to do is write the code and you're done. That works great if you've done the exact same project before. Otherwise, it's more likely you'll run into a point where you're just guessing or operating on questionable assumptions.
 
+====
 Upon joining an early-stage wireless internet startup, I found myself in two months of design meetings for a wireless portal and gateway due to launch in six months. Eventually we got tired of meeting and finally started coding. Within two weeks, my part of the project had no resemblance to the original design, and the first wireless connection test two months later revealed a fundamental misunderstanding of the wireless protocol.
+====
 
 This is not to say that design is unnecessary. But after a certain point, design is just speculation. Design should be validated with implementation, and better to do that early and continuously than late and, well, too late.
 
