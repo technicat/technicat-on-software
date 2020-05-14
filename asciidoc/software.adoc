@@ -4,3 +4,5 @@
 Here is my preamble paragraph, but I could really place the TOC anywhere! Lorem ipsum foo bar baz.
 
 toc::[]
+
+include::sevenhabits.adoc[]
