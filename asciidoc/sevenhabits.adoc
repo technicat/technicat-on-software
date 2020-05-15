@@ -184,6 +184,7 @@ It's called "computer science" for a reason. It's easy (maybe too easy) for anyo
 
 For example, anyone who creates a new file format should know something about compilers. I don't mean all the code-generation optimizations like loop unrolling, but the basic issues and various phases of compilation and most of all the importance of specifying the tokenization and grammar. Nowadays, most people by default will use XML, and that's a good thing, but before then it was typical to cobble up some text format, point to some generated sample files as documentation, and then everyone else who wrote another parser would cobble something up that would read in some files but not all. In the problematic cases then you could point fingers either way - either the reader is bad or the writer is bad. Whichever product is more popular wins.
 
+[quote]
 One of my pet peeves with the 3D graphics industry is the plethora of ill-defined file formats. When I implemented an OBJ file parser for a 3D content creation product, each exporting product that I tested against generated markedly different files, using different whitespace and newline conventions, for example. In refreshing contrast, a coworker of mine fresh out of school designed a new game interchange format using a grammar and lexer specification. (These days, it's not much of an issue anymore - most new graphics file formats seem to be based on XML.)
 
 And if anything differentiates programmers who can just put together simple scripts and user interfaces and those who can tackle real problems, it's an understanding of computational complexity, i.e. how algorithms scale with the size of the problem. Every programmer should know basic complexity terminology and have a general knowledge of the complexity of common problems.
@@ -209,6 +210,7 @@ I pride myself on cultivating good relations with developer support staff by sub
 
 It doesn't pay to be rude, especially if you're essentially asking for free tutoring or consulting on a discussion list. Even if you're asking under the auspices of a support contract, irritating your support contact isn't going to help you in the long term.
 
+[quote]
 I used to take pains to explain to belligerent newbies why their questions didn't make sense or what they were fundamentally doing wrong. Now, the bozo filter kicks in quickly - one "All I want to know is....", and they're ignored.
 
 Let everyone know that you read the documentation and googled the subject. Besides avoiding the inevitable "RTFM" and "Google is your friend" responses, this shows you've done your homework and those who want to be of assistance don't have to search through the same resources. If you do expect them to search through those resources for you, then you're saying your time is more important than theirs, and you are just one more perpetrator of the "tragedy of the commons".
