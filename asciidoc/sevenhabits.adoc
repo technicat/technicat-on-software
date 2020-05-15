@@ -1,6 +1,11 @@
 = Seven Habits of Highly Effective Programmers
 
+:toc:
+:toc-placement!:
+
 As a software engineer, you might want any number of things out of your job - a steady paycheck, the opportunity to work on interesting projects, a springboard to the next better job, or maybe you just like hanging out with other programmers. But by "effective", I mean the ability to complete projects in a timely manner with the expected quality. After working on dozens of software releases, I believe the following practices will bring you there, and while they may involve sticking your neck out, I'd like to think they will also advance your professional reputation, career longevity, and personal satisfaction.
+
+toc::[]
 
 == Understand Your Requirements
 
