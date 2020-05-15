@@ -41,6 +41,8 @@ Keep your software running in as close to a shipping state as possible. You neve
 === Use Real Data
 
 If you just test with sample data, that big iceberg of real data out there is going to sink your program.
+
+[quote]
 One of the leading semiconductor fabs evaluated a supply chain management product I was working on. After crunching out a milestone delivery to them, we got word back that the first batch of data they fed it from their own operations was still processing - for two days. I sympathized with the lead programmer, who had to dig down and emergency-optimized everything he could for two weeks with both management and client breathing down his neck. I'm just glad it wasn't me on the line.
 
 === Use Real Builds
