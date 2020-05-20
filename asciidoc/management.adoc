@@ -92,7 +92,7 @@ One company president kept bringing in bigwigs from the parent corporation for i
 
 Emerson not withstanding, inconsistency is a dangerous thing when exhibited by management.
 
-== Unmix Your Messages
+=== Unmix Your Messages
 
 Corporate vision statements tend to be vague to the point of uselessness, but it is important to be clear about what’s important and to be consistent about it.
 
@@ -149,7 +149,7 @@ At one company where I was maintaining a Unix application while porting it to Wi
 .
 Understandably, managers like to keep their options open. Sometimes this manifests as a refusal to make decisions early in the project, or a convenient amnesia regarding past decisions later in the project (you know this is going to happen when decisions are not written down). This strategy is as rewarding as setting up your retirement account just before your retire.
 
-=== Lead By Example
+== Lead By Example
 
 No matter how well-written the employee handbook or how well-produced the corporate video, it is management behavior that sets the tone of the corporate culture. “Do as I say, not as I do” works great if you’re satisifed with a mediocre organization or if you rule by fear. But if you want a high-quality group and you’re not Stalin, you have to lead by example:
 
