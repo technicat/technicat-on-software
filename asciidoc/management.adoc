@@ -32,7 +32,7 @@ As a technical lead on supply chain management software, I correctly chose XML (
 Even if you don’t know much about the engineering aspects of your project, you’ll have value and get some respect if you know the application domain.
 
 [quote]
-As a development manager at a computer graphics software company, I visited one of our tool vendors and gave them an impromptu demo with the intent of getting them excited about supporting our product. Unfortunately, I couldn’t figure out what more to do after creating a cube and making it spin. Should have rehearsed, I guess.
+Representing a computer graphics software company, I visited one of our tool vendors and gave them an impromptu demo with the intent of getting them excited about supporting our product. Unfortunately, I couldn’t figure out what more to do after creating a cube and making it spin. Should have rehearsed, I guess.
 
 Knowledge of your application domain is important in designing a useful product, supporting your customers, and avoiding embarrassment.
 
