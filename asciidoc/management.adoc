@@ -14,20 +14,24 @@ In many cases, “project manager” is a Microsoft Project manager whose appare
 
 The best way to gain the respect of your engineering staff is to understand the technology they’re using. This isn’t the same as thinking you understand. A little knowledge is a dangerous thing, especially the latest knowledge gleaned from buzzword-laden articles in business magazines.
 
+[quote]
 At an early stage on one large application runing in Lisp, I mentioned to my boss that I thought garbage collection was causing some performance problems. From then on, every time he saw a slowdown, he’d ponder, “hmm, looks like garbage collection.”
 
 As a manager, it’s unlikely that you know more about everything than everyone on your team, even if you’re the chief high tech mucky muck of your organization. So take the opportunity to learn from your people.
 
+[quote]
 I have a friend who graduated with a PhD from a well-regarded computer science department and yet was treated to an impromptu lecture on computer simulation from his company’s president, who had lesser engineering credentials from over a decade ago. Not surprisingly, my friend was rather offended.
 
 Worse is when your lack of expertise causes you to miss problems in the project design and execution.
 
-As a technical lead for a subsidiary of PRIA, a supplier of semiconductor fabrication equipment, I correctly chose XML as a platform-neutral format for our fab scheduling system, but didn’t learn enough about XML until after the project was delivered to realize that we didn’t do a very good job of sticking to XML (e.g. no DTD). Too bad — this was back when XML was pretty new stuff, so if I’d really known what I was doing, maybe I could have defined an industry standard format for semiconductor fab automation.
+[quote]
+As a technical lead on supply chain management software, I correctly chose XML (these were the early days of XML) as a platform-neutral format for our fab scheduling system, but didn’t learn enough about XML until after the project was delivered to realize that we didn’t do a very good job of sticking to XML (e.g. no DTD). Too bad — this was back when XML was pretty new stuff, so if I’d really known what I was doing, maybe I could have defined an industry standard format for semiconductor fab automation.
 
 === Master Your Domain
 
 Even if you don’t know much about the engineering aspects of your project, you’ll have value and get some respect if you know the application domain.
 
+[quote]
 As a development manager at a computer graphics software company, I visited one of our tool vendors and gave them an impromptu demo with the intent of getting them excited about supporting our product. Unfortunately, I couldn’t figure out what more to do after creating a cube and making it spin. Should have rehearsed, I guess.
 
 Knowledge of your application domain is important in designing a useful product, supporting your customers, and avoiding embarrassment.
@@ -48,6 +52,7 @@ The most crucial aspect of project management is risk management. Every decision
 
 I’ve often joked that every feature request should be accompanied by a dollar, but I betcha if managers had to whip out their own billfold and pull out a dollar for those “important” requests, the feature set would shrink dramatically.
 
+[quote]
 I was working on a submarine simulator that, up to that point,only had navigation controls. When our manager said he wanted to fire a torpedo for tomorrow’s demo, we hastily improvised a reasonable facsimile. Encouraged by that, the manager innocently asked ten minutes before the demo whether he could fire a cruise missile. One of my coworkers grabbed him and pulled him out of the room before I could say anything.
 
 There is no free lunch — everything has a cost, but it’s usually felt by the poor slob who ends up working the weekend rather than the person in management or marketing who belatedly said “we really need this”.
@@ -56,6 +61,7 @@ There is no free lunch — everything has a cost, but it’s usually felt by the
 
 I blame Star Trek. Aliens are always humanoid and speak English, and the offworld females find Kirk irresistable — no one believes that’s the stuff of reality. But the last fifteen minutes of every episode where Scotty or Geordi jury-rigs an engineering solution based on a never-tested hypothesis, and it always works just in time to avert disaster.
 
+[quote]
 I knew I was in a Star Trek moment on a military distributed interactive simulation project (basically a big multiplayer video game) when the project manager actually referred to me as “Geordi”. Sitting in front of a mock submarine console, wearing submarine coveralls while the PR cameras rolled and Navy VIP’s watched, I pushed the “start simulation” button that would connect us with the entire wide-area networked simulation and watched the system core dump as it got flooded with packets from the rest of the exercise. The project manager calmly informed everyone that we had “technical difficulties” and to “stand down”, while I tried not to puke. I fixed the problem in the standard episode final fifteen minutes by deciding we didn’t really care what anyone else was doing and turning off our system’s data read from the outside world.
 
 This project had the all the makings of a disaster — I cooled my heels for two months waiting for a security clearance, the networking hardware was two months late (it was a seven month project with a hard deadline), the laboratory had no experience on this type of project, and one of the three engineers working on the project didn’t do anything (but amazingly kept repeating “I’ll have it done tomorrow” for months). And then I spent the last month of the project working while flu-ridden. Our participation in the exercise was hailed as a success (evident when all the senior managers who had kept a healthy distance away suddenly show up), but I don’t think I could physically take any more successes like that.
@@ -66,6 +72,7 @@ In real life, the Starship Enterprise would blow up every time — the episode-s
 
 Make sure you build the product regularly and from scratch. A common practice is to do this as an automated nightly build. If you don’t do it, then you never know if you can really do it.
 
+[quote]
 A group developing software for use with the Hubble Space Telescope decided to rebuild the currently-deployed version a a reference for our research in designing the next version. But the previous build had been made years ago, and there had been enough VMS Fortran compiler changes that the old software didn’t compile anymore. If we actually had to fix a bug in the old software anytime in the past few years, we would have been out of luck.
 
 It’s no exaggeration to say that the fate of your company could depend on the ability to make a clean build.
@@ -77,6 +84,7 @@ Having a regular automated build proves that you have a functioning build proced
 
 I’ve never seen a code freeze really frozen to my satisfaction — there’s always temptation to keep adding “just one more thing” until the final deadline. But instituting a freeze is better than coding pell-mell until the end, a sure recipe for a broken release.
 
+[quote]
 Game development is particularly notorious for crunch times, which poses greater risk as the projects get more complex. I was on one project where the last level was scheduled to be completed just before the game was to go “gold”. Given my own stand was that asset creation had to be completed a month before the the release date, management did it’s best to reassure me “it’ll be all right”, and indeed we did just complete it on time. I found out later that the level export performed on the day of the disc burn was missing key optimizations, so the game probably would be running at least twice as fast if we hadn’t cut it so close.
 
 The point is not to completely stop development, it’s to slow it down in a deliberate manner to mitigate risk. It’s really more a code “gel” than a code freeze. The alpha milestone should mark the feature freeze point — any feature that is not functional yet should not go in. Once the beta milestone is reached, every potential bug fix should be evaluated according to its benefits and risks.
@@ -96,7 +104,7 @@ Emerson not withstanding, inconsistency is a dangerous thing when exhibited by m
 
 Corporate vision statements tend to be vague to the point of uselessness, but it is important to be clear about what’s important and to be consistent about it.
 
-The Electronic Entertainment Expo (E3) is the big orgasmic event of the game industry, and thus, everyone in the industry expects to go every year. I know of one game company president who was unhappy with the progress of their game and told everyone they wouldn’t have the usual company days off to attend. Then she changed her mind and was upset when one of the senior staff elected not to attend, anyway. So for future reference, is it important to attend E3 or not?
+The Electronic Entertainment Expo (E3) is the big party event of the game industry, and thus, everyone in the industry expects to go every year. I know of one game company president who was unhappy with the progress of their game and told everyone they wouldn’t have the usual company days off to attend. Then she changed her mind and was upset when one of the senior staff elected not to attend, anyway. So for future reference, is it important to attend E3 or not?
 
 === Use the Rhythm Method
 
