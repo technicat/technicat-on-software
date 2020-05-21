@@ -108,6 +108,7 @@ For example, builds ideally should be automated and run overnight, with the resu
 
 If you have a reasonable plan, stay with it. It’s hard enough to get everyone on the same page in the first place. Tweaking your plan or worse yet, changing directions in midstream, will impose some overhead and delay from the “context switch” and lower confidence in the project.
 
+[quote]
 Shortly after I joined a video game project, my group was diverted from their planned tasks to throw together a demo disc. This was not surprisingly a messy patchwork process, but once it was nearly complete, management changed their minds and put us back on the original schedule, albeit one month behind. The demo disc was resuscitated a few months later, but by then it was old code nearly impossible to debug.
 
 There are times when a plan is failing and changes are necessary to have any chance of completing the project. But in those cases, you should be able to identify clearly the points of failure and be able to justify that the next plan avoids those problems, and more importantly, avoids the pitfalls in reasoning that led to the first plan. Otherwise, there is no reason to believe that at some point during execution of the new plan that you won’t change your mind again.
@@ -125,16 +126,21 @@ You’re the boss, so there’s no reason to pretend you aren’t.
 === Don’t Ask, Don’t Tell
 
 It’s not a democracy, so there’s no point in soliciting input that you don’t really want it.
+
+[quote]
 I worked for one manager who would ask everyone for their opinions and then get mad when someone disagreed with her. The only rationale I could see is that she would selectively bring up those cases when someone agreed with her to buttress her decisions later. But it would have saved a lot of time and argument if she had just made the decisions she was going to make anyway.
 
 Of course, you shouldn’t ignore good input from employees — just don’t ask for an opinion if you don’t want it. The most useless area to ask about is your own performance. It’s like asking “Do these jeans make me look fat?”
+
+[quote]
 When I worked on the Hubble Space Telescope, I got into a dispute with a project lead who had made changes to my code when I was on vacation. He was unable to tell me exactly what those changes were, so I refused to integrate them. Offended, he asked me, “Don’t you trust me to make those changes?” Now, why did he have to ask that?
 
 === Stop Whining
 
 Yes, being the boss is hard. But no one cares.
 
-One of my more pathologically self-absorbed bosses practiced management by self-pity: “I never would have started this company if I’d known how hard this is.” “Do you want to trade places?” “I know your point of view, but you don’t know mine.” “I kept all my promises and everyone else broke theirs.” Believe me, it gets old after a few months, not to mention several years. This person even expected her employees to feel sorry for her whenever she terminated one of them.
+[quote]
+One of my more narcissistic bosses practiced management by self-pity: “I never would have started this company if I’d known how hard this is.” “Do you want to trade places?” “I know your point of view, but you don’t know mine.” “I kept all my promises and everyone else broke theirs.” Believe me, it gets old after a few months, not to mention several years. This person even expected her employees to feel sorry for her whenever she terminated one of them.
 
 Everyone is guilty to of some rationalization and self-delusion, but people who actually want to boss others around tend to be guiltier than most. (Hint: if you spend a lot of time thinking about how you’re a good guy, you’re probably not)
 One abrasive company president often complained to me how she’d be treated differently if she was a man. A departing employee confirmed that, remarking “if she was a guy I would have punched her by now”.
@@ -145,8 +151,9 @@ I enjoy working with managers who frankly discuss problems, but there’s a diff
 
 Real leadership involves making the tough decisions. If you can’t make those decisions, then, as I rather bluntly told a manager once — what do we need you for? The first choices to make are in prioritizing, and everything has to be prioritized — features, bug fixes, delivery dates, customers, hiring, buying equipment, and so on.
 
-At one company where I was maintaining a Unix application while porting it to Windows, the president of the company told me the number one priority was to get the PC product out. When I asked him what about the Unix product, he thought a bit and said, “that’s the highest priority, too”. Thanks a lot, that’s really useful
-.
+[quote]
+At one company where I was maintaining a Unix application while porting it to Windows, the president of the company told me the number one priority was to get the PC product out. When I asked him what about the Unix product, he thought a bit and said, “that’s the highest priority, too”. Thanks a lot, that’s really useful!
+
 Understandably, managers like to keep their options open. Sometimes this manifests as a refusal to make decisions early in the project, or a convenient amnesia regarding past decisions later in the project (you know this is going to happen when decisions are not written down). This strategy is as rewarding as setting up your retirement account just before your retire.
 
 == Lead By Example
@@ -157,24 +164,31 @@ No matter how well-written the employee handbook or how well-produced the corpor
 
 The biggest management disease is wishful thinking.
 
+[quote]
 One Vader-like CEO intoned to me “This is the last time. You just have to take my word for it”, when one of our helpful integration engineers insisted we had to deliver new features immediately after an official release. That assurance was as convincing as “this is my last drink”. And it turned out to be just as valid.
+
 Do the right thing now.
 
 === Be Responsible
 
 If there’s one common skill among managers, it’s self-promotion. And self-preservation (well, that’s two, but they come as a package).
 
+[quote]
 When I worked on one defense simulation project that looked doomed, I noticed the head of the department stayed a healthy distance away from the lab, for several months. But just a week before the deadline, when it looked like we were actually going to pull this project off, he showed up in the lab glowing with enthusiasm and optimism.
+
 If you expect your people to put themselves on the line, you have to stick you neck out a little, too.
 One of my more annoying bosses liked to go around telling people “I’m holding you responsible” but whined “Now everyone’s going to blame me” whenever she screwed up.
 
 Everyone makes mistakes. At least if you ‘fess up, you’ll have the respect of your employees, and maybe, just maybe, they’ll take responsibility for their work, too. It may not be the best corporate politics, and maybe you’ll have to adjust your self image, but it’s good leadership.
 
+[quote]
 I worked for one director of engineering who readily admitted her mistakes although she could easily have blamed all problems on our dysfunctional software development group. When a rogue engineer pushed ahead with his own release (and his own agenda, to curry favor with the client) independently of the rest of the project, creating more work and more grief for everyone else, this director admitted almost immediately that it was a bad decision on her part to let him do it.
 
 On another project where it turned out there was an embarassing flaw in the demo release — the director of software could easily have blamed a number of parties, ranging from employees to vendors, but he simply stated that it was a collective failure, we had to focus on a solution and fix the process to avoid similar problems in the future.
 
 If you make it clear you’ve learned from experience, maybe everyone else will. They’ll follow you with more confidence, instead of fatalism. And if you accept responsibility for mistakes matter-of-factly, instead of in some torturous sequence of denial and blame, then maybe everyone else will do the same and get on with the real work.
+
+[quote]
 One of my bosses seemed to expect a Nobel Prize every time she admitted to a mistake. Months later, it would be the subject of lore — “Remember I took responsibility for that? Remember?”
 
 I’ve seen some leadership advice saying you should never apologize. I don’t really agree with that, but an insincere apology is worse than none at all.
@@ -184,9 +198,13 @@ One of my favorites pseudo-apologies: “It’s my fault for hiring that person.
 === Be Professional
 
 Professionalism is underrated. Companies sometimes brag about how much fun they have and how they’re one big happy family, but parties can only last so long, and how many families actually want to work together?
+
+[quote]
 I had one boss who liked to admonish her employees to “please be professional”. Which is one of the more annoying things one can say, like “don’t be an ass”. It was also an ironic thing to say, since her management repertoire included whining, yelling, foot-stomping, tossing items on employee’s desks and terminating conversations by abruptly turning around and leaving.
 
 You shouldn’t have to like all your coworkers to have a decent job. (That would really limit your options) As with politeness, professionalism can make bad situations tolerable and make good situations last longer.
+
+[quote]
 The aforementioned employer told me she didn’t care if departing employees had resentful feelings about their jobs, and then in the same conversation she wondered how to keep ex-employees from spreading a bad reputation for her company. Apparently, she didn’t see the link.
 
 Typically, even inept and slimy employers will be smooth when easing employees out the door. “Glad to have you, sorry it didn’t work out.”
