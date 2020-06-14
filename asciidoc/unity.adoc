@@ -1,3 +1,5 @@
+:toc:
+
 = How I Met Unity
 
 [quote]
