@@ -1,0 +1,25 @@
+:toc:
+
+= Lisp Led Me to Texas, Outer Space, and Game Development
+
+Occasionally, I see the question “What led you to gamedev?” (on twitter, for example). I didn’t start out as a game developer, but rather stumbled into it later in my career, so my default answer is that it’s because I worked at a small company called Nichimen Graphics in the mid-90s, developing 3D graphics tools for film and games. As my coworkers moved on to other companies, many of them game companies, I got jobs and contracts through their referrals.
+
+These included my first gamedev job working on HyperBowl (which I’m now working on by myself with a license from Hyper Entertainment), the Tech Deck: Bare Knuckle Grind games (which led to a later contract working on Playstation Home games for the same company), the Darkwatch PS2/Xbox game, a military negotiation sim for USC/ICS, the Blue Mars virtual world, and a consulting stint for nxTomo Games in Hong Kong.
+
+But I didn’t start out as a graphics programmer, either, so what led me to Nichimen Graphics? Short answer: Lisp. It turns out Nichimen Graphics was once upon a time the graphics division of Symbolics, a Lisp machine company. When I joined them, their products were running on Silicon Graphics workstations but still implemented in Lisp, and that’s what I got hired for. Up to that point, I’d been programming Lisp for BBN, MIT, SAIC, the Space Telescope Science Institute, and Texas Instruments. About seven years professionally, not counting the part time work and thesis project as an MIT undergrad.
+
+Which means, you could say MIT led me to gamedev. If I’d gone to any other school, what are the chances I would have learned any Lisp at all? At MIT, on the other hand, the beginning CS class, 6.001 Structure and Intepretation of Computer Programs, still used Scheme at the time, my AI class used Common Lisp, I did my bachelors thesis on a multiprocessor Lisp, and the part time programming work I found was in the MIT AI Lab, conveniently on Symbolics workstations.
+
+To tell you the truth, I didn’t understand 6.001 while I was taking it, but I reread the text after graduating and thought it was the greatest thing since sliced bread. So I really learned Lisp from that part-time work in the AI Lab, and you could also say that AI led me to gamedev.
+
+The popular choice for part-time student programmers was Project Athena, which would have turned me into an early Unix/C programmer. However, that wasn’t a paying gig, and I was on financial aid which required a paying student job, so you could say not being wealthy led me to gamedev.
+
+And I don’t know if I would have ended up at MIT if I hadn’t gone to high school in Iowa. Only a handful of students from Iowa applied to MIT that year, and I think most of the got in, whereas if I’d had to compete against the pool from New York, the acceptance odds would have been worse. (When I asked an admissions officer if Iowa gave me an edge, she replied they took in account disadvantaged educational circumstances – sorry Iowa City West High, you got dissed)
+
+And it was at my junior high in Iowa where I learned to program, on the Apple II in the library. That wasn’t the first computer I’d seen (which would be the TRS-80 in the library of my previous junior high, which I just typed BASIC listings into over and over until the librarian showed me the cassette recorder), but it was the first computer which showed me the programming light. Really, when I read the Applesoft manual, it was like a light going on in my head, and I understood coding.
+
+Thus, you could say Iowa led me to gamedev. Go Hawks!
+
+But let’s stop there. My first Apple II programs included a reversi game (which I later found on a pirate floppy, so it was also my first pirated game), and a wireframe surface display. However, my undergrad Lisp job also included a 3D surface display, my bachelors thesis was a MultiLisp reversi game, the Lisp job for the Space Telescope got me my masters degree at Johns Hopkins, including the graphics course there, the SAIC project was a submarine simulation in a wide area networked military exercise with cool names like Maritime Synthetic Theater of War (MSTOW) and Warbreaker, but really it was just a big multiplayer game, and the Nichimen tools were used in real games like Mario 64, I think. And that’s where my just-as-I’m-getting-out-they-drag-me-back-in gamedev career began.
+
+So, that’s the answer I’m sticking with: Lisp led me to gamedev.
