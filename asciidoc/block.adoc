@@ -1,0 +1,13 @@
+:toc:
+
+= Block Is My Favorite Feature
+
+I’m always discovering new App Store submission requirements. Last year, when I submitted the WordsEye app, I ran into the rule that apps featuring user-generated content must allow users to block and report content and had to resubmit with those features added.
+
+Of course, I’m never happy about getting an app rejection, (and I suspect the motivation for the submission requirement has as much to do with limiting liability as user experience), but actually, blocking and reporting users are two of my favorite features in social apps. It’s kind of fun. Like that time a person I blocked got so aggrieved he created another twitter account so he could contact me to ask why I blocked him (which kind of validated my initial blocking decision). Or that time I reported @realdonaldtrump for abuse. What, he’s still on?
+
+Anyway, blocking, reporting, and their weaker cousins like muting, are useful in exercising the Turing Test against bots, venting without getting into stupid and futile arguments, cleaning up your feed, striking a feeble blow against the forces of evil…
+
+But blocking and its ilk would be more useful if it wasn’t treated in the thumbs up world of social media as a shameful secret, like customer complaint forms. Show it off as a proud feature. In addition to the Who to Follow suggestions, how about a Who to Block? I could kill an evening using that (and it would be great on commutes). Instead of just showing number of likes on a user profile, show the number of blockers. Take it as a warning or badge of honor. With this supposed new emphasis on curtailing abuse, if users saw how often they’re blocked and reported, maybe they’ll take a hint. Maybe.
+
+Liking is overrated. Embrace the negativity.
