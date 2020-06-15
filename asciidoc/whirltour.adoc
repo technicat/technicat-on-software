@@ -1,232 +1,153 @@
 :toc:
 
-= Seven Habits of Highly Effective Programmers
+= Taking a Whirl Tour on the GameCube
 
-As a software engineer, you might want any number of things out of your job - a steady paycheck, the opportunity to work on interesting projects, a springboard to the next better job, or maybe you just like hanging out with other programmers. But by "effective", I mean the ability to complete projects in a timely manner with the expected quality. After working on dozens of software releases, I believe the following practices will bring you there, and while they may involve sticking your neck out, I'd like to think they will also advance your professional reputation, career longevity, and personal satisfaction.
+== Game Data
 
-== Understand Your Requirements
+Publisher: Crave Entertainment and Vivendi Universal
 
-The first step in becoming an effective programmer is to ensure that you are spending your time wisely. And there is no greater waste of time than in working on something that is not useful or never shipped.
+Release Date: November 2002 (US) and March 2003 (Europe)
 
-=== Build Early
+Number of Developers: 15
 
-Get a demonstrable system working as early as possible. This means establishing the interface first, whether it's an API or user interface, and stubbing the encapsulated functionality as necessary. This allows your "customers" to check it out, by exercising the user interface or writing code to the API, and any inconsistencies or omissions in the initial spec can be detected early. Chances are, you will notice problems or potential improvements even before releasing this first deliverable.
+Number of Contractors: 2
 
-There is a classical school of thought that believes if you design everything up front, then all you have to do is write the code and you're done. That works great if you've done the exact same project before. Otherwise, it's more likely you'll run into a point where you're just guessing or operating on questionable assumptions.
+Length of Project: 15 months (plus 4 months for European SKU)
 
-[quote]
-Upon joining an early-stage wireless internet startup, I found myself in two months of design meetings for a wireless portal and gateway due to launch in six months. Eventually we got tired of meeting and finally started coding. Within two weeks, my part of the project had no resemblance to the original design, and the first wireless connection test two months later revealed a fundamental misunderstanding of the wireless protocol.
+Development Hardware: 1.5GHz PC’s with GeForce 3 video cards running Windows 2000. GameCube devkits, test consoles and disc burners.
 
-This is not to say that design is unnecessary. But after a certain point, design is just speculation. Design should be validated with implementation, and better to do that early and continuously than late and, well, too late.
+Development Software: Microsoft Visual C++, SN Systems ProDG, Havok, 3D Studio Max, Adobe Photoshop, Adobe Premiere, CoolEdit, cvs.
 
-Even if the original design is sufficient, once you have something you can tweak, you can improve upon it. Hardware products (who designed this VCR?), buildings, and large-scale software projects suffer from interfaces that were frozen in "preproduction", but with software, you have an opportunity early in the project to refine your understanding of the requirements and produce a suitable interface. But it must be done early.
+Project Size: 360,000 lines of source code. 900MB of compiled data.
 
-Getting something ready early is also good for your occupational well-being. Your boss will appreciate seeing evidence that something is actually getting done and having something available to demo. On the other hand, a drawn out period with nothing to show is a recipe for anxious management.
+== Introduction
 
-=== Deliver Often
+Papaya Studio’s Whirl Tour was released on the Nintendo GameCube and Sony Playstation 2 platforms in November 2002 and March 2003, for North America and Europe, respectively. The game, published by Crave Entertainment and Vivendi Universal, combines a story-based adventure with Tony Hawk style extreme sports play on scooters. Although Whirl Tour is a multi-platform title and the merging of genres poses intriguing game design questions, this article focuses solely on the GameCube development.
+We started work on the GameCube in July 2001, a few months after the Whirl Tour prototype was completed and running on a PC. Crave received milestone deliveries every two months — the first one involving a GameCube build took place in January 2002. We delivered a build to Nintendo of America (NOA) the following April for concept review, and Crave demoed the game at E3 in May. That summer, Crave forwarded our beta release as a presubmission build to NOA lot check, the group responsible for verifying compliance with Nintendo guidelines. The final submission was approved in September 2002 for the North American release. Over the next few months, under the aegis of Vivendi Universal, we undertook localization for the European release of Whirl Tour, which was submitted to Nintendo of Europe (NOE) and approved in January 2003.
 
-Once you have something working, don't just leave it as a "proof of concept". Let people play with it, see their reactions, and let this guide and prioritize your development. There is no substitute for watching how people use your software. Customer questionnaires and focus studies might provide some useful input but run the risk of transferring feature and design decisions from the developer to the customer.
+== What Went Right
 
-In particular get the software into the hands of the QA staff as soon as possible and feed them regular builds, preferably at scheduled intervals. Having them test automated daily builds is ideal, but even a weekly build is pretty good. This will help them feel involved in the full life-cycle of the project and they should be best-trained at identifying and reporting problems. The highest priority should be given to issues that prevent them from using the product, e.g. crashes or dead-end paths - you want them to cover as much as possible as soon as possible and get a feel for the whole product so design issues can be identified early.
+=== 1. Development Tools
 
-[quote]
-At a small 3D graphics software vendor, I was put in charge of porting the flagship product from SGI workstations to Windows NT. After six months, the port was so incomplete and crash-prone that I was reluctant to give the first "alpha" build our test group. Fortunately, the QA manager insisted, and the resulting bombardment of bug reports forced me to immediately focus on the problems that prevented the testers from exercising the application in any meaningful way. Left to my own devices, I would have worked on what seemed to be the harder and more important core 3D issues, and probably delayed too long on seemingly mundane issues like the user interface, load-save functionality, and compatibility with all the varieties of consumer hardware we were planning to support.
+When we started GameCube development, five months before the console showed up on retail shelves, development hardware was scarce and software tools were still under development. But we minimized the impact of this problem by getting started with Nintendo’s software based emulator and obtaining the tools as early as possible and in sufficient quantities.
 
-Programmers often don't want to release code to testers early - they don't want to hear about a bunch of bugs they already know about, and quite possibly the testers don't want to test something that barely works. But it's the testers' job to find these problems and programmers need to realize bug reports are a good thing, if they arrive early enough.
+The GameCube emulator provides API-level emulation on a PC. Our team was already working with a PC reference implementation of the game using Visual C++, so while we waited for devkits (programmer version of GameCube hardware that contains twice the usual memory and loads data from the developer’s PC instead of disc), we incorporated code that called the emulated video, graphics, disc and controller API’s. In six weeks, we had a pseudo-GameCube version of our title running, albeit at 5fps.
 
-== Keep It Real
+We applied some optimizations to get the game running up to a slightly less painful 10fps, but there was always a nagging suspicion that time spent optimizing with emulator wouldn’t result in anything useful on the real hardware. It was a relief when the first devkit arrived, two months after we started work with the emulator, but it took three months to really get the game built with the compiler (SN Systems ProDG) and running on the hardware. We had to wait for a GameCube port of the physics middleware, and we needed to update our offline data preprocessor to convert the little-endian data produced on the PC into big-endian data readable by the GameCube CPU (a custom PowerPC called Gekko).
 
-Keep your software running in as close to a shipping state as possible. You never know when you'll have to demo the system, send out an evaluation copy, or even deliver ("OK, time to wrap things up!")
+Although we had to wait for a port of the physics middleware, it was still important that we received the devkits as soon as we did. Aside from the endian issue, there were a number of subtle differences between the emulator and actual hardware that had to be resolved, including differences between the Visual C++ and ProDG compilers. Likewise, we reaped benefits from obtaining the test consoles and disc-writer as soon as they became available. They arrived shortly before our first schedule GameCube milestone, so we were able to make that delivery to Crave on a test disc instead of a bunch of development files for a devkit.
 
-=== Use Real Data
+Besides getting all the tools as early as possible, we obtained redundant quantities of each. The extra units saved time and provided peace of mind. For example, we ran 24-hour-plus smoke tests concurrently on multiple test consoles — when one console occasionally reported a fatal error and the others didn’t, we concluded it was a hardware problem and didn’t lose sleep over it (while were were losing sleep over other things). And when we had to return devkits for repairs (video card damage) and upgrades (PAL support), we could send back one unit at a time without stalling development. We also ordered hundreds of blank test discs in anticipation of daily burns and crunch time. The last thing we wanted was to miss a deadline for lack of discs.
 
-If you just test with sample data, that big iceberg of real data out there is going to sink your program.
+=== 2. Developer Support
 
-[quote]
-One of the leading semiconductor fabs evaluated a supply chain management product I was working on. After crunching out a milestone delivery to them, we got word back that the first batch of data they fed it from their own operations was still processing - for two days. I sympathized with the lead programmer, who had to dig down and emergency-optimized everything he could for two weeks with both management and client breathing down his neck. I'm just glad it wasn't me on the line.
+We were fortunate in receiving thorougly good support from all our licensors and vendors — Havok for our physics middleware, SN Systems for our compiler and IDE, and Nintendo Software Developer Support Group (SDSG) for just about everything else.
+SDSG resources got us started on a lot of code. Our preliminary implementation of dynamic shadows, using shadow volumes, was guided by an SDSG white paper and refined based on ideas exchanged in the developer newsgroups. The final shadow implementation used shadow maps and was initially based on one of the SDK demos. For a screen snapshot function, we reused the source from a utility posted on the SDSG web site.
 
-=== Use Real Builds
+Access to SDSG was helpful throughout the project but proved especially so during the submission period. Our US submissions were rejected twice by Nintendo lot check, and our publishers wanted fast turnaround for each resubmission. Email and phone queries to SDSG resulted in quick clarification of guideline items and evaluation of proposed solutions. This enabled us to get the first resubmission out in less than a week and the second resubmission out in one day. Combined with lot check turnaround of a few days for each submission, the total time from first submission to final approval was just under a month.
 
-Remember the development build on your machine is not the real build.
+The delay in getting a port of the physics middleware could have been serious, but a few weeks after we got our devkits, Havok sent us a linkable library that allowed us to complete a build. When it became apparent that we needed endian-conversion for our collision surfaces, they quickly sent us a run-time solution, and eventually a preprocessor solution that we integrated into our offline data converter. The GameCube port was basically complete in five months and we received incremental updates throughout the rest of the project.
 
-[quote]
-On a game development project where I worked on the user interface, I got intermittent reports from QA that some colors were not correct. Eventually, I realized the problem only showed up in release builds and another programmer used the special console debugging hardware to track down the bug. Which turned out to be a silly mistake I'd made two months previous, failing to specify an initial color value in a few cases. The debug build always selected a specific default value, while the release build optimized that away and the result was less determinate. If I'd made a point of running the release build frequently, I would have spotted my mistake immediately, instead of losing it in the sands of time.
+We opted for SN Systems ProDG over Metrowerks Codewarrior because we were already using ProDG for the PS2. This minimized compiler differences between the two platforms (we already had differences in code acceptance between Visual C++ and ProDG), but meant starting out with a beta compiler. The few bugs we encountered were addressed quickly by SN Systems support, and the official compiler release was ready a few months before the first GameCube milestone. After that, patches and upgrades were readily available on the SN Systems support site, and they had quick responses to questions sent via email or posted to the gamecube.snsystems newsgroup on the SDSG site.
 
-=== Merge Often
+=== 3. GameCube Architecture
 
-Don't procrastinate on merging your code with the main code base - the longer you wait, the harder it gets.
+Another reason we got the game running quickly on the GameCube is the friendliness of the architecture. The graphics hardware (Flipper) supports multiple dynamic lights, multitexturing, mipmapping, blending, and fog, so most of our basic renderer features were easy to implement (though optimization required some work — see What Went Wrong). The GameCube combines a unified memory architecture (UMA) with fast 1T-SRAM, allowing flexibility in managing textures and the video framebuffer.
 
-[quote]
-I worked with a programmer who "couldn't be bothered with" all the new code and data changes that showed up in the repository every day. And certainly, daily merges did take up some time for all the other programmers, and this programmer was able to run some impressive standalone demos with a snapshot of the code and data. But every time we had a milestone delivery, it took days to get the isolated code reattached to the current codebase again, sometimes compromising the milestone delivery and risking the funding for the entire project.
+The hardware features a generous 16MB of auxiliary RAM (ARAM). We used half of the ARAM for sound effects — given more time, we would have used the remaining ARAM to increase the fidelity of our sound samples. For songtracks, we used the hardware streaming direct from disc. The disc is small and fast, so we never had a problem with load times. The disc capacity is lower than a standard DVD, but at 1.5GB, it was plenty for our 900MB of data.
 
-Keeping your code out of the official build means that programmers cannot evaluate your code and testers cannot spot bugs early. Maybe you don't want people picking on your code or bugs, but it's better to identify those issues early than later - suck it up.
+=== 4. Memory Management
 
-== Understand Your Code
+Although fast, the GameCube main memory (MRAM) is limited in size (24MB) compared to the PS2 (32MB). We stayed within the memory limitation by agressively keeping on top of that issue. By running on the test consoles as soon as possible, we forced ourselves to reach the 24MB target early, within the first six months of the schedule. The UMA meant the video framebuffer occupied MRAM. Since PAL resolution is higher than NTSC, we sized the framebuffer for PAL in all builds to ensure we wouldn’t have memory problems later. We configured all of the devkits to use only 24MB, so the programmers would know immediately if any level didn’t fit. Testers went through all levels in each daily build and in their email report listed any levels that didn’t load.
 
-Life is full of wonderful mysteries, but your code is not the place for them. You don't have to know how your car works - if the engine starts making strange noises, you drop it off the mechanic. When it comes to your code, if you don't understand how it works, or doesn't work, no one will.
+Flipper supports S3 texture compression, so we compressed as many textures as possible. Any such textures that didn’t look good after compression were reworked. This considerably reduced memory usage (and as a side effect improved performance and load time) and didn’t seem to degrade the visual quality noticeably. After E3, new assets pushed us over the memory limit, so we turned mipmap generation off until we had more space and a more selective procedure for mipmapping.
 
-=== Code with Style
+=== 5. Testing
 
-My childhood piano teacher once commented to me, "Your sister has a good sense of timing, and your brother has a good feel of the keyboard." Then he paused. "You, uh, you work hard."
+We made a point of testing early and often. Starting about a month before the first GameCube milestone, we released daily builds on test discs for our QA group. The builds were created from the latest code and data checked into cvs. Our testers issued a daily test report noting new bugs, verifying fixes, and listing minimum single-player and multi-player frame rates for each level (the build included an on-screen fps display).
 
-Programming is one of those things that a lot of people are more or less competent at, but some in particular have a flair for it. I'm a lousy piano player despite years of lessons, and I'm a mediocre basketball player although I enjoy playing it immensely. But I do like to think I have a flair for programming and writing. And not surprisingly, I think good programming is like good writing. Both prose and code are textual, have grammar, syntax, spelling and semantics and spelling. For most coders and writers, this is enough, but the best writers and coders have an esthetic and their work features structure and style that can often be identified with the author.
+Crave provided us with a tester from their staff who worked on-site with us and tested our daily build. At first, we sent our Friday build every week to the rest of their QA group, but in the last two months before submission we Fedex’ed them our builds, daily. We also set up remote access to their bug database and used that as our sole bug reporting and resolution mechanism. Since changes to the database would show up on the client GUI instantly, we would be alerted to the new bugs as they arrived and could investigate and update the database entry immediately with comments or requests for closure.
 
-Many Windows programmers wonder why grumpy old Unix/Mac/Amiga/Lisp programmers rail against Win32/MFC/.NET, but if all the API's you've seen are from Microsoft, you probably don't know there's anything better.
+The Crave QA group provided valuable console testing expertise, including experience with a recent GameCube title, and were familiar with the Nintendo developer guidelines. Soon after they started testing Whirl Tour, their GameCube bug database contained about 200 entries, many of them memory card and disc error handling issues that would have been flagged by lot check at submission. By the end of the project, we had around 700 bugs logged and resolved for Whirl Tour GameCube.
 
-Perhaps not everyone is capable of writing stylish code - I've heard it said that good object-oriented programmers, in particular, are born and not made. But like fine music, wine, and literature, you can learn to appreciate good code.
+=== 6. Schedule
 
-=== Cut-and-Paste
+Originally, we estimated the GameCube development of Whirl Tour would trail the PS2 by one to three months, for reasons including the expected delay for hardware and middleware and less in-house familiarity with the newer GameCube platform versus the PS2. But that meant we would at least partially miss the critical holiday retail season. When it appeared that we could deliver our first GameCube milestone on disc, it made sense to synchronize the GameCube schedule with that of the PS2. This allowed us to target September for our North American submission, which would allow the game to arrive on the retail shelves in November. And it greatly simplified our overall project schedule, since we didn’t have to track different milestones on each platform.
 
-The opposite of stylish programming is cut-and-paste. Grab some code from somewhere that is supposed to do something like what you want, tweak it until it sort of works, stir, repeat, and voila, you have the software equivalent of mystery meat.
+The decision to sync the schedules was consistent with our approach of top-down milestone-driven scheduling. Instead of building the schedule bottom-up by summing up low-level tasks, a method which accumulates error over time, we built the schedule top-down, placing the most importance on critical deadlines like E3 and the target submission date, followed by our milestone commitments to the publishers, and then juggling tasks to accomodate those dates. Adhering to the big-picture deadlines proved even more important later in the project, when Papaya was gearing up for the next project — any delay in this title would have just propagated to the next.
 
-[quote]
-A few months after leaving one company, a former coworker emailed me a single function consisting of ten pages of cut-and-paste code and asked why it wasn't working. I could have very well asked why it should work at all. If you can't explain how your own code is supposed to work, how can you expect anyone to help you with it? (He has since moved on to a management position at Microsoft) 
+The schedule was tracked with Microsoft Project. Milestones were marked as such using the milestone task annotation in Project, and features required for each milestone were listed as subtasks, down to a granularity of no less than one week per task. We marked only real dependencies between tasks, no artificial links to force a nice-looking sequence, and we let Project calculate the expected dates. When a task was completed, we filled in the date for the finished task and let Project recalculate the dates for the remaining tasks. Thus we used the schedule not so much as a micro-management and task-scheduling tool than as a schedule feasibility tracker and early warning system.
 
-I've even had trouble diagnosing my own code that was cut-and-pasted from sample code. It's a reasonable way to start new code, but you can't just leave it alone when it seems to work - you have to go back and make sure you understand it line by line and clean it up for your own purposes.
+We had weekly team meetings that initially involved only the leads and proceeded in a go-around-the-table-and-report fashion. Eventually, the format changed to include all team members and followed an announced agenda. This resulted in more focused and shorter meetings, sometimes lasting only fifteen or twenty minutes and rarely lasting more than an hour. Minutes were distributed by email afterwards. The meeting time was also minimized by requiring each team member to send a company-wide status report every Friday on his area of the project.
 
-=== Keep it Clean
+== What Went Wrong
 
-The key to keeping your house/condo/apartment clean is to spend a little time cleaning it every day, or at least every week. If you wait until your abode is an unsightly mess, it's just too much damn trouble to clean it all up and you end up just doing a halfhearted job. Or your hire a cleaning service.
+=== 1. Performance
 
-Assuming you don't have the luxury of hiring someone to come in and clean up your code every week, you should periodically inspect your code, sweep up accumulated hard-coded numbers, outdated comments, misleading function names, or you'll inevitably end up with uninhabitable code that's embarrassing to show anyone else. And if you're not embarrassed, well, you should be.
+The biggest disappointment was our failure to achieve our original performance target of 60fps for all levels in single-player mode. We did achieve the desired 30fps for multiplayer mode in all levels, but for single-player mode we could only maintain a consistent 60fps in two-thirds of the levels. The remaining levels alternated between 30fps and 60fps, so we had to lock them to the lower frame rate to keep the visuals smooth.
 
-[quote]
-One programmer I supervised kept reporting to me that her code was "done". This is what management normally likes to hear, but it drives me crazy. Code is never done - you have to debug it, maintain it, evolve it until it's put out to pasture.
+We made a mistake in not achieving and maintaining the target frame rate early. We started with a consistent 30fps in our first GameCube milestone, and the code performance improved all the way through the project. We planned on achieving 30fps for the first milestone and reaching 60fps by E3. The fact that we only had a few levels running at 60fps by E3 should have been a wake-up call, but we succumbed to wishful thinking and hoped that further optimization techniques would get us to our goal. We did improve code performance by about 50 percent between E3 and submission, but with more NPC’s, water effects, particle effects, dynamic shadows, and so on, we just kept pace with the additional assets. In the end, we still left a third of the levels below target in single-player mode.
 
-=== Questions? Comments?
+It became apparent, too late, that many of our optimization techniques did not improve the worst-case performance in our problematic levels. If we had recognized this earlier, we may have been able to restructure the levels to exhibit more balanced performance. There were some architecture-specific optimizations that we did not fully explore, but again, we ran out of time.
 
-Some like to think of programming as a craft. Others, engineering. More often than not, it's archaeology. You dig through sediments of code and wonder what purpose all these strange artifacts served. Do future generations a favor and leave some clues.
+=== 2. Submission (and Resubmission)
 
-[quote]
-I asked the aforementioned engineer whose code was "done" to add comments. The result, a function named GetData was prefaced by the comment "Gets data." That's not just useless - it's insulting. What data? (factory automation schedules) In what format? (a proprietary XML format) From where? (an in-house server, using TCP/IP) Not to mention little details like what happens when the server is unavailable or the transmission is broken.
+The NOA submission was rejected twice before approval. That isn’t a particularly bad showing, but there was a lot of pressure to get each resubmission out quickly, and it wasn’t fun. We cut it close in terms of getting the release out in time for the holiday retail season, so it would have been more comfortable if we could have knocked it down to one or two submissions.
 
-Document your code as if someone else might have to take it over at any moment and know what to do with it. That person might actually be you - how often have you had to revisit your own code and thought to yourself, what was I trying to do here?
+The most persistent problem areas that kept showing up on our lot check submission reports included memory card error handling and on-screen depictions of controller buttons. We could have gotten a pass on the button graphics, but we updated the button graphics several times anyway in hopes of making them more acceptable to lot check. The memory card issues for the most part were not negotiable — there are comprehensive guidelines involving error-handling flow and messages. These are not very exciting features to implement, but they are required, and we should have tried to get that stuff done earlier.
 
-[quote]
-On a contract with a previous employer, I was asked to look over a piece of code that no one else had time to attend to. At first, I thought it was a mess and didn't know what was going on in there. Then I gradually figured out what the code was doing, and I grudgingly admitted the code wasn't too bad. And then I eventually realized that I had written the code two years ago. Note to self: need more comments.
+Our programmers and testers were not familiar with the GameCube submission issues, and as a result, we were overly reliant on Crave’s QA team to identify the problems. Once Crave started testing the game, we basically had two months to rewrite our memory card, disc error, and reset-handling code, while simultaneously adding our shadow code, performance optimizations, and trying to fix all other bugs before submission. This was complicated by a couple of attempts in the last few weeks to advance the submission, which, in retrospect, now seems unrealistic.
 
-With that in mind, annotate your code as you write it, instead of waiting for a convenient cleanup phase in "post" - annotating as you code can even clarify your thoughts while you're programming. You can be your own pair-programming buddy.
+We should have educated ourselves on the submission issues much earlier by reading up on the guidelines and examining other games, and we should have scheduled completion of all the guideline requirements by our beta release early summer. Crave sent the beta to lot check, but we didn’t receive the results until two weeks before the final submission. The presubmission report from lot check was useful, but would have been more so if we had tracked it down earlier, and if didn’t have so many violations (too many to fix in one pass).
 
-As a bonus, these days you can generate nice HTML or otherwise-formatted documentation from source code comments, using javadoc, doxygen, whatever. Ideally, the doc-generation is part of your nightly build and available via your intranet.
+We complicated the memory card situation by attempting to share much of the framework with the PS2. We delayed much of the GameCube-specific implementation until the PS2 code was nearly done, so most of the work was completed in the last three months before submission. The code sharing seemed convenient initially, but there were significant differences between memory card guidelines for the two platforms. The resulting error-checking and error-handling flow was somewhat atypical for a GameCube title, requiring clarification among the QA groups, lot check, and programmers. After hasty code mangling during the resubmissions to accomodate QA and lot check objections, the shared code was a mess. It seems obvious now that we should have completely separated the memory card code for the two platforms.
 
-=== Full Warning
+=== 3. Manual Builds
 
-Ignore compiler and runtime warnings at your own peril. They are called "warnings" for a reason.
-I shipped one Unix-based application that had a problem linking some functions successfully - we worked around it by relinking those functions at runtime. When we performed a clean rebuild six months later for the next release, it was revealed that we had turned off linker warnings which would have alerted us of a known linker bug. In our defense, we had swept the linker problems under the carpet at the Unix vendor's suggestion, (thanks, SGI!) but it turned out we could get the link to work just by reordering our libraries.
+Although we had a daily build, it was not automated. We performed the build on a developer station using the ProDG/Visual Studio envronment. This allowed us to make quick fixes before releasing the build to QA, but it was not the type of clean and reproducible build that good configuration management practices mandate. An overnight batch build would have saved time (each build took anywhere from 30 minutes to three hours, depending on fixit attempts), been reproducible, and, if we set it up properly, automatically logged and emailed build results.
 
-Crank up the warning levels on your compilers, sprinkle your code with assertions, and log the build and test-time warnings. Better yet, include a count of those warnings in your build metrics so you know if you're dealing with them or letting them accumulate.
+Moreover, an automatic build could have helped to establish a sense of regularity and process. The team members were never sure when the next build would be available, so eventually we had to send email every day announcing the build. Aside from the testers, most of our team members were still overly reliant on the PC version on the game and there was a slightly disruptive tendency to go straight to the programmers instead of checking the latest official build. And the fact that the build took place manually and not at any designated regular time made it too tempting to request new builds at increasing and irregular intervals, particularly during crunch times.
 
-== Optimal Programming
+We had our data converter running every night by the end of the project, allowing us to check the latest art and sound effects changes. But the data build did not include processing of songtrack and FVM data, which were provided by external sources as WAV and AVI files requiring lengthy (hours to do a whole set) conversion to GameCube-specific compressed streaming formats. The FMV conversion was particularly involved, as we required versions for NTSC and PAL, and we had to extract the audio, resample and merge it back in to the converted FMV files. Unfortunately, the songtrack and FMV sources arrived fairly late in our schedule, so we were processing iterations of this data well past our attempted one-month data freeze before submission.
 
-=== Code with Purpose
+=== 4. Wanted: Tool Programmer
 
-On the other extreme from cut-and-pasters are those who change code just to make it look prettier (at least to them). While it's laudable to have a programming esthetic, it's a waste of time (and a useless risk) to change code just so it looks better to you. It's aggressively annoying to go through and change code that other people have written just so it looks better to you.
+We could have used a tool programmer. Our data converter was augmented by several different programmers in an ad-hoc manner, so new features were not consistently implemented with all the target platforms in mind. For example, although mipmapping and texture compression were technically multi-platform features, the code ended up in an “ngc-utils” file, and triangle-strip generation and texture palettization ended up in PS2-only code. A dedicated tool programmer could have developed the converter with more of a big-picture approach and taken some of the load off the other programmers, particularly the console programmers and lead programmer. A dedicated tool programmer could also have addressed the artists requests for previewing tools, which we just didn’t have time to work on.
 
-[quote]
-A fastidious coworker of mine went through our codebase and removed all the expletives. Probably no one would have complained if he had just cleaned up the code written by the entry level employees, but the expletives belonged to the technical lead of our group who was also one of the few distinguished Fellows at the company.
+=== 5. Lengthy Localization
 
-=== Do No Harm
+The localization process for the European release took a lot longer than expected. Crave’s QA group was regularly testing our PAL builds well before the NOA submission, so we expected to have a submission to NOE ready as soon as we had the text translations. The game engine modifications turned out to involve new texture fonts for the extended character set, additional character selections for text entry screens, resized GUI elements so longer European words would fit, and proper synchronization of the in-game language with the console ROM language setting. The code changes took a while, but a greater delay was incurred by an initial one-month wait for the first set of translations from Vivendi, then several iterations with Vivendi’s QA group to fix translations, typos, and text trailing off screen. We made our submission to NOE three months after the NOA submission, and then it took an additional three weeks for NOE to reject the first submission and approve the second.
 
-"Refactoring" is all the rage, now, but programmers often take it to mean any code cleanup or redesign. The trick is in reorganizing code for the better without breaking anything. If you break existing functionality in the name of progress, you're sending one of two messages: 1) your time is more important than everyone else's, or 2) you're incapable of touching code without breaking it.
+=== 6. A Mild Case of Featuritis?
 
-[quote]
-I had one particularly contentious coworker who decided to reimplement the parser in our system but left the code in an unbuildable state by everyone else. I asked him to revert his changes and then found the code was buildable but not runnable - asked about it, he replied that he removed the parser entirely "per your request". Not a team player.
+We didn’t completely meet our performance targets, and we had a crunch time involving a flurry of fixes and resubmissions. So any work that didn’t result in obviously necessary functionality warrants reevaluation:
 
-Keeping the code functioning takes some patience and extra work - you have to be diligent about regression-testing your work and chances are you'll need to keep old code and interfaces around for a while as you migrate functionality to your new code. But for everyone to work with the same codebase, that's what you have to do.
+==== Audio Effects
 
-=== Find the Bottleneck
+We had audio reverb and delay effects on our requirements checklist, but they were used in only one area in the game. It was gratifying to say we used the audio effects hardware on the GameCube, but it made our audio code layer significantly more complex and took several weeks to get it right. Compounding this, we were worried about the audio DSP dropping voices when oversubscribed, so after E3 we rewrote the system to handle this eventuality. But the rewrite took two to three weeks, the resulting code was messier, and once we had all the sounds in the game, the built-in GameCube metering hardware indicated that we were only using twenty five percent of the DSP cycles in the worst case.
 
-People always talk about "optimization", but that isn't really a correct word. We're rarely shooting for the optimum - instead, we make improvements and tradeoffs to achieve good-enough performance.
+==== Screen Capture
 
-[quote]
-I was asked in a phone interview with Google how I would search for a number in an array of ordered numbers. Obviously, the questioner was asking for a CS 101 answer - binary search. But in real life, I would probably do the "wrong" thing - search the array from beginning to end. There's no point in taking twice the time to write twice as much code that has to be maintained and debugged if the application performance is good enough, and in particular if that piece of code is not the bottleneck in the application. (And I seriously doubt you'd have that data laid out linearly in a fixed array like that if it was the bottleneck) 
+We had a publisher requested for a screen snapshot function, which we implemented shortly after the first GameCube milestone. It worked only on a devkit and was used by our testers for their bug reports. But it’s unlikely that it was used by anyone else, internally or externally. Submission releases were not supposed to include debug code, so we ended up removing the screen snapshot code before the presubmission. All in all, we spent five months maintaining that feature.
 
-If you do need to optimize for speed or space in you application, attacking anything other than the bottleneck is a waste of time.
+==== Video Modes
 
-== Manage Thyself
+Nintendo recommended but did not require support for progressive scan. We implemented it, but neither we nor our publisher’s QA group had progressive scan monitors, so we relied on informal testing off-site using personal equipment. Our progressive scan support was noted by some reviewers, but there was a cost in coding, testing, and added risk to the submission, as Nintendo has guidelines on proper implementation of progressive scan.
 
-You probably have a lot of complaints about your boss being a lousy manager, and you're probably right. So you have to be your own manager. Even if you have a decent boss, he's not going to stand behind you telling you what to type and how fast (although I'm sure many would like to).
+Similarly, Nintendo recommended but did not require support for 60Hz mode in PAL releases. The number of users who can take advantage of this feature is probably higher than with progressive scan, and this feature was testable in-house and by the publisher’s QA group, so it is a more justifiable feature But again, there was a development and QA cost, code complexity to handle both 50Hz and 60Hz modes, e.g. in selecting the appropriate FMV to play, and additional localization required for text displayed when switching modes.
 
-=== Are We There, Yet?
+==== Shadows
 
-Programmers are notoriously inadequate at providing useful schedule estimates. I think this is a bad rap, since management, left to their own devices, often make even worse predictions, and unwelcome news from engineers is often ignored. (A common theme in any engineering disaster). But still, awareness of the schedule is critical to actually getting the project done on time.
+We implemented detailed dynamic shadows for player characters and enemy bosses. If we had limited the detailed shadows to just the player characters and used blob shadows for the bosses, at least two more of the levels would have run at 60fps instead of 30fps. It wouldn’t have looked as good, but would have been no worse than many high-profile games that have recently appeared. We used higher-resolution shadow maps for the player characters, while allowing the boss shadows to have a more jagged appearance. The hi-res maps looked good, but the effect was subtle, and there may have been a performance penalty. Late in the project, we combined the shadow map blending with a location-based shadow value so the dynamic shadows would blend with pre-shadowed areas. Yet again, this looked good, but the effect was subtler still, and it was risky to make such a change right around submission.
 
-On one commercial software project, some of my coworkers were blissfully unaware of the product release date - one inquired whether it had been released already, another was surprised to find it was going out in a few days.
+=== 7. IT
 
-The worst, and most common, schedule estimate that a programmer can give is "it should just take a couple of days". Every time I hear that, even from my own mouth, I wince.
+Our server crashed right around E3, and although we had an automatic tape backup running every night, it turned out the data was unrecoverable. Fortunately, we had local copies of the working data distributed around the office, and we had performed periodic manual backups on DVD. It took a while to piece together all our code and assets, and some of the work done just before E3 was lost. It could have been worse, but we did pay a the price for failing to ensure the integrity of our backup system.
 
-[quote]
-The president of a graphics software company really wanted support for VRML (at the time it was the Next Big Thing) included in the product we were releasing in two months. He probably figured (correctly) that I would resist starting a new feature, so he went to another engineer and got the answer he wanted: "a couple of days". Two days later, I told the president we-just-wasted-two-days-of-his-time-and-mine-while-there-are-two-hundred-high-priority-bugs-to-fix, which he found to be a persuasive argument. (postscript: VRML didn't exactly take off like gangbusters)
+After the server crash, we spent the next several months upgrading our IT infrastructure. This didn’t distract too much from the ongoing development work, but we could have done a better job of minimizing disruptions by communicating and coordinating the IT plans. For example, switching from local accounts to domain-based accounts made some development tools unusable until some Windows registry values were updated. Even then, we were unable to upgrade our ProDG installation, which meant we were unable to upgrade the Nintendo SDK. And we had to use the original local account for our disk burns. We could have attempted to diagnose the problems or at worst perform a complete reinstallation, but with crunch time starting and the submission deadline looming, we really didn’t want to take the time. This might have been avoided if we had discussed the IT planning in our weekly meetings and coordinated some upgrade tests and fallback policies.
 
-And then there are programmers who are unable to come up with time estimates at all. But there's no need to get thrown off by the fuzzy nature of the request - it is an estimate after all, and in fact you should avoid using formulas. If you're an experienced engineer, you know how long comparable tasks have taken you before, and if you're not experienced, you can ask someone who is.
+== Lessons Learned
 
-[quote]
-A smart friend of mine who was often assigned to developing experimental prototypes asked me, "how can you schedule research". I think it was a rhetorical question, but even pure researchers have schedules. Someone is paying them and expects results, even if it's a number of demos or published papers in a certain timespan. And if you really don't have the foggiest idea how long something will take, then you're the wrong person for the task.
+This article focused on the GameCube development of Whirl Tour, but most of these issues are applicable to console development in general. As a console developer, many things are outside of your control, so control what you can. Get the development tools as soon as possible, and get more than enough. Make full use of developer support. Achieve memory and performance targets early and maintain them. Establish daily automated builds and testing early. Take care of the requirements before working on bonus features. Schedule around the really important milestones and then stick with the schedule. Do early and multiple presubmissions if possible. Plan for a few resubmissions in the end — allow a month. And localization will take longer than you think.
 
-Sometimes programmers are reluctant to commit to a schedule because they're afraid of the accountability. It is true, in this imperfect world, managers will try to bargain you down on schedules, political factions may saddle you with tough or unrealistic schedules in the hopes that you will fail, and it is a sadly common story that after you commit to a schedule, you don't get everything you need.
 
-[quote]
-I had one boss who after asking for an estimated completion time would say, "do you promise?" But ask for a commitment on the required hardware and other dependencies, and it was "I'll try."
-
-All I can say is, stick to your guns and give a realistic prediction. Any concessions should be based on pragmatic tradeoffs between features and resources. Be clear about the assumptions, dependencies and resources on which the schedule is based, and get it written down somewhere so you can jog defective memories later.
-
-=== Plan Your Progress
-
-You wouldn't just hop into your car before deciding where you want to go, right? And probably you have a route in mind before you start driving, too. Similarly, before you sit down at our computer, you should know what you want to accomplish that day and have some idea how.
-
-Distractions will come up day-to-day, so you won't always be able to accomplish what you want. And contrary to those who treat software engineering groups as vending machines (they would probably shake us vigorously if they could) some tasks take more than a day. So think about what you want to accomplish by Friday, and if you do, then you can enjoy the weekend that much more.
-
-== Continuous Education
-
-A corporate soccer team member once asked me, as we were lacing up our cleats, "what's the secret to C programming?" If there was such a secret, I'd be hawking it on late night TV along with ab machines and how to get rich in real estate. Sorry, there's no shortcut - you have to learn and practice and make some mistakes. And you don't necessarily have to rely on corporate training or going back to school - there are plenty of (inter)national and local professional groups, books, and of course, the Internet.
-
-=== It's Science
-
-It's called "computer science" for a reason. It's easy (maybe too easy) for anyone to to start programming, without a formal computer science education. In particular, those from other engineering and science disciplines can pick up programming quickly and make a good living. But to effectively tackle non-trivial tasks, you need to know the inherent capabilities and limitations of software and recognize prior work, so you don't waste time reinventing the wheel, badly. You don't have to know everything under the sun, but you should have at least a cursory familiarity with many areas and be prepared to do some additional research as necessary.
-
-For example, anyone who creates a new file format should know something about compilers. I don't mean all the code-generation optimizations like loop unrolling, but the basic issues and various phases of compilation and most of all the importance of specifying the tokenization and grammar. Nowadays, most people by default will use XML, and that's a good thing, but before then it was typical to cobble up some text format, point to some generated sample files as documentation, and then everyone else who wrote another parser would cobble something up that would read in some files but not all. In the problematic cases then you could point fingers either way - either the reader is bad or the writer is bad. Whichever product is more popular wins.
-
-[quote]
-One of my pet peeves with the 3D graphics industry is the plethora of ill-defined file formats. When I implemented an OBJ file parser for a 3D content creation product, each exporting product that I tested against generated markedly different files, using different whitespace and newline conventions, for example. In refreshing contrast, a coworker of mine fresh out of school designed a new game interchange format using a grammar and lexer specification. (These days, it's not much of an issue anymore - most new graphics file formats seem to be based on XML.)
-
-And if anything differentiates programmers who can just put together simple scripts and user interfaces and those who can tackle real problems, it's an understanding of computational complexity, i.e. how algorithms scale with the size of the problem. Every programmer should know basic complexity terminology and have a general knowledge of the complexity of common problems.
-
-My first job was in computer-aided semiconductor design, which has a lot scalability issues, including some NP-complete (essentially intractable) problems. But some of the engineers would run around excitedly saying "it's the traveling salesman problem!" every time they saw a problem that couldn't be solved in linear time, and in other cases we boasted of "linear-time" algorithms which probably meant linear-time most-of-the-time. Or some of the time.
-
-=== Free Beer, Free Speech, Free Software
-
-OK, there's no free beer, but this is a good time to be a programmer (well, recession and outsourcing controversy notwithstanding) - just about everything you need is on the Internet tutorials, discussion lists, and free software. All you need is the hardware and a broadband connection.
-
-== R-E-S-P-E-C-T
-
-One requirement for being an effective software engineer is to be taken seriously. You need to have the respect of your peers and managers, at least for your technical capabilities, to have control over your own work and influence over others.
-
-=== There is Such a Thing as a Stupid Question
-
-Really, there are lots of stupid questions. Asking intelligent questions that enhance others' respect for you is a professional skill. A good question that exposes unresolved issues tells people that you know your stuff and you're sharp enough to catch all the implications. Asking for clarification about a specification shows you know how to find and read the spec and your ability to detect ambiguities.
-
-If you don't get any answers to your question, chances are there's something wrong with the question, so don't just repeat it. Ask the question differently, with more specifics, or more background. If you've been on the other end of a technical support line or even just spent time on discussion lists answering newbie questions, you'll appreciate the consideration.
-
-[quote]
-I pride myself on cultivating good relations with developer support staff by submitting elaborate bug reports and precise questions. But I do remember one lapse where I tossed out something along the lines of "What's the deal with that issue that came up several weeks ago?" You can imagine the prickly response - "What do you mean by what's the deal, and what issue are you talking about?"
-
-It doesn't pay to be rude, especially if you're essentially asking for free tutoring or consulting on a discussion list. Even if you're asking under the auspices of a support contract, irritating your support contact isn't going to help you in the long term.
-
-[quote]
-I used to take pains to explain to belligerent newbies why their questions didn't make sense or what they were fundamentally doing wrong. Now, the bozo filter kicks in quickly - one "All I want to know is....", and they're ignored.
-
-Let everyone know that you read the documentation and googled the subject. Besides avoiding the inevitable "RTFM" and "Google is your friend" responses, this shows you've done your homework and those who want to be of assistance don't have to search through the same resources. If you do expect them to search through those resources for you, then you're saying your time is more important than theirs, and you are just one more perpetrator of the "tragedy of the commons".
-
-=== There is Such a Thing as a Stupid Answer
-
-If you're going to act like you know what you're talking about, you really better know what you're talking about. Engineers sometimes communicate more to show off their own knowledge rather than to inform (although, if you can do both, kudos to you). This is often inflicted in employment interviews, under the guise of "finding out how you think" the candidate is asked inane puzzle questions. This can backfire, though, if the candidate has any self respect.
-
-[quote]
-One CTO interviewed me over the phone by asking me to sketch out the resulting stack frame from a C++ compilation and then report the result back to him verbally. We went through it step by step and every time I gave him a correct answer he asked me to give a wrong answer instead so we could go over why that choice wouldn't work. I couldn't tell if we were trying to demonstrate how smart I was or how smart he was.
-
-There's also the blame game. As an engineer, you can't rely on your money and looks - all you've got is your credibility. So if you make a mistake - 'fess up.
-
-[quote]
-I had the privilege of working with a senior engineer who was never wrong. When his Java code was crashing on multiprocessor systems, it was Sun's bug. When I took over the code and pointed out the UI code was not supposed to run in multiple threads, he insisted there was only one thread. When I listed the seven threads (that I could find) in the code, he agreed I shouldn't have all those threads and I'd better fix it. He programmed in that fashion too - he didn't fix any bugs, he just covered them up with more code.
-
-Finally, a bit of time-saving advice: Don't get dragged into stupid arguments. Stupidity is contagious.
