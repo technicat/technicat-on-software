@@ -1,0 +1,13 @@
+:toc:
+
+= Narcissistic Design
+
+I often see articles on design recommending that designers employ empathy. But in today’s millennial-seeking-millenial, Logan’s Run-esque, what’s-good-for-Google-is-good-for-America, why-are-the-homeless-still-here-and-can’t-someone-please-get-rid-of-them Bay Area, that might be asking too much.
+
+So instead I suggest going with our strength, narcissism. Look at Steve Jobs. No one has ever accused him of empathy, and sometimes catering to his esthetic was a bit much, for example refusing to allow an expansion slot in the original Mac, and the one-button mouse was so simple it got complicated (let’s see, was it shift-click, double-click, control-click…?). But overall, his narcissism served him well in producing products that he wanted.
+
+In fact, narcissism is the first step to thinking about design. Every time you find something annoying, consider what’s bugging you and how you would fix it. Just today, I’ve encountered a web site that brings up a register form instead of a login form in such a manner that I tried to log in with it (this is a great design for a web site that lots of people register on and never use), and a bathroom stall door that I can’t tell if it’s locked and should be pushed or pulled to open (perhaps airplane bathrooms are the gold standard).
+
+And then there’s my bluetooth-enabled, Pandora-streaming, tire-monitoring, service-alerting car which doesn’t know how to adjust its clock for daylight savings time (there’s a whole class of design problems with DST). I must admit I’m impressed with the side-rear-view camera which is activated by the turn signal and has the commendable property of actually making drivers use their turn signals.
+
+You could do worse than design something for yourself. Then you know at least one person will like it. And once you’ve connected with your inner selfishness, you can move on to empathizing with users. Or just fake it.
