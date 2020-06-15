@@ -1,0 +1,24 @@
+:toc:
+
+= The History of Programming
+
+On my list of things-I-want-to-do-but-I’m-not-serious-just-talking is a history of computers, or at least a history of computer programming, something like Bertrand Russell’s History of Western Philosophy or Will and Ariel Durant’s Story of Civilization.
+
+I got this interest during my one and only stint in academic teaching as an assistant to Computer Literacy 101 at Johns Hopkins University. The textbook included a decent history of computers, which was wasted on all the psych majors who only took the course because it was a requirement and raised their hands just to ask “Is this going to be on the test?”
+
+But I felt a really comprehensive history of computers would be fascinating and something both CS and non-CS majors should learn. Because it’s history, and it’s an interesting history that’s intertwined with everything from WWII codebreaking to the space race to just about everything you’re doing right now. And also it does help you learn how computers and computer programs actually work.
+
+I still haven’t seen any book or set of books like I’m envisioning, but I have been to a couple of computer history museums, most recently the one in Mountain View next to Google (there were some rather obvious Googlers sporting Google Glasses walking around), and I’ve read some biographies that collectively give you a sampling of computer history, like those of Countess Ada Lovelace, John Atanasoff, Alan Turing, John von Neumann…
+
+Wait a minute: Countess Ada Lovelace? Sounds like the heroine in a romance novel or a Lifetime movie. But real life is even better. She was the daughter of a rapscallion Lord Byron who left the family after she was born. Ada grew up a whiz at math and unfortunately was sick most of her life and died young, but in the meantime figured out how to program Charles Babbage’s (never-finished) Analytical Engine. She would have been a shoo-in for a 3o-under-30 list back then, or more like a 1-under-30 list if you narrowed the list to tech.
+
+In other words, Ada Lovelace was the first programmer, even without a functioning computer, and in general, hold on to your Google Glasses, women were the first programmers on real computers. I realized that after reading the Alan Turing biography and learning about the women at Bletchley Park who operated the machines he designed and decrypted German codes during World War II. They were even called “computers”.
+
+So, women representation in software development hasn’t just been dropping since the 1980's, it’s been dropping since the 1800's, where it started at 100%. After WWII, men started crowding into the field and getting those plum jobs at IBM, but there were still influential women like the colorful and later Admiral Grace Hopper, who developed the earliest compiled languages like COBOL and popularized bugs (just she and Countess Ada are enough for a new Bill and Ted movie where they go back in time and collect famous computing women to present at a Google diversity seminar).
+
+But even if you turn up your nose at COBOL (although that was a nice skill to have during the Y2K scare), every modern programming language, and concepts like GUIs, and design patterns like MVC, can be traced back to Adele Golderberg’s Smalltalk (if you’ve ever wondered why Objective-C is the way it is, look no further…).
+
+Less popularly known, one of my MIT professors, Barbara Liskov, won the Turing Award and developed influential languages like CLU and Argus (CLU was used in the software engineering course she taught where I learned about data abstraction, commenting code, and not working with partners on your final project if you can possibly help it).
+
+In the meantime, Ada did get her own computer language. And she’s shown up here and there in pop culture among those in the know, for example in, appropriately, the William Gibson/Bruce Sterling steampunk novel The Difference Engine.
+So maybe a history of computing is too ambitious, but there’s still plenty of material for a History of Women in Computing. Someone, get on that!
