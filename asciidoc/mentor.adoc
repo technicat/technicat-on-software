@@ -1,0 +1,21 @@
+:toc:
+
+= You Don't Need a Mentor
+
+It’s easy to issue the same complaints about each new generation of job entrants (setting aside the arbitrariness of partitioning by generation — the labels “millenials”, “gen-X”, “gen-Y” are testaments to marketing). But one thing I found disconcerting while participating in the career-advice site CareerDean (which has since pivoted to the AMA site WiseLike), besides youngsters complaining about stodgy forty-year-olds and asking what’s the one computer language they should learn, is the number of people asking how to find a mentor.
+
+I really don’t remember ever wanting a mentor, or any of my colleagues seeking a mentor, or anyone offering to be a mentor. I already thought asking for training was lame — this is a whole lame level beyond.
+
+First of all, it just smacks of ass-kissery and suck-uppedness. I did have one coworker on his first day say “You can teach me,” which, on a crunch-time job, is the last thing I wanted to hear. And then he proceeded to screw up on a regular basis. In his defense, he was usually following the lead of the company owner.
+
+Which brings me to my second point. Your mentor can suck. In which case, you’re better off without a mentor. In the best case, you’re tainted by association — watch out for that guy, he’s the pet/proxy of that incompetent scheming asshole. In the worst case, you turn into that incompetent scheming asshole.
+
+I did work at one place that assigned an advisor for each employee, similar to having an academic advisor, the idea being he would help you with your career goals, independent of your immediate projects and managers. It was a nice idea, but in practice I met with my advisor only twice — the first time when he introduced himself and explained the point of the advisor program, and the second time when I was leaving and he said “I’d leave too, if I could.”
+
+Now, I’m not actually against mentoring. In fact, I’ve benefited from the support and confidences of many of my bosses and senior colleagues. But not from any mentoring program but, rather, informally and, I like to think, because I showed usefulness and potential, instead of just clamoring for attention like a puppy. And, to stretch the dog analogy, it’s important to show some loyalty and trustworthiness, instead of biting the hand that feeds you (which is a consequence if you decide to trade mentors).
+
+And this leads to my last point — you’re limiting yourself by seeking just a single mentor. This isn’t a medieval guild where secret tricks of the trade are passed from master to apprentice (although if people believe this, it explains why I’m occasionally asked questions like “What’s the secret to C++ programming?”).
+
+In fact, if you consider lasting influences, authors of books like The Mythical Man Month and The Design of Everyday Things would qualify as my mentors, and I’ve never met them. And with the Internet, bits of advice are even more plentiful. Like this one.
+
+
