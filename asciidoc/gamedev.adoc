@@ -2,8 +2,8 @@
 
 = So You Want to Make a Game
 
-[quote]
-“Once you can remove no more, you are done.” — Japanese saying
+[quote, Japanese saying]
+Once you can remove no more, you are done.
 
 NOTE: (This essay is somewhat dated, as you can see by the section on NTSC/PAL)
 
