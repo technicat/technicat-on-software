@@ -2,8 +2,8 @@
 
 = Chess Moves: Avoid Getting Checkmated in Your Project
 
-[quote]
-“[Chess is] as elaborate a waste of human intelligence as you can find outside of an advertising agency.” — Raymond Chandler, in The Long Goodbye
+[quote, Raymond Chandler, The Long Goodbye]
+[Chess is] as elaborate a waste of human intelligence as you can find outside of an advertising agency.
 
 I often hear and sometimes use sports analogies used for software development and project management (scrum, anyone?). But I think perhaps chess is a better match — I’ve often gaped at a project decision and thought to myself, anyone who played chess wouldn’t have done that!
 
