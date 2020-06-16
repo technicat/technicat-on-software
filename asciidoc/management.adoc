@@ -2,7 +2,8 @@
 
 = Management Means Never Having to Say You’re Sorry
 
-“I have people skills; I am good at dealing with people. Can’t you understand that? What the hell is wrong with you people?” — Tom Smykowski, in Office Space
+[quote,Tom Smykowski,Office Space]
+I have people skills; I am good at dealing with people. Can’t you understand that? What the hell is wrong with you people?
 
 == Know Your Stuff
 
