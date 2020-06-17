@@ -25,7 +25,7 @@ This is an appropriate first question to ask when designing a game. What brings 
 
 Likewise, game developers could easily be working in other fields, other types of software development or media production. So once we realize the unique attractions of the game business, we can leverage them.
 
-== Players Want a Challenge
+=== Players Want a Challenge
 
 Game players enjoy facing challenges in games, especially single-player games. These challenges entertain, provide intellectual stimulation, and teach lessons that can be applied to other problem-solving situations.
 
@@ -33,7 +33,7 @@ Developers also seek challenges. Not challenges in the form of how-may-bugs-can-
 
 Developers also have a pragmatic motive for intellectually and creatively extending themselves. Career longevity depends on staying current with the latest tools and technologies (ask all the developers who were slow to make the transition from 2D to 3D). Game companies are constantly looking for experience with the newest generation of consoles, and developers are always eager to work on the latest hardware.
 
-== Players Want to Socialize
+=== Players Want to Socialize
 
 Long before their appearance on computer hardware, games have mostly been social activities. Social computer games range from Quake-style fragfests with players typing insults to each other in the heat of battle, to massively multiplayer persistent worlds featuring chat-style interaction.
 
@@ -41,7 +41,7 @@ In my experience, even single-player games take place in a social environment, e
 
 Likewise, many employees want a socially engaging workplace, where they can learn from their coworkers, banter and sometimes compete with them. Some companies have company picnics and Friday afternoon beer socials. Game developers have after-hours fragfests (which blurs the distinction between game development and game play even further).
 
-== Players Want a Dynamic Solitaire Experience
+=== Players Want a Dynamic Solitaire Experience
 
 On the other hand, sometimes players like to play games by themselves, either because no one else is around, or the player wants a dynamic interactive experience without the hassles of dealing with (real) people.
 
@@ -51,7 +51,7 @@ In a larger sense, the workplace also offers the developers refuge from the peop
 
 Then there are those who don’t want their work hours to encroach on their non-work life. These employees prefer minimal distraction and regular work hours so they can get home in time for dinner with the family, attend evening classes, play in a rock band, or engage in whatever other activities that constitute their personal lives.
 
-== Players Want Bragging Rights
+=== Players Want Bragging Rights
 
 Playing to win means getting respect from fellow players and bragging rights over them. This bragadaccio is evident in multiplayer fragfests, organized game competitions, and the high-score tables on game screens dating back to the early arcade games. This earned respect also includes self-respect — completing games and winning, even against the computer, can inject a shot of self-esteem into someone who might be athletically, socially or academically less accomplished.
 
@@ -59,7 +59,7 @@ Developers would like to brag that they worked on the latest smash-hit AAA title
 
 Part of the thrill in working on a game is seeing your name in the credits. I don’t really like the idea of displaying credits in a game — it certainly isn’t a common practice in other types of software, and it can easily be seen as an unfair and arbitrary process (in the film industry, it has political to the point where there are union rules about film credits). But it does seem to provide motivation and is important for career advancement in the game industry (many game job ads list credits on shipping titles as a requirement).
 
-== Players Want an Emotional Experience
+=== Players Want an Emotional Experience
 
 Compared to other media such as film and literature, games usually exhibit limited emotional range, but at the very least all games attempt to produce excitement and a sense of accomplishment in game players.
 
@@ -67,7 +67,7 @@ Game developers want to experience those emotions in game development, too. Idea
 
 Good emotions: interest, confidence, anticipation, excitement, satisfaction. Bad emotions: frustration, nervousness, disappointment, anger, ennui.
 
-== Players Want to Fantasize
+=== Players Want to Fantasize
 
 Games take players away from their normal lives by immersing them in fictional environments and circumstances. As in the movies, the game world is idealized — with the exception of The Sims, you’re not bothered by household chores, taxes, and addressing bodily functions.
 
@@ -79,13 +79,13 @@ Now that we’ve established what motivates people to become game developers, it
 
 In game design, we have the same issue — once a player has decided to play a game, he has expectations that must be fulfilled for him to enjoy and complete the game, so it is important to identify those expectations, conscious or not.
 
-== Players Expect a Consistent World
+=== Players Expect a Consistent World
 
 Players expect their actions in a game to have predictable results. Not right in the beginning — the player has to experiment a bit, in the way that infants do learn about their environment, to understand how things work in the game world. Seemingly arbitrary cause-and-effect will discourage the player and give the impression that the game is rigged.
 
 In a game development setting, motivational pats on the back and even concrete rewards like raises and bonuses will not have the intended effect if the developer cannot understand how to get those rewards. Even worse are unpredictable punishments — if working harder or taking extra responsibility results in censure, then the developer will adopt a fatalistic and passive attitude. In some extreme cases, I’ve seen employees refuse to do anything until explicitly given an order or perform deliberately bad work.
 
-== Players Expect to Understand the World’s Bounds
+=== Players Expect to Understand the World’s Bounds
 
 In games, players expect to recognize boundaries on actions and movement. Visual cues such as walls and precipices indicate the world’s physical boundaries. The available controller actions constrain physical actions, e.g. some games have no jump button.
 
@@ -95,7 +95,7 @@ But all the legalese is ineffective without visible enforcement. Termination or 
 
 Boundaries also include organizational boundaries. Game projects typically provide the publisher with a project document listing key roles and responsibilities of the development staff. This type of documentation is also useful to the team, so they have an idea who’s in charge of what and who reports to whom. Management often finds it convenient to keep these roles vague, which has the advantage of providing some flexibility, but doing this for political reasons will just result in confusion and recriminations.
 
-== Players Expect Reasonable Solutions to Work
+=== Players Expect Reasonable Solutions to Work
 
 After gaining some experience with a game, the player has idea how to solve problems in the game. The player will be frustrated and irritated if any reasonable solutions based on the gameplay so far turn out to be ineffective. So designers should take care to accomodate such solutions even if they are not the primary solutions intended by the designer.
 
@@ -103,7 +103,7 @@ Game developers also expect reasonable solutions to work (how many times have yo
 
 So it is important to ensure that everything within control works like it should. The devkits provided by the console makers may arrive late and crash frequently, but the commodity hardware and software (desktop and server computers, email, backup software, for example) should be rock solid. Compilers, debugging tools, and game engine middleware are often inadequately documented and in a beta state, so the production pipeline and internal tools should be well documented. The smoothest-running game projects I’ve seen still had plenty of mystery code, halting production pipelines, and IT glitches like servers crashing, data irretrievably lost, and ill-timed upgrades during crunch times.
 
-== Players Expect Direction
+=== Players Expect Direction
 
 A game should give some indication of the the player’s objectives. Otherwise the player may roam the game aimlessly wondering what to do, randomly attacking objects, NPC’s and other players just to see if something will happen.
 Game developers can also roam around a game project aimlessly. In the worst case, they will break other developer’s code and art, and bitch, moan and complain.
@@ -114,13 +114,13 @@ Direction is also provided by the schedule. The final release date and interim m
 
 Scheduling is often performed down to a fine-grained level, in some cases to tasking day by day by day or even by hours. But while some developers may require micromanagement, it is important to make a distinction between this kind of supervision and a global schedule that the entire organization needs to be working toward. A day-to-day or even weekly schedule is volatile — vacations, sick days, emergency bugs and demos, server crashes and other natural disasters happen. Some tasks take longer than expected and some turn out to be easier than anticipated, and sometimes it makes sense to reorder them, but overall they should average out to meet the scheduled milestones.
 
-== Players Expect to Accomplish a Task Incrementally
+=== Players Expect to Accomplish a Task Incrementally
 
 Players usually know the overall objective in the game but expect to achieve this objective via a succession of subgoals. This provides awareness of incremental progress and reassurance that the player is on track. Without this feedback, a player could go off course and not realize it.
 
 Not only do game developers find completing subgoals more tractable than large monolithic tasks, subdividing large tasks is vital to risk management and project scheduling. Then progress can be measured and validated by monitoring the completion of these subtasks. When developers jump into general assignments such as implementing renderers, physics engines, AI without defining components and tests that can be completed in sequence, then such a project can drag on for months without visible progress, until it becomes apparent that it’s going in the wrong direction or that no progress is actually being made.
 
-== Players Expect to Be Immersed
+=== Players Expect to Be Immersed
 
 Obtrusive user interfaces and game glitches, particularly crashes, distract from the player experience. And a character that is difficult to control or unappealing will also prevent the player from comfortably playing that role and feeling part of the game world.
 
@@ -128,7 +128,7 @@ In a game development environment, you also want each team member to feel immers
 
 As far as providing a suitably appealing and easily assumable character to play, this does have a counterpart in the game project, too. Each developer plays a role (sometimes more than one) — an enjoyable role will be played with gusto, a distasteful role will be dreaded and performed without enthusiasm.
 
-== Players Expect to Fail
+=== Players Expect to Fail
 
 Players want challenge, so naturally they expect to fail at some points in the game. Moreover, those failures should stem from inadequate or incorrect play, rather than “tricks” or “cheap shots” utilized by the game. And the game should start out easy and ramp up later in difficulty to avoid discouraging players before the reward of the gameplay becomes apparent.
 
@@ -138,13 +138,13 @@ These setbacks are acceptable as long as they are natural byproducts of the lear
 
 As with a game, a game project should start out easy, so everyone gets in the flow and understands the rules — how to work with the production pipeline, how to work with the rest of the team.
 
-== Players Expect a Fair Chance
+=== Players Expect a Fair Chance
 
 Although players expect to fail, they also expect a fair chance. Ideally, a player should be able to make it all the way through the game on the first attempt if no mistakes are made. This means that progress shouldn’t require trial and error — it should be possible to deduce a successful path through the game. If the player finds that the only way to progress in the game is through gessing from sets of random choices, then it will seem like a waste of time.
 
 Game developers also will become frustrated if it seems they have no way to make decisions short of guessing.
 
-== Players Expect to Not Need to Repeat Themselves
+=== Players Expect to Not Need to Repeat Themselves
 
 Players get annoyed if they have to repeat any tedious or painful portions of the game. Hence the availability of game saves, and, in particular, checkpoint saves.
 
@@ -152,13 +152,13 @@ The most obvious analogy in game development is avoiding loss of work. Code, gam
 
 Another interpretation of this game design principle is that team members shouldn’t be duplicating work. For example, timely communication and visibility of the code base should allow programmers to avoid redundant work and encourage code sharing. The game design and requirements, production pipeline, and any project and corporate procedures should be documented and easily accessible to avoid inefficiency in explaining and learning.
 
-== Players Expect to Not Get Hopelessly Stuck
+=== Players Expect to Not Get Hopelessly Stuck
 
 A game should not allow a player to get stuck in a position from which there is no chance to complete or win the game. For example, a player should not be able to jump into a while from which there is no escape, aside from quitting the game. Either provide a way out or put the player out of his misery.
 
 Developers also resent ending up in situations where they can’t succeed, and rather than hit the Quit button, they may just sit there, resentful and apathetic. If they feel they’re faced with unfair expectations given unrealistic schedules, unbounded features, late or scarce tools and assets, then they won’t even try. If a developer is just not capable enough to succeed, then there’s no point in breeding resentment by letting him linger on.
 
-== Players Expect To Do, Not to Watch
+=== Players Expect To Do, Not to Watch
 
 Rouse opines that players want to play, not watch cut scenes. While cut scenes can be instrumental in communicating narrative and setting up new levels, the duration of cut scenes should be kept to a minimum. Games that rely on cut scenes rather than gameplay inevitably fail to keep the gamers’ attention.
 
