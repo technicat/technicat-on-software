@@ -3,7 +3,7 @@
 = Work Hard, Play Hard
 Phil Chu
 
-(After reading the first edition of Richard Rouse’s Game Design: Theory and Practice years ago, I wondered if the game design principles he listed could be applied to “designing” game dev itself — hence, this essay written some years back)
+After reading the first edition of Richard Rouse’s Game Design: Theory and Practice years ago, I wondered if the game design principles he listed could be applied to “designing” game dev itself — hence, this essay written some years back)
 As a break from the usual advice on how to make your project run like a factory or how to impose your will upon the troops, here’s an idea — run your project with game design principles in mind. This article is targeted toward game developers, but it may be generally applicable.
 
 == Game Design Your Project
