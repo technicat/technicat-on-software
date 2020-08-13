@@ -1,4 +1,6 @@
-Essays I originally wrote on my website and then self-published and unpublished as a book, and now they're here.
+Essays I originally wrote on my website and then self-published and unpublished as a book, and now they're here, plus some new ones I thought were not bad.
+
+Currently reformatting them in asciidoc.
 
 Copyright Technicat LLC.
 
