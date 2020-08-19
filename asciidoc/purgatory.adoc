@@ -1,7 +1,8 @@
-Design Patterns are from Purgatory
-technicat
-technicat
-Feb 2, 2016 · 4 min read
+:toc:
+
+= Design Patterns are from Purgatory =
+
+Feb 2, 2016
 
 A while ago, I saw someone on Quora say “real programmers don’t have programming language preferences” which I found absurd. I’m not saying you should use your favorite language for everything (mine is Lisp, and I don’t use it for anything), and some preferences are just snobbery masquerading as expertise.
 
