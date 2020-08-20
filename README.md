@@ -82,6 +82,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Scoobies' Journey](reviews/scoobies.adoc)
 
+[Finding Serenity](reviews/findingserenity.adoc)
+
 [Lone Star](reviews/whoknewtexansweresodeep.adoc)
 
 [Shatner Rules](reviews/shatnerrules.adoc)
