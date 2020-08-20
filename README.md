@@ -104,6 +104,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Scoobies' Journey](tv/scoobies.adoc)
 
+[Slayerfest '98](tv/slayerfest98.adoc)
+
 ## Film
 
 [Lone Star](film/whoknewtexansweresodeep.adoc)
