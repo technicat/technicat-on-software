@@ -27,6 +27,10 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Block Is My Favorite Feature](software/blockismyfavoritefeature.adoc)
 
+[BBN Culture](software/blockismybbnculture.adoc)
+
+[The History of Programming](software/historyofprogramming.adoc)
+
 ## Career
 
 [You Don't Need a Mentor](software/youdontneedamentor.adoc)
