@@ -60,6 +60,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Buffy Fans](reviews/buffyfans.adoc)
 
+[The Scoobies' Journey](reviews/scoobies.adoc)
+
 [Lone Star](reviews/whoknewtexansweresodeep.adoc)
 
 [Shatner Rules](reviews/shatnerrules.adoc)
