@@ -68,35 +68,42 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Leaving MIT](mit/leavingmit.adoc)
 
-## Reviews
+## Books
 
-[Deep Blue](reviews/deepblue.adoc)
+[Deep Blue](books/deepblue.adoc)
 
-[Masters of Doom](reviews/mastersofdoom.adoc)
+[Masters of Doom](books/mastersofdoom.adoc)
 
-[Buffy: Not Just for Boys](reviews/buffynotjustforboys.adoc)
+[Finding Serenity](books/findingserenity.adoc)
 
-[Mo' Better Buffy](reviews/betterbuffy.adoc)
+[Shatner Rules](books/shatnerrules.adoc)
 
-[Buffy Fans](reviews/buffyfans.adoc)
+[Carl Melcher Goes to Vietnam](books/carlmelcher.adoc)
 
-[The Scoobies' Journey](reviews/scoobies.adoc)
+[Yeah I'm Introverted](books/yeahimintroverted.adoc)
 
-[Finding Serenity](reviews/findingserenity.adoc)
+[More About Ada](bookss/moreaboutada.adoc)
 
-[Lone Star](reviews/whoknewtexansweresodeep.adoc)
+[Rethinking Narcissism](books/rethinkingnarcissism.adoc)
 
-[Shatner Rules](reviews/shatnerrules.adoc)
+[Seinfeldia](books/seinfeldia.adoc)
 
-[Carl Melcher Goes to Vietnam](reviews/carlmelcher.adoc)
+## TV
 
-[Yeah I'm Introverted](reviews/yeahimintroverted.adoc)
+[Buffy: Not Just for Boys](tv/buffynotjustforboys.adoc)
 
-[More About Ada](reviews/moreaboutada.adoc)
+[Mo' Better Buffy](tv/betterbuffy.adoc)
 
-[Rethinking Narcissism](reviews/rethinkingnarcissism.adoc)
+[Buffy Fans](tv/buffyfans.adoc)
 
-[Seinfeldia](reviews/seinfeldia.adoc)
+[The Scoobies' Journey](tv/scoobies.adoc)
+
+## Film
+
+[Lone Star](film/whoknewtexansweresodeep.adoc)
+
+[Blade Runners](film/bladerunners.adoc)
+
 
 ## Racism
 
@@ -105,8 +112,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Blame Canada](racism/blamecanada.adoc)
 
 [The Only Good Statue is a Dog Statue](racism/theonlygoodstatueisadogstatue.adoc)
-
-[Blade Runners](racism/bladerunners.adoc)
 
 [Speak Klingon](racism/speakklingon.adoc)
 
