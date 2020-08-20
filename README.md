@@ -96,4 +96,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Rethinking Narcissism](reviews/rethinkingnarcissism.adoc)
 
+[Seinfeldia](reviews/seinfeldia.adoc)
+
 
