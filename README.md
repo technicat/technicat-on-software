@@ -32,7 +32,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Game Development
 
-[Work Hard, Play hard](gamedev/workandplay.adoc)
+[Work Hard, Play Hard](gamedev/workandplay.adoc)
+
+[So You Want to Make a Game](gamedev/soyouwanttomakeagame.adoc)
 
 [How I Met Unity](gamedev/howimetunity.adoc)
 
