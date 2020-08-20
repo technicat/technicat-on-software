@@ -58,6 +58,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Mo' Better Buffy](reviews/betterbuffy.adoc)
 
+[Buffy Fans](reviews/buffyfans.adoc)
+
 [Lone Star](reviews/whoknewtexansweresodeep.adoc)
 
 [Shatner Rules](reviews/shatnerrules.adoc)
