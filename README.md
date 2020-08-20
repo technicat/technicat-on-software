@@ -15,8 +15,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Chess Moves](software/chessmoves.adoc)
 
-[Driving Lessons](software/drivinglessons.adoc)
-
 [Block Is My Favorite Feature](software/blockismyfavoritefeature.adoc)
 
 [BBN Culture](software/blockismybbnculture.adoc)
@@ -33,11 +31,13 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Art of the Schedule](software/artoftheschedule.adoc)
 
-[Minimizing Meetings](software/minimzingmeetings.adoc)
+[Minimizing Meetings](software/minimizingmeetings.adoc)
 
 [QA for Everyone](software/qaforeveryone.adoc)
 
 [Software Remodeling](software/softwareremodeling.adoc)
+
+[Driving Lessons](software/drivinglessons.adoc)
 
 ## Career
 
