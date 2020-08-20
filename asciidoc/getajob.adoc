@@ -29,7 +29,8 @@ My advice — don’t take a new job unless it offers at least two distinct thin
 I once asked a prospective employer what I would get out of the job. The only reason she could come up — “You’ll learn a lot.” And I did — mostly, that I shouldn’t have taken the job.
 
 It’s a matter of risk management — if you change jobs based on one reason, it may well turn out that rationale was invalid. But if you have more than one reason for taking the job (and being unhappy with your previous job doesn’t count), then there’s a decent chance you won’t feel like you made a terrible mistake.
-Peer-to-Peer Networking
+
+=== Peer-to-Peer Networking
 
 Recruiters writing job-advice columns love to tell you how you should network by calling up all everyone you know when you need a job. But that’s not networking, that’s panhandling. It’s what recruiters do, but it’s pretty annoying.
 
@@ -55,7 +56,8 @@ Third-party recruiters work for themselves — they get paid when they close a d
 === Do Your Research
 
 In this great Internet day and age, it’s easy to do some research on your prospective employer. Any self-respecting company, including startups, will have a web site, where you can check out the company history, management and products. Not only will this allow you to form an initial impression of the company, this will give you a foundation for asking some questions during your interview, either to impress your interviewers with your preparedness or to figure out if these guys are for real.
-Quiz Show
+
+=== Quiz Show
 
 I don’t like interview quizzes (made fashionable years ago by Microsoft and more recently by Google.
 
