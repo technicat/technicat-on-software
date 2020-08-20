@@ -1,9 +1,6 @@
-Where’s My Name?
-technicat
-technicat
-May 24, 2015 · 6 min read
-Image for post
-Image for post
+:toc:
+
+= Where’s My Name?
 
 This blog I wrote in 2008 after reading the IGDA draft credit guidelines (got a nice comment from Jason Della Rocca on it) devolved into something about crunch time, so I’ve been waiting for the next big credit or crunch controversy to recycle it here. Hasn’t happened, yet (problem solved? or we just got used to it?), but prompted by the latest quality of life feature on gamasutra (Are Game Developers Standing Up for Their Rights?) and a colleague who recently tweeted his kid was asking if Daddy’s only going to be having dinner with them on weekends.
 
