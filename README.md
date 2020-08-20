@@ -11,13 +11,17 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Management Means Never Having to Say You're Sorry](software/managementmeansneverhavingtosayyouresorry.adoc)
 
-[I Miss Lisp](software/imisslisp.adoc)
-
 [Block Is My Favorite Feature](software/blockismyfavoritefeature.adoc)
 
 [BBN Culture](software/bbnculture.adoc)
 
 [The History of Programming](software/historyofprogramming.adoc)
+
+## Lisp
+
+[I Miss Lisp](software/imisslisp.adoc)
+
+[Lisp Led Me to Outer Space](software/lispledmetoouterspace.adoc)
 
 ## Process
 
