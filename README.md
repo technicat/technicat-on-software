@@ -17,6 +17,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The History of Programming](software/historyofprogramming.adoc)
 
+[It's the User Interface](software/itshteuserinterface.adoc)
+
 ## Lisp
 
 [I Miss Lisp](software/imisslisp.adoc)
