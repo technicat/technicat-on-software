@@ -32,3 +32,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Masters of Doom](reviews/mastersofdoom.adoc)
 
+[Buffy: Not Just for Boys](reviews/buffynotjustforboys.adoc)
+
+[Mo' Better Buffy](reviews/betterbuffy.adoc)
+
