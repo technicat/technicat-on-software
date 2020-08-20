@@ -30,6 +30,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Software Remodeling](software/softwareremodeling.adoc)
 
+[You Don't Need a Mentor](software/youdontneedamentor.adoc)
+
 ## Game Development
 
 [Work Hard, Play Hard](gamedev/workandplay.adoc)
