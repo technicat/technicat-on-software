@@ -100,9 +100,11 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Racism
 
-[FDR Quotes](racism/fddrquotes.adoc)
+[FDR Quotes](racism/fdrquotes.adoc)
 
-[The Only Good Statue is a Dog Statue](racism/statues.adoc)
+[Blame Canada](racism/blamecanada.adoc)
+
+[The Only Good Statue is a Dog Statue](racism/theonlygoodstatueisadogstatue.adoc)
 
 [Blade Runners](racism/bladerunners.adoc)
 
