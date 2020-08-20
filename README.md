@@ -2,7 +2,7 @@ Essays I originally wrote on my website and then self-published and unpublished 
 
 Currently reformatting them in asciidoc.
 
-Copyright Technicat LLC.
+Copyright &copy; Technicat LLC.
 
 Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
