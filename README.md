@@ -12,10 +12,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Management Means Never Having to Say You're Sorry](software/managementmeansneverhavingtosayyouresorry.adoc)
 
-[Have Contract, Will Travel](software/havecontractwilltravel.adoc)
-
-[Get a Job](software/getajob.adoc)
-
 [I Miss Lisp](software/imisslisp.adoc)
 
 [Agile Isn't](software/agileisnt.adoc)
@@ -30,9 +26,15 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Software Remodeling](software/softwareremodeling.adoc)
 
+[Block Is My Favorite Feature](software/blockismyfavoritefeature.adoc)
+
+## Career
+
 [You Don't Need a Mentor](software/youdontneedamentor.adoc)
 
-[Block Is My Favorite Feature](software/blockismyfavoritefeature.adoc)
+[Have Contract, Will Travel](software/havecontractwilltravel.adoc)
+
+[Get a Job](software/getajob.adoc)
 
 
 ## Game Development
