@@ -15,13 +15,14 @@ Rather than waiting until a new job opportunity shows up and then rationalizing 
 I made one of my worst career choices when moving to Silicon Valley. Moving to the center of the dot-com boom near its peak was a good move — taking a job offer because it was convenient was the mistake. With a little more effort I could have continued talks with AvantGo, a company that appeared to be filled with talent and developed mobile applications, one of my top interests. Instead, I went to a software startup that had just been acquired by PRI Automation, a supplier of semiconductor fab equipment company I knew and respected the CTO whom I had worked for previously, and they offered me a job almost immediately. After a wasted year of turmoil and corporate intrigue, during which I found the whole field of manufacturing completely boring (and the state of manufacturing software completely appalling), I found another job at a mobile internet startup called Neomar. That didn’t last long, either, but it was a lot more fun, and we had a product out in six months.
 
 Don’t fall into the trap of just taking a job because it’s convenient, or because you’re dissatisfied with your current job and anything new sounds better.
-Know What You Want
+
+=== Know What You Want
 
 I have an uncle, a Silicon Valley executive, who has tried to impress upon me the importance of having a five-year career plan. I still prefer to wing it (and look where it’s got me), but I do feel you should know the direction you want your career to go.
 
 My best career move was in leaving the defense contractor BBN for a small company developing commercial 3D software called Nichimen Graphics. BBN had a great technology history and culture, but I’d worked on corporate and government projects for my entire career, and, especially with the Internet boom starting, I wanted to work on products that you didn’t need a security clearance to use. Nichimen didn’t last long, but it turned out that I really did get more satisfaction from delivering shrink-wrapped packages to real consumers, and small companies moved at a pace that I enjoyed.
 
-== Figure the Odds
+=== Figure the Odds
 
 My advice — don’t take a new job unless it offers at least two distinct things that appeal to you.
 
@@ -66,10 +67,11 @@ It’s easy to forget the various tools, languages and API’s that one encounte
 
 One C++ game programmer I interviewed kept talking about “object orientated” programming. That was really distracting.
 
-== Don’t Ask, Don’t Tell
+=== Don’t Ask, Don’t Tell
 
 Important as it is to refrain from discussing race, sex and religion in the workplace, it is even more crucial to keep your opinions to yourself in the interview. There are plenty of federal regulations intended to prevent those factors from keeping you out of a job, so take advantage of that protection. If it means that much to you, you can inflict your opinions, pecadilloes and dogma on your coworkers-to-be when they’re stuck with you.
-Put Your Best Face Forward
+
+== Put Your Best Face Forward
 
 This is stating the obvious, but make a good impression.
 
@@ -83,14 +85,15 @@ Of course, money is important (unless you’re fortunate enough to be young, ric
 
 A coworker introduced me over a cheap dinner to a friend of his who expressed some interest in working for our company. His only real question to me was “how much does the job pay?”. Considering he didn’t have much to say about himself, and we weren’t a large company looking for a Level 2 Software Engineer with a specific pay grade, I had no idea and little interest in coming up with a figure. I couldn’t tell how good he was, but I was under the definite impression that his primary interest was in finding a higher salary.
 
-== Don’t Be Late
+=== Don’t Be Late
 
 First impressions make a difference, and showing up late to an interview is just about the first possible bad impression you can make.
 
 I used to have a terrible punctuality problem, but the worst was when I showed up a half hour late for an interview with iRobot — I left work at what I thought was the last possible momemnt and then crawled through commuter traffic all along the Charles River. For some reason, I seem to be more punctual these days, possibly because I no longer deal with Boston traffic, but also I try to get there a bit earlier, at least to scope out the lay of the land.
 
 Scheduling yourself to arrive fifteen minutes to half an hour early gives you some safety margin — and if you do get there early, it gives you time to check out the office building and check out the surrounding area.
-Don’t Be Weird
+
+=== Don’t Be Weird
 
 If you’re rich and weird, you’re eccentric. If you’re interviewing, keep a lid on it.
 
