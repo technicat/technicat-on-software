@@ -60,3 +60,5 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Lone Star](reviews/whoknewtexansweresodeep.adoc)
 
+[Shatner Rules](reviews/shatnerrules.adoc)
+
