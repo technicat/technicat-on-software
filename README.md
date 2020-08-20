@@ -8,9 +8,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Software Development
 
-- [Seven Habits of Highly Effective Programmers](software/sevenhabitsofhighlyeffectiveprogrammers.adoc)
-- [Management Means Never Having to Say You're Sorry](software/managementmeansneverhavingtosayyouresorry.adoc)
-- [What I Learned at MIT](software/whatilearnedatmit.adoc)
-- [Agile Isn't](software/agileisnt.adoc)
+[Seven Habits of Highly Effective Programmers](software/sevenhabitsofhighlyeffectiveprogrammers.adoc)
+[Management Means Never Having to Say You're Sorry](software/managementmeansneverhavingtosayyouresorry.adoc)
+[What I Learned at MIT](mit/whatilearnedatmit.adoc)
+[Agile Isn't](software/agileisnt.adoc)
 
 
