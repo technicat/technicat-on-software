@@ -118,7 +118,7 @@ Contrast this with my previous computer purchases. Every time I bought a compute
 
 It doesn’t matter how well you design your application if the user is turned off before even using the product. Whenever possible, I start all of my projects in designing the installer. And don’t forget support — all of that goodwill engendered by smooth installation and a nice interface can be cancelled out by one lousy call center.
 
-It’s Not Just For Computers
+== It’s Not Just For Computers
 
 While it’s easy to complain about the state of computer user interfaces, and it’s all warranted, at least there are plenty of people complaining about it. If only that much attention was paid to everyday things.
 
