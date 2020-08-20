@@ -18,13 +18,18 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [I Miss Lisp](software/imisslisp.adoc)
 
-[What I Learned at MIT](mit/whatilearnedatmit.adoc)
-
 [Agile Isn't](software/agileisnt.adoc)
 
 [Chess Moves](software/chessmoves.adoc)
 
 [Driving Lessons](software/drivinglessons.adoc)
+
+## MIT
+
+[What I Learned at MIT](mit/whatilearnedatmit.adoc)
+
+[Leaving MIT](mit/leavingmit.adoc)
+
 
 ## Reviews
 
