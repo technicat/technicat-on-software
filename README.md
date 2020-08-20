@@ -62,3 +62,5 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Shatner Rules](reviews/shatnerrules.adoc)
 
+[Carl Melcher Goes to Vietname](reviews/carlmelcher.adoc)
+
