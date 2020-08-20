@@ -30,14 +30,23 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Software Remodeling](software/softwareremodeling.adoc)
 
-[Work Hard, Play hard](software/workandplay.adoc)
+## Game Development
+
+[Work Hard, Play hard](gamedev/workandplay.adoc)
+
+[How I Met Unity](gamedev/howimetunity.adoc)
+
+[HyperBowl on the Small Screen ](gamedev/hyperbowlonthesmallscreen.adoc)
+
+[Taking a Whirl Tour](gamedev/takingawhirltour.adoc)
+
+[Where's My Name?](gamedev/wheresmyname.adoc)
 
 ## MIT
 
 [What I Learned at MIT](mit/whatilearnedatmit.adoc)
 
 [Leaving MIT](mit/leavingmit.adoc)
-
 
 ## Reviews
 
