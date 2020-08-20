@@ -62,8 +62,10 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Shatner Rules](reviews/shatnerrules.adoc)
 
-[Carl Melcher Goes to Vietname](reviews/carlmelcher.adoc)
+[Carl Melcher Goes to Vietnam](reviews/carlmelcher.adoc)
 
 [Yeah I'm Introverted](reviews/yeahimintroverted.adoc)
+
+[More About Ada](reviews/moreaboutada.adoc)
 
 
