@@ -1,4 +1,5 @@
-Essays I originally wrote on my website and then self-published and unpublished as a book, and now they're here, plus some new ones I thought were not bad. Now in asciidoc.
+Essays I originally wrote on my website and then self-published and unpublished as a book, and now they're here, plus some new ones I thought were not bad.
+Now in [asciidoc](https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c41721dda74).
 
 Copyright &copy; Technicat LLC.
 
