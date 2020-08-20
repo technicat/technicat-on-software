@@ -29,11 +29,13 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The History of Programming](software/historyofprogramming.adoc)
 
-## Procress
+## Process
 
 [Agile Isn't](software/agileisnt.adoc)
 
 [Lean Agile Scrum Sprints](software/leanagilescrumsprints.adoc)
+
+[Minimizing Meetings](software/minimzingmeetings.adoc)
 
 ## Career
 
