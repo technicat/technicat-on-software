@@ -94,6 +94,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Seinfeldia](books/seinfeldia.adoc)
 
+[A Story of Reality Distortion](books/realitydistortion.adoc)
+
+
 ## TV
 
 [Buffy: Not Just for Boys](tv/buffynotjustforboys.adoc)
