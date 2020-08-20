@@ -78,6 +78,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Console Wars](books/consolewars.adoc)
 
+[Leading Geeks](books/leadinggeeks.adoc)
+
 [Deep Blue](books/deepblue.adoc)
 
 [Masters of Doom](books/mastersofdoom.adoc)
