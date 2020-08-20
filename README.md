@@ -108,6 +108,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Blade Runners](racism/bladerunners.adoc)
 
+[Speak Klingon](racism/speakklingon.adoc)
+
 
 
 
