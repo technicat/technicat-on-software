@@ -37,6 +37,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Minimizing Meetings](software/minimzingmeetings.adoc)
 
+[The Art of the Schedule](software/artoftheschedule.adoc)
+
+
 ## Career
 
 [You Don't Need a Mentor](software/youdontneedamentor.adoc)
