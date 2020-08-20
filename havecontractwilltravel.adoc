@@ -91,10 +91,13 @@ My least favorite part of contract work is the contract itself. The conventional
 
 Typically, the client will present you with a contract put together by the client’s attorneys, who are solely representing the client’s interests. It’s up to you to protect your interests. So don’t get bullied into accepting any terms that make you uncomfortable.
 
- Statements you should ignore:
-    “This contract is intended to protect your interests.” Bah! The company’s attorneys are bound to represent their clients’ interests, and that does not include you. Go ahead and ask the company’s lawyers if they are representing your interests.
-    “No one has complained about this before.” That’s probably not true, and if it is, it means they didn’t read it carefully or bother to have their own lawyer look at it.
-    “I have to protect my company’s interests.” So what? You have to protect yours. Lifelong servitude and your first-born child would be in your client’s interests, but that doesn’t make it reasonable.
+Statements you should ignore:
+ 
+“This contract is intended to protect your interests.” Bah! The company’s attorneys are bound to represent their clients’ interests, and that does not include you. Go ahead and ask the company’s lawyers if they are representing your interests.
+
+“No one has complained about this before.” That’s probably not true, and if it is, it means they didn’t read it carefully or bother to have their own lawyer look at it.
+
+“I have to protect my company’s interests.” So what? You have to protect yours. Lifelong servitude and your first-born child would be in your client’s interests, but that doesn’t make it reasonable.
 
 Sometimes it’s hard to get a clause removed just by asking, so one tactic I’ve taken is to make sure the clause goes both ways. After all, the contract is between two business entities, so it should be fairly symmetric.
 
