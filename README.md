@@ -68,4 +68,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [More About Ada](reviews/moreaboutada.adoc)
 
+[Rethinking Narcissism](reviews/rethinkingnarcissism.adoc)
+
 
