@@ -76,6 +76,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Books
 
+[Console Wars](books/consolewars.adoc)
+
 [Deep Blue](books/deepblue.adoc)
 
 [Masters of Doom](books/mastersofdoom.adoc)
