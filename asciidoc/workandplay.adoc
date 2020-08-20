@@ -166,7 +166,7 @@ Developers don’t want to sit around and watch a game being put together — th
 
 One way for developers to feel part of the game is to literally make them part of the game, by modelling characters to resemble staffers, incorporating inside jokes, recording project members’ voices for voiceovers — all of these will personalize the game for them.
 
-== Players Do Not Know What They Want, But They Know It When They See It
+=== Players Do Not Know What They Want, But They Know It When They See It
 
 Once a game has reached a playable state, it is important to test it with real players and gauge their reactions. Focus groups cannot be relied upon to make game design decisions — that would be too easy. Rather, it is incumbent upon the game designer to observe their reactions and use observation and experience to discern what is and is not working in the game.
 
