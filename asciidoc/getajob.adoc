@@ -104,14 +104,16 @@ I conducted one of the most painful interviews of my life with a guy who started
 == Look for Flaws
 
 A new job is an investment — you are committing time in the expectation of gaining income, expertise and connections that will advance you in terms of career, finance and overall happiness. There is an opportunity cost in taking a new job — that is time you could spend elsewhere, learning other skills, completing other projects and meeting other people. So do your “due diligence”.
-The First Date
+
+=== The First Date
 
 Job interviews are like first dates. Everyone is on their best behavior, so any visible flaw you see will certainly be present several times over if you actually “hook up”.
 
 I spent one interview listening to the general manager yelling into the phone at his subordinates. He assured me that he never did that with his engineers (not true) — nevertheless, I ended up buying an iPod to tune him out, and my final meeting at that company lasted three hours, much of it a high-volume blamefest. A company president with a similarly self-absorbed personality complained to be numerous times before I joined about the rudeness and insensitivity of programmers (at least we appreciate irony). That got pretty old after a while and again, when times got tough, the tough got accusatory.
 
 If you see any disturbing behavior, imagine what it’s going to be like on the job, especially during stressful times.
-Meet the Family
+
+=== Meet the Family
 
 It’s not just the boss you have to worry about. Check out your prospective coworkers, and see if they’re hiding anyone in the closet. And get a feel for the company culture.
 
@@ -121,7 +123,7 @@ A company culture might not just offend you — it can change you, for better or
 
 At my first job in Silicon Valley, I learned a thing or two about political infighting, but I felt dirty (and physicalyl a little ill), and the moments of wicked satisfaction didn’t make up for lost time. Later, I joined a game company filled with so much childish behavior (crying, foot stomping, throwing things — and that was the management) that I wanted to take my toys and go home.
 
-== Order the Lobster
+=== Order the Lobster
 
 One traditional date test is how much the guy is willing to spend. Hopefully, that is no longer the case in this modern day and age. But still, it’s something to watch out for when “dating” a prospective employer — a company that is cheap during the interview will be even more stingy with you as an employee, and particularly for small companies, it may be a sign of low operating funds.
 
@@ -129,7 +131,7 @@ Even companies that are not particularly generous will put on a good show during
 
 Another employer kept asking me during my interview to think about the least amount of money I needed for my standard of living. In retrospect, I should have responded by asking them to consider the maximum amount of money they could spend on me. And then perhaps I wouldn’t have ended up getting the job, which involved a pay cut, reduced benefits, and ended up with me purchasing hardware for the project so I wouldn’t have to listen to the boss make a big deal about spending the money.
 
-== Read Between the Lines
+=== Read Between the Lines
 
 Some ominous phrases:
 
@@ -155,7 +157,7 @@ Some ominous phrases:
 
 In my experience, your best shot at avoiding politics (if that’s what you really want) is in startup companies that have less than twenty people. Once they grow to a certain size, then people start worrying more about their titles and turf then in getting something done and keeping the company alive. But if you’re more interested in structure and security, that might not be the right situation for you.
 
-== Believe the Rumors
+=== Believe the Rumors
 
 The rumor mill is right. That’s not to say you should believe everything anyone says about a prospective employer. But the reputation of a company is propagated by numerous employees, customers, vendors and partners over the years.
 
