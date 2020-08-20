@@ -13,8 +13,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [I Miss Lisp](software/imisslisp.adoc)
 
-[Chess Moves](software/chessmoves.adoc)
-
 [Block Is My Favorite Feature](software/blockismyfavoritefeature.adoc)
 
 [BBN Culture](software/blockismybbnculture.adoc)
@@ -38,6 +36,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Software Remodeling](software/softwareremodeling.adoc)
 
 [Driving Lessons](software/drivinglessons.adoc)
+
+[Chess Moves](software/chessmoves.adoc)
 
 ## Career
 
