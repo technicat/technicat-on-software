@@ -28,7 +28,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [QA for Everyone](software/qaforeveryone.adoc)
 
-[Software Remodelingp](software/softwareremodeling.adoc)
+[Software Remodeling](software/softwareremodeling.adoc)
+
+[Work Hard, Play hard](software/workandplay.adoc)
 
 ## MIT
 
