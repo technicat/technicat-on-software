@@ -32,6 +32,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [You Don't Need a Mentor](software/youdontneedamentor.adoc)
 
+[Block Is My Favorite Feature](software/blockismyfavoritefeature.adoc)
+
+
 ## Game Development
 
 [Work Hard, Play Hard](gamedev/workandplay.adoc)
