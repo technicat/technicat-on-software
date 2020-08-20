@@ -24,6 +24,12 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Driving Lessons](software/drivinglessons.adoc)
 
+[Back It Up](software/backitup.adoc)
+
+[QA for Everyone](software/qaforeveryone.adoc)
+
+[Software Remodelingp](software/softwareremodeling.adoc)
+
 ## MIT
 
 [What I Learned at MIT](mit/whatilearnedatmit.adoc)
