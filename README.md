@@ -41,5 +41,5 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Mo' Better Buffy](reviews/betterbuffy.adoc)
 
-[Lone Star](reviews/whoknewtexanswheresodeep.adoc)
+[Lone Star](reviews/whoknewtexansweresodeep.adoc)
 
