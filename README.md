@@ -98,4 +98,16 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Seinfeldia](reviews/seinfeldia.adoc)
 
+## Racism
+
+[FDR Quotes](racism/fddrquotes.adoc)
+
+[The Only Good Statue is a Dog Statue](racism/statues.adoc)
+
+[Blade Runners](racism/bladerunners.adoc)
+
+
+
+
+
 
