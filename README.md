@@ -13,8 +13,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [I Miss Lisp](software/imisslisp.adoc)
 
-[Agile Isn't](software/agileisnt.adoc)
-
 [Chess Moves](software/chessmoves.adoc)
 
 [Driving Lessons](software/drivinglessons.adoc)
@@ -30,6 +28,12 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [BBN Culture](software/blockismybbnculture.adoc)
 
 [The History of Programming](software/historyofprogramming.adoc)
+
+## Procress
+
+[Agile Isn't](software/agileisnt.adoc)
+
+[Lean Agile Scrum Sprints](software/leanagilescrumsprints.adoc)
 
 ## Career
 
