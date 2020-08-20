@@ -68,7 +68,7 @@ Meritocracy
 
 Contrary perhaps to public perception, open source projects are not uncontrolled pools of code. (It’s not Wikipedia!) Successful open source projects are led by programmers with a firm direction. The set of developers allowed to commit changes is typically limited to a few trusted people. Some projects have elaborate procedures for admitting new committers. Developers have to prove themselves before getting the keys to the vault. Bad code submissions are ignored — not incorporated into the codebase just so they can be fixed later.
 
-== =No Interference
+=== No Interference
 
 With good tools for communication and good people doing the work, there’s no need for constant supervision by professional managers. No need for frequent meetings. I have yet to see a notable open-source project with strict style guidelines. The development drives the process, not the other way around.
 Competition
