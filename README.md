@@ -28,4 +28,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Reviews
 
+[Deep Blue](reviews/deepblue.adoc)
+
+[Masters of Doom](reviews/mastersofdoom.adoc)
 
