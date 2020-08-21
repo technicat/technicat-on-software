@@ -110,6 +110,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Seinfeldia](books/seinfeldia.adoc)
 
+[Serenity Found](books/serenityfound.adoc)
+
 [Shatner Rules](books/shatnerrules.adoc)
 
 [Smart Mobs](books/smartmobs.adoc)
@@ -150,9 +152,11 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Film
 
+[Blade Runners](film/bladerunners.adoc)
+
 [Lone Star](film/whoknewtexansweresodeep.adoc)
 
-[Blade Runners](film/bladerunners.adoc)
+[Serenity](film/serenity.adoc)
 
 
 ## Racism
