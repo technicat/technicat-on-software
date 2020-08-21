@@ -112,6 +112,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Sometimes the Magic Works](books/themagicworks.adoc)
 
+[The Complete Book of Scriptwriting](books/completebookofscriptwriting.adoc)
+
 
 ## TV
 
