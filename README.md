@@ -2,7 +2,6 @@ Originally a set of software development essays I wrote on my website and then s
 Now in [asciidoc](https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c41721dda74).
 
 Copyright &copy; Technicat LLC.
-
 Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Software Development
