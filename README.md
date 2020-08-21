@@ -118,6 +118,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Demon in the Freezer](books/demoninthefreezer.adoc)
 
+[Creativity, Inc.](books/creativityinc.adoc)
+
 
 ## TV
 
