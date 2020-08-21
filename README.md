@@ -156,6 +156,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Blade Runners](film/bladerunners.adoc)
 
+[Logan](film/logan.adoc)
+
 [Lone Star](film/whoknewtexansweresodeep.adoc)
 
 [Serenity](film/serenity.adoc)
