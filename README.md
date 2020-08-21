@@ -124,6 +124,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Firefly](tv/firefly.adoc)
 
+[The Man in the High Castle](tv/maininthehighcastle.adoc)
+
 ## Film
 
 [Lone Star](film/whoknewtexansweresodeep.adoc)
