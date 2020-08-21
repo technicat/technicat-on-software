@@ -106,6 +106,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Gearheads](books/gearheads.adoc)
 
+[The Upright Thinkers](books/uprightthinkers.adoc)
+
+
 
 ## TV
 
