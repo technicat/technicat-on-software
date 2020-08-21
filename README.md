@@ -57,6 +57,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Block Is My Favorite Feature](social/blockismyfavoritefeature.adoc)
 
+[Goodbye, Goodreads](social/goodbyegoodreads.adoc)
+
 [It's Not GeoSocial](social/geosocial.adoc)
 
 
