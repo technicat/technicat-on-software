@@ -1,0 +1,32 @@
+A Farewell to Floppies, or A Flash from the Past
+technicat
+technicat
+Apr 24, 2017 · 3 min read
+
+(missing images and video)
+
+A while ago I was digging through my box of HyperBowl hardware (related to the original attraction game), I found this 3.5" floppy disk.
+Image for post
+Image for post
+
+It’s been a while since I’ve seen one of those, so I posted it on the HyperBowl Facebook page and jokingly explained that this was, in quotes, a “floppy disk.” But someone responded in all apparent sincerity that he’d been wondering why save icons looked that way. Like this one from google material design:
+Image for post
+Image for post
+
+So, young ‘uns, gather around, and let me tell you a story. When I started programming, it was on computers like these at the Computer History Museum (in fact, these were the first three models I programmed on, that order, left to right).
+Image for post
+Image for post
+
+Back then, there were no USB flash drives or rewriteable CDs and DVDs (actually, there was no USB. But we did have music CDs. Vinyl was dead, they said). But desktop computers didn’t have hard drives, either, so you had to save and run your programs from something removable.
+
+On the Radio Shack (that company is gone) and Commodore (also gone) computers, I used cassette tapes for removable storage. Well, after the school librarian told me I didn’t have to type the same BASIC program listing into the TRS-80 every day just to play the game. But those cassette players saved and loaded really slowly (like playing a song, naturally), didn’t work well in humid Iowa summers, and often got snarled just like in my car (back when cars came with cassette players).
+
+But then Apple (still here) introduced the Apple II with a 5 and a quarter inch floppy disk drive, which were like hard drives except that the disks were removeable and not hard. They really were floppy, basically a flexible disk in an envelope, and you could bend the whole thing (or fold it if you wanted to render it unusable). They came in single or double-sided versions, but you could notch a single-sided one to make it double-sided.
+
+This opened up a whole new world of fast saving and loading and piracy (I was pleased to find my first game on a pirate floppy – that excitement has faded since then).
+
+The Mac introduced the 3.5 inch floppy shown above, which like the Mac was small and cute (sometimes called a diskette). The plastic case protected it from dust and made it more resistant to user error, like folding. It fit in your shirt pocket (if you wore shirts with pockets).
+
+But I could see the beginning of the end for the mini floppy after I bought a Powerbook from Fry’s that required ten floppies to install the OS. And being from Fry’s and their crack ethical sales team, it turned out to be a returned unit with the installation halted at disk 3. I guess the previous purchaser got tired of swapping disks.
+
+The modern equivalent of the floppy is the flash drive. It’s a lot smaller and follows Moore’s Law – I just bought one that has twice as much capacity as the previous one I bought a year ago, and at the same price. But it doesn’t make music:
