@@ -92,33 +92,35 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Yeah I'm Introverted](books/yeahimintroverted.adoc)
 
+[The Complete Book of Scriptwriting](books/completebookofscriptwriting.adoc)
+
+[Creativity, Inc.](books/creativityinc.adoc)
+
+[The Demon in the Freezer](books/demoninthefreezer.adoc)
+
+[Gearheads](books/gearheads.adoc)
+
+[Idea to iPhone](books/ideatoiphone.adoc)
+
+[Marissa Meyer and the Fight to Save Yahoo](books/yahoo.adoc)
+
 [More About Ada](bookss/moreaboutada.adoc)
 
 [Rethinking Narcissism](books/rethinkingnarcissism.adoc)
 
 [Seinfeldia](books/seinfeldia.adoc)
 
+[Smart Mobs](books/smartmobs.adoc)
+
+[Sometimes the Magic Works](books/themagicworks.adoc)
+
+[Spam Kings](books/soamkings.adoc)
+
 [A Story of Reality Distortion](books/realitydistortion.adoc)
 
 [Ultimate Punishment](books/ultimatepunishment.adoc)
 
-[Marissa Meyer and the Fight to Save Yahoo](books/yahoo.adoc)
-
-[Gearheads](books/gearheads.adoc)
-
 [The Upright Thinkers](books/uprightthinkers.adoc)
-
-[Idea to iPhone](books/ideatoiphone.adoc)
-
-[Sometimes the Magic Works](books/themagicworks.adoc)
-
-[The Complete Book of Scriptwriting](books/completebookofscriptwriting.adoc)
-
-[Spam Kings](books/soamkings.adoc)
-
-[The Demon in the Freezer](books/demoninthefreezer.adoc)
-
-[Creativity, Inc.](books/creativityinc.adoc)
 
 
 ## TV
