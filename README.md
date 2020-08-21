@@ -108,6 +108,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Upright Thinkers](books/uprightthinkers.adoc)
 
+[Idea to iPhone](books/ideatoiphone.adoc)
 
 
 ## TV
