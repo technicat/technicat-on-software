@@ -102,6 +102,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Ultimate Punishment](books/ultimatepunishment.adoc)
 
+[Marissa Meyer and the Fight to Save Yahoo](books/yahoo.adoc)
+
 
 ## TV
 
