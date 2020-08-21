@@ -1,0 +1,13 @@
+= It’s not Geosocial, it’s Geo or Social
+
+Geosocial isn’t quite the buzzword it used to be, but a while ago I was consulting for a place interested geosocial apps. The nice thing about consulting is you get paid to have an opinion, and after looking around and thinking a bit, I concluded geosocial is a trap.
+
+First, just the idea that your app has two main thrusts to it sounds dubious. It reminds me of the time I asked my boss which of two features was most important, and he said “yes.” Then you might as well call Facebook not just a geosocial app but geosocialphoto app and so on. Might be great for marketing, but a recipe for muddleheadedness in product design.
+
+Taking a more evidence-based approach, look at supposedly geosocial apps and you’ll find they are really geo apps with a bit of social added, or vica versa. Facebook is all social, and most of the time you don’t care where people are posting from. Same with twitter, tumblr and any blogging or photo-sharing platform. Foursquare is geo with social added. Same with tripadvisor, yelp and anything where you’re looking for places.
+
+One way to tell whether an app is geo or social is figure out what the user really wants to see first. In social apps, the user should see a feed of whatever’s being shared — tweets, blogs, photos…whereas in geo apps, the first thing I want to see is a map. A map is the best visualization of where you are and what’s around you and how to get there. A list of things nearby is a nice supplement but a poor substitute.
+
+That’s why I like using the tripadvisor app and avoid using the web site — the former presents me with a map immediately, and the latter makes me jump through some hoops, first. I do want to see reviews and prices, but later, after I figure out where and what’s there. This has been a problem with the Foursquare app — it was always pushing the social aspect first, when I really just wanted to find where I was and check in, and I stopped using it when the location features became too unrealiable on my phone. Maybe they recognized the geo/social confusion when they tried to push all their users to Swarm, but I’ve noticed lately the Foursquare app is now creepily good at notifying me where I am and what I’m near.
+
+So if you’re making a geolocation service with social networking features or a social networking site with geolocation features, that’s great — just figure out which one it is, and don’t forget it.
