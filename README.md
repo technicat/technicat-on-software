@@ -11,8 +11,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Management Means Never Having to Say You're Sorry](software/managementmeansneverhavingtosayyouresorry.adoc)
 
-[Block Is My Favorite Feature](software/blockismyfavoritefeature.adoc)
-
 [BBN Culture](software/bbnculture.adoc)
 
 [The History of Programming](software/historyofprogramming.adoc)
@@ -21,9 +19,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Lisp
 
-[I Miss Lisp](software/imisslisp.adoc)
+[I Miss Lisp](lisp/imisslisp.adoc)
 
-[Lisp Led Me to Outer Space](software/lispledmetoouterspace.adoc)
+[Lisp Led Me to Outer Space](lisp/lispledmetoouterspace.adoc)
 
 ## Process
 
@@ -47,11 +45,17 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Career
 
-[You Don't Need a Mentor](software/youdontneedamentor.adoc)
+[You Don't Need a Mentor](career/youdontneedamentor.adoc)
 
-[Have Contract, Will Travel](software/havecontractwilltravel.adoc)
+[Have Contract, Will Travel](career/havecontractwilltravel.adoc)
 
-[Get a Job](software/getajob.adoc)
+[Get a Job](career/getajob.adoc)
+
+# Social Media
+
+[Block Is My Favorite Feature](social/blockismyfavoritefeature.adoc)
+
+[It's Not GeoSocial](social/geosocial.adoc)
 
 
 ## Game Development
