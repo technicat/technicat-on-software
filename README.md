@@ -104,6 +104,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Gearheads](books/gearheads.adoc)
 
+[Haunted Empire](books/hauntedempire.adoc)
+
 [Idea to iPhone](books/ideatoiphone.adoc)
 
 [Leading Geeks](books/leadinggeeks.adoc)
