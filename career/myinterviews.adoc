@@ -1,0 +1,23 @@
+= My Interviews, and Other Stories
+
+An podcast interview I had with Game Devs Like You last year just come online (also on iTunes). I think it turned our pretty well, although I guess I haven’t heard my own recorded voice in a while — I didn’t realize that’s how I sound.
+
+I’ve had a few other web interviews since I went indie, with various app review sites, but the only one surviving is AppBoy, which was probably the best one, anyway.
+
+Both of those interviews focus mostly on my official game development years, Unity app development, contract game work, and so on, but one of these days I’d like to recount in more detail my other experiences that arguably led to, or at least foreshadowed, my game work. Or I’d like to just talk about them because they make a good story. Such as:
+
+My Apple II projects, in particular an Othello game written in BASIC that I eventually found on a pirated-software disc (floppy!) given to me by a friend. A precursor to my pirated and non-profitable Android apps.
+
+My second Othello game, written in 6502 assembler, ran blazingly fast and incorrectly.
+
+An Othello game (you can see a theme here) written in Multilisp on a 32-processor for my MIT bachelor’s thesis. I read Watchmen during all-nighters running parallel search tests, which made for pretty graphs, and the game still lost to my friends who’d never played Othello before.
+
+If you’re wondering why I kept going to Othello, well, my goal was to write a chess game, and Othello (or Reversi, as we say in the non-trademarked world) was supposed to be a dry run.
+
+I never got to chess, but I did work on hooking up a submarine warfare simulator to a wide-area networked battle simulation. Basically, it was Battlezone on steroids, and we had film crews and old submarine hands in their naval outfits operating the simulated submarines on the exercise day. Talk about a hard deadline. The exercise started with me hitting a button, watching the whole thing crash, and me saying “I’m gonna need a few minutes.” It’s a good thing it was a fast compile.
+
+Testing, inadequate as it turned out to be, was fun. Me on the phone with the guy from another lab arguing no, our submarines are not flying 50 feet above the water, it’s gotta be a problem on your side.
+
+That was a stressful project, working crunch time with the flu, and also in a high-security area where I had to sign in and out of a combination-locked lab. But it wasn’t a marathon like my work on graphics tools, where I slept nineteen hours after getting our product ready for a trade show, and then watched it crash after installing it on the demo machines on the show floor (shades of my submarine project, and this happened to be a military trade show, too).
+
+This was all quite a while ago, before I worked on HyperBowl and various game contracts, and my own game projects. Which reminds me, I should get back to that chess program…
