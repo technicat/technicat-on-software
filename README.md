@@ -114,6 +114,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Complete Book of Scriptwriting](books/completebookofscriptwriting.adoc)
 
+[Spam Kings](books/soamkings.adoc)
+
 
 ## TV
 
