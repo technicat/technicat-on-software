@@ -100,6 +100,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [A Story of Reality Distortion](books/realitydistortion.adoc)
 
+[Ultimate Punishment](books/ultimatepunishment.adoc)
+
 
 ## TV
 
