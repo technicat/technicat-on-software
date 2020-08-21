@@ -128,8 +128,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [We Were Soldiers](books/weweresoldiers.adoc)
 
-[Yeah I'm Introverted](books/yeahimintroverted.adoc)
-
 
 ## TV
 
@@ -168,7 +166,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Speak Klingon](racism/speakklingon.adoc)
 
 
+## Misc
 
+[Yeah I'm Introverted](books/yeahimintroverted.adoc)
 
 
 
