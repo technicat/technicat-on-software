@@ -1,0 +1,9 @@
+= Idea to iPhone
+
+As a mobile app developer, I am frequently approached by people with a “great” app idea. Now I tell them to first read Idea to iPhone by Carla White. It spells out many of the issues I routinely bring up. For example, avoid ideas that require a server — that complicates everything, in an expensive way.
+
+I don’t agree with everything in this book (I’m not a big fan of NDAs — chances are, your idea is not that special, and if I have to sign an NDA just to hear your idea, I’d rather not hear it)
+
+Also, I would add a few more must-research items to the book, such as read the Apple Human Interface Guidelines and their submission guidelines. The former explains the building blocks available to iOS developers, and is a generally good read on UI design (the original Macintosh User Interface Guidelines was a classic read), and if you don’t bother to read the submission guidelines you’re courting an Apple rejection.
+
+I’ll post my own so-you-want-to-make-an-app list soon. In the meantime, this book is a good start.
