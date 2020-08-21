@@ -116,11 +116,13 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Spam Kings](books/soamkings.adoc)
 
-[A Story of Reality Distortion](books/realitydistortion.adoc)
+[Steve Jobs](books/realitydistortion.adoc)
 
 [Ultimate Punishment](books/ultimatepunishment.adoc)
 
 [The Upright Thinkers](books/uprightthinkers.adoc)
+
+[We Were Soldiers](books/weweresoldiers.adoc)
 
 
 ## TV
