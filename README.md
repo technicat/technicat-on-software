@@ -96,6 +96,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Demon in the Freezer](books/demoninthefreezer.adoc)
 
+[Five Design Books](books/fivedesignbooks.adoc)
+
 [Gearheads](books/gearheads.adoc)
 
 [Idea to iPhone](books/ideatoiphone.adoc)
