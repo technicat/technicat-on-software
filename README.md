@@ -78,15 +78,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Console Wars](books/consolewars.adoc)
 
-[Leading Geeks](books/leadinggeeks.adoc)
-
 [Deep Blue](books/deepblue.adoc)
 
-[Masters of Doom](books/mastersofdoom.adoc)
-
 [Finding Serenity](books/findingserenity.adoc)
-
-[Shatner Rules](books/shatnerrules.adoc)
 
 [Carl Melcher Goes to Vietnam](books/carlmelcher.adoc)
 
@@ -102,13 +96,19 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Idea to iPhone](books/ideatoiphone.adoc)
 
+[Leading Geeks](books/leadinggeeks.adoc)
+
 [Marissa Meyer and the Fight to Save Yahoo](books/yahoo.adoc)
+
+[Masters of Doom](books/mastersofdoom.adoc)
 
 [More About Ada](bookss/moreaboutada.adoc)
 
 [Rethinking Narcissism](books/rethinkingnarcissism.adoc)
 
 [Seinfeldia](books/seinfeldia.adoc)
+
+[Shatner Rules](books/shatnerrules.adoc)
 
 [Smart Mobs](books/smartmobs.adoc)
 
@@ -140,6 +140,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Firefly](tv/firefly.adoc)
 
 [The Man in the High Castle](tv/maininthehighcastle.adoc)
+
+[Conversations with Creators](tv/conversationswithcreators.adoc)
+
 
 ## Film
 
