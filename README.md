@@ -116,6 +116,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Spam Kings](books/soamkings.adoc)
 
+[The Demon in the Freezer](books/demoninthefreezer.adoc)
+
 
 ## TV
 
