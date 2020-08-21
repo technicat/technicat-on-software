@@ -16,6 +16,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [It's the User Interface](software/itstheuserinterface.adoc)
 
+[So You Have an App Idea](software/soyouhaveanappidea.adoc)
+
+
 ## Lisp
 
 [I Miss Lisp](lisp/imisslisp.adoc)
