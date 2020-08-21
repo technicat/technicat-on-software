@@ -76,19 +76,17 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Books
 
-[Console Wars](books/consolewars.adoc)
-
-[Deep Blue](books/deepblue.adoc)
-
-[Finding Serenity](books/findingserenity.adoc)
-
 [Carl Melcher Goes to Vietnam](books/carlmelcher.adoc)
 
-[Yeah I'm Introverted](books/yeahimintroverted.adoc)
+[Console Wars](books/consolewars.adoc)
+
+[Finding Serenity](books/findingserenity.adoc)
 
 [The Complete Book of Scriptwriting](books/completebookofscriptwriting.adoc)
 
 [Creativity, Inc.](books/creativityinc.adoc)
+
+[Deep Blue](books/deepblue.adoc)
 
 [The Demon in the Freezer](books/demoninthefreezer.adoc)
 
@@ -118,11 +116,15 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Steve Jobs](books/realitydistortion.adoc)
 
+[Thoughts on Design](books/thoughtsondesign.adoc)
+
 [Ultimate Punishment](books/ultimatepunishment.adoc)
 
 [The Upright Thinkers](books/uprightthinkers.adoc)
 
 [We Were Soldiers](books/weweresoldiers.adoc)
+
+[Yeah I'm Introverted](books/yeahimintroverted.adoc)
 
 
 ## TV
