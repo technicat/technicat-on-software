@@ -110,6 +110,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Idea to iPhone](books/ideatoiphone.adoc)
 
+[Sometimes the Magic Works](books/themagicworks.adoc)
+
 
 ## TV
 
