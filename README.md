@@ -104,6 +104,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Marissa Meyer and the Fight to Save Yahoo](books/yahoo.adoc)
 
+[Gearheads](books/gearheads.adoc)
+
 
 ## TV
 
