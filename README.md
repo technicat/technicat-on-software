@@ -29,6 +29,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Agile Isn't](software/agileisnt.adoc)
 
+[Don't Juke the Stats](software/dontjukethestats.adoc)
+
 [Lean Agile Scrum Sprints](software/leanagilescrumsprints.adoc)
 
 [Minimizing Meetings](software/minimizingmeetings.adoc)
@@ -90,8 +92,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Console Wars](books/consolewars.adoc)
 
-[Finding Serenity](books/findingserenity.adoc)
-
 [The Complete Book of Scriptwriting](books/completebookofscriptwriting.adoc)
 
 [Creativity, Inc.](books/creativityinc.adoc)
@@ -99,6 +99,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Deep Blue](books/deepblue.adoc)
 
 [The Demon in the Freezer](books/demoninthefreezer.adoc)
+
+[Finding Serenity](books/findingserenity.adoc)
 
 [Five Design Books](books/fivedesignbooks.adoc)
 
