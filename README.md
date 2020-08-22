@@ -65,6 +65,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [It's Not GeoSocial](social/geosocial.adoc)
 
+[Social Panhandling](social/socialpanhandling.adoc)
 
 ## Game Development
 
