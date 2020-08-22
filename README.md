@@ -18,6 +18,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [So You Have an App Idea](software/soyouhaveanappidea.adoc)
 
+[Programmer's Don't Lie](software/programmersdontlie.adoc)
 
 ## Lisp
 
