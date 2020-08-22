@@ -1,0 +1,19 @@
+= Programmers Don’t Lie, Much
+
+While chatting with some app developers at a meetup,`one told me she’d tried working as a realtor and got out because couldn’t stand the dishonesty. To be fair, yesterday I talked to a realtor who said she’d hated working with arrogant and socially-challenged software engineers.
+
+That led me to realize (besides the fact I should identify myself as a programmer much earlier in conversations), that one thing I like about software development is the honesty. You can quibble about how much software engineering is engineering and how much computer science is science, but fundamentally it’s truth-based. Algorithms have proofs of correctness (they’re still working on that with programming languages). You can’t lie to a compiler. A spec is a spec even if the implementation doesn’t follow it. Everything is in the repo.
+
+I don’t think I’m indulging in oh-isn’t-my-profession-so-wonderful. It’s a well-known tactic at trade shows to try to talk to the engineers because they’ll give you the straight scoop. It’s painful to watch businesspeople single out a competitor’s engineers and mine them for information. They should have handlers.
+
+Of course, programmers do lie. But not as a matter of course, at least with regard to software, and it’s hard to be completely honest in one aspect of your life and dishonest in the rest. Unless maybe if youre a spy.
+
+Whereas I once worked with a pathological liar in marketing and thought that might be an asset in his job, dishonesty is not a good look on a programmer. I could be wrong. I did work with a lying programmer who got promoted to management. But maybe that says more about management.
+
+Programmer’s can’t just prove their case with assertions (that’s kind of an inside joke), like the ones in every communication I’ve ever received from a lawyer. You have to be able to back up what you say. At least with a StackOverflow link.
+
+One disillusionment I experienced when writing a book for a publisher was that the editors never cited any references when they told me something had to be written a standard way, even though there’s no shortage of published (and often differing) standards like the Chicago Manual of Style and Strunk and White (I recommend listening to the Grammar Girl podcast). One editor even told me “I don’t have time to look it up.”
+
+Whereas, when a programmer once said the same thing to me when pushing for Hungarian notation, I could visualize his brain going “Run away! Run away!” As programmers, we spend half our time looking things up. I don’t know how we got anything done before the Internet (a lot of poring through huge programming language manuals). If you claim you don’t have time to look something up, either you’re too afraid to, or too lazy to.
+
+Honesty is not just a character trait in programming, it’s a competency issue. If your arguments are circular, maybe your loops don’t terminate, either. If you really believe what you’re saying, and I don’t, one of us is probably wrong. Unless we’re talking about software methodologies and favorite programming languages. Then truthiness prevails.
