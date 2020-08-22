@@ -110,6 +110,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Idea to iPhone](books/ideatoiphone.adoc)
 
+[If Chins Could Kill](books/ifchinscouldkill.adoc)
+
 [Leading Geeks](books/leadinggeeks.adoc)
 
 [Marissa Meyer and the Fight to Save Yahoo](books/yahoo.adoc)
