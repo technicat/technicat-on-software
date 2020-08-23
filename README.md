@@ -120,7 +120,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Masters of Doom](books/mastersofdoom.adoc)
 
-[More About Ada](bookss/moreaboutada.adoc)
+[More About Ada](books/moreaboutada.adoc)
+
+[Mr. Monk on Patrol](books/monkonpatrol.adoc)
 
 [Rethinking Narcissism](books/rethinkingnarcissism.adoc)
 
@@ -192,7 +194,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Hungtinton Beach](places/huntingtonbeach.adoc)
 
-[Iowa city](places/iowacity.adoc)
+[Iowa City](places/iowacity.adoc)
 
 [Manzanar](places/manzanar.adoc)
 
