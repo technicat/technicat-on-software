@@ -188,6 +188,14 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Speak Klingon](racism/speakklingon.adoc)
 
 
+## Places
+
+[Hungtinton Beach](places/huntingtonbeach.adoc)
+
+[Iowa city](places/iowacity.adoc)
+
+[Manzanar](places/manzanar.adoc)
+
 ## Misc
 
 [Yeah I'm Introverted](books/yeahimintroverted.adoc)
