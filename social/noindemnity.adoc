@@ -1,0 +1,33 @@
+No Indemnity
+technicat
+technicat
+Jan 18, 2016 · 3 min read
+
+I discovered a new reason to like Medium: their Terms of Service:
+Medium Terms of Service
+Effective Date: 4-10-14 ¶ Medium Terms of Service ¶ We’ll try to make this as painless and straightforward as…
+medium.com
+
+It’s not too long (unlike the pages of constantly-revised Apple ToS you have to flip through), written in human-readable language (unlike almost every ToS), and to my utter surprise, does not include an indemnification clause, like this one from Goodreads:
+
+    12. Indemnity
+
+    You agree to defend, indemnify and hold harmless Goodreads and its subsidiaries, agents, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (i) your use of and access to the Service, including any data or content transmitted or received by you…
+
+I cite Goodreads as an example because I did complain to them back when they were just getting popular and before they became part of Amazon. I think the founder/CEO replied, which was nice, but it was the standard reply I get when I complain about contract provisions with clients and employers:
+
+    This is what our lawyers told us to do.
+    Everyone does it.
+    Trust us.
+
+Well, lawyers don’t always know what they’re talking about (and it’s one of those professions in which they never admit it), not quite everyone does it (I believe I mentioned Dreamhost and Twitter in my response), and if we’re so trusting, we don’t need this bit of financially threatening legalese, do we?
+
+And it is financially threatening, notwithstanding the corporate counsel who assured me that indemnification didn’t involve any money and then backtracked after looking up the definition in the dictionary (supporting my first point above).
+
+It is particularly problematic on user review sites where anyone can sue over a negative review, like Yelp. Their indemnification clause ranges far and wide:
+
+    You agree to indemnify, defend, and hold Yelp, its parents, subsidiaries, affiliates, any related companies, suppliers, licensors and partners, and the officers, directors, employees, agents and representatives of each of them (collectively, the “Yelp Entities”) harmless, including costs, liabilities and legal fees, from any claim or demand made by any third party arising out of or relating to (i) your access to or use of the Site, (ii) your violation of the Terms, (iii) any products or services purchased or obtained by you in connection with the Site, or (iv) the infringement by you, or any third party using your account, of any intellectual property or other right of any person or entity. Yelp reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any such matter without the prior written consent of Yelp. Yelp will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
+
+Not only are you on the hook for any damages resulting from your use of the site, but also any products or services you bought “in connection” to the site, anyone else using your account (with or without permission), but you’re indemnifying not just the company but their contractors, suppliers, licensors…pretty much everyone except their pets. And while you’re on the hook for damages, you give Yelp total control over how you can respond, at your expense.
+
+So you’ll be seeing more of my reviews here in Medium, even if I’m just moving them from another site.
