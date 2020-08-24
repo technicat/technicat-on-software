@@ -1,0 +1,22 @@
+Two-and-a-Half App Stores
+technicat
+technicat
+Sep 13, 2015 · 3 min read
+
+Even after all these years, it’s surprisingly hard to find a decent (mobile) app store. Apple’s and Google’s are the gold standards. Amazon is OK but not quite at that level, and everyone else just sucks.
+
+Even though it’s fairly easy to upload an app to Amazon, it’s not as frictionless as Google’s instant submission. Amazon has it’s own set of required screenshots, etc. and for updates there are some quirks like having to remove the existing build before adding a new one. And they do have a review process, not as suspense-ridden and dictatorial as Apple’s, but with some similar requirements like not having links, directly or indirectly, to other app stores. So you have to wonder if it’s worth the effort for just a few downloads.
+
+Every other app store has even worse download numbers (speaking from my own experience) and don’t look like they’re even being maintained. I had high hopes and good initial numbers for Barnes and Noble, but, coincidentally or not, after a large Microsoft investment, they seemed to drop the ball. Last I checked, their portal was still Flash-based, and didn’t seem to have the sharpest people running it.
+
+For example, I filed a bug report complaining that I shouldn’t have to switch to the reporting page as directed to retrieve my publisher ID in order to file the bug report — response was, “How else are we supposed to know the ID?” — my response was, I’m logged in and the number is displayed on another page so obviously the system does know it, and every decent app store (the top three) do this properly. Once I mentioned the App Store does this, they said, ah, OK.
+
+More annoying, like Amazon and unlike Apple and Google, there’s no unpublish button, so you have to contact developer support to request an app removal from the store. Unlike Amazon, my request didn’t stick — an app I requested unpublished only stayed unpublished for a few days. And some apps were rejected or removed for no apparent reason. So I guess it cancels out, and I’ve pretty much given up on the Nook store. When I see news articles on how the Nook business is having tough times against the competition, I suspect a lot of the damage is self-inflicted.
+
+The Nabi is another example of good hardware with a bad app store. It looks like they just bought an app store from someone else at the last minute. In fact, I’m sure that’s what they did, because the screenshots required by the Nabi store do not match the screen sizes of the Nabi, so you have to take Nabi screenshots and then resize them to some phone size before uploading. And they only pay quarterly, instead of monthly (are they from the book publishing industry?). I made some inquiry about the payment, I forget what about, and never got a response. So I’ve given up on that one, too (plus, as with the Nook, I no longer have a functioning test device).
+
+Another app store that’s changed hands without any kind of upgrade is Handango, now the Opera app store. I didn’t even plan on submitting to Handango — I responded to an invitation from LG, I think, who had contracted out there app store to Handango, and I couldn’t even get through the LG submission process (just filling out the online forms), but in the meantime Handango had snagged my apps for their own store. They’re not the most ethical bunch.
+
+I had slightly better luck with the Samsung store, successfully getting HyperBowl on there, but later they added some requirement about using Samsung APIs, so that was that.
+
+I supposed I should mention Aptoide, since I put HyperBowl there, but I only registered an account because that’s what they ask you to do when you complain that myriad pirated copies of your app are on the site. They still won’t remove those pirated apps, and now I can’t remove my account, either. Nice business they have. Maybe someone will buy them.
