@@ -1,0 +1,33 @@
+Like a lot of things, the process of creating a launch screen for an iOS app has changed over time, and not necessarily for the simpler. Originally I had a launch screen image set in the Asset Catalog. Then I had an Interface Builder (.xib) file.
+
+Now I’m using storyboard files (don’t get excited — there’s no animation support). Among the New File choices there is now a Launch Screen option. That is actually a storyboard file you can use as the launch screen.
+Image for post
+Image for post
+
+Once you select that, you will have a new storyboard file you can select as the launch screen source in the General tab.
+Image for post
+Image for post
+
+Despite Apple’s guideline that launch screens should look like a screen within your app, the default storyboard is a standard name-and-copyright presentation.
+Image for post
+Image for post
+
+I just want my launch screen to show my logo and nothing else, so I Command-Delete the text items and constraints, and create an image set containing my logo an Asset Catalog, with the images sized to fit within the screen (these are around 300pt, so 300/600/900px)
+Image for post
+Image for post
+
+Now I can find my logo in the Object Library and drag it into the storyboard.
+Image for post
+Image for post
+
+To center the image, I select the image in the hierarchy at left and then click on the Align option below the storyboard and select horizontal and vertical alignment.
+Image for post
+Image for post
+
+The resulting constraints should show up like this, with the image view centered in its parent view.
+Image for post
+Image for post
+
+And that’s all there is to it, unless it doesn’t work. On occasion, I’ve seen this look fine and appear correctly when run in the Simulator but not show up on the device (this is one of those “not for the simpler” things). Apparently, it happens to other people, too.
+
+The most recent occurrence (this morning), was resolved when I fixed an incorrectly sized app icon. But who knows if that was the real problem. Anyway, once it’s working, I’ll leave it alone until there’s a new way to do it. Or until I can animate it!
