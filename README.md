@@ -205,6 +205,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Speak Klingon](racism/speakklingon.adoc)
 
+[Where Are You on the Racist O'Meter?](racism/racistmeter.adoc)
+
+
 
 ## Places
 
