@@ -142,6 +142,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Thoughts on Design](books/thoughtsondesign.adoc)
 
+[To Engineer Is Human](books/toengineerishuman.adoc)
+
+
 [Ultimate Punishment](books/ultimatepunishment.adoc)
 
 [The Upright Thinkers](books/uprightthinkers.adoc)
