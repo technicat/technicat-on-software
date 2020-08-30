@@ -160,6 +160,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [We Were Soldiers](books/weweresoldiers.adoc)
 
+[Winner's Dream](books/winnersdream.adoc)
+
 
 ## TV
 
