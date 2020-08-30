@@ -122,6 +122,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Mr. Monk on Patrol](books/monkonpatrol.adoc)
 
+[My Papi Has a MotorCycle](books/mypapihasamotorcycle.adoc)
+
 [Rethinking Narcissism](books/rethinkingnarcissism.adoc)
 
 [Seinfeldia](books/seinfeldia.adoc)
