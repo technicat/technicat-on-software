@@ -114,6 +114,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [If Chins Could Kill](books/ifchinscouldkill.adoc)
 
+[John McCain](books/johnmccain.adoc)
+
 [Leading Geeks](books/leadinggeeks.adoc)
 
 [Marissa Meyer and the Fight to Save Yahoo](books/yahoo.adoc)
