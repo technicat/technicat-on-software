@@ -106,7 +106,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Finding Serenity](books/findingserenity.adoc)
 
-
 [Five Design Books](books/fivedesignbooks.adoc)
 
 [The Game Localization Handbook](books/gamelocaliation.adoc)
@@ -205,8 +204,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Speak Klingon](racism/speakklingon.adoc)
 
-[Where Are You on the Racist O'Meter?](racism/racistmeter.adoc)
-
+[Where Are You on the Racist O'Meter?](racism/racistometer.adoc)
 
 
 ## Places
