@@ -20,6 +20,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Programmer's Don't Lie](software/programmersdontlie.adoc)
 
+[Design Patters are from Purgatory](software/designpatternsarefrompurgatory.adoc)
+
 ## Lisp
 
 [I Miss Lisp](lisp/imisslisp.adoc)
