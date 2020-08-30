@@ -24,6 +24,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Narcissistic Design](software/narcissticdesign.adoc)
 
+[Back It Up: Safe IT Practices](software/backitup.adoc)
+
 ## Lisp
 
 [I Miss Lisp](lisp/imisslisp.adoc)
