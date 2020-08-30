@@ -60,16 +60,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [My Interviews](career/myinterviews.adoc)
 
-## Social Media
-
-[Block Is My Favorite Feature](social/blockismyfavoritefeature.adoc)
-
-[Goodbye, Goodreads](social/goodbyegoodreads.adoc)
-
-[It's Not GeoSocial](social/geosocial.adoc)
-
-[Social Panhandling](social/socialpanhandling.adoc)
-
 ## Game Development
 
 [Work Hard, Play Hard](gamedev/workandplay.adoc)
@@ -205,7 +195,17 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Manzanar](places/manzanar.adoc)
 
-## Misc
+## Social
+
+[Block Is My Favorite Feature](social/blockismyfavoritefeature.adoc)
+
+[Goodbye, Goodreads](social/goodbyegoodreads.adoc)
+
+[It's Not GeoSocial](social/geosocial.adoc)
+
+[Social Panhandling](social/socialpanhandling.adoc)
+
+[Explore with Twitter](social/explorewithtwitter.adoc)
 
 [Yeah I'm Introverted](books/yeahimintroverted.adoc)
 
