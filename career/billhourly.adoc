@@ -1,0 +1,40 @@
+Bill Hourly
+technicat
+technicat
+Jun 30, 2017 · 5 min read
+
+If there’s one thing I’ve learned repeatedly (which means I didn’t learn it that well) is to bill hourly.
+
+There are legitimate reasons for a client to want to pay a fixed amount: to reduce risk of going over budget, to make the cost of the project predictable, for convenience, or they just don’t trust you to bill honestly.
+
+Now, I have met contractors who will bill the maximum they can get away with regardless of how many hours they really worked. Please don’t do that – you’re making it harder for the rest of us. And it’s dishonest, which is something that should be penalized more than it is. Also, possibly illegal.
+
+In any case, when clients want to pay fixed sums, they’re transferring risk from themselves to you. If the scope of the work exceeds the initial estimate, then you’re working more, and longer, for less. So fixed-cost contracts should pay at a higher rate than your normal hourly rate, which should pay more than a salaried rate since you’re not getting any kind of security or benefits, you often have to provide your own equipment, and what you make on this contract has to carry you until the next contract.
+
+However, when a client doesn’t want to pay me hourly, it’s often because they’re trying to get a better deal, as if your hours are bottles of beeer they’re trying to buy wholesale at Costco.
+
+They might argue that you’re getting the benefit of a longer-term contract. There’s no such thing. There are just contracts that run long. Think of them as short-term contracts that keep getting renewed. In fact, most of my contracts have started out as short-term contracts and kept going until they ran out of money.
+
+Which is one of the reasons why you can’t depend on the length of a contract. If they’re out of money, the contract is over. Or if the project is cancelled. Or if the project is done early (which I welcome, but it would be nice if they didn’t tell me right after the product shipped “Great job! So, uhm, the contract is over, right?” Real subtle).
+
+You can’t even depend on the continuity of a contract. Whenever I’m on a monthly contract, they want to stop and restart the contract around the holidays. So you’re not really being paid monthly. At best, you’re being paid weekly.
+
+I even had a montly contract with an overseas client who actually wanted me to give them extra days for the days I was taking off around Christmas, even though they didn’t pay me for the first few days I started working. So next time I took a trip back to the US, I listed the number of weekends and other extra days I worked as credit. So really, I was billing daily.
+
+This is an example of when you have a bargain shopper client, they’re always going to try to get a better deal, even after signing the contract. When my overseas contract got extended, my client didn’t want to pay $50 to reschedule my original return flight, so I ended up paying to go home.
+
+It’s also an example of how it pays to be crystal clear on your expectations at the start of the contract and anytime there is a change. On another contract that got extended, the initial term was up until the submission of a game deliverable at the end of the month. The publisher didn’t accept the deliverable, so I asked if the client wanted me to continue, and she said “It’s up to you.” It didn’t occur to me that I’d have to clarify “You’re going to pay me, right?”, but when I submitted an invoice three weeks later, she said it was more than she expected, then said she hadn’t expected to pay at all, then said she couldn’t afford to pay, then said I’d been taking advantage of her, then said can we still be friends (we’re not) and later sued the publisher for not paying for additional work (not the first or last time). I didn’t get any part of that settlement.
+
+Which brings up the point that if monthly is worse than hourly, charging by milestones is even worse. Much worse. One client didn’t want to pay hourly, was willing to pay a monthly rate, but wanted it tied to milestone deliverables. I said OK, but I didn’t want to risk not getting paid at the end of the month, so I asked for weekly milestones, and they made up some ridiculous milestones, which I objected to, and then replaced them with less ridiculous ones, which I accepted, but resulted in me not doing work I could have done because it wasn’t one of the milestones (“Hey, we need an installer. Sorry, not in the milestone.”).
+
+Next month, they didn’t bother to consult with me on the milestones and said don’t worry, it’s just a formality, but for the convenience of payroll, can we pay biweekly? And yet, when the contract finished, they said we can’t pay you until we’ve evaluated all the milestones, and in the meantime, we expect you to continue helping for free during the “transition” period.
+
+So besides managing your own risk, billing hourly better sets expectations about work that takes place after the contract is supposed to end. A game publisher wanted some consulting time on one of their games, spent a few weeks trying to negotiate down a fixed monthly rate (they kept sending me new versions of the contract without telling me what changes they made), and when it officially ended, sent me another build to evaluate, saying “We thought you could just look at it.”
+
+I only spent a few hours total on that project, so they would have saved money if they just paid me hourly. That’s true in general. I do contract work so I can afford to work on my own projects, so I’m only interested in putting in enough time on the contract to get the work done and move on to my own stuff. I certainly don’t want to work overtime or crunch time.
+
+And that’s another benefit of billing hourly. When I’ve been paid weekly or monthly, the client always tries to sneak in some weekends or throw in a stupid idea that ends up in an all nighter. If they’re paying for those hours, then they get smarter about project management. Or in the worst case, at least you get paid for those hours, so typically they specify a cap on hours in the contract.
+
+Then when they say that want something done that’s rather involved, I warn “That’s going to exceed my hour cap” and they have to explicitly say they’re fine with that. I even had one contract specify that I needed written permission to work more than forty hours a week (this is what you get with big studios and corporate lawyers), so I had to request that when they announced a crunch time weekend (and when they sent me an email and asked if that was good enough, I said “I don’t know — you put it in the contract!”).
+
+To be honest, I probably will still take non-hourly contracts as I have in the past, but it’s a privilege. Don’t abuse it, or I’ll bill you. Hourly.
