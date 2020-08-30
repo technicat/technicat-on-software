@@ -1,0 +1,26 @@
+My Domains
+technicat
+technicat
+Sep 23, 2017 · 3 min read
+
+I’m not much of an impulse shopper, but I have a weakness for domain names. There are domain names that I have a sentimental attachment to, and those that I just like the sound of and rationalize that I’ll use someday in some lucrative IP. I even recently repurchased some domain names that I let lapse and then someone else acquired it and they let it lapse…
+
+The first domain name I bought was technicat.com, back in the late 90s, when I was working in the first Internet boom. Eventually I made Technicat my company name and trademarked it (technically, it’s a service mark). I originally wanted technocat.com, because I like technology and cats, but that was taken, and technicat has a nice similarity to technical, so it makes it easy to tell people how to spell it (“It’s technical, but ending with t”). My only complaint is that technicat happens to be a popular bait boat model which I have to compete against in google search results.
+
+Years later, I bought fugugames.com after seeing a Food Network show about fugu, the poisonous puffer fish served as a delicacy in Japan. I had switched to contract work at this time and was trying to do some little games on my own (Java and J2ME), and thought that would make a nice game label. If I had to spin you a story about the name, I’d say that it’s tasty with a hint of danger, but really, I just like the alliteration. I also trademarked Fugu Games and used it as a DBA for a while.
+
+And then due to a lack of imagination I used fugutalk.com for my self-hosted (via Dreamhost) Wordpress blog. I wasn’t really happy with that name, and I let it lapse after moving my operations to Arvixe (and Arvixe domain name management was so bad I had trouble transferring domain names to and from them). It went on to more suitable duty for a web site that was actually about fugu, but there’s nothing like someone else picking up your domain name for you to regret dropping it. So when I saw it was available again, recently, I reregistered it and now it points here, to my Medium blog.
+
+Talkdimsum.com really is food related. That points to the Facebook page of my Talk Dim Sum app.
+
+Slowgamer.com is another domain name I’ve used for my blog and I’ve recently reregistered. I’m a painfully slow gamer, as many of my former gamedev coworkers will attest, but painfullyslowgamer.com is too unwieldy. Current I have it pointing to my Unity Connect profile, which is convenient as Unity Connect currently doesn’t have memorizable URLs.
+
+I recently reregistered illusivity.com, also. Originally it was used in a startup I helped found called Digital Chameleon, but a Washington DC lawyer for a comic book artist in Canada sent us one of those threatening letters about how we were infringing on their trademark, so we just switched our domain to illusivity.com because for some reason I had that in mind (I just think it sounds like a nice name for a 3D tool). The people who told us not to use digitalchameleon.com never bothered to use it themselves, it just ended up with a squatter. But I’ve discovered that no one knows how to spell chameleon, so it was just as well.
+
+I really don’t need more than one game studio label, but I registered and recently reregistered wholebraingames.com. Initially, it was a reaction to the silly left-brain vs. right-brain dichotomy, but I like how it sounds. It kind of has a healthy vibe, like “whole bran.” Maybe it’s just me.
+
+Omoapps.com can be attributed to my kdrama addiction. By now I should be able to understand Korean, but mostly I just recognized keywords like “Omo!”, which seems to be the Korean equivalent of “OMG!” Of course omo.com is taken, but I think Omo Apps would bake a great app brand.
+
+Hyperbowl3d.com, which I used for the HyperBowl Facebook page, was another domain name that didn’t survive the migration to Arvixe, so now I have hyperbowl.rocks (Facebook page), hyperbowl.io (itch.io page), hyperbowl.zone (GameJolt page), and hyperbowl.world (YouTube page) to compensate. I really should just have hyperbowl.com, but that was gone and squatted on before I licensed the HyperBowl IP.
+
+And finally there’s my name, philipchu.com, which points to my about.me page. I would have preferred something shorter like chu.com or philchu.com, but I’ll take it.
