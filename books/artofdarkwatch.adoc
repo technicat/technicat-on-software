@@ -1,9 +1,4 @@
-The Art of Darkwatch
-technicat
-technicat
-Mar 3, 2018 · 2 min read
-Image for post
-Image for post
+= The Art of Darkwatch
 
 I don’t know if it’s my lack of inspiration or the power of twitter, but lately most of my blog ideas have stemmed from twitter threads. The latest was a tweet lamenting the lack of books showcasing the art of video games.
 
@@ -17,8 +12,8 @@ Actually, I was originally contracted to work on the HUD during the final two mo
 
 Here’s the review I wrote on Goodreads a while back:
 
-    As a programmer on High Moon Studio’s Darkwatch video game (PS2 and Xbox) three years ago, I felt obligated to buy this book when I saw it at Comicon this year. Like other concept art treatments (this one comes complete with a Syd Mead intro), it’s lavishly filled with fantastic illustrations of the characters, weapons, vehicles and environment, but as such it discusses the much different original premise of the game (starting with a comic western gambler before evolving into a dark vampire western) and details many of the intermediate artistic directions and practical approaches, e.g. focusing design of pistols from the back, since that’s mostly what you see in a first-person shooter. I’m embarrassed to say I didn’t know half of this stuff, even though I was there. The book even discusses design of HUD elements (the area I spent most of my time on), which is usually considered too mundane for this type of book.
+As a programmer on High Moon Studio’s Darkwatch video game (PS2 and Xbox) three years ago, I felt obligated to buy this book when I saw it at Comicon this year. Like other concept art treatments (this one comes complete with a Syd Mead intro), it’s lavishly filled with fantastic illustrations of the characters, weapons, vehicles and environment, but as such it discusses the much different original premise of the game (starting with a comic western gambler before evolving into a dark vampire western) and details many of the intermediate artistic directions and practical approaches, e.g. focusing design of pistols from the back, since that’s mostly what you see in a first-person shooter. I’m embarrassed to say I didn’t know half of this stuff, even though I was there. The book even discusses design of HUD elements (the area I spent most of my time on), which is usually considered too mundane for this type of book.
 
-    Members of the concept art team at High Moon Studios are profiled here, so it’s great to see a couple of guys I worked closely with, Billy King and Shane Nakamura, featured prominently, and complete game credits are listed in the back, so as a bonus you can find me there in small print.
+Members of the concept art team at High Moon Studios are profiled here, so it’s great to see a couple of guys I worked closely with, Billy King and Shane Nakamura, featured prominently, and complete game credits are listed in the back, so as a bonus you can find me there in small print.
 
 And here’s a quick look at the pages. That twitter thread was right — we should have more game art books.
