@@ -1,0 +1,23 @@
+Slay the Dragon!
+technicat
+technicat
+Feb 13, 2017 · 3 min read
+Image for post
+Image for post
+
+I got around to reading Slay the Dragon! Writing Great Video Games a little while ago because I’m interested in writing, I work in game development, I met one of the authors when he was a producer at Crave Games and I worked on a game and later consulted for them, and the book looked like a bargain when I ordered it from Amazon for around $10.
+
+I’m pleased to say it’s the best game writing book I’ve ever read. It’s also the only one I remember reading, but seriously, I enjoyed the comprehensive nature of the book and the authors’ obvious love of the industry and craft, and I highly recommend it to anyone interested in writing for games, or who’s already a game developer (this is why I try to read about game audio design, cinematography…the more you know about all aspects of gamedev, the better), or even just curious about it. I even sent a copy to my comic book writer sister.
+
+The book also reminds me of my short-lived career as a game writer. And by short-lived, I mean three hours. You know how successful writers often say for real writers it’s an obsession and you have to write every day? That’s not me, unless you count attempts at regular blogging (and that’s more like going to the gym, where it’s more a matter of self-discipline for my own good. Yep, this blog is like 20 minutes on the treadmill). But put me as a consultant on a game project where the lead game designer has left and the studio head wants the existing first two levels of dialogue rewritten from scratch this afternoon before the first playable is submitted to the publisher…instant game writer! (I imagine this is how TV episodes are often written).
+
+Turns out I enjoyed it. It always helps to have a deadline, so no time to worry about how bad I was writing (plus it’s just dialogue, so no tortured prose, just tortured dialogue), just plow through the game and insert dialogue here. I got to hear that tortured dialogue when we actually recorded it in house with members of the gamedev team providing the voices (aspiring writer, meet aspiring voice actors!). It didn’t sound half bad, but I did learn a few lessons:
+
+    Letting the staff provide voiceovers, even temporary ones, is a great team-building activity and a nice break from an otherwise unfun crunch.
+    There’s something to be said for leaving room for actor interpretation, but sometimes it pays to be explicit. One exclamation I put in the dialogue was uttered as a bored monotone, like a recorded subway message.
+    Extroverts make the best screamers (I don’t even remember writing a screaming scene).
+    It’s hard to avoid making exertion noises sound sexual (I’m reminded of a behind-the-scenes clip on a Buffy DVD where Joss Whedon yells at Darla the vampire, “Less orgasmic!”).
+    Someone’s always going to interpret something as homoerotic. My response is that great writing is open to interperation and he who smelt it, dealt it.
+    Expect significant rewrites to accomodate game design changes, even small ones. A minor rearrangement in one level resulted in reordering some dialogue in a way that made no sense.
+
+Alas, the game was cancelled (not due to the writing, I hope), although possibly repurposed and cancelled later, or perhaps even published in some mutated form a lawsuit or two later. In any case, I assume my writing didn’t survive, but if you’ve got a game to ship in a few hours and you need some writing done, drop me a line.
