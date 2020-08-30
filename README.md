@@ -205,6 +205,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Goodbye, Goodreads](social/goodbyegoodreads.adoc)
 
+[Hearts vs Stars](social/hearsvsstars.adoc)
+
 [It's Not GeoSocial](social/geosocial.adoc)
 
 [Social Panhandling](social/socialpanhandling.adoc)
