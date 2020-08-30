@@ -100,6 +100,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Five Design Books](books/fivedesignbooks.adoc)
 
+[The Game Localization Handbook](books/gamelocaliation.adoc)
+
 [Gearheads](books/gearheads.adoc)
 
 [Haunted Empire](books/hauntedempire.adoc)
