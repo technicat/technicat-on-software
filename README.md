@@ -24,8 +24,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Narcissistic Design](software/narcissticdesign.adoc)
 
-[Back It Up: Safe IT Practices](software/backitup.adoc)
-
 [Startup Without Falling Down](software/startupwithoutfallingdown.adoc)
 
 ## Lisp
@@ -36,25 +34,25 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Process
 
-[Agile Isn't](software/agileisnt.adoc)
+[Agile Isn't](process/agileisnt.adoc)
 
-[Don't Juke the Stats](software/dontjukethestats.adoc)
+[The Art of the Schedule](process/artoftheschedule.adoc)
 
-[Lean Agile Scrum Sprints](software/leanagilescrumsprints.adoc)
+[Back It Up: Safe IT Practices](process/backitup.adoc)
 
-[Minimizing Meetings](software/minimizingmeetings.adoc)
+[Chess Moves](software/chessmoves.adoc)
 
-[The Art of the Schedule](software/artoftheschedule.adoc)
+[Don't Juke the Stats](process/dontjukethestats.adoc)
 
-[Minimizing Meetings](software/minimizingmeetings.adoc)
+[Driving Lessons](software/drivinglessons.adoc)
+
+[Lean Agile Scrum Sprints](process/leanagilescrumsprints.adoc)
+
+[Minimizing Meetings](process/minimizingmeetings.adoc)
 
 [QA for Everyone](software/qaforeveryone.adoc)
 
 [Software Remodeling](software/softwareremodeling.adoc)
-
-[Driving Lessons](software/drivinglessons.adoc)
-
-[Chess Moves](software/chessmoves.adoc)
 
 ## Career
 
