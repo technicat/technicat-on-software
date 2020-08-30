@@ -100,7 +100,10 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Demon in the Freezer](books/demoninthefreezer.adoc)
 
+[Electric Dreams](books/electricdreams.adoc)
+
 [Finding Serenity](books/findingserenity.adoc)
+
 
 [Five Design Books](books/fivedesignbooks.adoc)
 
