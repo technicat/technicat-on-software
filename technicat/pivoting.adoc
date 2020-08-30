@@ -1,0 +1,27 @@
+= I’m Pivoting from Game Developer to Food App Developer
+
+I’ve learned a lot from making this app:
+
+For one, I learned some Cantonese, which was my original motivation for building this app. I was consulting on a project in Hong Kong and discovered I don’t know the language (turns out the few phrases I can understand from my parents like “time for dinner” can only get you so far). I started using the Cantonese text-to-speech Voiceover support on my Mac to learn some pronunciation and thought, hmm, it would be cool to use that functionality on my iPhone.
+
+And naturally, I learned about dim sum. I chose dim sum because it was a nice limited domain, and I figured I’d just take some photos once in a while when I went out to dim sum. And in fact, I didn’t go out for dim sum that often for the first few years of the app’s development, even in Hong Kong, but 1) users started asking for specific additions, and 2) I moved to Las Vegas, which has nearly a dozen dim sum restaurants. I learned there are really a lot of dim sum dishes (the app currently has over 150 entries and there’s still plenty to go).
+
+I learned native iOS development. This was another initial motivation, as I was only making mobile apps with Unity and figured I should branch out.
+
+I learned Xamarin, because I didn’t like Objective-C. I wasn’t that excited by C# either, but it’s alright, and I was using C# with Unity, so that’s convenient. Also, F# looked intriguing, but I never got around to that.
+
+I learned Swift, because I figured, after it stabilized somewhat around version 2, Swift is the future. And it’s not Objective-C. And I had some memory management issues with Xamarin. And I was contemplating using Swift in the WordsEye app, so I wanted to try it out on my own app, first.
+
+I learned that it’s easier to get nice reviews from an app if it’s not a game app. I mean, I have some good reviews for HyperBowl, but hard-won, across several app stores and several years. It’s not as bad as the early App Store years when it seemed everyone was a self-designated expert game designer, but it’s still a tough crowd. But for Talk Dim Sum, the ratio of ratings and reviews to downloads is much higher and generally more favorable. Maybe food is a special case. If the end result of an app’s use is a good meal, who wouldn’t give five stars?
+
+I learned that the people most likely to give low ratings to a Cantonese-learning app (partly because the speech is slowed down and uses iOS text-to-speech and not proper recordings) are native Cantonese speakers who emigrated from Hong Kong (but for some reason, my ratings in Hong Kong itself are pretty good). Dude, this app is not for you.
+
+I learned that you don’t really know what features users want until you hear from them. Someone requested a save-favorite-dishes feature, which was fortunate because I was trying to think of a feature I could charge for via an in-app purchase. I had no intention of adding Mandarin speech (I figured you’re only going to hear Cantonese in a Hong Kong-style dim sum restaurant but actually that’s not always true in the US), but someone asked for it. I only implemented maps of restaurant locations because I wanted to learn how to implement maps, and it’s some insurance for getting the app approved (I’ve had apps rejected as “could easily be a web site instead, but if you incorporate Apple Maps we’ll approve it”). But then I got requests to add restaurants in New Jersey, Ottawa, and Houston. I was also holding off on a type-in search feature, because it seemed like a lot of work, but someone requested it, so, oh, all right, I’ll do it (took a few days).
+
+I learned that the stereotype of Canadians being always polite is a myth. Someone in Vancouver was all-caps incensed that I didn’t include restaurants in Vancouver (I still haven’t, but if you want to suggest some favorites, I’ll add them!)
+
+I learned that dim sum is a niche app category. I’m pretty sure my app is tops among dim sum apps, but that’s not actually saying much. There are a few other dim sum apps, and one or two of them are pretty good, but none are actively maintained. I imagine they’re typical cases where they contracted a developer, paid for development of the initial release, and decided not to throw any more money at it. It’s easier for a self-publishing one-person shop like me. I can work on it as long as I feel like it.
+
+I learned that users appreciate frequent updates, especially when they see changes in response to their requests or bug reports. Actually, I knew this already, but it’s more difficult with games, when a user request is “add multiplayer.” And I theorize that users develop more initial interest and a better impression if they see an active version history in the App Store (especially if they’re not boring Facebook-like “Fixed bugs” for each of the releases).
+
+Finally, I learned that if you make an app that you think could be fun and/or useful, even if it’s mostly to learn and not so much that you really really need it for yourself, there’s a good chance others will like it, too.
