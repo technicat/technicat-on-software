@@ -138,6 +138,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Rethinking Narcissism](books/rethinkingnarcissism.adoc)
 
+[The Second Life Herald](books/secondlife.adoc)
+
 [Seinfeldia](books/seinfeldia.adoc)
 
 [Serenity Found](books/serenityfound.adoc)
@@ -155,7 +157,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Thoughts on Design](books/thoughtsondesign.adoc)
 
 [To Engineer Is Human](books/toengineerishuman.adoc)
-
 
 [Ultimate Punishment](books/ultimatepunishment.adoc)
 
