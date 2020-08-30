@@ -1,0 +1,18 @@
+Choose a License
+technicat
+technicat
+Jun 8 · 2 min read
+
+Last week I realized one of the supposedly open source packages I was using for one of my apps via Cocoapods didn’t have an open source license in its github repo. And it hadn’t been updated in several years so probably none was forthcoming (the absence of a License file was actually filed in the repo’s Issues a long time ago).
+
+So I scrambled to replace that package with my own code. That was educational, but also a reminder to check the license of any third-party code you’re using, and also when you “open source” code, make sure you provide a License file specifying that it’s open source, or if not, that it’s not.
+
+Without a license, you have the worst of two worlds: someone decides they can do what they want with the code while no rights have been granted at all.
+
+Github does explain this and offers a convenient license selection option when creating a repo via their web site, right below the option to create a README and next to the option to create a .gitignore.
+Image for post
+Image for post
+
+I wish the order was reversed — leaving out a .gitignore and license file can cause more problems than a missing README! But in any case, there’s no reason to play amateur lawyer and make up your own license — that’s a really bad idea. Pick a license that’s withstood the test of time and been pored over by armies of IP attorneys. Research the available licenses (github has an overview), check the licenses of the software you’re already using, ask your friends…Also, this in-depth, but somewhat dated, book discussing open source licenses is open sourced!
+
+For what it’s worth, I always use the MIT license for code I make public, and most of the packages I use these days seems to be MIT licensed, so I think that’s a safe bet. Watch out for the Unlicense — that actually transfers your work to the public domain and disclaims your copyright interest, so I suggest for starters you go with one of the other licenses first and then you can still change your mind and switch to other licenses.
