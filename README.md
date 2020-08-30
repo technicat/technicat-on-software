@@ -112,6 +112,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Leading Geeks](books/leadinggeeks.adoc)
 
+[Len Deighton](books/lendeighton.adoc)
+
 [Marissa Meyer and the Fight to Save Yahoo](books/yahoo.adoc)
 
 [Masters of Doom](books/mastersofdoom.adoc)
