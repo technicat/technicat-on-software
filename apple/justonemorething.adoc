@@ -1,0 +1,20 @@
+Just One More Thing…
+technicat
+technicat
+Aug 16 · 2 min read
+
+Apple’s reorg of iTunesConnect overall looks nicer, but I’m not sure it’s more organized. The same top tabs are still there, but it took me a while to figure out some of those operations moved to the top-level side menu.
+Image for post
+Image for post
+
+That’s not a big deal, just have to remember what’s where, but a bigger deal is the error I get every time I submit an update.
+Image for post
+Image for post
+
+The question that I didn’t answer is the, basically, “Do you have ads?” question, which, formerly, you were prompted to fill out every time you hit the Submit button. Now you have to remember to select yes/no in the App Information page before you hit Submit, as it doesn’t retain the previous answer (the info.plist property for avoiding that appears to be gone now).
+Image for post
+Image for post
+
+This wouldn’t be so bad if they hadn’t placed this question at the bottom of the page, which takes some scrolling to get to, located below all the questions that I never have to look at.
+
+A better spot would be near the top, along with the version notes that I have to fill out every time. By the way, same goes for selecting a build for the update, but that one you don’t have to scroll down as far, and it’s the first thing I do after initiating an update, not an afterthought. Which is what this looks like. “Oh, we forgot about this screen. Let’s tack it on to the end here.”
