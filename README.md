@@ -22,6 +22,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Design Patters are from Purgatory](software/designpatternsarefrompurgatory.adoc)
 
+[Narcissistic Design](software/narcissticdesign.adoc)
+
 ## Lisp
 
 [I Miss Lisp](lisp/imisslisp.adoc)
