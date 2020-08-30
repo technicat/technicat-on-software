@@ -192,6 +192,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Lone Star](film/whoknewtexansweresodeep.adoc)
 
+[Ronin](film/ronin.adoc)
+
 [Serenity](film/serenity.adoc)
 
 
