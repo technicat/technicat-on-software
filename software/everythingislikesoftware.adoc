@@ -1,0 +1,10 @@
+Everything Is Like Software
+technicat
+technicat
+Dec 31, 2019 · 1 min read
+
+It’s easy to wallow in the woeful state of software development, riddled with bugs, unreliable frameworks, poor specifications, missed schedules…but often I’m reminded that we’re not worse than anything else. Take for example this building maintenance update.
+Image for post
+Image for post
+
+This building has been around ten years and they only just realized they have the above-mentioned water shutoff valves. And then they had to figure out by experimentation what each one turned off (the plumbing equivalent of debugging with print statements). Apparently, even buildings suffer from lack of documentation.
