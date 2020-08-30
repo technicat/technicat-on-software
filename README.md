@@ -58,7 +58,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [My Interviews](career/myinterviews.adoc)
 
-# Social Media
+## Social Media
 
 [Block Is My Favorite Feature](social/blockismyfavoritefeature.adoc)
 
