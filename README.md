@@ -26,6 +26,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Back It Up: Safe IT Practices](software/backitup.adoc)
 
+[Startup Without Falling Down](software/startupwithoutfallingdown.adoc)
+
 ## Lisp
 
 [I Miss Lisp](lisp/imisslisp.adoc)
