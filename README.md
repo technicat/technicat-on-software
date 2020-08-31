@@ -177,9 +177,11 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Firefly](tv/firefly.adoc)
 
-[The Man in the High Castle](tv/maininthehighcastle.adoc)
-
 [Conversations with Creators](tv/conversationswithcreators.adoc)
+
+[Eureka](tv/imisseureka.adoc)
+
+[The Man in the High Castle](tv/maininthehighcastle.adoc)
 
 
 ## Film
