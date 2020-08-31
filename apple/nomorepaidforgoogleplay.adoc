@@ -1,0 +1,22 @@
+No More Paid for Google Play
+technicat
+technicat
+Aug 22, 2015 · 2 min read
+
+I already decided quite a while ago that I wouldn’t bother deploying any more paid apps on Google Play.
+
+    Sales are few, much fewer than on iOS.
+    Of those sales, there is an annoying amount of whining: “I paid $.99 for this three years ago and now I want my money back” and “If I don’t get the changes I want in a week I’m going to give you a one-star rating.” (That last one was emailed, so thank you Google for requiring publicly-displayed email addresses) I used to see that kind of stuff on the App Store, but it seems to have become more civilized in the past few years.
+    Google Play doesn’t allow you to buy your own apps, so I can’t easily test a purchased app (not an issue with iOS), at least not without another account running on another device.
+    Finally, ridiculous piracy. Every time I update the paid version of HyperBowl on Google Play, within 24 hours, googling for HyperBowl shows it on dozens of pirate sites (and yes, aptoide, that includes you).
+
+Image for post
+Image for post
+
+I did have this problem on iOS for a while, where someone was releasing cracked versions of the game within hours of each update, but either Apple’s protection improved or the kid went off to school.
+
+And while I’m almost flattered, that means out of the 200+ active installs (500+ total sales) of HyperBowl Pro on Google Play, a significant fraction is pirating or complaining how I’m screwing “loyal users,” so I threw a fit of pique in my latest update notes, announcing I’m not going to update the paid version of the app, anymore (and we’ll see if the guy who complained about my update notes will notice).
+
+Of course, I could try adding a Google Play license check, but after scanning the README of some sample code, that’s another potential headache, as it doesn’t look like a quick integration with Unity, not to mention testing that it really does work after it’s deployed.
+
+But I do have loyal users (I usually hear from them on the Facebook group), and the ratings are higher than the much-more-downloaded free version, so maybe I’ll give it a whirl at some point. After I make some more free apps.
