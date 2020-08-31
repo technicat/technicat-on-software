@@ -1,0 +1,12 @@
+The Resolution Center
+technicat
+technicat
+Jan 4, 2017 · 1 min read
+
+The thing I hate about going to the Resolution Center, besides having to go to the Resolution Center, is that it displays text like the old Blackberry pagers: four lines at a time.
+Image for post
+Image for post
+
+The summary at left looks scrollable but isn’t. I think it’s supposed to be truncated, but there’s no indication it’s truncated. The full detail at right is often not scrollable until I resize the window (shrink, since this is full screen on my MacBook Pro), so one time I complained back to them that they gave me no information. When it does scroll, you have to scroll carefully and at length, as it will typically cite paragraphs of the Apple Review Guidelines.
+
+Maybe it’s better on a Mac with a bigger screen. Or different browser (this is Safari). But the developer forum has got issues, too, so I don’t think they put their best web developers on the developer stuff.
