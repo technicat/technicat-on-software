@@ -1,0 +1,14 @@
+HyperBowl.IO
+technicat
+technicat
+Nov 23, 2016 · 1 min read
+Image for post
+Image for post
+
+A man’s gotta know his limitations. In my case, one of those limitations is web design. Actually, it’s not so much design as implementing the design (It’s not that hard to think of something cool — making it real is the hard part).
+
+Anyway, I decided that the HyperBowl itch.io page does most of what I was trying to do with a pile of PHP, so I’m making that my main HyperBowl site. I also like GameJolt, which has earned me a few dollars in ad-share revenue, but itch.io has app store badges.
+
+For HyperBowl, the App Store, Google Play, and Amazon Appstore badges are in use. Badges for the Windows Store and Steam are also available (and I hope to get to those eventually!)
+Image for post
+Image for post
