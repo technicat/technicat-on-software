@@ -1,0 +1,18 @@
+HyperBowl on the Mac App Store
+technicat
+technicat
+Nov 7, 2015 · 2 min read
+Image for post
+Image for post
+
+HyperBowl is now on the Mac App Store and it only took four years. What took so long?
+
+Well, my first attempt was a fiasco. The reviewer kept sending it back because of fullscreen issues (he was able to mess it up by changing back from fullscreen just as the game was switching levels) and enough other stuff where I felt he was doing his best to find reasons to reject it.
+
+So then I did the rational thing and ranted to the avenue of last resort, the review board, and they called me up to say it was too much like the iOS version of HyperBowl and I should start again from the ground up. Never mind that the iOS version is actually a port of the desktop version (which is a port of the arcade version…) Anyway, that just reinforced my impression that sometimes they’ve just made up their mind, or maybe they just don’t like being ranted to.
+
+Rather than start from the ground up, my strategy is to wait until everyone who’s reviewed your app moves onto another job. Four years should do the trick. Also, Apple stopped charging a separate developer fee for the Mac App Store, so my lapsed account is now active again, and why not try another submission?
+
+So I did, it got rejected for a fullscreen behavior I could not reproduce, deja vu, I waited another couple of months until I could build again with a Unity release that listed a fullscreen fix in its release notes, and whaddya know, it’s on the store!
+
+Now, time to get cracking on an update. Not because I need to fix anything, but because I forgot to change the four year old app description (even the link to the game web site is out of date), and for some reason the Mac App Store description can only be changed for a new version. Mac App Store, I just can’t quit you.
