@@ -1,0 +1,12 @@
+= Keeping Your User Interface Light
+technicat
+technicat
+Nov 22, 2019 · 1 min read
+
+Dark mode in iOS 13 was warmly welcomed by many users, but it did mess up some apps, including a couple of mine that would end up with dark text and dark icons on top of dark backgrounds in dark mode.
+
+Apple has plenty of instructions on how to implement dark mode in your app but I had to google around for a quick fix. And the quickest fix is to set UIUserInterfaceStyle to Light in the app’s info.plist.
+Image for post
+Image for post
+
+This just tells iOS to party like it’s iOS 12 and let the app run like there’s no dark mode. In other words, don’t mess with my user interface colors!
