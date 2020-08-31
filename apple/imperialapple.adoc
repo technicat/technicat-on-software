@@ -1,0 +1,9 @@
+= Imperial Apple
+
+I’ve often complained about the hoighty-toighty tone of App Store rejections, but even this upload warning manages to sound a bit overlordish.
+Image for post
+Image for post
+
+And it’s their fault they released an unusable Xcode, so it seems to me the message should read something like “Sorry about that last Xcode release. Would you mind terribly downloading Xcode 11.2.1?”
+
+But it’s Apple, so iSubmit.
