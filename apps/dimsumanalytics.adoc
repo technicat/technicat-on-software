@@ -1,0 +1,14 @@
+Dim Sum Analytics
+technicat
+technicat
+Nov 24, 2016 · 2 min read
+
+In my last update of the Talk Dim Sum app, I added Firebase analytics. I don’t have comprehensive coverage of the app, yet, but it does tell me which dishes are most frequented. And so far, the winner (if you can’t read Chinese), is chow mein. Which seems kind of like a dull choice. But then second place is dau fa, which is a bit more unusual (in fact, I’m not sure I ever had it until a recent dim sum lunch with a Taiwanese-American friend who likes that dish).
+Image for post
+Image for post
+
+Also, while I expected most of the users to be in the US, I’m surprised that the second most are in Hong Kong, the dim sum capital of the world. I assumed everyone in Hong Kong knows this stuff, already.
+Image for post
+Image for post
+
+But actually, I was pleased to see even my Taiwanese-American friend used my app to point out a dish to the waiter, since not even all Mandarin speakers know the Cantonese names for dim sum. So that might explain it. And the numbers are small, so hopefully I’m have more to work with later. In the meantime, enjoy your chow mein and dau fa.
