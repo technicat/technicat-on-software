@@ -12,8 +12,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [BBN Culture](software/bbnculture.adoc)
 
-[The History of Programming](software/historyofprogramming.adoc)
-
 [It's the User Interface](software/itstheuserinterface.adoc)
 
 [So You Have an App Idea](software/soyouhaveanappidea.adoc)
@@ -232,7 +230,17 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Explore with Twitter](social/explorewithtwitter.adoc)
 
+## Personal
+
 [Yeah I'm Introverted](books/yeahimintroverted.adoc)
+
+## History
+
+[A Farewell to Floppis](history/floppies.adoc)
+
+[The History of Programming](software/historyofprogramming.adoc)
+
+
 
 
 
