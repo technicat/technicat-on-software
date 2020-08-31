@@ -1,0 +1,14 @@
+Unreal Trello
+technicat
+technicat
+Jun 21, 2019 · 1 min read
+
+I keep talking about trying out some different game engines, and Unity’s support for Aptoide might have finally pushed me over. Today I looked into Godot and Unreal (I suppose there’s still CryEngine but it doesn’t seem to have that much momentum these days).
+
+Godot is appealing because it’s open source, and the workflow looks interesting (lot of similarities to Unity, I think), but they don’t have an FBX importer and I have lots of FBX if I want to try porting HyperBowl to it.
+
+Also, Tim Sweeney seems cool (in comparison to John Riccitiello — not that I know the guy, but I saw an interview where he disparaged Epic, which made me want to switch to Epic. Way to go).
+
+So I’m leaning toward Unreal. I’ve worked with Unreal before, so it’s not as exciting as trying something completely new, but it’s been a while (I was using Unrealscript which is no longer), and I need to do some refreshing.
+
+Their online documentation has an old web feel to it, but their Trello board looks good!
