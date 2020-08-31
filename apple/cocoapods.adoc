@@ -1,0 +1,27 @@
+= CocoaPods
+
+I’m getting my Swift act together and using CocoaPods instead of manually copying files into my Xcode project. First, you need to install CocoaPods by typing this in your Terminal shell:
+
+sudo gem install cocoapods
+
+and to update an existing CocoaPods installation:
+
+sudo gem update cocoapods
+
+Browse cocoapods.org to find pods of interest. For each pod, if you hit the Expand button and then Installation Guide, the required Podfile entry is displayed.
+Image for post
+Image for post
+
+Create the Podfile in the directory of your Xcode project, with the same first three lines and with the pods you chose. Note that use_frameworks! is required for Swift pods, as they must be incorporated as frameworks rather than static libraries.
+
+source ‘https://github.com/CocoaPods/Specs.git'platform :ios, ‘8.1’use_frameworks!pod ‘Google’pod ‘SwiftyUserDefaults’, ‘~> 1.3’pod ‘KeychainSwift’, ‘~> 2.0’pod ‘Locksmith’, ‘~> 1.2’pod ‘SwiftyJSON’, ‘~> 2.2’pod ‘SlideMenuControllerSwift’, ‘~> 1.2’pod ‘SwiftOverlays’, ‘~> 0.14’
+
+Then build/rebuild the workspace by going back to the Terminal, cd to the directory containing the Podfile, then type this:
+
+pod install
+
+This generates an Xcode workspace file, which from now on you must open instead of the project file. Now when you open the workspace, you’ll see the pods:
+Image for post
+Image for post
+
+If you add more pods or need to remove a pod (e.g. if it doesn’t compile properly), just edit the Podfile accordingly and run install, again. Enjoy your CocoaPods!
