@@ -1,0 +1,32 @@
+Apple Reviewspeak
+technicat
+technicat
+Apr 25, 2017 · 3 min read
+
+Just in case you’ve been laboring under this misconception, the App Store approval process is not so much a review by a jury of celebrity judges like on a reality show – it’s really more like getting processed by a clerk at City Hall. Which makes sense, if you think about how many apps get submitted and updated every day.
+
+With most apps, it works out OK. Even in the cases of app rejection, I could read between the lines and discern the underlying company agenda. Like when they took two months to review and reject an app because of “not enough functionality”, I presumed it was really due to the dancing female silhouette in the app. A year later, after they instituted an official nudity policy, it was accepted.
+
+And when they started rejecting apps I created with a certain middleware, saying “could be implemented as a web app”, it was well known they were cracking down on that type of middleware. And this was during the troublesome introduction period of Apple Maps, so they qualified “but we’ll accept it if you integrate Apple Maps”.
+
+The big problem is with games. I don’t know if it’s because the reviewers expect games to be like applications, or if they’re wanna-be game designers like users who go “I don’t like this, but it’d be great if you had this…”, or maybe sometimes it’s one or the other.
+
+Case in point: my first attempt at a tvOS app, the reviewer rejected it because the background image didn’t cover the entire screen and then sent me a bunch of guidelines and links about how to make a “delightful” iOS app. I didn’t see a guideline about that, but fine, I changed the background to cover the entire screen, and this time it was rejected for having a static background. I pointed out that I didn’t see this requirement in the guidelines, either, and if the requirement was to change the aspect ratio (portrait to landscape) of the 3D window, I’d have to redesign many of the 3D environments.
+
+Instead 0f a confirmation, I got this response.
+
+    We understand that it can be difficult to determine what the best experience is to offer your users.
+
+    While there isn’t one set answer that works for every app, the following iOS development videos offer great information for helping understand how your app can provide a great user experience:
+
+It’s like a game designer married a corporate lawyer and had a baby.
+
+Now, I’d pretty much given up on this app by now, but as a minor moral victory I just wanted them to say specifically what it is they want instead of playing guess-what-number-I’m-thinking, so I pressed for a confirmation that they wanted the 3D view to cover the whole screen:
+
+    Thank you for inquiry. While your suggestion of making the 3D view fullscreen appears to be in compliance; we are not able to provide endorsement or pre-approval to developers for proposed application ideas or concepts without reviewing the app itself.
+
+    Each application is unique and we would need to look at all its features, and complexity to be able to give you an answer. Therefore, we recommend that you resubmit your application for review.
+
+The traditional publisher-studio model of game development has its painful aspects, but I do appreciate some things, now. Like the concept preapproval, and how at least they’re paying you instead of you paying them while their QA tortures you. This process, in contrast, is like, hmm, I don’t like this, no that’s not it, either, I’ll know it when I see it, never mind just redo the whole thing (literally, the previous time this happened, they called me up to say “start over from the ground up.”)
+
+Not to sound defeatist, it’s my experience that as the saying goes, you can’t fight City Hall. But you can blog about it.
