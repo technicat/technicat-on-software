@@ -1,0 +1,28 @@
+Unity Piracy Platform
+technicat
+technicat
+Jun 14, 2019 · 2 min read
+
+I saw a tweet by Unity about their Unity Distribution Platform, which sounds convenient: one-stop distribution to a variety of app stores. But the UDP page advertises “Publish to Aptoide” as one of the features, via Catappult.
+Image for post
+Image for post
+
+I hate Aptoide. To clarify, it’s a piracy site. I removed my paid version of HyperBowl from Google Play because it was regularly, and by regularly I mean automatically, uploaded to Aptoide every time I updated it (and before you piracy apologists tell me how I should be happy about that and it will increase my sales, it didn’t and shut up). I just checked, and they’re still there.
+Image for post
+Image for post
+Image for post
+Image for post
+
+Aptoide provides a “feature” that scrapes the app screenshots and description from Google Play, minus the original publisher and developer info of course, so one consolation is that my complaint about the app being pirated on Aptoide got copied, too.
+Image for post
+Image for post
+
+The Aptoide page has some options for reporting problems with the app, but being pirated is not one of them.
+Image for post
+Image for post
+
+So I emailed them, and they suggested I create an account with them so they could verify I was the original developer. I did, and they didn’t, and the pirated apps are still there, but at least I’m in good company.
+Image for post
+Image for post
+
+Meanwhile, Unity, do you actually check on these things? Partnering with companies that base their business model on app piracy is not a good look. Get out of the gutter with these people.
