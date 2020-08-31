@@ -1,0 +1,27 @@
+Medium Stats
+technicat
+technicat
+Sep 24, 2019 · 2 min read
+
+For a while, my “featured” Medium story was a compilation of my most popular Medium stories, as listed in my Medium stats.
+Image for post
+Image for post
+
+The ones with the most “fans” are largely essays, with a couple of tips on working with Xcode mixed in.
+
+But the number of fans is a less meaningful stat now that Medium has moved to claps, which isn’t shown in the stats (and by the way, on mobile you can’t even sort the stats at all — it just shows most recent, which is not that useful if you have more than a few stories).
+
+So just now I tried sorting by number of views, and I was surprised to see the mix is quite different, with many many more views of the iOS dev tips. Which seems to indicate things like making splash screens and icons, and preserving spaces in app names, are hot topics.
+Image for post
+Image for post
+
+This is even more pronounced when sorting by number of reads (I’m not clear on what constitutes a “read” — in some cases, I’ve had stories that had more reads than views!).
+Image for post
+Image for post
+
+Just for completeness, here’s the sort by read ratio. Honestly, I think that’s pretty useless. It’s going to be highest for the least-viewed stories.
+Image for post
+Image for post
+
+But I guess it guarantees you have to have at least one view, or it’s infinity and beyond!
+
