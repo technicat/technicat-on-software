@@ -1,0 +1,16 @@
+My New Old Articles
+technicat
+technicat
+Oct 1, 2015 · 2 min read
+
+Trashing my old technicat site (the domain now points to this Medium account) unfortunately broke links, and traffic, to my semi-popular articles, some written over ten years ago. Now they’re all here on Medium, and by far the most popular one on this new platform so far has been I Miss Lisp, with over nine thousand views (I’m surprised there are that many Lisp enthusiasts, or even programmers who’ve heard of Lisp, but you never know what’ll catch on in Reddit).
+Image for post
+Image for post
+
+The historically best-received article (and the first one I wrote on my old technicat site), Seven Habits of Highly Effective Programmers, is now a distant second, but has been inching up, recently (that’s a bit of an exaggeration —maybe “nanometering up”).
+
+As proof of its former popularity, I can point to some complimentary reviews, such as from Jeff Atwood of Stack Exchange fame, a few authorized reprints, and even one ripoff. There are also same or similarly-titled lists that are otherwise entirely different, and we probably all independently riffed off the title of the Stephen Covey book. But as far as I can tell from googling, mine was the first (don’t think “obsolete”, think “Mythical Man-Month classic”). Accept no substitutes.
+
+My second-most formerly popular article, What I Learned@MIT is now down the list a bit further. That one also got a boost in digg and/or reddit and even a reprint in an online MIT Entrepeneurship magazine. But my MIT days were long ago, so I don’t know how well that article matches up with the school today (the male-female ratio has improved a lot).
+
+There’s plenty more (I have a fondness for the management article with Star Trek references), but I’ll wait until they climb the charts….
