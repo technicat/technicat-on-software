@@ -1,0 +1,26 @@
+FPS Graphing
+technicat
+technicat
+Sep 11, 2017 · 2 min read
+
+When I took over for the original lead programmer on the HyperBowl attraction game over fifteen years ago, one of the first things I did was to add an on-screen frame rate display. I wish I had a screenshot — it was an obvious kludge using a copy of the timer display for the FPS.
+
+I like to see the frame rate as I’m developing and testing a game, and as soon as you see it dip somewhere, you know you need to fix something immediately if you want to stay under your target frame rate.
+
+And it’s much more effective to give the artists and designers an on-screen FPS display than to keep verbally reminding them, hey, restrain yourselves! (the sixth HyperBowl lane was something like five times bigger poly-wise than the first lane). It’s kind of like those street signs that show how fast you’re going and tell you to slow down when you exceed the speed limit.
+
+When I started working on the Unity reimplementation of HyperBowl, I just used a simple script that displays the FPS in a GUIText, like the ones in the Unity wiki. The problem with just seeing a number is that you don’t see the continuous behavior and might miss some spikes and dips in performance. So I made an FPS graph with the original Unity GUI (also in the wiki and on the Unity Asset Store)
+
+I don’t use the old Unity GUI, anymore (and for that matter, GUIText is old stuff), but there are some spiffier alternatives on the Asset Store. For example, there’s a free one called FPS Graph Analyzer (and a $2 version which supports HoloLens). It’s easy to use, just drag a prefab into the scene, adjust the size as necessary, and instant frame rate bar graph!
+Image for post
+Image for post
+
+For $5, you can get more features and a fancier display with FPS Graph, such as audio feedback of the performance.
+Image for post
+Image for post
+
+It also displays CPU and render time.
+Image for post
+Image for post
+
+I ran it though all of the original HyperBowl lanes on my iPhone as an exercise in confirming Moore’s Law. When I started the Unity implementation of HyperBowl eight years ago, I could barely make the smallest lane run at 15fps. Now, everything runs fairly consistently at 60fps!
