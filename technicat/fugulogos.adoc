@@ -1,0 +1,27 @@
+Fugu Logos
+technicat
+technicat
+May 29, 2015 · 2 min read
+
+I’ve received some compliments on the logo for Fugu Games, so I thought it might be instructive to show the intermediate versions created by Shane Nakamura of Shane Nakamura Designs before the final version.
+
+After asking me some questions to figure out what I was trying to communicate in a logo, Shane came up with a first pass of various ideas. He deliberately left them uncolored to avoid “coloring” my perceptions of these possible directions.
+Image for post
+Image for post
+
+I really liked the cute round fugu character - I think it communicates the playfulness appropriate for computer video games (especially since I’m making casual, non-violent games). And I preferred the one with the vertical aspect ratio - I can’t really articulate why except that the border and lettering have a nice clean look.
+
+But I also thought the side profile looked beautiful, in particular the one with the background that gave it a sort of classic Asian art look. So Shane made second pass with both logos in various colors.
+Image for post
+Image for post
+
+In the end, I chose the cute guy (Shane suggested the name “Fugu Phil”), for the Fugu Games logo and registered that as a trademark. I think that was the right choice, as I received good comments when I submitted the logo to the IGDA studio affiliate site.
+Image for post
+Image for post
+
+The side profile is more common among other products that use the “fugu” name. But Shane’s version is much better-looking than any of those, so I asked him for a final version of that one too, just in case I could find a use for it. I was thinking maybe t-shirts, coffee mugs, but it turns out the aspect ratio makes it perfect for the background splash/loading image on my Unity web games.
+Image for post
+Image for post
+
+    Logo Design
+    Fugu Games
