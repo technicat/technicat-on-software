@@ -1,0 +1,11 @@
+Unity Feed Is Finished
+technicat
+technicat
+Jan 4, 2017 · 1 min read
+
+“You have not updated this app in a significant amount of time.” This is the message I got in the Resolution Center notifying me my Unity Feed app will be removed if I don’t update it.
+
+Without any other reason, seems a bit ageist to me, but I don’t really mind, as I created this app with one of those generate-an-app-from-RSS-feed web sites (before Apple cracked down them, saying not enough functionality, consider making a web app, but if you start using MapKit we might change our mind), and I don’t have any way of updating it.
+
+I would actually like to replace it with a coded-from-scratch version that includes a way to view your Unity Analytics and Unity Ads performance. But the existing app has a weird app ID, so I’ll just wait until Apple expunges it, then create a new one. At least that’s the plan. In the meantime, it still works, mostly, and it’s still useful. I can see I’m way behind on reading the Unity blog.
+Image for post
