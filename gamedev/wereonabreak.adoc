@@ -1,0 +1,28 @@
+We’re On a Break
+technicat
+technicat
+Sep 30, 2019 · 4 min read
+
+In my early days of using Unity, I was paying about $1500 every couple of years to upgrade my licenses, and how times have changed: in recent years I’ve been using it free or subscribing to their Team Advanced services for a few dollars a month (and older, venerated engines like Unreal and CryEngine have had to follow suit).
+
+Still, I was happy to pay that scrappy game engine company those upgrade fees, while now Unity has turned into a company that’s like, well, other big companies that you use because it seems you have to.
+
+I feel it all started with hiring a big-shot from EA to run the company, then the subsequent push into subscriptions and services, and now I can’t turn off those marketing messages, even though I’ve selected this:
+Image for post
+Image for post
+
+This year, the company entered prime time ick territory with a sexual harassment complaint in the upper echelons of management. Less disturbing, but I find it insulting, is their Unity Distribution Portal partnership with Aptoide, a “we’re really a developer platform!” piracy site which already hosts multiple copies of my game (regularly updated until I just gave up on the paid version HyperBowl on Google Play). So they’re offering a service where I can compete against pirated versions of my own app. Thanks!
+
+Aside from offended sensibilities, as a practical matter I’ve found Unity increasingly unreliable. I like the idea of their services, notwithstanding my lack of enthusiasm about that emphasis. Unity Ads was a convenient replacement for the defunct iAds and the terrible AdMob, and if you’re going to watch ads, trailers for other games is generally pretty entertaining, but now revenue is way down and I haven’t seen ads show up in new builds (which is why I stopped updating the remaining free version of HyperBowl on Google Play, but I’ve left it there as the existing version is still serving ads).
+
+Unity Ads as an operation doesn’t seem organized. For example after a spate of Apple rejections due to inclusion of Google Play badges in ads, they required advertisers to create platform-specific versions of each ad, and then a year later they apparently forgot and the rejections started happening again. And I had to argue with them about it on the Unity forum that yes, this happened before and will happen again (Google and Amazon similarly reject app submissions containing any evidence of the competition as “irrelevant”).
+
+Forum support varies among the services. Unity Collaborate and Cloud Build have very good developer responses, and they’ll even respond to complaints on twitter. But they’re still unreliable services. I signed up for Team Advanced because my project is too big for github or bitbucket, but I’ve had at least one project repo just disappear from the services dashboard (I suspect this was due to their internal migration to a git-based system). So I still have numerous copies of my project scattered over my hard drives. That’s so 1990’s, man (I was using zip drives then).
+
+I like the idea of Cloud Build too, as a way to avoid listening to my old MacBook Pro fan whine for hours, but the builds often time out, or have different (faulty) behavior from my local builds, and then you have to wonder if the problem is in the build process or if it’s just not saved right in Collaborate.
+
+For example, my most recent attempt at cloud builds exhibited missing meshes, which looked exactly like mesh references that got disconnected after a Unity update earlier this year. I fixed it back then by manually and laboriously reattaching those meshes, but this time the local project is still building fine, so I figured it’s a cloud problem, who cares, I’ll just top using cloud build. Unless it’s a problem with Collaborate, in which case I better make a a backup right now.
+
+And thus for a while the only Unity service I still had activated was Unity Analytics, just because I need Analytics to include the Unity Privacy Plugin in my apps to avoid Apple and Google rejections for transmitting data and making advertising IDs available even though it’s not me, it’s Unity.
+
+That last project backup turned out to be a good idea, since with the latest Unity update those meshes dropped out again (that pre-upgrade popup telling you to back up your project first, they really mean it). I really don’t feel like reattaching them again or diagnosing the problem, so I think that time is better spent, or at least more enjoyably spent, looking at all those other old game engines (and new ones, like Godot). For now, Unity and I are on a break.
