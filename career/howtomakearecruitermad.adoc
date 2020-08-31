@@ -1,0 +1,16 @@
+How to Make a Recruiter Mad
+technicat
+technicat
+Apr 12, 2017 · 2 min read
+
+As a general rule, I try to avoid writing How/Where/What/Why titles (among the top stories in my feed: “How to Make a Web Crawler in Swift”, “What to do if no one reads what you write”, “What’s a Photo Worth?”, and “Where is the Smurf’s Nostalgia?”), but I’m making an exception here.
+
+It’s been a while since I’ve received recruiter spam, which I hope is not a sign that I’m obsolete but rather due to me removing my LinkedIn account, my LinkedIn email, my old github email, and the email I had listed on my resume (I’m still amazed that recruiters who got my email off my resume would ask me for my resume).
+
+Now I kind of wish I’d kept their emails as a Shit Recruiters Say type of list. There were some fun snippets like “Contact us when you’re serious about finding a job,” and “If you don’t call us every two weeks, we’ll forget about you.”
+
+But if you put a little effort into it, you can get a gem. First, when they ask for a Word version of your resume, as they invariably do, even when they must have your resume because you talked to them before and that’s why you’re on their mail list and got the email saying you’re perfect that job, say “Never mind. Thanks for your time.” Then, when they say OK, they can deal with it (hopefully they mean copy-and-paste), but why won’t you give them a Word resume? then say “I’m not interested. Please take me off your email list.” And watch (read) the resulting recruiter meltdown.
+
+    I don’t understand, are you being angry because I asked for a resume? What did I do wrong? You’re trying to make me regret asking you for a word version. Everyone does that. You’re being a jerk and not willing to compromise. I don’t get what your problem is. You’re being rude. You don’t respond that way to a simple request like I did something wrong. You owe me an apology. That was way out of line.
+
+And as long as you don’t reply, you’ll get followups in this vein. Until you email the support address on the recruiting firm web page and ask them to get that idiot to stop.
