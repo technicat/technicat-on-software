@@ -1,21 +1,10 @@
-A Farewell to Floppies, or A Flash from the Past
-technicat
-technicat
-Apr 24, 2017 · 3 min read
-
-(missing images and video)
+= A Farewell to Floppies, or A Flash from the Past
 
 A while ago I was digging through my box of HyperBowl hardware (related to the original attraction game), I found this 3.5" floppy disk.
-Image for post
-Image for post
 
 It’s been a while since I’ve seen one of those, so I posted it on the HyperBowl Facebook page and jokingly explained that this was, in quotes, a “floppy disk.” But someone responded in all apparent sincerity that he’d been wondering why save icons looked that way. Like this one from google material design:
-Image for post
-Image for post
 
 So, young ‘uns, gather around, and let me tell you a story. When I started programming, it was on computers like these at the Computer History Museum (in fact, these were the first three models I programmed on, that order, left to right).
-Image for post
-Image for post
 
 Back then, there were no USB flash drives or rewriteable CDs and DVDs (actually, there was no USB. But we did have music CDs. Vinyl was dead, they said). But desktop computers didn’t have hard drives, either, so you had to save and run your programs from something removable.
 
