@@ -1,0 +1,22 @@
+My Social Media
+technicat
+technicat
+May 14, 2016 · 3 min read
+
+Last week, as a refreshing change of pace from offers to sell me skinnable code, I got a real “Love your game!” message on the HyperBowl facebook page.
+Image for post
+Image for post
+
+At just over 800 fans, or likes, or whatever they’re calling it these days, the HyperBowl facebook page is my most successful social media site (unless you count my twitter feed with just over 1000 followers). It was the first facebook page I set up, and I feel a bit guilty about blasting invites to my friends, but that did jump-start the count, and then somewhere after the 500 mark there was a surge of likes from the Phillipines, for some reason. The count actually peaked around 900, until facebook did some pruning using some criteria I still don’t know about.
+
+I also have pages for Fugu Games and Technicat, to keep brands distinct, but they have far fewer followers, so I don’t know if that was a good idea.
+
+I have fugugames.com pointing to tumblr and moved my old self-hosted blog there, but it’s not a good writing platform, and it’s a lot easier to get hearted by posting images and reblogging. I get the feeling there’s not much innovation going on there since Yahoo acquired it, besides putting more ads in and pushing increasingly useless notifications to the iOS app.
+
+In contrast, I can see Medium is constantly experimenting. Recently, I just noticed the icons at top right appear to increase in size from left to right, which I assume is deliberate and…interesting. The app is pretty, too. And it’s a great writing platform, similar to the bare-bones writing apps for iOS that pretty much have a blank screen and nice fonts and let you have at it before losing everything in iCloud. For a while I was even using Medium as my main word processor, until it occurred to me I would still like the option of writing if I didn’t have wifi around.
+
+But there are instances where it seems form gets in the way of function. For example, the only way I see to organize my articles is to put them in publications, and I only created three publications because that’s all they will list in your profile. It’s not easy to browse and search among your own articles. There’s no RSS support (I don’t know if they just don’t feel it’s important or if they have some kind of design objection to it).
+
+And my feed is pretty uninteresting. It improved a bit after I experimented with not following any tags or anyone who has more than a thousand followers (I know, that’s a weird heuristic). But I still rarely read articles straight from my feed.
+
+Perhaps issues like these are limiting Medium as a social media platform. According to my stats page, I have one article that was viewed like gangbusters and not so much for the rest. But still Medium is my current blogging platform, and I have technicat.com redirecting to it (tumblr does a better job of making it easy assign a custom domain name). Because it’s so easy and comfortable to just sit down and write in it. Like this article.
