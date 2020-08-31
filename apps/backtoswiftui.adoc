@@ -1,0 +1,10 @@
+Back to SwiftUI
+technicat
+technicat
+Jun 6 · 1 min read
+
+I decided to get back to migrating my Talk Dim Sum app to SwiftUI and immediately realized why I’ve been putting it off. It’s a lot of work!
+
+The declarative UI code is beautiful (if I say so myself), but there’s still a very beta feel to it (I forgot about the 10-view limit) and there’s still a lot of stuff I have to figure out how to do (i.e. google for), like how to support or replace attributed text.
+
+But in the end, the most complicated stuff is in the text-to-speech and the speech-to-text code, and the screen itself is a delight (if I say so myself). It also shows off the variety of Apple’s SF Symbols.
