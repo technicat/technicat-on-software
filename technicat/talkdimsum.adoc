@@ -1,0 +1,20 @@
+Talk Dim Sum
+technicat
+technicat
+Aug 6, 2015 · 2 min read
+Image for post
+Image for post
+
+If I were to wax eloquent, I’d claim I make apps like a gardener, planting seeds and watching them grow. But actually I have the opposite of a green thumb (I once spent a week watering a fake plant while housesitting, as the real plants withered), and really, I just try out things at random and figure out what to do with them once they’re released. I’m not recommending this as a methodology, but the nice thing about being indie is you get to do whatever you feel like (as long as you get a paying contract once in a while).
+
+Take this dim sum app, for example. I got the idea for it during a six-month stint in Hong Kong, where I tried to learn Cantonese through a combination of Google Translate and the Cantonese text-to-speech on OSX. When I realized Cantonese was also available on iOS (whereas Android just has Mandarin), somehow I thought an app that uttered the names of dim sum would be cool. Mostly, I just wanted to see if it would work, but I did think of all the Cantonese-challenged people trying to order dim sum.
+
+Initially, I went with my default Fugu Games naming system and called the app Fugu Dim Sum (it works for Ford), and spent a few updates just adding dishes. But Fugu Dim Sum sounds like some kind of bizarre Japanese poisonous puffer fish dumpling, and recently I had a little bit of an epiphany and remembered the original idea of the app — helping you speak enough Cantonese to order dim sum. So I renamed it Talk Dim Sum.
+Image for post
+Image for post
+
+And I added a list of associated Cantonese words, the idea being you’ll see how those words are used in and with the names of various dim sum.
+Image for post
+Image for post
+
+Continuing in this vein, along with more words and dishes, I’d like to add more useful phrases, like whaddya want to eat, whaddya want to drink, how many seats, and where’s the bathroom? Basically, everything I had to learn while dining in Hong Kong’s food courts. So if I were to rewind the story and come up with a postmortem that features me with a plan, it would be this how-to-order-food pedagogical approach. Dig in.
