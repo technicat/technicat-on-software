@@ -1,0 +1,24 @@
+Unity Sketchfab
+technicat
+technicat
+Dec 23, 2015 · 3 min read
+
+During my last ritual sifting through free packages on the Unity Asset Store, I noticed there’s an export-to-Sketchfab plugin for Unity. I’ve been pretty impressed with Sketchfab and wanted to showcase some HyperBowl models, so I gave it a whirl.
+
+There was just one glitch upon import, because I already have at least one plugin with a JSON class that conflicts with the use of SimpleJSON in the Sketchfab plugin (Unity really should have a built-in JSON class that everyone can use).
+Image for post
+Image for post
+
+But that’s not too hard to fix, I just changed two references of JSON.Parse in SketchfabExporterWindow.cs to SimpleJSON.JSON.Parse. Once that was resolved, the Export to Sketchfab command appeared in the Windows menu of the Unity Editor. Invoking that, brings up this window:
+Image for post
+Image for post
+
+There’s no need to fill in the Title, Description or Tags — those can be can be edited at your leisure on the Sketchfab web site once the upload is complete. The two things you have to do are select the root GameObject in your scene of what you want uploaded, and fill in the API Token, which is listed in your Sketchfab account Settings. Unfortunately, the token is not saved by the plugin, so if you’re doing a lot of uploads to Sketchfab, keep your Sketchfab Settings web page up for handy cut-and-pasting.
+
+Maybe my first attempted upload was too large (the HyperBowl Mushroom lane), as a got a Bad Request error after a while, but then I started small, with the logo and trophy scenes, and some of the original smaller lanes.
+Image for post
+Image for post
+
+There are a couple of noticeable problems. One harkens back to a quick fix I made several years ago when I started porting HyperBowl to Unity. After three passes at exporting from the original HyperBowl game into Unity via a jury-rigged FBX exporter I threw together just for that, I realized the texture coordinates were flipped so all textures displayed upside-down. I couldn’t stand the thought of doing another export-import pass, so I just set negative uv scaling on any material where the issue was obvious (mostly, anything with text). Unfortunately, Sketchfab doesn’t yet support uv transforms, so, not for the first time, I regret my clever hack.
+
+The other issue is transparency. Sketchfab does have support for transparency and some tips on troubleshooting transparency, but I have yet to get that to work (and I’m not going to muck around with my Unity scenes just for the Sketchfab export, at the risk of messing up the game itself). I did get some quick responses on twitter, including from the Sketchfab founder/CEO, so that’s impressive. Kind of reminds me of the early days of Unity.
