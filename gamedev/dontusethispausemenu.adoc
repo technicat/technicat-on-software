@@ -1,0 +1,364 @@
+Don’t Use This Pause Menu
+technicat
+technicat
+Sep 5, 2015 · 7 min read
+
+Back in the ancient days of Unity, which was just a couple of years ago, I had a little pause menu script implemented with the original UnityGUI system that I posted on the Unity wiki and the Unity Asset Store ) and now it’s also on github)
+
+Now that the old UnityGUI has been supplanted by the new uGUI, I don’t recommend using UnityGUI at all, but still it seems some people are using it, and occasionally I still get questions about how to to tweak it, but often from people who’ve made not attempt to understand how the script works (and then they ask, why doesn’t this work?)
+
+In an attempt to get people to actually understand the script before trying to customize it, I wrote this cursory explanation (and you can see a nice thing about the old GUI system was that you could write your entire UI in a single script!):
+
+Starting out, here’s a page from the menu that uses the UnityGUI to display credit text, a movie texture, and a button to exit.
+Image for post
+Image for post
+
+The script is attached to the main camera (in the screenshot below, the pause menu script is named “Options.js”.
+Image for post
+Image for post
+
+Our pause menu has actually has three menus — the main menu, and two child menus. So we have four possible “pages”, including none.
+
+enum Page {
+	None,Main,Options,Credits
+}private var currentPage:Page;
+
+The game is paused by setting the time scale to zero, pausing the audio listener, enabling the sepia tone filter (if available) and setting the current page to the main pause menu.
+
+private var savedTimeScale:float;
+private var pauseFilter;function PauseGame() {
+	savedTimeScale = Time.timeScale;
+	Time.timeScale = 0;
+	AudioListener.pause = true;
+	if (pauseFilter) pauseFilter.enabled = true;
+	currentPage = Page.Main;
+}
+
+The game is unpaused by reversing all that. We also have a little kludge to detect if this is the first time we’re unpausing and activating some other game object.
+
+var start:GameObject;function UnPauseGame() {
+	Time.timeScale = savedTimeScale;
+	AudioListener.pause = false;
+	if (pauseFilter) pauseFilter.enabled = false;
+	currentPage = Page.None;
+	if (IsBeginning() && start != null) {
+		start.active = true;
+	}
+}private var startTime = 0.1;function IsBeginning() {
+	return Time.time < startTime;
+}
+
+For anything that is not time dependent, e.g. code that checks for input (if all input was disabled, then you couldn’t operate this pause menu!), you can check if the timeScale is zero to determine if you’re in a paused state.
+
+function IsGamePaused() {
+	return Time.timeScale==0;
+}
+
+For example, I don’t remember why this is here (probably a workaround for a Unity webplayer bug, possibly gone now), but the OnApplicationPause callback makes sure the AudioListener is paused if the game is paused.
+
+function OnApplicationPause(pause:boolean) {
+	if (IsGamePaused()) {
+		AudioListener.pause = true;
+	}
+}
+
+In the Start function, we initialize an array which we’ll use to optionally display an FPS graph, make sure the current time scale is normal, obtain the sepia tone filter from the camera which we’ll activate when paused, and then start the game in a paused state.
+
+function Start() {
+	fpsarray = new int[Screen.width];
+	Time.timeScale = 1.0;
+	pauseFilter = Camera.main.GetComponent(SepiaToneEffect);
+	PauseGame();
+}
+
+This wouldn’t be much of a pause menu if it only paused at the start of the game, so in LateUpdate we check if the ESC key was pressed. If so, we pause the game, if it’s not already paused, or if it’s paused, either unpause it if we’re on the main pause menu or if we’re on one of the secondary pause menus, go back to the main menu.
+
+function LateUpdate () {
+	if (showfps || showfpsgraph) {
+		FPSUpdate();
+	}
+	if (Input.GetKeyDown("escape")) {
+		switch (currentPage) {
+			case Page.None: PauseGame(); break;
+			case Page.Main: if (!IsBeginning()) UnPauseGame(); break;
+			default: currentPage = Page.Main;
+		}
+	}
+}
+
+To actually display the pause menu, we need an OnGUI callback. This checks if the game is paused, and if so, figures out which menu page we’re on, and renders it. If an alternative GUI skin is available, we apply that first (in the screenshots below, we use the Necromancer GUI, available free on the Asset Store).
+
+var skin:GUISkin;function OnGUI () {
+	if (skin != null) {
+		GUI.skin = skin;
+	}
+	ShowStatNums();
+	ShowLegal();
+	if (IsGamePaused()) {
+		GUI.color = statColor;
+		switch (currentPage) {
+			case Page.Main: PauseMenu(); break;
+			case Page.Options: ShowToolbar(); break;
+			case Page.Credits: ShowCredits(); break;
+		}
+	}	
+}
+
+Before displaying the menu, we do a “legal” check to see if the game is running from a web site that it’s not supposed to, in which case we display a gentle reminder in the form a GUI label with the web site they’re supposed to go to.
+
+function ShowLegal() {
+	if (!IsLegal()) {
+		GUI.Label(Rect(Screen.width-100,Screen.height-20,90,20),
+		"fugugames.com");
+	}
+}function IsLegal() {
+	return !IsBrowser() || 
+	Application.absoluteURL.StartsWith("http://www.fugugames.com/") ||
+	Application.absoluteURL.StartsWith("http://fugugames.com/");
+}
+
+The main menu has buttons for Play/Continue, the two child menus, and if running in a browser, Restart (which reloads the web page).
+Image for post
+Image for post
+
+var url = "unity.html";
+
+function PauseMenu() {
+	BeginPage(200,200);
+	if (GUILayout.Button (IsBeginning() ? "Play" : "Continue")) {
+		UnPauseGame();
+
+	}
+	if (GUILayout.Button ("Options")) {
+		currentPage = Page.Options;
+	}
+	if (GUILayout.Button ("Credits")) {
+		currentPage = Page.Credits;
+	}
+	if (IsBrowser() && !IsBeginning() && GUILayout.Button ("Restart")) {
+		Application.OpenURL(url);
+	}
+	EndPage();
+}
+
+The BeginPage/EndPage functions are convenience functions for automatic layout of the menu according to the screen/window size and displaying a Back button in the child menus that returns to the main menu.
+
+function BeginPage(width,height) {
+	GUILayout.BeginArea(Rect((Screen.width-width)/2,(Screen.height-height)/2,width,height));
+}
+
+function EndPage() {
+	GUILayout.EndArea();
+	if (currentPage != Page.Main) {
+		ShowBackButton();
+	}
+}
+
+function ShowBackButton() {
+	if (GUI.Button(Rect(20,Screen.height-50,50,20),"Back")) {
+		currentPage = Page.Main;
+	}
+}
+
+For our browser check, we use some convenience functions for determining the current platform.
+
+static function IsDashboard() {
+	return Application.platform == RuntimePlatform.OSXDashboardPlayer;
+}
+
+static function IsBrowser() {
+	return (Application.platform == RuntimePlatform.WindowsWebPlayer ||
+		Application.platform == RuntimePlatform.OSXWebPlayer);
+}
+
+The credits page is pretty simple. Just arranges a list of GUI labels displaying the contents of an array of text and an array of icons.
+
+var credits:String[]=[
+	"A Fugu Games Production",
+	"Programming by Phil Chu",
+	"Fugu logo by Shane Nakamura Designs",
+	"Copyright (c) 2007-2008 Technicat, LLC"] ;
+var crediticons:Texture[];
+
+function ShowCredits() {
+	BeginPage(300,300);
+	for (var credit in credits) {
+		GUILayout.Label(credit);
+	}
+	for (var credit in crediticons) {
+		GUILayout.Label(credit);
+	}
+	EndPage();
+}
+
+The Options page is more involved. It features a toolbar implemented with four tabs - Audio, Graphics, Stats and System.
+
+private var toolbarInt:int=0;
+private var toolbarStrings: String[]= ["Audio","Graphics","Stats","System"];
+
+function ShowToolbar() {
+	BeginPage(300,300);
+	toolbarInt = GUILayout.Toolbar (toolbarInt, toolbarStrings);
+	switch (toolbarInt) {
+		case 0: VolumeControl(); break;
+		case 3: ShowDevice(); break;
+		case 1: Qualities(); QualityControl(); break;
+		case 2: StatControl(); break;
+	}
+	EndPage();
+}
+
+When the Audio tab is selected, the a slider for volume control is displayed.
+Image for post
+Image for post
+
+function VolumeControl() {
+	GUILayout.Label("Volume");
+	AudioListener.volume = GUILayout.HorizontalSlider(AudioListener.volume,0.0,1.0);
+}
+
+when Device is selected, some system info is displayed using GUI labels.
+
+function ShowDevice() {
+	GUILayout.Label ("Unity player version "+Application.unityVersion);
+	GUILayout.Label("Graphics: "+SystemInfo.graphicsDeviceName+" "+
+	SystemInfo.graphicsMemorySize+"MB\n"+
+	SystemInfo.graphicsDeviceVersion+"\n"+
+	SystemInfo.graphicsDeviceVendor);
+	GUILayout.Label("Shadows: "+SystemInfo.supportsShadows);
+	GUILayout.Label("Image Effects: "+SystemInfo.supportsImageEffects);
+	GUILayout.Label("Render Textures: "+SystemInfo.supportsRenderTextures);
+}
+
+When Qualities is selected, the current render quality is displayed, and also some buttons for increasing and decreasing the current quality setting.
+Image for post
+Image for post
+
+This function displays the current quality level. Starting with Unity 3.5, the number and names of quality settings can be customized.
+
+function Qualities() {
+  GUILayout.Label(QualitySettings.names[QualitySettings.GetQualityLevel()]);
+}
+
+And this function provides two buttons the decrease and increase the current quality settings, respectively.
+
+function QualityControl() {
+	GUILayout.BeginHorizontal();
+	if (GUILayout.Button("Decrease")) {
+		QualitySettings.DecreaseLevel();
+	}
+	if (GUILayout.Button("Increase")) {
+		QualitySettings.IncreaseLevel();
+	}
+	GUILayout.EndHorizontal();
+}
+
+And finally, when the Stats display is active, a number of checkboxes are displayed for toggling various stats displays.
+
+private var showfps:boolean;
+private var showtris:boolean;
+private var showvtx:boolean;
+private var showfpsgraph:boolean;function StatControl() {
+	GUILayout.BeginHorizontal();
+	showfps = GUILayout.Toggle(showfps,"FPS");
+	showtris = GUILayout.Toggle(showtris,"Triangles");
+	showvtx = GUILayout.Toggle(showvtx,"Vertices");
+	showfpsgraph = GUILayout.Toggle(showfpsgraph,"FPS Graph");
+	GUILayout.EndHorizontal();
+}
+
+Here’s the code for updating and displaying the FPS graph.
+
+private var gldepth = -0.5;
+
+var mat:Material;
+
+private var fpsarray:int[];
+private var fps:float;
+
+function FPSUpdate() {
+	var delta = Time.smoothDeltaTime;
+		if (!IsGamePaused() && delta !=0.0) {
+			fps = 1 / delta;
+		}
+}
+
+
+function OnPostRender() {
+	if (showfpsgraph && mat != null) {
+		GL.PushMatrix ();
+		GL.LoadPixelMatrix();
+		for (var i = 0; i < mat.passCount; ++i)
+		{
+			mat.SetPass(i);
+			GL.Begin( GL.LINES );
+			for (var x=0; x < fpsarray.length; ++x) {
+				GL.Vertex3(x,fpsarray[x],gldepth);
+			}
+		GL.End();
+		}
+		GL.PopMatrix();
+		ScrollFPS();
+	}
+}
+
+function ScrollFPS() {
+	for (var x=1; x < fpsarray.length; ++x) {
+		fpsarray[x-1]=fpsarray[x];
+	}
+	if (fps < 1000) {
+		fpsarray[fpsarray.length-1]=fps;
+	}
+}
+
+Here’s the code for updating and displaying the object status
+
+var statColor:Color = Color.yellow;
+
+var lowFPSColor = Color.red;
+var highFPSColor = Color.green;
+
+var lowFPS = 30;
+var highFPS = 50;
+
+private var tris = 0;
+private var verts = 0;
+
+function ShowStatNums() {
+	GUILayout.BeginArea(Rect(Screen.width-100,10,100,200));
+	if (showfps) {
+		var fpsString= fps.ToString ("#,##0 fps");
+		GUI.color = Color.Lerp(lowFPSColor, highFPSColor,(fps-lowFPS)/(highFPS-lowFPS));
+		GUILayout.Label (fpsString);
+	}
+	if (showtris || showvtx) {
+		GetObjectStats();
+		GUI.color = statColor;
+	}
+	if (showtris) {
+		GUILayout.Label (tris+"tri");
+	}
+	if (showvtx) {
+		GUILayout.Label (verts+"vtx");
+	}
+	GUILayout.EndArea();
+}
+
+function GetObjectStats() {
+	verts = 0;
+	tris = 0;
+	var ob = FindObjectsOfType(GameObject);
+	for (var obj in ob) {
+		GetObjectStats(obj);
+	}
+}
+
+function GetObjectStats(object) {
+	var filters : Component[];
+	filters = object.GetComponentsInChildren(MeshFilter);
+	for( var f : MeshFilter in filters )
+	{
+    	tris += f.sharedMesh.triangles.Length/3;
+  		verts += f.sharedMesh.vertexCount;
+	}
+}
