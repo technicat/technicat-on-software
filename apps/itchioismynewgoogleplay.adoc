@@ -1,0 +1,14 @@
+Itch.io Is My New Google Play
+technicat
+technicat
+Feb 5 · 2 min read
+
+If you browse my apps on itch.io you may notice that they all have Android downloads.
+Image for post
+Image for post
+
+This is because I wanted my itch.io portfolio to include everything fit for publication, and almost everything that was runnable at all happened to have an APK still lying around because I originally tried to deploy everything on Google Play (with the exception of a few iOS-only apps).
+
+But the apps started dropping out of Google Play because of new store requirements, ads stopped working so there’s no revenue, anyway, Google Play mandates apps are released as always free or always paid, and my paid app was constantly pirated, so I gave up on that, and ironically the Google Play web page doesn’t display well on mobile screens so I ended unpublishing everything except HyperBowl, which might drop out anytime now because of a new 64-bit support requirement.
+
+So, like I planned it this way, itch.io is my new Google Play. Come by to see all my Android apps! And this way I don’t have to deal with all the signing issues and figuring out how to monetize with ads, in-app purchases, or sales on Google Play (and also all the spam from Google Play requiring a publicly listed email address). It’s wonderfully freeing to just give up on getting rich from app dev. Although you’re still welcome to pay what you want on itch.io!
