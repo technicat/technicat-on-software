@@ -1,0 +1,21 @@
+HyperBowl Turns Twenty-Something
+technicat
+technicat
+Jan 3 · 2 min read
+
+It’s been over twenty years since HyperBowl appeared at the opening of the Sony Metreon (now just Metreon) in 1999.
+Image for post
+Image for post
+
+That was big HyperBowl, controlled trackball style with real bowling balls and displayed on tall projection screens, supporting up to four players per game alternating rolls like in a real bowling alley.
+
+Two decades later, HyperBowl is running on small screens, like on this iPod touch.
+Image for post
+Image for post
+
+It’s iOS instead of Windows 98, Unity game engine replacing the original home-grown engine, swiping the screen instead of the rolling the ball, but the same audio, textures, and models (exported from the original game, which was a whole software development project in itself). And people still like it, even new players. Here’s the latest review from the App Store.
+Image for post
+Image for post
+
+I’m happy to see multiplayer is still an attractive feature, as I considered dropping it to simplify the interface! Good to keep in mind, as HyperBowl as been on Unity for over ten years now (almost as long as Unity has been available for iOS) and I think it’s time for another makeover. Maybe Unreal, but we’ll see. And I hope that lasts another ten years!
+
