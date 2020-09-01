@@ -1,0 +1,18 @@
+Sparking Joy for 2020
+technicat
+technicat
+Jan 1 · 2 min read
+Image for post
+Image for post
+
+Every new year I vow to lose a few pounds, but I’m going into the new decade lighter in other ways. This past year, I managed to disentangle myself from the Facebook empire, closing my WhatsApp, Facebook, and Instagram accounts (I hesitate to say “deleting” since I’m not confident my data is really deleted). I also deleted my tumblr account, but that’s more cleanup than protest.
+
+The cleanup extended to my app portfolio. For now, I’ve abandoned my original vision of publishing dozens, even hundreds, of apps, because it turns out it’s a lot of work maintaining apps, none of the app stores does a good job of displaying more than a few apps on small and narrow screens, and I’m tired of Google Play notifications about how I need to update the store info for each app.
+
+So, I’m just keeping HyperBowl on all the app stores, and on the App Store (which will display a whopping three apps on an iPod touch screen) also Talk Dim Sum and Fugu Maze. Talk Dim Sum is an active project and (barely) revenue-generating projct, and Fugu Maze has decent ratings and also sentimental value as my first iOS app back in 2008 and the one that gave me a false sense of optimism with twenty thousand downloads in its first few days (and then just a trickle after I started charging for it). But everything that still runs is on itch.io, which does a fine job of showing many apps on any screen, so, portfolio!
+
+Finally, and another reason I dropped a bunch of apps, I dropped Unity. Not just stopped using it, but even deleted my Unity account (so I stop reflexively browsing the Unity forums and checking for new Unity versions). Maintaining my Unity apps has been a slog this year, keeping up with new Unity versions, and many of my apps are still in now-unsupported Unityscript. The biggest pain has been intermittent trashing of mesh references in HyperBowl, which is the only Unity app I care about.
+
+That’s manually fixable, and I’ve done it twice already, but it’s made me consider I’ve been using Unity since version 1.5 and I’d like to spend some time with other engines, and what with things like the sexual harassment suit, the migration to subscriptions and services (of varying quality and reliability), and partnering with a pirate site that already has multiple copies of my apps, Unity under the Riccitiello era is just another big corporation with some cool engineers you can find on twitter but not particularly likeable management.
+
+So 2020 will find me more on twitter and pinterest, maybe using Unreal or some other engine (Godot looks fun), and walking around at my recommended BMI. That’s the plan. Hope for joy!
