@@ -1,0 +1,45 @@
+UnityNativeGallery
+technicat
+technicat
+Sep 8, 2019 · 3 min read
+
+Sometimes I implement an app feature not because I think anyone will want it, but just to try something out, and then it turns out at least some people like it and then I’m stuck with it.
+
+One example is the restaurant maps for Talk Dim Sum. I just wanted learn how to add maps to an app (partly because Apple once rejected some of my apps for being not app enough but suggested “Now, if you added an Apple map…”). Then users started requesting their local restaurants, so now I’ve scoured Yelp listings of dim sum restaurants in all fifty US states and every province in Canada.
+
+Another one is the custom ball feature in HyperBowl. I was playing around with Unity plugins from Prime31 at the time and thought using the camera/gallery feature to use a photo as the bowling ball texture would be gimmicky but fun. But then users would complain if the functionality was broken or that it was unavailable on some platforms (still only mobile!).
+
+So the ball photo feature has turned into a long term maintenance task. I gravitated to the open source unImgpicker for a while, but recently I’ve had trouble with Android builds, and then I found another open source package UnityNativeGallery that seems to be more actively maintained (listed as NativeGallery on the Unity Asset Store, which is an added convenience for integration and updates).
+
+I’ve been using UnityNativeGallery for a couple of weeks and it looks good so far. It worked fine on iOS right off the bat, and I got it to run on Android after turning off ProGuard (found that resolution in the repo Issues, open source for the win!).
+
+My “take photo” button calls the plugin function with this script, which brings up the native iOS or Android photo chooser and selects a photo from the camera or photo gallery.
+
+NativeGallery.GetImageFromGallery( (string path) =>
+ {
+ StartCoroutine(LoadImage(path));
+ }, 
+ “Choose a custom ball texture”, “image/*”, -1 );
+
+That’s really the only new code I needed to add. The coroutine called after the image is selected is the same code I was using for the other photo plugins. It loads the image from the file where it’s saved and then calls a script that is attached to the bowling ball to apply the image as the bowling ball’s texture.
+
+private IEnumerator LoadImage(string path)
+ {
+ var url = “file://” + path;
+ var www = new WWW(url);
+ yield return www; var texture = www.texture;
+ if (texture == null)
+ {
+    Debug.LogError(“Failed to load texture url:” + url);
+ } else {
+    photoApply.textureLoaded(texture);
+ }}
+
+I tested it with a picture of a book cover I took at the neighborhood bookstore (children’s books have the best covers!).
+Image for post
+Image for post
+
+And here’s how it looks on my bowling ball!
+Image for post
+Image for post
+
