@@ -1,0 +1,28 @@
+More Self-Published Books
+technicat
+technicat
+Aug 10, 2019 · 2 min read
+
+I’ve been getting notices about an updated ToS from Google Play Books, so I figured I might as well publish my self-published book, Technicat on Software, there.
+
+I’m guessing I signed up for Google Play Books some time ago and didn’t publish for some reason, but this time around it was pretty straightforward: uploaded a file, choose a cover, and specify the pricing and distribution.
+
+Well, the second time around, anyway. The site flagged my first upload for some epub markup it didn’t like, so I reexported my book from Apple Pages and it was fine, except I didn’t see any way to replace the old upload with the new upload and eventually just deleted the first book submission and started from scratch. And then there’s a several-day “account approval” period after hitting the publish button, but now my book is on Google Play Books.
+Image for post
+Image for post
+
+And here’s how it looks when reading on a desktop browser. Also looks fine on my Android phone.
+Image for post
+Image for post
+
+In the process, I added a couple of new chapters to the book, and while I was updating the kindle version, I saw Amazon moved their print-to-order option, formerly available from CreateSpace, in-house.
+
+It’s a simple process: upload the file (in my case an epub), select or provide a cover image, select the book size and price and other distribution details, and before publishing, you can order a draft copy to review (or for others to review). Of course, you have to pay for it.
+Image for post
+Image for post
+
+After checking that the draft copy didn’t look terrible (it could probably use some different fonts, though, and reformatting so that it fits in a smaller book format), I went ahead and published it.
+Image for post
+Image for post
+
+There’s an actual printing cost, about $3, which is why it’s priced a couple of dollars more than the kindle version.
