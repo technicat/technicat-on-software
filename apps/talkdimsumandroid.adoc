@@ -1,0 +1,16 @@
+Talk Dim Sum is on Android
+technicat
+technicat
+Jan 24 · 2 min read
+
+After occasional prompting and finally settling on Flutter for implementation, I felt the Android version of Talk Dim Sum was getting close to a releasable state. It’s still not as polished as the iOS version (although the perhaps unsurprisingly, the Google Maps restaurant display is better than the Apple Maps display), but it’s useful enough that I now refer to it regularly on my phone when I go out for (real) Chinese food.
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+
+My original plan was to launch it on Google Play and make tons of money, but then I’d have to integrate in-app purchases and figure out why Google Play is saying the app is not signed correctly. So, for now at least, it’s just on itch.io.
