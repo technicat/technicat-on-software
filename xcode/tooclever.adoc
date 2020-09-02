@@ -1,0 +1,18 @@
+Xcode Is Too Clever
+technicat
+technicat
+Nov 25, 2019 · 2 min read
+
+Xcode groups are deceptive. They look like folders but they’re not folders, which you realize as soon as you look at your project directory in the Finder and see all your files jumbled together.
+
+I recently decided my source code and JSON files shouldn’t all be mingled in the same directory (especially when I’m copying the data files in from elsewhere), so I started moving them to real folders using the Xcode option New Group with Folder. But at some point that disappeared and New Group without Folder appeared in its place.
+Image for post
+Image for post
+
+It seems reasonable to assume that now New Group means New Group with Folder, but that’s just a reasonable assumption, it’s hard to know for sure what’s going on. I did find an explanation on StackOverflow (sorry, didn’t save the link, but I googled something like “xcode new group with folder vs new group without folder”).
+Image for post
+Image for post
+
+Now, I think this is Xcode trying to be too clever. This behavior doesn’t save you any time, as you still have to pick one of two menu options. And it probably costs you time: if you don’t notice the change you’ll pick the wrong option, and if you do notice the change you’ll waste time googling to figure out what happened.
+
+Just New Group with Folder and New Group without Folder without ever renaming them or swapping them around would be clear and predicatable.
