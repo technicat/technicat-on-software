@@ -1,0 +1,26 @@
+Big Print Xcode
+technicat
+technicat
+Nov 9, 2019 · 2 min read
+
+My vision has never been that great (I was that kid with the coke-bottle glasses), but it’s incrementally gotten worse over the years, enough so that now I always check out the big print section of the library.
+
+It’s even worse when trying to distinguish the Chinese characters embedded in the JSON files of my dim sum app. So I tweaked the Xcode font preferences.
+Image for post
+Image for post
+
+That did the trick, but Xcode apparently got confused and my code looked like this
+Image for post
+Image for post
+
+So rather than tweak all the individual font options, I figured the most expedient path is to switch to another theme for a comprehensive adjustment, and the theme with “Large” in its name seemed like a good candidate
+Image for post
+Image for post
+
+But that’s really large (Presentation Huge might be a better name), and I’m coding with a small laptop screen, so I tried the non-large presentation theme.
+Image for post
+Image for post
+
+And that’s just about right.
+Image for post
+Image for post
