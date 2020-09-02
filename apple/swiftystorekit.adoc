@@ -1,0 +1,14 @@
+SwiftyStoreKit
+technicat
+technicat
+Dec 17, 2017 · 1 min read
+
+Now that I’m using Swift, I make a point of trying out any Cocoapod that starts with Swifty. The latest one I found is SwiftyStoreKit, naturally a Swift wrapper around Storekit, Apple’s in-app purchasing API (An IAP API, get it?)
+
+IAP is one of my least favorite areas of app development, and Storekit has got some awkward stuff like overloading SKPaymentQueue.add to both register observers and queue payments.
+
+Here’s what my purchase code in Talk Dim Sum looks like using SwiftyStoreKit, when a user opts to “go pro”:
+
+func buy() {   NetworkActivityIndicatorManager.networkOperationStarted()   SwiftyStoreKit.purchaseProduct(IAP.pro, atomically: true) { result in   NetworkActivityIndicatorManager.networkOperationFinished()   switch result {      case .success(let purchase):       if (purchase.productId == IAP.pro) {        setPro()        }        if purchase.needsFinishTransaction {            SwiftyStoreKit.finishTransaction(purchase.transaction)         }       case .error(let error):          switch error.code {            case .unknown: SwiftyBeaver.info(“Unknown error. Please contact support”)            case .clientInvalid: SwiftyBeaver.info(“Not allowed to make the payment”)case .paymentCancelled: SwiftyBeaver.info(“Payment cancelled”)            case .paymentInvalid: SwiftyBeaver.info(“The purchase identifier was invalid”)            case .paymentNotAllowed: SwiftyBeaver.info(“The device is not allowed to make the payment”)            case .storeProductNotAvailable: SwiftyBeaver.info(“The product is not available in the current storefront”)            case .cloudServicePermissionDenied: SwiftyBeaver.info(“Access to cloud service information is not allowed”)            case .cloudServiceNetworkConnectionFailed: SwiftyBeaver.info(“Could not connect to the network”)            case .cloudServiceRevoked: SwiftyBeaver.info(“User has revoked permission to use this cloud service”)}}}}
+
+Pretty simple, and half the code is just logging reasons why the purchase didn’t complete. And as you can see, the logging is performed by another Swifty package, SwiftyBeaver.
