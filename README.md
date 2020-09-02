@@ -12,17 +12,19 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [BBN Culture](software/bbnculture.adoc)
 
-[It's the User Interface](software/itstheuserinterface.adoc)
-
 [So You Have an App Idea](software/soyouhaveanappidea.adoc)
 
 [Programmer's Don't Lie](software/programmersdontlie.adoc)
 
 [Design Patters are from Purgatory](software/designpatternsarefrompurgatory.adoc)
 
-[Narcissistic Design](software/narcissticdesign.adoc)
-
 [Startup Without Falling Down](software/startupwithoutfallingdown.adoc)
+
+## Design
+
+[It's the User Interface](design/itstheuserinterface.adoc)
+
+[Narcissistic Design](design/narcissticdesign.adoc)
 
 ## Lisp
 
@@ -68,13 +70,17 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [So You Want to Make a Game](gamedev/soyouwanttomakeagame.adoc)
 
-[How I Met Unity](gamedev/howimetunity.adoc)
-
-[HyperBowl on the Small Screen ](gamedev/hyperbowlonthesmallscreen.adoc)
-
 [Taking a Whirl Tour](gamedev/takingawhirltour.adoc)
 
 [Where's My Name?](gamedev/wheresmyname.adoc)
+
+## HyperBowl
+
+[HyperBowl on the Small Screen ](gamedev/hyperbowlonthesmallscreen.adoc)
+
+# Unity
+
+[How I Met Unity](unity/howimetunity.adoc)
 
 ## MIT
 
