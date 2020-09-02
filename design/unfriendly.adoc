@@ -1,0 +1,10 @@
+An Unfriendly Error Message
+technicat
+technicat
+Aug 30, 2019 · 1 min read
+
+I ran into this error message on iTunesConnect.
+Image for post
+Image for post
+
+A simple back button resolved it, but I’ve got to say, that text looks like it came right out of a hostile immigration policy. Apple likes to preach “delightful” user experiences, but that applies to pleasant prose, not just fancy animated UI.
