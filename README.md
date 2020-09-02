@@ -76,7 +76,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## HyperBowl
 
-[HyperBowl on the Small Screen ](gamedev/hyperbowlonthesmallscreen.adoc)
+[HyperBowl on the Small Screen ](hyperbowl/hyperbowlonthesmallscreen.adoc)
 
 # Unity
 
