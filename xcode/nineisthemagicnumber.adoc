@@ -1,0 +1,22 @@
+Nine Is The Magic Number, On the App Store
+technicat
+technicat
+Dec 23, 2018 · 2 min read
+
+When I started publishing apps (nearly ten years ago!), my goal was to have a hundred apps on the App Store. These days, I’m looking for any excuse to remove apps.
+
+For a while, my rule was to remove any app that I’m not actively developing, but right now that would leave me with just two apps. So the number I’ve settled on for the moment is nine, because that’s the maximum number of apps visible on a developer page in the App Store as shown on this 12" iPad Pro.
+Image for post
+Image for post
+
+Of course, you can have more, but the user has to swipe/scroll right to see them. This works a lot better in landscape orientation, as on this 9" iPad Pro.
+Image for post
+Image for post
+
+But at a quick glance, a user might not realize there might be more content off to the right. Ever since Apple decided scrollbars are unsightly, I’ve often failed to realize there’s more content waiting for me below the screen, and scrolling horizontally is even more unintuitive. And even if a user knows there might be more content off-screen, chances are they won’t bother if they’re just casually checking out the developer’s profile.
+
+So I figure if I limit myself to nine apps, then I know the user will see all of them when they visit my developer page. Although I haven’t checked it on an iPhone. Even portrait orientation on a 9" iPad Pro really only shows six apps, but at least it’s more obvious there are more apps on the side.
+Image for post
+Image for post
+
+But what a waste of screen space!
