@@ -1,0 +1,14 @@
+The New New TestFlight
+technicat
+technicat
+Sep 29, 2015 · 1 min read
+
+It’s not as dramatic as when Apple bought, dumped, and replaced Testflight with Apple Testflight, but the new Xcode version and iTunesConnect revamp requires some adjustment in submitting Testflight builds.
+
+The first, and worst (because it took me three days to figure this out), is that none of my Testflight uploads showed up in iTunesConnect until I unchecked the “Include bitcode” checkbox presented when you hit the Upload button:
+Image for post
+Image for post
+
+Another thing that had me spinning my wheels for a while — once you successfully upload a build, it no longer automatically shows up in the External Tester build list. You have to click the Add Build button and then fill out the release info for that build. And after that, select the newly visible build as the active one.
+
+This fairly quick release process is contingent upon a trick I discovered a while ago and still appears to be true — you can avoid the Apple review process for your Testflight release if you just increment the build number and keep the version number unchanged, and select No for the question about whether you made any significant changes.
