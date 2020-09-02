@@ -1,0 +1,40 @@
+Clean Your Unity Defs
+technicat
+technicat
+Jun 27, 2019 · 2 min read
+
+One neat thing about Unity Cloud Build is you can specify custom preprocessor definitions for a build configuration.
+Image for post
+Image for post
+
+These defs are the same as the ones you can list in the Player Settings for each target platform.
+Image for post
+Image for post
+
+One thing to watch out for, though, is that the defs in UCB are added to those in Player Settings (this is not true for the custom scene list, which if not blank will override the Build Settings list of scenes).
+
+So if I’m working on my machine with it configured for one of my Steam builds with the STEAM def listed in Player Settings, save the project changes and commit them to Unity Collaborate, then start one or more UCB builds, they will build with the STEAM def regardless of whether any custom defs are specified.
+
+So I have to remember to manually empty the Player Settings defs for each target platform before committing to Collaborate, which is tedious, and I always forget.
+
+But it can be scripted, at least to some extent, via PlayerSettings.SetScriptingDefineSymbolsForGroup. I added these functions to one my Unity Editor scripts.
+
+static public void ClearScriptingDefines(BuildTargetGroup targetGroup) {
+ PlayerSettings.SetScriptingDefineSymbolsForGroup(targetGroup,””);
+ }static public void ClearAllScriptingDefines() {
+ ClearScriptingDefines(BuildTargetGroup.Standalone);
+ ClearScriptingDefines(BuildTargetGroup.WebGL);
+ ClearScriptingDefines(BuildTargetGroup.Android);
+ ClearScriptingDefines(BuildTargetGroup.iOS);
+ ClearScriptingDefines(BuildTargetGroup.tvOS);
+ ClearScriptingDefines(BuildTargetGroup.WSA);
+ }[MenuItem (“FuguGames/Version/Clear Defines”)]
+ static void ClearDefines() {
+ ClearAllScriptingDefines();
+ }
+
+Now I can use a custom menu item to clear all my preprocessor defs before saving and committing changes before a build.
+Image for post
+Image for post
+
+If I remember, that is. The code is available in my github repo of Editor scripts.
