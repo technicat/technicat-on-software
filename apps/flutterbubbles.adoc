@@ -1,0 +1,24 @@
+Flutter Bubbles
+technicat
+technicat
+Feb 26 · 2 min read
+
+As I gradually, or perhaps intermittently, get the Android version of Talk Dim Sum up to speed with the iOS version, the latest in-progress feature is the phrases screen, which is intended to provide dialogue useful in dim sum dining situations.
+
+For example, the first query you might hear from the staff in a dim sum restaurant is “How many seats?” in Cantonese.
+Image for post
+Image for post
+
+When I first implemented this in the iOS version of Talk Dim Sum, which is written in Swift, I really wanted a chat bubble presentation of the dialogue but didn’t want to implement it from scratch, so I carved up a chat package that had a lot of chat functionality I didn’t need. It’s a mess.
+
+But I’m implementing the Android version in Flutter, and fortunately there’s a simple package for displaying bubble text, aptly named “bubble.” So I just needed to add “bubble” to the dependency listing in my pubspec file, import ‘package:bubble/bubble.dart’ in my dart code, and the presentation is a ListView of bubble widgets like this:
+
+Bubble(
+ style: styleSomebody,
+ child: Text(‘幾多位\n\ngéi dō wái\n\nHow many seats?’),
+ ),
+ Bubble(
+ style: styleMe,
+ child: Text(‘三位\n\nsāam wái\n\nThree seats’),
+
+Of course, this proof of concept is hardcoded. Next I need to have it read the text from my JSON phrase files. And I need to learn more Chinese.
