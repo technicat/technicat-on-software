@@ -1,0 +1,18 @@
+Material Search Flutter Fix
+technicat
+technicat
+May 12 · 1 min read
+
+Flutter is still officially in beta, so it’s a bit like the early days of Swift (by early days I mean versions up to Swift 4), where every update involves holding your breath and hoping none of the third-party packages break.
+
+I had a good run until my latest invocation of flutter upgrade, which broke the material_search package because RouteSettings no longer has an isInitialRoute property. Specifically, this affects the search screen in my Talk Dim Sum app.
+Image for post
+Image for post
+
+Usually in this type of situation I wait for someone else to fix it, but that repo hasn’t been updated in a long time. But hey, it’s open source (MIT License — remember, it’s not open source without an open source license!), so fixing it yourself just requires a fork, removal of the offending line, and redirecting the package dependency in pubspec.yaml.
+
+dependencies:
+ material_search:
+   git: git://github.com/technicat/material_search.git
+
+Now it builds fine, again. Feel free to use my fork!
