@@ -1,0 +1,52 @@
+Auto-Incrementing Unity Builds
+technicat
+technicat
+Jun 10, 2019 · 2 min read
+
+Often I’ll go though the whole process of committing changes to Unity Collaborate, starting a cloud build, hours later downloading the cloud build (if it succeeded), and then uploading the build to iTunesConnect only to find I forgot to increment the iOS build number.
+
+So finally, I wrote a Unity Editor script to update PlayerSettings.iOS.buildNumber, which is actually a string, so setting it to zero is pretty straightforward.
+
+[MenuItem (“FuguGames/Version/ClearIOSBuild”)]
+static void ClearBuildIOS() {
+ PlayerSettings.iOS.buildNumber = “0”;
+}
+
+Incrementing is a bit more involved.
+
+[MenuItem (“FuguGames/Version/IncIOSBuild”)]
+static void IncBuildIOS() {
+ try
+ {
+ int result = Int32.Parse(PlayerSettings.iOS.buildNumber);
+ result = result + 1;
+ PlayerSettings.iOS.buildNumber = result.ToString();
+ }
+ catch (FormatException)
+ {
+ Debug.Log(“Unable to parse iOS build number”);
+ }
+}
+
+I figured I might as well do the Android build number, PlayerSettings.Android.bundleVersionCode, and thankfully it’s actually a number.
+
+[MenuItem (“FuguGames/Version/IncBuildAndroid”)]
+static void IncBuildAndroid() {
+ PlayerSettings.Android.bundleVersionCode = PlayerSettings.Android.bundleVersionCode+1;
+}
+
+Updating the bundle version, PlayerSettings.bundleVersion, is more complicated since, for me at least, it’s stored as a string but rather than an integer it’s typically something “4.01” where I want to increment it to “4.02”. But that’s not true for everyone, could be “4.0.1” for example, and sometimes I might want to bump up the major version.
+
+So I’ll have to think of about that (exercise for the reader), maybe just popup up an editable text field. In the meantime, it’s useful to at least set the iOS build number back to zero and increment the Android build number.
+
+[MenuItem (“FuguGames/Version/IncVersion”)]
+static void IncVersion() {
+ // todo — increment PlayerSettings.bundleVersion
+ ClearBuildIOS();
+ IncBuildAndroid();
+}
+
+Image for post
+Image for post
+
+Aside from being easier to not forget, this is more convenient than going to the Edit menu, clicking on Project Settings, going to Player Settings, selecting the iOS target, scrolling down to the build number field and editing it, doing the same for Android…Yay for menus! The entire file is on github.
