@@ -1,0 +1,27 @@
+Pinterest Is My New Interest
+technicat
+technicat
+Nov 10, 2019 · 2 min read
+
+I started using Pinterest for quite a while before I got sucked into Instagram, and I’ve been interested in getting back into it for something, largely because it’s not owned by Facebook, and also I like their engineering blog.
+
+So this year I set up a dim sum board for my dim sum app, with sections for individual types of dim sum.
+Image for post
+Image for post
+
+The sections mirror the set of dishes depicted in my app.
+Image for post
+Image for post
+
+The associated pinterest section is included in the list of available web resources for that dish, which you can bring up by tapping on the bottom left info button.
+Image for post
+Image for post
+
+Selecting the pinterest link will bring you to that section of the dim sum board in the pinterest app (or web page if you don’t have pinterest installed)
+Image for post
+Image for post
+
+Aside from being an excuse to use pinterest, this does provide additional info for each dish: more photos, recipes, etc. and it’s an excuse not to implement my own support to display multiple images for each dish (although I suppose now I could use the pinterest sdk and integrate the dim sum board into my app).
+
+Also, it turns out the dim sum board on its own is getting plenty of social media activity.
+Image for post
