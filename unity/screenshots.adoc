@@ -1,0 +1,27 @@
+Unity Screenshots
+technicat
+technicat
+Jun 29, 2019 · 2 min read
+
+Apple updated their App Store screenshot requirements a while back to accomodate their new devices, and also they extended the number of screenshots from five to ten per screen size.
+Image for post
+Image for post
+
+So, even just populating the four required screen sizes is a lot of screenshots, and more aspect ratios than I have devices (I only have an iPad).
+
+For native iOS apps, I can use the handy dandy screenshot function in Xcode Simulator.
+Image for post
+Image for post
+
+I'm surprised there isn’t a similar feature in the Unity Editor, because it would sure be handy dandy, but there’s an API for that, and it’s not much trouble to roll your own in an Editor script.
+
+public class Screenshot {[MenuItem (“FuguGames/Screenshot/Take”)]
+ static void Take() {
+ ScreenCapture.CaptureScreenshot(“unityscreenshot.png”);
+ }}
+
+Now I have my own screenshot menu that will capture whatever is displaying in my Game window and save it to a file named unityscreenshot.png in my project folder.
+Image for post
+Image for post
+
+This script is on github.
