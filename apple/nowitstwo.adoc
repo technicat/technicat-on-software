@@ -1,0 +1,10 @@
+Now It’s Two
+technicat
+technicat
+Aug 24, 2019 · 1 min read
+
+After reducing my App Store app count to six and then three based on how many apps are immediately visible on the iPad and iPod touch App Store apps, respectively, I noticed when viewing my App Store developer profile on my Android phone browser that only two apps are obviously there (and the availability of more apps via horizontal scrolling not so obvious).
+Image for post
+Image for post
+
+So I’ve reduced my app count yet again, to two, and I’m only actively maintaining those two apps, anyway, so let’s call it a plan.
