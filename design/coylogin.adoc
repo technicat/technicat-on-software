@@ -1,0 +1,14 @@
+Don’t Be a Coy Login
+technicat
+technicat
+Dec 14, 2019 · 1 min read
+
+On the face of it, this login might look like a nice user interface. But don’t let the icons and multicolored text fool you.
+Image for post
+Image for post
+
+Which characters qualify as special characters? I could guess, but I’m a programmer, and it would still be a guess.
+
+Also, this was my third pass. My first pass resulted in a message that I needed a capital letter. The next pass got me the little nugget of info that a number was also required. This isn’t a user interface, it’s a sending in the same form over and over and getting rejected by a bureaucrat for a different reason each time (much like my experience with State of California corporations paperwork and Apple’s app review).
+
+The best login screens display all the requirements right at the beginning (and as a bonus, automatically check them off one by one as you type in your password).
