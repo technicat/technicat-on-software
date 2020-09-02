@@ -1,0 +1,12 @@
+Deep Dim Sum Definitions
+technicat
+technicat
+May 28, 2019 · 1 min read
+
+One part of working on my Talk Dim Sum app is finding differences between the Cantonese and Mandarin names for each dish. Sometimes they’re the same, sometimes they’re different (in retrospect, my initial plan to stick with just Cantonese was a good one).
+
+For example, in Cantonese, I’ve only heard of bao referred to as bao, but in Mandarin apparently it’s often baozi. Wikipedia supports this, but I always do a google search like “bao vs baozi” and in this case I found a mention on wikidiff.
+Image for post
+Image for post
+
+It’s awfully Yodaish, but you know, I can imagine Yoda eating dim sum.
