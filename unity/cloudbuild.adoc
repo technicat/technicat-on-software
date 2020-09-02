@@ -1,0 +1,16 @@
+All Your Unity Cloud Builds
+technicat
+technicat
+Sep 18, 2018 · 1 min read
+
+Last night, I was trying to figure out why none of my Unity Cloud Builds had completed in the past two days. It seemed there was a problematic build that was holding up the queue, but you can only view the queue for each project, and I have something like a dozen projects.
+
+So I complained to the void, AKA twitter, that it sure would be nice to have a single view of my build queue, and the twitter gods were kind, and thus I received a response from an actual Cloud Build developer.
+Image for post
+Image for post
+
+And it works beautifully. Here, the view shows my most-recently queued builds, spanning two projects.
+Image for post
+Image for post
+
+And I just bookmarked the URL, so it’s easy enough to get back to.
