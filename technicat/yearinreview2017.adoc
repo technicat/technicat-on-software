@@ -1,0 +1,39 @@
+2017 In Review
+technicat
+technicat
+Jan 17, 2018 · 3 min read
+
+Well, the country went backwards last year, but let’s talk about me: 2017 was the year I got organized.
+New Web Site
+
+My technicat web site has gone through a lot of incarnations, from its 90s beginnings (blinking text!), a good stretch using Forrest, a few different static templates, and wandered around on different blog sites after I stopped self-hosting on ISPs. But last year, I moved it to a Github page and found a Jekyll template that provided a clean look on desktop and mobile.
+Image for post
+Image for post
+
+It won’t win any design awards, but I’m satisfied with it so far, it’s easy to maintain, and it shows I’m hip to git.
+New Platforms
+
+I thought I would catch up on all the platforms that I’ve been meaning to port HyperBowl to (basically, all the platforms that Unity supports), but after getting HyperBowl running on tvOS, Apple rejected it for, well first, blargle blargle blargle, but I kind of got them to sort of hedgily clarify they didn’t like seeing the portrait window embedded in a static fullscreen background. And then Apple started rejecting updates to the Mac App Store version for the same reason and then a bunch of other reasons, so I decided to take my toys and go home by unpublishing it. One step forward and two steps back.
+Image for post
+Image for post
+
+But I did get HyperBowl on the Windows Store, so I pretty much broke even in the platforms department.
+New Portal
+
+While getting a handle on all the platforms, I decided to focus on using itch.io as my main game portal. It’s developer-friendly, has a pay-what-you-want feature, supports app store links, and is fairly polished.
+Image for post
+Image for post
+
+However, I had trouble getting the WebGL version of HyperBowl running there, so I have that on GameJolt, instead. Besides, I like GameJolt (also developer-friendly), so it’s nice to still have something there.
+New Portfolio
+
+After complaining forever about LinkedIn, I finally removed my account. Conveniently, Unity Connect showed up, and it looks to me like it’s Unity’s version of LinkedIn with some portfolio support and a job market. I’m not that interested in the social features (LinkedIn’s feed was their least interesting feature, aside from recruiter spam), but I’ve always wanted something like LinkedIn’s online resume with a portfolio.
+Image for post
+Image for post
+New Book
+
+Just before the year closed, I published the second edition of Learn Unity 4 for iOS Game Development, appropriately titled Learn Unity 2017 for iOS Game Development. Or rather, Apress published it, and Allan Fowler updated it, but it’s still got my name on it, and I get a split of the theoretical royalties.
+Image for post
+Image for post
+
+The important thing is that it got updated without me having to do any work on it. 2017 was also the year of getting more efficient.
