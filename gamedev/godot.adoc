@@ -1,0 +1,36 @@
+Godot, HTML, itch.io
+technicat
+technicat
+Jul 20 · 2 min read
+
+I’m thinking about making Godot my new game engine, and the first thing I’ve been figuring out is how to build and upload HTML games to itch.io. It’s pretty straightforward, but as usual, there are a few things you have to get right.
+
+First, in your project directory (I’ve been trying this with the demo templates available in the Godot launcher), you’ll need a subdirectory for the build product. On my mac, I’ve been making a “build” folder.
+Image for post
+Image for post
+
+Now you can start the export process, available in the Project menu of the Godot editor.
+Image for post
+Image for post
+
+Click on the Add button of the Export window and select HTML (if this is a fresh install of Godot it’ll prompt you to download the export presets).
+Image for post
+Image for post
+
+HTML will now show up in presets.
+Image for post
+Image for post
+
+Click on Export Project, which brings up the Save window.
+Image for post
+Image for post
+
+You’ll want the build product to show up in the build directory you created instead of mingling with the rest of your project files, and itch.io looks for an index.html file in html games, so rename the save file accordingly.
+Image for post
+Image for post
+
+Click Save, and the new files will show up in your build directory.
+Image for post
+Image for post
+
+Now you can either compress the folder into a zip file and upload it to itch.io, or upload the directory using butler.
