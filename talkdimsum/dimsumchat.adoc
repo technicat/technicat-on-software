@@ -1,0 +1,24 @@
+Dim Sum Chat
+technicat
+technicat
+Aug 18, 2019 · 2 min read
+
+A feature I’ve long wanted to add to my Talk Dim Sum app is a tutorial on basic phrases in Cantonese. After all, the app helps you pronounce the Cantonese for shrimp dumplings, but what would really be useful is to know how to say “I want shrimp dumplings” in Cantonese (and Mandarin, the app now supports both in response to a user request).
+
+For a while, the app displayed a list of phrases, but what I really envisioned was a chat-style presentation. I was trying to avoid building something completely from scratch, so I’ve been playing around with some chat controller libraries available via Cocoapods.
+
+Recently, I managed to get a package called ChatViewController wedged in, modifying some of the example code to read and display the list of phrases in the app.
+Image for post
+Image for post
+
+This list of phrases is short right now, barely enough to fill an iPad screen.
+Image for post
+Image for post
+
+Besides not really knowing Cantonese, I also have to fill in the Mandarin equivalents to be complete, so this is going to take a while. Also, it really should have a tap to speak feature so you can hear how it’s really supposed to sound, similar to the speech option in the dish screens.
+Image for post
+Image for post
+
+And to be even more complete, there should be a speech recognition option to practice saying the phrases, too, like there is with the microphone button on the dish screens.
+
+Honestly, I’d rather just direct users to a language app like Duolingo or Memrise but they don’t suppose Cantonese (the only polished language app I’ve found with Cantonese support is Drops). So I’ll just keep dabbling at this.
