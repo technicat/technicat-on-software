@@ -1,0 +1,16 @@
+The Magic Number is Three (was Six)
+technicat
+technicat
+Aug 21, 2019 · 2 min read
+
+A while ago, I unpublished a bunch of apps on the App Store after noticing the App Store app on an iPad only displays six apps in my developer profile. Actually it does display all the apps but only if you swipe sideways, and since affordances (or signifiers, as Don Norman likes to call them now) seem to out of fashion.
+
+However, since I’ve been living dangerously developing iOS apps without an iPhone or an iPod touch (but for some reason I have six iPads), I didn’t know how the App Store was displaying my apps on a non-iPad screen. Now I know, after getting one of the new iPod touches at Target (that five percent Red Card discount really kicks in when you buy Apple devices there).
+
+As the title of this article indicates, the number of apps displayed on an iPod touch in an App Store developer profile is three.
+Image for post
+Image for post
+
+And it’s still easy to not realize there are more app on the side (if you look closely, you can see there’s just a bit of button on the left). In fact, in the above screenshot it looks like if there’s any scrolling to be done, it’ll be downward, as the bottom entry is clipped a bit.
+
+So I’ve unpublished three more apps, and it’s just as well as I was looking for a reason to stop supporting them. Well, that’s the story I’m sticking with.
