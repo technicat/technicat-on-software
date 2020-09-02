@@ -1,0 +1,42 @@
+2018 Year In Review: App Stores
+technicat
+technicat
+Jan 6, 2019 · 4 min read
+
+One way to look back and evaluate your progress as an app developer is to look at your app store presence.
+
+The most notable new accomplishment on that front for me is finally (I can’t remember how long ago people requested this), getting a Steam version of HyperBowl out.
+Image for post
+Image for post
+
+I consider it a success in the sense that I made back the Steam submission fee, and the reviews so far have been good. This year’s goal: make an update with more Steam support (leaderboards, achievements…) and maybe more content. But I’m waiting for my next Steam payment first (they don’t crank them out monthly like the other app stores).
+
+That makes me one for two on long-delayed ports of HyperBowl. I gave up on the Wii U version, or rather, Nintendo discontinued developer support for the Wii U. I signed up for the Wii U developer four years ago so no excuses (except that the Wii U version of Unity was always behind the main version), so the lesson I got out of it is no more console dev for me. Anyone wanna buy a slightly used devkit?
+
+And the total number of app stores I’m on has remained the same, as I removed HyperBowl from Kongregate. At first, I just tried to unpublish it, as the version there was the old Unity webplayer that is not supported by modern browsers, but when I discovered there was no way to do that myself or even edit or remove the published email address that’s found it’s way onto spam lists, I contacted Kongregate support to remove my account.
+
+Kongregate said I would lose the two dollars I’ve accumulated in revenue, but I said go ahead anyway. What a ripoff — at least when I closed my Fingerprint account after badgering them for six months to pay me, they did pay me. By the way, that’s one of my major 2018 accomplishments!
+
+In the continued spirit of cleaning up my store presence, I decided I’m never going to fulfill my initial idea of deploying a hundred apps, so I’m going the other direction. Starting with the App Store, I decided to only leave published a number of apps that will show up in the App Store on a single iPad screen. I haven’t checked th iPhone because I don’t have one. That’s another 2018 event, switching to Android, and this year, maybe I’ll get around to doing some native Android development.
+Image for post
+Image for post
+
+For Google Play, I decided to just go with the number of apps that fit on one row in a browser.
+Image for post
+Image for post
+
+Still, I want to have someplace where I can deploy everything I’ve worked on, or at least everything that’s still running. As a game portal, itch.io works well, particularly with its support for WebGL badge links to mobile app stores, and the ability to customize the pages and arrange your apps as you like (so it’s not quite so important to have everything appear on the screen at once).
+Image for post
+Image for post
+
+The only restriction I feel with itch.io is that it’s intended for games and is supposed to host content. So I’m pretty happy with how I’ve got WebGL and desktop versions of my apps on itch.io with links to the app store versions, but, for example, it doesn’t seem appropriate to feature my non-game, iOS-only, Talk Dim Sum app there.
+
+I do list Talk Dim Sum and everything else on Unity Connect, which I’m using as a comprehensive portfolio/CV.
+Image for post
+Image for post
+
+Unity Connect has screenshot and video support and links to app stores and social media, but on the other hand, it’s kind of messy and hard to arrange just how you like. So the initial landing page for everything I want you to see is still the Technicat web site.
+Image for post
+Image for post
+
+I know, it won’t win any beauty contests, but it’s better than Kongregate.
