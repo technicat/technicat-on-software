@@ -1,0 +1,18 @@
+Unity Hub 2.0
+technicat
+technicat
+May 14, 2019 · 2 min read
+
+There’s a new Unity Hub in town, and it’s got a new look. It’s a prettier and cleaner look, as I recall (my memory of the previous version is already fading), and there’s probably some nice new functionality, but I’m not crazy about the Installs section.
+Image for post
+Image for post
+
+First of all, maybe it should be called Installations? I just like my verbs to be verbs and my nouns to be nouns (and also my adjectives to be adjectives, so stop calling yourselves “creatives”). But more importantly (and not really that importantly, but little UI things add up over time), I don’t think the grid layout is an improvement over the previous list layout.
+
+Lists are space efficient and clearly sequential. The previous layout showed my installations (not installs!) and also all available versions, so I could see at a glance if there were new versions I hadn’t installed. Now that requires clicking on the Add button to bring up a new window.
+Image for post
+Image for post
+
+The grid does allow more space to show the installed components of each version, which otherwise is not that easy to see, but for me that’s not important, as I install the same components for each version.
+
+What would really be useful are links to the release notes for each version, i.e. why should I download this? Currently when I see a new version of Unity on the Unity Hub, I google to find the release notes and end up going to the Unity download site anyway, which somewhat defeats the purpose of the Hub. Well, there’s always 3.0.
