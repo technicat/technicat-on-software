@@ -1,0 +1,18 @@
+Tax Code
+technicat
+technicat
+Jan 6 · 2 min read
+
+Most software is improving (although sometimes in nefarious ways), but there’s some software that always looks like it was made or at least published by people who don’t care.
+
+One category is medical software (I once filled out my patient info on a tablet where the the form was not sized to fit the tablet, so you had to pan around to see everything).
+
+The other is tax software, which I find remarkable since they’re releasing the same product every year and I never see any incremental improvement, as if they call in a contractor and say “Just do the minimal repackaging, don’t make it better.”
+
+My theory of minimal effort was supported by my most recent annual purchase of the H&R Block tax software, when, as I have diskdrive-less Mac, I went to the secret download link printed in the package (I say secret because they don’t list it anywhere else, not even on their support site) and the download server was not yet available, and online support appeared to be clueless.
+
+Days later, when I finally was able to download the software, the instructions were kind of pretty much wrong (the wrong partly helpfully boldfaced by them).
+Image for post
+Image for post
+
+The part that gets me is these people are giving me instructions on how to file my taxes. I suppose it could be worse, they could be in the medical industry.
