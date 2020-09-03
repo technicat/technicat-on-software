@@ -1,0 +1,26 @@
+Dim Sum Search
+technicat
+technicat
+Nov 11, 2018 · 2 min read
+
+My Talk Dim Sum app doesn’t have a huge number of downloads, but I do get a lot of user requests (forget games, the action is in food apps!). One recent request was for a type-in search field. I put in a quick popup search dialog using UIAlertController, but then I decided, well, I really should use UISearchController so I can display the list of possible matches in a UITableViewController as you type. And here it is:
+Image for post
+Image for post
+
+I already had the UITableViewController implemented, and it was mostly straightforward adding a UISearchController, following Apple’s example project. The example has two table view controllers: one for the initial display, and a display that updates while typing in the search controller, but I decided to use one table view controller for both, which can be accomplished by specifying nil as the results controller:
+
+searchController = UISearchController(searchResultsController: nil)searchController!.searchResultsUpdater = self
+
+and implementing the UISearchResultsUpdating protocol in the lone table view controller to adjust the table view’s data source. By the way, it’s important to retain the searchController as an instance variable of the table view controller and not as a local (let) variable, which I learned the hard way as I always forget about ARC.
+
+Another gotcha, when I first got it running, the results table would disappear when I tapped on a row. It appears this line (which is in the example) is required:
+
+searchController!.dimsBackgroundDuringPresentation = false
+
+And that’s all!
+
+    iOS
+    Dim Sum
+    Uisearchcontroller
+    Swift
+    Appdev
