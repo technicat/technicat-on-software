@@ -1,0 +1,16 @@
+Learn Unity 4 No More
+technicat
+technicat
+Sep 24, 2018 · 2 min read
+
+When I started putting apps on the App Store and Google Play, I thought I should be able to publish a hundred apps, reasoning I wanted to get my money’s worth out of the developer fees and tools (Unity Pro cost a significant amount back then), and even if I just made a little bit from each app, it would add up.
+
+But the thing is, apps require support. They have to be rebuilt on a regular basis to accommodate new app store policies and new platforms, and users expect improvements and fixes. Anything that hasn’t been updated in six months looks like abandonware.
+
+So, I never achieved anything near a hundred apps and, on the contrary, have been going the opposite direction. The latest casualty is my Learn Unity app that was the published working project sample from my book Learn Unity 4 for iOS Game Development.
+
+I renamed the app Learn Unity 4 after a second edition of the book came out, Learn Unity 2017 for iOS Game Development, because I don’t know what changed in that update, and then I rewrote the code in C# because Unity no longer supports Unityscript a.k.a Javascript, and then as I was adding keyboard controls so I could deploy it as a webplayer on itch.io, it occurred to me, why am I still updating this app?
+
+The book(s) are obsolete, so I’m not really trying to get anyone to buy the book, anymore. It made maybe a few bucks in Unity Ads revenue, but it’s never going to pay the mortgage. And I was getting tired of app reviews like “It’s just the sample project from a book” and “It’s just like fortnite!” (I don’t know if I prefer stating the obvious or stating the sarcastic).
+
+So I’m breaking my “If it ain’t broke, don’t unpublish it” rule, and the Learn Unity app is no more. At least until I work on a new edition of the book (don’t hold your breath). But the code is still on github.
