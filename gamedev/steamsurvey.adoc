@@ -1,0 +1,14 @@
+Steam Survey
+technicat
+technicat
+Jan 4, 2019 · 1 min read
+
+When I some saw articles about VR stats from a Steam survey, I thought, oh, no, not another survey. But when I saw it pop up on my PC, I had to admit it’s well done. First of all, it takes more clicks to cancel out of the survey than to continue.
+Image for post
+Image for post
+
+And then it doesn’t proceed into an ambiguously long series of question pages. Instead, it just reports that your system information has been sent.
+Image for post
+Image for post
+
+So, it’s not really a survey in the SurveyMonkey sense. It’s more like a one-time opt-in analytics. And there’s a reward at the end: a link to the survey results.
