@@ -1,0 +1,12 @@
+Disabling Google Logins
+technicat
+technicat
+May 29 · 1 min read
+
+That sign-in-with-google option that seemed to show up in login forms everywhere is pretty convenient (I imagine) if you want to log in everywhere with google, but I found it annoying, as I almost always create accounts with different emails and not linked with my social media accounts.
+
+The big problem is that it’s easy to accidentally create a new account with a google login even if you already have an account. In one case, I accidentally created a new account which I tried to delete, but it turned out I deleted my original account (which actually isn’t deleted — I tried logging in and it said it was “locked” and I could contact them to unlock it).
+
+Anyway, to get rid of that google login prompt everywhere, you can go to the Security section of your google account settings (which is worth visiting in general just to review what apps and sites have access to your account), then to the Signing in with Google subsection and you can turn it off.
+Image for post
+Image for post
