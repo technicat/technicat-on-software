@@ -1,0 +1,21 @@
+Google Domains Design
+technicat
+technicat
+May 30 · 2 min read
+
+I seem to be on a complain-about-google streak. Today I’ll complain about Google Domains.
+
+First, I couldn’t believe they didn’t have domain.google.com redirect to domains.google.com. Maybe it just got broken for a while, as I noticed this just a few weeks ago (apparently I always type domain and not domains), and it’s redirecting now. Or else my twitter feed is way more influential than I thought.
+
+Another thing that I think occurred recently is they adjusted the new email alias entry so that the domain of the alias is beneath the entry field instead of to the right, and to top it off it’s small and faint.
+Image for post
+Image for post
+
+As a result I kept typing in a full email address in the alias field (it does say “Alias email” after all), and kept getting a cryptic error message.
+Image for post
+Image for post
+
+And the cryptic error message replaces the @ domain I was supposed to notice before so now it’s really not clear what’s going on. I didn’t figure it out until after leaving google domains and returning later, when I noticed the suffix.
+
+This is the type of change that looks like someone just thought it should look better, usability be damned. And it is prettier. Did they hire someone from Apple?
+
