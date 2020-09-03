@@ -1,0 +1,18 @@
+Xcode 9.3
+technicat
+technicat
+Apr 1, 2018 · 2 min read
+
+I usually upgrade Xcode without incident, but this latest update stymied me a couple of times.
+
+First, whenever I add an image to the asset catalog in my Talk Dim Sum app, I control-click on the slot to open up the context menu and open the image to scale down the source image in order to avoid memory problems on old devices (I don’t support old devices, anymore, but I figure it’s a good habit, anyway).
+
+Problem is, the control-click context menu on the image slot is gone, now. After checking if anyone else complained about it on the Apple developer forums (instead, I found a pretty entertaining long-running rant about Xcode bugs), I discovered the option I was trying to access on the 1x image is on the asset catalog item in the folder view.
+Image for post
+Image for post
+
+So, that’s fine, but a heads up in the release notes would have been nice.
+
+Also, when I tried to add new screenshots using the simulator, the screenshot sizes were too small, because (stackoverflow to the rescue), the Optimize Rendering for Window Size option had been toggled back on. By the way, this is a terrible default if it’s not obviously going to mess up your screenshots.
+Image for post
+Image for post
