@@ -1,0 +1,12 @@
+The Cheesecake Challenge
+technicat
+technicat
+Mar 30, 2018 · 1 min read
+
+In my quest to remain svelte, or at least not too non-svelte, I was going to cut out cheesecake this year, until I got some Cheesecake Factory coupons. I had some trouble redeeming this one online, until I figured out by “challenge attempt” it meant entering a recognized email address.
+Image for post
+Image for post
+
+This looks like one of those cases where a programmer error message snuck into the UI before a professional writer or UI designer got to it, but it says “Please try again.” so it seems to have been intended as a customer-facing message. Or maybe a backend developer put in the first part and a front-end developer slapped on the second part.
+
+I guess I should just enjoy my cheesecake.
