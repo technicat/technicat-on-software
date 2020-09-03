@@ -1,0 +1,11 @@
+Talk Dim Sum Icon
+technicat
+technicat
+Aug 9, 2017 · 1 min read
+
+As I mentioned in a previous post, ever since I added a sticker pack to my Talk Dim Sum app, Apple reviewers mistake the iMessage icon (which I made from a different photo because it’s not square) as the app icon and reject the app, and then I have to explain that’s not the app icon. After the second time that happened, I decided to accelerate my replace-the-crappy-photo-I-use-as-an-icon-with-a-real-icon plan.
+
+I’m not ready to commission an graphic artist to make a custom icon, so I did a web search and didn’t find anything suitable that’s free (and I don’t pirate), but I found the next best thing, a $1 icon (so there’s really no reason to pirate).
+
+Now, this is low-budget development, but I think the icon looks fine, although it comes in at 512x512 and 1024x1024 would be better since I need to use it as the App Store icon, too. But I can take care of that when I upgrade to a custom icon. In the meantime, here’s how it looks.
+Image for post
