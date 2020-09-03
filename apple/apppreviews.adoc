@@ -1,0 +1,36 @@
+App Previews with the Xcode Simulator
+technicat
+technicat
+Dec 16, 2018 · 3 min read
+
+As part of Apple’s sinister master plan to make us buy every single iOS device, developers are required to provide App Store screenshots for all those devices.
+
+Actually, it’s not that bad. For now, you can get away with supplying screenshots for just the largest non-X iPhone screen (e.g. an 8 Plus) and the largest iPad (the 12" Pro): the rest will automatically use downscaled versions of those. And in the unlikely event you don’t have the biggest-screen iPad and iPhone, you can use the screenshot option in the Xcode Simulator’s Hardware menu to cover any device.
+Image for post
+Image for post
+
+App previews are a different story. They’re not a requirement, but they do jazz up your App Store presence. Unfortunately, there’s no video capture option in the Simulator menus, but you can capture a running simulator session from the command line (Terminal), like this:
+
+xcrun simctl io booted recordVideo app-preview.mp4
+
+If you get an error message indicating the command line tools are not installed, make sure they’re specified in your Xcode Preferences:
+Image for post
+Image for post
+
+If you try to upload the resulting video to iTunesConnect (just as when you upload a hardware-captured video using Quicktime Player), it’s probably not going to accept it because of the video dimensions, frame rate, whatever…
+Image for post
+Image for post
+
+So (as with hardware-captured video), the Apple-approved path is to import the video into iMovie, make any edits you want (e.g. the final video has to be no longer than 30 seconds), and export as an App Preview. But I’ve found with simulator-captured video, iTunesConnect complains the video doesn’t have stereo sound.
+Image for post
+Image for post
+
+The quickest way I can think of to remedy this is, before exporting from iMovie, add some sound, like a voiceover.
+Image for post
+Image for post
+
+Then, finally, export for real.
+Image for post
+Image for post
+
+And this should upload to iTunesConnect just fine!
