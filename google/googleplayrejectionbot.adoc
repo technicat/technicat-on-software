@@ -1,0 +1,12 @@
+The Google Play Rejection Bot
+technicat
+technicat
+Apr 5, 2019 · 1 min read
+
+I often complain about Apple’s app reviewers, but at least they’re obviously human (although I suppose it wouldn’t be difficult to implement a bot that sniffs “I can’t tell you exactly what to change, but this app just isn’t good enough”).
+
+Google, on the other hand, if they have humans rejecting on Google Play, they’re doing their best to look like bots, as with this recent notice of app removal I got from them.
+Image for post
+Image for post
+
+Way to phone it in, Google.
