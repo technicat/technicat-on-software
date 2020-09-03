@@ -1,0 +1,10 @@
+Put Some Verve In Your Error Messages
+technicat
+technicat
+Jun 20, 2019 · 1 min read
+
+There’s been a lot of well-deserved criticism for uninformative, and sometimes numeric, error messages. But this one in the Unity Editor is a nice bit of active voice explanation.
+Image for post
+Image for post
+
+It’s baffling if you think about it (at least without access to the source code) but evocative, even makes you sympathetic for the poor Unity Editor, “struggling” to process the current layout. And it’s your fault. Simplify that layout! Recursion bad!
