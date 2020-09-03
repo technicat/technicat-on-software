@@ -1,0 +1,16 @@
+SnapKit Around That iPhone X Thingy
+technicat
+technicat
+Nov 13, 2018 · 1 min read
+
+When the iPhone X showed up, I had to make sure everything in my Talk Dim Sum app avoided that new home indicator thingy at the bottom of the screen. That happens automatically in many cases, e.g. UITabBarController, but in my dish pages I have a custom toolbar view at the bottom. To keep above the home indicator horizontal black bar, I checked the device’s model identifier (using the UIDevice-Hardware package) to see if it was an iPhone X and then added some bottom padding if so.
+
+But now there are multiple iPhone X models, and adding a model check every time a new model shows up is not a great plan. The proper technique is to use safeAreaLayoutGuide. I’m using SnapKit, and this issue is described in a github issue, so the layout code for the toolbar in the page’s view controller now looks like this:
+
+buttonPanel.snp.makeConstraints { (make) -> Void inmake.width.equalTo(view)make.height.equalTo(50)make.centerX.equalTo(view)make.bottom.equalTo(view.safeAreaLayoutGuide.snp.bottomMargin) // elf.view.safeAreaInsets.bottom)
+
+}
+
+And on an iPhone XR, the toolbar is safely above the home indicator:
+Image for post
+Image for post
