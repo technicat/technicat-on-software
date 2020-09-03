@@ -1,0 +1,26 @@
+There’s Dim Sum in Alaska
+technicat
+technicat
+Dec 12, 2019 · 3 min read
+
+Bug reports and general user feedback (the kinder, general, gentler term Apple is using in renaming their Bug Reporter to Feedback Assistant) are free QA and better drivers of product direction thanappd surveys and focus groups, so they should be encouraged and made easy (unlike, say, making the user fill out forms and then telling them their bug report is closed because it’s already been reported…)
+
+This is the only regret I have of leaving Facebook, as I was getting good user input on the Facebook page for Talk Dim Sum, including many new features I’m now stuck with supporting, like search, Mandarin TTS, and restaurant listings for New Jersey.
+
+So I tried to compensate by adding email support to the app’s menu.
+Image for post
+Image for post
+
+And I guess that was a good move, as last week I got an email requesting yet another enhancement of the app’s list of dim sum restaurants (which I only initially implemented to learn how to integrate Apple Maps, but to my surprise is apparently a useful feature).
+
+The request was that the restaurant list display the city for each restaurant. I’ve only been listing restaurant names (under regional sections) as each table cell in the restaurant list was getting crowded with buttons for visiting the web site, viewing the yelp review, and displaying the location on a map, and I figured they can always tap that and see where it is.
+Image for post
+Image for post
+
+But a reasonable request is a reasonable request, and I took a couple of days to populate the JSON files for the restaurants with a new city field and rewrite the table code to display the restaurant’s city (or more local area in the Hong Kong listing). And, as often happens with user feature requests that I grudgingly implement, it’s a visible improvement. It does look both more informative and cleaner, as I removed the web/yelp/map buttons — instead, now tapping on a restaurant name brings up a menu of those options.
+Image for post
+Image for post
+
+And, as often happens with cleaner user interfaces, the code is cleaner since I no longer have that complicated layout code (not UIKit’s strong point) to properly arrange the web/yelp/map buttons (particularly since not all of the three were available for every restaurant).
+
+So here’s hoping for more email. But not too many, I hope!
