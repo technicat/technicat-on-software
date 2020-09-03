@@ -1,0 +1,22 @@
+Unity Privacy on Google Play
+technicat
+technicat
+Sep 23, 2018 · 2 min read
+
+Last week, I received a bunch of emails from Google saying they’re removing (unpublishing) several of my apps that don’t conform to their privacy policy.
+Image for post
+Image for post
+
+The apps in question use Unity Ads, so rather than cobble up my own privacy policy, in the Google Play Console, I link to Unity’s privacy policy.
+Image for post
+Image for post
+
+Users who bother to read that privacy policy will find a lengthy section directed to game players. Here’s the first paragraph:
+Image for post
+Image for post
+
+That still leaves the requirement for the in-game link. Unity has recommended explaining to Google that Unity Ads display a link to the privacy policy and an opt-out, but I’ve never figured out how to explain anything to Google (I’m not ever sure I’m even talking to a human), and I figure if you have to explain something once, you’ll have to explain it again, later.
+
+So I recommend displaying a privacy policy link in-game using Unity’s privacy plugin (which I hear will be built into Unity 2018.3). So far, none of my games that use the plugin and link to Unity’s privacy policy in the store description have been removed.
+
+Or, I could just stop showing ads, but I could use the spare change.
