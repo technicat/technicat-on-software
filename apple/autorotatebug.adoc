@@ -1,0 +1,16 @@
+An Autorotate Bug
+technicat
+technicat
+Jun 28, 2018 · 1 min read
+
+“Why can’t you write code without any bugs to start with?” asked one of my managers. Well, why can’t you run this company perfectly, I didn’t answer.
+
+Anyway, bugs are a fact of life, so when you encounter a bug that’s not life-threatening or terribly inconvenient, consider whether it’s a fun bug. Like mishaps on a sports blooper reel, or outtakes shown at the end of a film. And with the frequent updates that take place these days, you might only get a glimpse of them before they’re fixed.
+
+For example, lately the dock on my iPad has been ignoring the device rotation. And, interestingly, the screenshot feature has been following its lead, so these screenshots are incorrectly rotated.
+Image for post
+Image for post
+Image for post
+Image for post
+
+Besides enjoying the quirkiness, I also derive some satisfaction from knowing that a huge team of highly paid software engineers did this. And they probably have a manager complaining “Why can’t you write code without bugs in it?”
