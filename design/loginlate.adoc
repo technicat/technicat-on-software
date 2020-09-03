@@ -1,0 +1,14 @@
+Login Late
+technicat
+technicat
+Apr 7 · 1 min read
+
+The last time I implemented an app with user accounts, I had to repeatedly explain why I didn’t have a login form as the initial screen and instead only required a login when first accessing a feature that interacted with the user’s account.
+
+Now there’s an Apple Human Interface Guideline for their new Sign in with Apple (which looks more like a sentence than a name — I hope that’s not a new trend with their product naming: Maps with Apple, Music with Apple…) that explains the reasoning pretty well.
+
+    Delay sign-in as long as possible. People often abandon apps when they’re forced to sign in before doing anything useful. Give them a chance to familiarize themselves with your app before making a commitment. For example, a live-streaming app could let people explore available content before signing in to stream something.
+
+The HIG isn’t what it used to be, and there are some guidelines with obvious world domination agendas. The App Store Review Guidelines requires implementing Sign in with Apple (it’s already a pain to type in repeatedly!) in your app if it uses any other third-party login (twitter, facebook, linkedin…) and the HIG also encourages you to use Sign in with Apple on web sites and other versions of your app including on Android for “consistency.”
+
+But still it’s nice to see a good guideline there in writing so I can cite it.
