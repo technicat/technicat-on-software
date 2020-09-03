@@ -1,0 +1,16 @@
+Featured Story
+technicat
+technicat
+Feb 8, 2019 · 2 min read
+
+I recently decided to feature my Medium-made resume more prominently, and conveniently, Medium has a feature for that: you can specify a Featured post in your profile.
+Image for post
+Image for post
+
+But it’s not actually that convenient to do. Medium doesn’t have a convenient way to search your posts, so I went to Stats and scrolled all the way through past posts (three years worth), then did a text search for the title, and then clicked on View Story to access the operations on that story (doesn’t work on mobile, as the app doesn’t have the View Story option in Stats).
+
+And then I realized I wasted all that time because the Feature option is not in any of the menus when viewing the story. A quick google revealed the Feature option is only available when viewing the summary of a story while viewing your profile.
+Image for post
+Image for post
+
+First of all, that’s not obvious. Second, if it was easy to find the story in when viewing my profile, I wouldn’t need to feature the story in the first place. So again I scrolled down through over two years of story summaries (this is another argument against Medium’s recommendation to include a banner stock photo at the top of each story), and pinned, er, featured the story I was looking for. I think I’ll just leave it up there.
