@@ -1,0 +1,34 @@
+Unity Subscriptions and Services, No Thanks
+technicat
+technicat
+May 22, 2017 · 5 min read
+
+Just now I checked my Unity forum profile, and holy cow, I’ve been using Unity for over ten years! (starting from when it was Unity 1.5)
+Image for post
+Image for post
+
+In those early days, the Unity Editor only ran on a Mac, and the only deployment platforms were OSX, Windows, a webplayer or OSX widgets (which was really the webplayer). But that’s exactly what I wanted – a game development platform that ran on my Mac, could deploy desktop games and as a bonus deploy on my web site if I couldn’t figure out any other way to self-publish. The closest maybe was Torque, and they didn’t have a webplayer, and it ran horribly on my Mac Mini.
+
+The Unity community was for the most part the Unity forum, which was the place to be, where everyone was an early adopter, people shared useful information, and questions were often answered by the core staff, sometimes even the CEO Dave Helgason or CTO Joachim Ante. In fact, Joachim introduced me to Unity at a WWDC gamedev BoF and I met Dave at GDC Unity get-together back when those were small affairs.
+
+Bug reports were actually fun back then because you’d get a response back from actual engineers (sometimes even Joachim), which is what I was used to as Lisp programmer (there are no big Lisp companies). You can still get that experience with open source projects, but not at Unity, anymore. It’s not quite as mindless as Apple, where they’ll ask you to send in Safari screenshots even if it has nothing to do with the web, but whereas it used to feel like an accomplishment to be the first to find and report a Unity bug, now there are so many more customers, and the bug-reporting process is bureacratic enough, I usually opt to wait for someone else to report the bug.
+
+I also lost interest in the forum, as it just started getting annoying, with newbies who want you to explain how to make an MMO, users who don’t want to learn to code but want you to write scripts for them, and former AAA designers who lecture everyone on how their games should be better before asking, hey, how do I rotate this thing?
+
+The alpha/beta email lists are now what the Unity forums used to be like. I monitor them but don’t participate much, anymore, since I avoid using prelease versions of Unity, now. Most of my interaction with fellow Unity users is actually on twitter. I still end up on the Unity forums when I google for what the heck is going on with this latest version. So the forums are kind of like the StackOverflow of Unity (although that’s what Unity Answers is supposed to be).
+
+On the other hand, mainstream success means my Unity experience is marketable. Apress contacted me to write a Unity 4 book, and that helped land a sweet consulting gig and some prototyping work for a big company in Hong Kong. And most of the inquiries I’ve had for gamedev work involved Unity (but a lot of those don’t pan out because a lot of small outfits who want to use Unity don’t want to pay much or at all).
+
+Even for gamedev projects that don’t use Unity, that experience and portfolio helps get the job and even on the job. For example, when I was working on Blue Mars, I would often research and try out something on Unity before implementing it in their CryEngine adaptation.
+
+But to be honest, I’m getting a little bored with Unity. Partly it’s because I’m not making as much money from my own Unity projects (I peaked with everyone else on the App Store about five years ago). Partly because I’ve started working on more non-game apps, specifically iOS apps, both contract (Cinefex and WordsEye) and my own (Talk Dim Sum). Partly because I’ve sort of caught up on porting HyperBowl to Unity-supported platforms (you’re welcome, all five of my Windows Store customers), except the Wii U (now we’re at the should I bother stage, except I paid for a devkit). Partly because I’m not into VR (I shelled out for an Oculus Rift and a Rift-ready PC, but it smushes my glasses onto my face, so combined with motion sickness it’s an effective torture device). Maybe because it’s been over ten years (on the other hand, I still like Emacs and Lisp). But it’s also partly due to Unity’s recent strategic turn toward services and subscriptions.
+
+I was a bit worried when they brought in John Ricitello from EA to be their new CEO. Sometimes bringing in a “professional” to take over from the founder works out, but sometimes it just ruins the thing, or at least makes it less fun. I could just imagine the new guy saying, let’s see, how do we monetize this thing? Start with subscriptions. Remember the Blade 3D engine? After they were acquired, they stopped working on the product and terminated the subscriptions (probably sending a lot of users to Unity).
+
+And those services sounded good at first (maybe because they’re called “services”), but I had problems with the integrated Unity Ads whenever there was a Unity update, so I stick with the latest and greatest from the Asset Store. I like Unity Analytics, which is now only available in Unity Services, but I can live without it (or go with another analytics package). I tried the Unity cloud build service quite a while ago, but at least at that time it ignored custom preprocessor defs, and that’s a dealbreaker.
+
+The most annoying problem with Unity Services is that it assumes a reliable always-on Internet connection. I don’t have that — I have the basic package from my cable company that periodically drops connections, so I get frequent error messages saying the Editor can’t connect to my Unity account, services automatically disabled until I refresh, build disabled until the services are enabled, and sometimes I end up committing those automatically disabled service settings into source control.
+
+So I have all the services turned off individually (there’s no single switch for just saying you don’t want to use any services), but I still get annoying intermittent console warnings that the Editor can’t connect with my Unity account and a big red bar in the Services panel.
+
+I don’t plan to stop using Unity anytime soon, and if my business starts pulling in six figures again (I did, before I started using Unity, but I’m not blaming Unity — that’s more a reflection of gamedev), I’ll have to upgrade to a subscription as required by the license. But in the meantime, I think we should start seeing other people.
