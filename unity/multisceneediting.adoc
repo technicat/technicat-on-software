@@ -1,0 +1,24 @@
+Multi-Scene Editing
+technicat
+technicat
+Jun 1, 2019 · 2 min read
+
+This upgrade of HyperBowl to the latest version of Unity has been more traumatic than most. Large chunks of the lanes appear to be missing.
+
+After thinking maybe it’s because I’m still using a lot of legacy shaders that are no longer supported, I eventually discovered many mesh references were removed from scenes. I suspect this happened with prefab instances where I removed the original prefabs, so for example, all my bowling pins are gone.
+
+It’s fixable just by reattaching the meshes, i.e. manually dragging the meshes from the Assets folder into the proper points in the Scene hierarchy (I’m not sure drag-and-drop development is a real time-saver here).
+
+A further complication is that a lot of the meshes are named “flattened” so it’s hard to tell which one to drag. The only way to be sure is to reinstantiate the original FBX-imported hierarchy into this scene or another and check which mesh is supposed to be there.
+Image for post
+Image for post
+
+But if there’s a silver lining, it’s that this situation prompted me to finally try out Unity’s multi-scene editing feature. Up until now, I’ve been using a little script I made that reads the list of scenes in Build Settings and gives you a popup GUI that lets you select a scene to switch to.
+
+Multi-scene editing isn’t really any faster for switching scenes like that. After dragging all the scenes you want to switch among into the Scene window, to switch between two scenes you have to load the second one, unload the first one, and make the second one active (maybe it’s time for a new Editor script).
+
+But it’s pretty handy for this situation. So I’ve dragged not only all the runtime scenes into the Scene window, but also a new scene containing the original FBX hierarchies for each lane. Now I can find the mesh at each node in the FBX and drag it into the corresponding node into the corresponding lane.
+Image for post
+Image for post
+
+And while I’m at it, I might as well update the shaders.
