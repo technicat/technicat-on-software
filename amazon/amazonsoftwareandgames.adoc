@@ -1,0 +1,15 @@
+Amazon Software and Games is Gone
+technicat
+technicat
+Jul 16, 2018 · 1 min read
+
+A couple of weeks ago I got this email from Amazon:
+Image for post
+Image for post
+
+Honestly, I forgot this service existed. A couple of years ago I tried to upload a Mac build of HyperBowl to it and I couldn’t tell what happened to it. It wasn’t rejected but didn’t show up anywhere as far as I could tell.
+
+Even the Amazon Appstore doesn’t look maintained, with no new features or apparent fixes (compare to the App Store and Google Play), so it’s hard to tell what Amazon is really supporting, but I have the feeling that someone at Amazon just recently noticed this thing was still running and decided gosh, we should just shut it down. And I just saw on twitter there’s been a piracy issue, so maybe it’s just too much trouble to keep around.
+
+Based on this experience, the signoff on the email seems a bit overblown:
+Image for post
