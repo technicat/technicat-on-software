@@ -1,0 +1,20 @@
+Software Degrades
+technicat
+technicat
+May 19, 2019 · 2 min read
+
+On thing people not in software don’t realize about software is that software degrades (sometimes referred to as “bit rot”).
+
+Of course, it’s not that the bits actually rot (although after some years, phsyical digital media does become unreadable, so yay for the cloud, I guess). What happens is that everything else upgrades. For example, I just tried to upgrade HyperBowl to the latest version of Unity, and not for the first time, it came through scathed (they do always warn you to make a backup before upgrading).
+
+This bug actually looks kind of cool, but that HyperBowl logo is supposed to be on a metal door that opens and closes between scene transitions with a Star Trek automatic door-like swoosh.
+Image for post
+Image for post
+
+I thought it might be shaders, because I’m using shaders that are announced to be obsolete and will stop working any time now. But upon closer inspection, seems some mesh references got lost during upgrade. There are some other in-game elements missing, too, some that can’t be glossed over, like the bowling pins. And I still have to do something about the shaders, eventually.
+
+This could be useful information (not the shader/mesh stuff but keeping-it-upgraded) to anyone complaining “Why doesn’t this work, anymore?” or attempting to deploy a new app with the assumption they can pay for its development once and then leave it out there forever.
+
+But people who should know better forget this, too. I’ve worked at places where they dust off some code every few years and wonder “Why doesn’t this work, anymore?” and on contracts where the client doesn’t want to pay for upgrades and then gets agitated when the two year old app crashes on the latest Samsung phone.
+
+Sure, my Toyota Celica lasted nineteen years(!) but I still took it in for oil changes and other maintenance every six months. Similarly, if you want your software to last nineteen years, or at least a couple, I recommend you take it in for maintenance every six months or so. And maybe release an update while you’re at it.
