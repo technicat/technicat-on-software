@@ -1,0 +1,14 @@
+HyperBowl is on Steam. Almost!
+technicat
+technicat
+Jul 9, 2018 · 2 min read
+
+After years of ignoring Steam (Greenlight looked like a big hassle), I’ve begun to run out of app stores to deploy HyperBowl to just in time for Steam’s transition to Steam Direct, which essentially is an app store like other app stores. That is, pay a fee, upload your game, fill out a store page with a description and price, and hope they don’t reject it for some weird reason.
+
+Adapting your game to Steam minimally requires integration with the Steamworks SDK, and conveniently there is an open source Steamworks.NET C# wrapper of the Steamworks API that works with Unity. My build of HyperBowl passed review with no problems, and the store details were approved after a few resubmissions.
+
+One thing about Steam is they want a leadup time to an actual release, so HyperBowl is now in a Coming Soon state on Steam.
+Image for post
+Image for post
+
+I’m only releasing a Mac build to start, as I want to get the hang of it, get the lay of the land, and so on, before adding a Windows build. And maybe a Linux build. I also plan to add Steam achievements using the SDK, but first I just want to get something deployed and get the hang of updating it, get the lay of the land, and so on. Starting tomorrow!
