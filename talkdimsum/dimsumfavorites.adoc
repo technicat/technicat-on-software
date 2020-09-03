@@ -1,0 +1,14 @@
+Dim Sum Favorites
+technicat
+technicat
+May 23, 2017 · 1 min read
+
+Let it not be said that I ignore user requests. Only seven months after a user request on Facebook, I added a favorites feature on my Talk Dim Sum app. Tap the near-industry-standard heart icon (courtesy of Ionicons), to add or remove a dish from your favorites list:
+Image for post
+Image for post
+
+And then you can view it in your favorites list.
+Image for post
+Image for post
+
+Implementation-wise, I took this opportunity to try out Realm as the backing database for the favorites list.
