@@ -1,0 +1,14 @@
+GameCircle Is Gone
+technicat
+technicat
+Jul 31, 2018 · 1 min read
+
+I received this email from Amazon today:
+Image for post
+Image for post
+
+I actually couldn’t remember what GameCircle was, but after I looked it up it turns out to be Amazon’s social gaming service, providing leaderboards and such, akin to Google Play Game Services and Apple’s GameCenter.
+
+Some HyperBowl users have asked for integration with Google Play Game Services, but I never quite got it to work. I do have support in HyperBowl for GameCenter, but, as I told the author who updated my Unity book when he asked me to provide GameCenter screenshots (because he didn’t have time, he said, but whatever), it looks like Apple’s lost interest in GameCenter. It’s gradually deteriorating, and they’ve even removed the GameCenter app.
+
+So with Unity’s push toward online services, I wish they provided simple social gaming features beyond a GameCenter wrapper (their social API is designed to abstract over any social gaming API but so far it’s just been GameCenter). It’s actually odd that they keep offering multiplayer toolkits but not just basic leaderboards/achievements and friends/challenges. Their newly announced “connected games” partnership with Google Cloud sounds like way more, also, but if it comes with leaderboards, I’ll take it!
