@@ -1,0 +1,14 @@
+Going Android
+technicat
+technicat
+Mar 31, 2018 · 2 min read
+
+After a three-year stretch with a series of iPhones, and just two months with the iPhone X, I’ve switched back to Android (a Samsung Galaxy S). This is why:
+Image for post
+Image for post
+
+That’s the summary of my app statuses in iTunesConnect. I’ve been complaining since the beginning of time, or since 2009 when I started putting apps on the App Store, that it doesn’t make sense to invest a lot of time in a native iOS app not knowing if Apple will reject it. And I’ve had quite a few rejected, including fixes for apps that had been on the App Store for years. The latest was for a chess game, rejected for one of their terse and non-explanatory rules: not having enough functionality. I mean, it plays chess. C’mon.
+
+So rather than constantly trying to guess what will appease them (and sometimes when they actually tell me, I have no interest in doing it: it needs a tutorial, it needs to be redone from scratch…), I decided to apply my rule that after several years of complaining I should just cut bait (I call this my LinkedIn Rule). That is, I’m not going to start any new iOS apps (except for contract work, of course), and the next native app I make will be on Android.
+
+One reason I haven’t been that keen on doing Java development on Android was Java. I don’t know why, just seems that after working with Java for several years I find it boring, but Khotlin looks good. It seems to be similar to Swift, and I do like Swift. Apple has some good tools, just a lousy attitude.
