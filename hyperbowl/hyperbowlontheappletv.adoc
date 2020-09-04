@@ -1,0 +1,10 @@
+HyperBowl Is On Apple TV, But Just My Apple TV
+technicat
+technicat
+Jul 6, 2017 · 1 min read
+
+I gave up at least for now on HyperBowl for tvOS, but it is running. It’s just rejected by Apple. So here’s proof that it’s playable, on my Apple TV.
+
+Instead of swiping an iPhone/iPad screen to roll the bowling ball, you swipe on the Apple TV remote (It’s basically the same code, but with different scaling factors for the force to adjust for the different swipe pad).
+
+I thought it might be weird swiping with your thumb to play, but it’s not bad — I actually like how, like with a gamepad, you’re not tapping/swiping over the display.
