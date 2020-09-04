@@ -1,0 +1,54 @@
+Learn Unity 2017 for iOS Game Development
+technicat
+technicat
+Dec 31, 2017 · 8 min read
+
+Just in time for the end of 2017, the second edition of my book Learn Unity 4 for iOS Game Development, published by Apress, is in print, and it‘s called Learn Unity 2017 for iOS Game Development.
+Image for post
+Image for post
+
+I haven‘t seen the new edition, yet, but it’s already got a five-star review on Amazon. This edition was updated by another author, Allan Fowler, since I declined to work on it when Apress contacted me last fall.
+
+At the time, I was working on multiple contracts, so if they’d contacted me just a few months later, I might have agreed. But it’s probably just as well, since the royalties for the new edition are split between me and the new author, and thus it’s a win-win: I still get royalties without having to do any more work (albeit at a reduced rate, and so far the royalties have not reached the threshold of my advance payment), and the new author doesn’t have to write a book from scratch.
+
+Also, when I was working on the first edition, I told myself I wouldn’t work on a new edition in the event they asked me. Although I’ve always loved reading and collecting programming books, and some Apress titles are my favorites, this is one of those cases where you learn how the sausage is made. Similar to my first experience hiring a home remodeling contractor, I was initially impressed at their project management setup, and by the end of the project I decided it’s not any better than software development.
+
+For one thing, when writing a book, there’s a plethora of editors involved, including an acquisition editor who somehow finds you on the Internet (it pays to blog) and contacts you about writing the book, a coordinating editor who manages communication between you and the other editors, a development editor who works with you on the main writing, and a series of copy editors who fix little mistakes here and there. There’s also a technical reviewer they find out their in the wilderness like you (in this case, we got the well-known Unity user known as dreamora)
+
+You might think the more, the merrier, and I did like dealing with the acquisition and coordinating editors, but when it comes to the actual writing, instead of an editor just emailing you to a question or comment, they write comments in the Word draft of your chapter after you submit it, and if you want to respond after you get the draft back, you write your own comments and resubmit it, then the editor tries to get the coordinating editor to get me to do what he wants, and we just end up emailing each other.
+
+And this is where it goes downhill, when I say if that’s an industry standard, please show me a reference, and he says I don’t have time to look it up. Then he emails a complaint about me to a bunch of editors except he accidentally sends it to me and then has to apologize (one of those “that’s not me” apologies).
+
+So, maybe that just goes to show it really is a good idea to avoid email, but it points out a couple of other issues. One is that people with any kind of writing degree often assume they’re better writers than anyone without (even more so when dealing engineers — you know, that left-brain, right-brain nonsese). It might seem a reasonable assumption until you see the results. This editor, after leaving comments like “Not so good” and “Better” and nitpicking on my use of since instead of because, took it upon himself to rewrite one of my paragraphs so it didn’t make any sense (with the comment “How’s this?”).
+
+Also, like management in general, editors feel they have to edit something. If they leave it alone, they’re not doing their job. I experienced this all the way back to a stint on my high school newspaper, and when submitting my writing requirement at MIT (the writing professor just swapped two paragraphs in my essay, and I’m like why? Did you really need to do that?)
+
+The other issue is the lack of references. Apress actually has a nice style guide which is written in the format of that style. But even that document did not follow the “standard” ending format my development editor wanted, which is to close the chapter with “In this chapter, we learned this, and this, and this…” which I thought was boring and treated the reader like a three-year old. Instead, I closed each chapter with an Explore Further section that implicitly recapped the chapter topics by discussing related resources and topics. This, by the way, was inspired by Peter van der Linden’s Just Java books, in which I found the closing sections the most interesting reading.
+
+One of the copy editors also cited a “standard” when she returned a draft saying the tense needed to be changed. But again, no reference was provided for the supposed standard, and the previous editor who complained I violated a different standard had made no mention that the tense was wrong. I guess in software development I’d taken for granted that people are prepared to back up their positions with links to references (although there was this Java developer who argued for a certain code style and said he “didn’t have time” to provide the reference…).
+
+While writing the book, I’d purchased and read (or at least skimmed) the Chicago Manual of Style, the AP stylebook, and Strunk and White, along with listening to every Grammar Girl podcast (who, by the way, is probably a great editor as she references all those guides when discussing a style issue). This is because I want to get it right, and I want to take this opportunity to learn. So maybe they didn’t realize that when I asked for a reference, I really wanted to see the reference.
+
+Now, the coordinating editor did repeatedly assure me that the book was my book and that the other editors’ editing were only suggestions. Which was a particular relief after one editor returned a draft adding a space after every period that was used in code, like Screen.width, apparently assuming those were sentence-ending punctuation marks. There were several hundred of those edits. That leads me to believe the editors often don’t really try to understand the book when they read it, they just run though it like an iPhone autocorrect.
+
+Admittedly, my writing was a lot better in later drafts, and that’s because there’s a mismatch between their process which involves submitting sequential installments of chapters (in this case, three installments, with a milestone payment of the advance after each), whereas I need to write the whole thing to get a feel for it and then revise the whole thing. So it’s a good thing that after I exceeded the original length target by 200 pages, the development editor did suggest breaking some of the huge chapters into more chapters and moving the code into the appendix, which was what I wanted to do but didn’t see how to do that within the process.
+
+But despite my exasperation, once the book was out, I was gratified to see a copy of it in almost every Barnes and Noble I visited (though often it was the same copy when I checked months later). That’s one good thing about going with Apress — they have retail distribution. I’m not sure there’s much value in going with a publisher that only sells online— you might as well self-publish, especially if they don’t put much effort into marketing your book.
+
+Which is another complaint I had. Apress did some marketing of my book when they started selling the “alpha” edition, but once the final version was out, not a tweet to be found (well, I think there was one tweet from Apress in India). I talked to another author who was doing a signing of her recipe book at Barnes and Noble, and she also complained that she had to do all the marketing of her book, so I guess this is a standard publisher thing.
+
+And then there’s accounting. The book was supposed to take six months to write, and it took a year, and that was partly due to my insistence that I receive payment for each installment before starting on the next, and Apress has one of those corporate accounting departments that wait as long as they are contractually allowed to before making payment. They also still owe me a penny, because my total advance was not cleanly divisible by three and they rounded down each payment.
+
+They have improved their royalty support email, though. When I reported a change of address, there was no response, so I didn’t know until my next royalty statement that they’d processed it. But more recently, I reported a change in email address, and that went through a ticketing system and they sent me a confirmation. So, progress.
+
+And I saw they started using github for the code samples in each book, but they didn’t notify me, otherwise I could have told them a) I already have the project files in Learn Unity 4 on github which have been updated to the latest version of Unity, and b) they incorrectly have the project files in their repo in binary format instead of text format.
+
+So, my final complaint is if they maintained a post-publishing relationship with authors instead of treating them like contractors, it would be to their own advantage and this kind of thing could be avoided. I also had readers complaining to me that the second Kindle version of the book had problems, and I was like, what second Kindle version?
+
+I also could have let them know, hey, it’s time for Learn Unity 5 (Learn Unity 2017 started out as Learn Unity 5, and is still listed that way in parts of the Apress web site, but it was late in Unity 5’s lifecycle).
+
+And I could have let them know that they added to the incorrect description of Learn Unity 4 (it does not cover Mechanim) with more incorrect description (it no longer covers iAd, which Apple abandoned, or Game Center, which Apple has nearly abandoned). There’s mention of gyroscope coverage, too, which I think is another incorrect item from the original description.
+
+It would also have been nice if the About the Authors section included me, but I guess I should be thankful that my name is at least listed as an author — for a while, it wasn’t, and this could have been an angrier blog!
+
+But I’m please to see the book is out, with a good review already, and here’s hoping for royalties!
