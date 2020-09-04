@@ -1,0 +1,24 @@
+Pirated PNGs
+technicat
+technicat
+Mar 31, 2019 · 3 min read
+
+One thing I don’t get with the outrage over asset flipping and “cloned” apps and games is that I don’t see the same outrage over outright piracy. At least asset flipping takes at least a minimal amount of work (90% of my time with Unity projects is getting them to build), and implementing someone else’s design will likely take a lot of work. Piracy, on the other hand, is real cloning: just copy a file and upload.
+
+I mean, sure, when I saw a PS2 bowling game that had the same bowling mechanic as HyperBowl, after I’d worked on the arcade version, I thought it was lame. But that was largely because they’d made similar but identical versions of each lane (ancient Egypt instead of ancient Rome…), instead of running with it and doing something interesting with all the implementation work they must have put in.
+
+Whereas the paid Android version of HyperBowl was pirated immediately (within a few hours) every time I updated it on Google Play, copied and uploaded to several accounts on a “developer” site that conveniently scraped the Google Play description, but without giving me attribution or a share of the their web site ad revenue (it’s like having a really bad publisher).
+
+That was so annoying, plus the peanut gallery telling me I should be happy that my app is pirated (hey, I’m no saint, but I don’t claim I’m providing a public service when I consume pirated content, I’m just watching YouTube), I went all free-with-ads on Google Play, and now I just have to contend with complaints that hey, this free app has ads!
+
+But when they’re not pirating apps, they’re pirating app icons. I just found multiple copies of my Talk Dim Sum app icon on this site.
+Image for post
+Image for post
+
+It’s got all the hallmarks of a pirate site. The disclaimer that all of the content is public domain or provided by users. The badly-spelled DMCA page telling you to submit your complaint by carrier pigeon and beware the dire legal consequences should you attempt to do so. And the auto-generated tags and URL that include reference my other app HyperBowl, indicating they’re scraping these icons off the App Store.
+
+If you want to use this icon, just do what I did: pay a dollar for it on iconfinder.com.
+Image for post
+Image for post
+
+Or get someone to make an icon for you. Just make sure they don’t pirate it! Seriously, someone once helpfully offered to make me an icon for free, and I found out they’d just copied it from a web site and reversed it. Sometimes it pays to pay, even if it’s just a dollar.
