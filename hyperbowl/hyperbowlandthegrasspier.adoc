@@ -1,0 +1,32 @@
+HyperBowl and the Grass Pier
+technicat
+technicat
+May 13, 2017 · 2 min read
+
+It’s been a while since I added a new lane to HyperBowl, which up until now included the six original lanes and four new ones. But there were some requests on the Facebook page, so I looked through the in-progress lanes that I haven’t finished but hadn’t abandoned, and chose what I’m calling the Grass Pier.
+
+As with most of the new lanes, I started with a free environment available on the Unity Asset Store, in this case the Grassy Road Race from Sugar Assets.
+Image for post
+Image for post
+
+Not just any environment will do. It has to allow bowling in a single direction from beginning to end. Some side to side leeway is good, of course (otherwise it would be boring), but the camera is always going to face the same direction, so anything where you have to turn is not good, and something like a racetrack wouldn’t work at all.
+
+And of course, it has to run comfortably on mobile. I really wanted to use a Hong Kong environment I found on the Asset Store, but like the real Hong Kong, it’s too packed with stuff.
+
+One problem with not having added a lane for so long, I kind of forgot how to do it, so I spent a lot of time trying to remember my time-saving tricks. But basically, I have a reasonably straightforward process for adding a new lane.
+
+    Duplicate an existing lane
+    Customize the lane number, name, and difficulty (novice, intermediate, advanced)
+    Add the new assets
+    Copy the lights, bowling pins and bowling ball start position to their new positions with respect to the new assets.
+    Remove the old assets
+    Add collision meshes and primitives where necessary
+    Specify the appropriate physics materials for all the collision meshes and primitives (besides how the ball bounces, this determines the rolling and bouncing sounds)
+    Adjust lighting if necessary (light position, turn shadows on/off)
+    Deploy
+
+And this is how it looks in the game on an iPad.
+Image for post
+Image for post
+
+The work continues after this. I don’t wait until I do everything I can think of before releasing it – as soon as it’s running and there are no glaring omissions, it’s good to go, and then I start tweaking it in updates. For example, I’ve already replaced the initial static texture water with reflective water from Unity Standard Assets. Next update, maybe some lens flare to give a sunlight effect. And after that, I might adjust the layout so it feels more like one of those infinite runner games.
