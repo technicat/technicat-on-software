@@ -1,0 +1,20 @@
+PF Chang’s Is Not Dim Sum
+technicat
+technicat
+Jan 14, 2019 · 2 min read
+
+With free apps, it’s hard to avoid negative ratings, because, hey, who doesn’t like spending their evenings consuming free stuff and giving snarky reviews.
+
+My Talk Dim Sum app has done fairly well, but still, there’s the occasional complainer, like the one who ranted that I didn’t include dim sum restaurants in San Francisco and Vancouver.
+
+Well, I have a limited travel budget, and so far I’ve mostly been listing only restaurants that I’ve visited or have been recommended by the app’s users (hence the entries for Ottawa and New Jersey). It’s actually nice to get this kind of feedback, and the users appreciate having their favorite restaurants added (restaurant owners even more so).
+
+Nevertheless, the obvious question is why don’t I just extract everything from a service like Google Maps or Yelp. In fact, I did experiment with integrating the Foursquare API. It sort of worked, but I felt the flow wasn’t very good, especially where it wants you to sign into foursquare. As for Yelp, I never liked their terms of service, particularly their you-indemnify-us-and-everyone-we-know-for-anything-that-happens clause.
+
+And Google Maps demonstrates the downside of just taking data from someone else. Every time I search for dim sum, they serve up PF Chang’s.
+Image for post
+Image for post
+
+P.F. Chang’s is not dim sum. It’s barely Chinese food (the P.F. stands for Paul Fleming of Fleming’s Steakhouse — it should be called C.A. Chang’s, for Cultural Appropriation). You don’t need rolling carts and Chinese-speaking servers for dim sum (although it’s nice to see), but egg rolls and fried wontons on the appetizer menu do not make a dim sum place.
+
+So, if you do end up in a real dim sum place and like it, feel free to let me know!
