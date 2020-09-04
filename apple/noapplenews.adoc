@@ -1,0 +1,16 @@
+No (Apple) News
+technicat
+technicat
+Oct 23, 2018 · 1 min read
+
+My macOS Mojave (weird camel capitalization) upgrade went mostly fine. The first thing I had to do, because Xcode was apparently updated, was to fix cocoapods by running
+
+xcode-select --install
+
+The other thing was just an inconvenience, but it was one of those maddening inconveniences: Apple News notifications. It’s so annoying, especially on a small laptop screen, watching notifications flash before your eyes as you try to work.
+
+Now, maybe this is obvious to everyone else, but I thought unchecking all the checkboxes in the Notifications preferences would turn off all notifications, but I had to google to figure out I needed to set the alert style to None.
+Image for post
+Image for post
+
+How is disabling something a style? Styles are styles and enabling/disabling should be something separate. Anyway, it’s done now. No Apple News is good news.
