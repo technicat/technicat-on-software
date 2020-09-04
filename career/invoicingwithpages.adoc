@@ -1,0 +1,30 @@
+Invoicing with Pages
+technicat
+technicat
+Dec 23, 2019 · 2 min read
+
+Every year, I look around for something to replace the aging invoicing software (ProfitTrain) I’ve used on my Mac, but this year macOS Catalina forced my hand by disabling every app more than a few years old.
+
+Somehow, I had a lot of trouble finding something that would just let me enter hours and generate an invoice without a whole lot of project setup, milestone progress tracking, etc. But finally I stumbled upon an invoice template in Pages which fits the bill.
+Image for post
+Image for post
+
+The template generates a boilerplate invoice with editable contact info, company name, etc.
+Image for post
+Image for post
+
+The template is designed for goods, but it’s easy enough to edit the column headers from Quantity and Unit Price to Hours and Rate. Then delete all the rows but the first row (control-click on the row to see the Delete Row option) and customize the cells in that row.
+
+Whatever hours and rate you enter will automatically reflect in the Sum column and in the Total at the bottom. You’ll probably also want to adjust the display format in the hours cell to Number (or fraction which is cool if you like to see fractions, or scientific if you want to get weird).
+Image for post
+Image for post
+
+For most of my invoices, one line is enough, but it can be duplicated by selecting the existing row and adding a new one below.
+Image for post
+Image for post
+
+Then copy and paste the content of the first cost cell into the new one and it will reflect whatever you enter into the hour and rate cells of that row, and the total will be updated.
+Image for post
+Image for post
+
+Then export to PDF or whatever via the file menu and bill your client!
