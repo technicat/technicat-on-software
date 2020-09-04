@@ -1,0 +1,12 @@
+itch.io revenue share
+technicat
+technicat
+Nov 17, 2018 · 1 min read
+
+One of the cool features of itch.io is its revenue share. It defaults to 10%, but you can adjust if to anything if you’re feeling cheap or generous.
+Image for post
+Image for post
+
+I actually considered setting it to 100%, as I don’t get much in the way of pay-what-you-want revenue, but I like itch.io, and my strategy is to primarily host webplayers on it to drive people to the mobile and Steam versions of my games.
+
+On the other hand, there’s always a Lotto-like possibility a million people will pay-what-they-want tomorrow, so I’d hate to miss out on that. So, for now, let’s go fifty-fifty.
