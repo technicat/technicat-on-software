@@ -1,0 +1,22 @@
+Minimum Functionality
+technicat
+technicat
+Jan 29, 2018 · 1 min read
+
+I guess Apple isn’t a fan of the MVP concept. Lately I’ve been seeing (and hearing about) more rejections like this:
+
+    Guideline 4.2 — Design — Minimum Functionality
+
+    We found that the usefulness of your app is limited by the minimal amount of content or features it includes.
+
+    Next Steps
+
+    We encourage you to review your app concept and incorporate different content and features that are in compliance with the App Store Review Guidelines.
+
+    We understand that there are no hard and fast rules to define useful or entertaining, but Apple and Apple customers expect apps to provide a really great user experience. Apps should provide valuable utility or entertainment, draw people in by offering compelling capabilities or content, or enable people to do something they couldn’t do before or in a way they couldn’t do it before.
+
+In the latest case, the app is a player vs computer chess game. I mean, it’s chess, not tic-tac-toe.
+
+And I think there’s some irony that a rejection citing “minimal content” doesn’t actually contain any useful information.
+
+This is why my new New Year’s resolution is to do more Android development.
