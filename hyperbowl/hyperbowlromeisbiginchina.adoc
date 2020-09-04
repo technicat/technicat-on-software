@@ -1,0 +1,16 @@
+HyperBowl Rome Is Big In China
+technicat
+technicat
+May 6, 2017 · 2 min read
+
+Apple recently added a Sources page to the App Analytics section of iTunesConnect. Here, for example, are the sources for App Store product page views of HyperBowl Rome over the past month (although it looks like data only started getting collected about three weeks ago).
+Image for post
+Image for post
+
+You can see most of the views are from people browsing the App Store. Some are from searches, a few from another app, and nothing from the web (not surprising, as I don’t link to this particular app from any site). On another app that has more app referrer and web numbers, I was able to see the app referrer was Mail (probably the product newsletter), and the web referrer was the company web site.
+
+I picked HyperBowl Rome to check this out because for some reason it’s been my most downloaded app, recently. Apparently, it’s big in China (or bigger, anyway), as I can tell from looking at the Overview page in App Analytics.
+Image for post
+Image for post
+
+So I guess the question is why there are more people in China finding this app when they browse the App Store. Or maybe it’s just because there are more people browing the App Store there.
