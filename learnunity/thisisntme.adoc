@@ -1,0 +1,16 @@
+This Isn’t Me
+technicat
+technicat
+Apr 21, 2019 · 2 min read
+
+Once in a while, I google the second edition of my Unity book to see how it’s doing, and usually the results validate my decision not to work on the update but also leave me with regret that I didn’t, because there are so many things I’d like to fix. Like this author bio I found from an excerpt on google books.
+Image for post
+Image for post
+
+The bio is out of date since the publisher didn’t contact me for for an update and didn’t ask me to take a look at the revision (although they did ask me to provide some updated screenshots for the Game Center chapter because the new author didn’t want to deal with it — I just advised them to drop the chapter).
+
+More disturbingly, that picture isn’t me. I assume it’s the coauthor who worked on the second edition. Or a wallet stock photo. My bio pic from the first edition is no longer there, so looks like they just replaced it, instead of adding the new photo properly next to the other author’s bio.
+
+I found a bunch of errors in the first chapter, too, like references to Unity 5 instead of Unity 2017, and some obsolete information (even at that time), like support for Flash. Maybe it’s just as well I don’t have the rest of the book to check (although it would have been nice if they’d sent the original author, me, a copy).
+
+It’s all moot, anyway, as the second edition was obsolete within a few months, and Unity 2018 dropped UnityScript support (but I did already rewrite the code samples in C# on github). We’re into Unity 2019, now, and I’d like to see another update of the book, but…I probably don’t want to work on it.
