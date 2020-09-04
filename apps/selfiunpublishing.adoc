@@ -1,0 +1,18 @@
+Self-Unpublishing
+technicat
+technicat
+Mar 30, 2019 · 2 min read
+
+“Self-publishing” is kind of a fuzzy term, but one factor to consider is how easy is it to unpublish. For example, getting an app approved on the App Store can be a challenge, but unpublishing it is just a button click. Same with Google Play, GameJolt, itch.io….
+
+In contrast, while Kongregate seemed to be a self-publishing platform, it didn’t have any kind of unpublish button or form, so I contacted customer support to just delete my account, as I had $4 in revenue just sitting there for years, and my old Unity webplayer version of HyperBowl didn’t run on modern browsers. They offered to unpublish it for me but leave the account active, as deleting my account would lose my $4 to them, but that just made me want to leave even more (“I want my four dollars!”)
+
+But generally speaking, while seemingly a last resort, removing my account has been effective in getting me an unpaid balance. When the Nabi tablet was discontinued and the company went into bankruptcy, I received a check for around $50. And after six months of chasing Fingerprint for payment (another case where I got suckered by “oh cool, an app store for kids!”), I asked them to terminate our contract, whereupon they wired be about $170 (the tablet I purchased for development cost around $100, so technically this was a profitable venture!).
+
+But that was nine months ago, and it turns out, they’ve still been publishing my apps all this time. In addition to publishing my HyperBowl on Samsung Kids, the contract included installation on Launchpad tablets distributed by Playaway. Recently, I ignored an email from Plawaway generically addressing me as “Hello,” and referring to “your apps,” asking to transfer my contract to them directly, as I figured it was some mass email. But then they messaged me on the HyperBowl Facebook page, again generically for some reason (“Hey there,”), saying they were distributing my apps and would like to continue, whereupon I said I didn’t think so, as I’d terminated the contract and never received any payment for any Launchpad installations.
+
+But I guess we’re both right, as they reiterated they were indeed including variations of HyperBowl in several bundles, such as this:
+Image for post
+Image for post
+
+And they said they’d also been sending payment to Fingerprint. So best case is they haven’t sold any HyperBowl bundles and I haven’t been missing out on revenue, and worst case is someone owes me money. Or maybe I have the best case and worst case reversed. Anyway, my response was no thanks, please remove my apps. Dead silence for response, so I’ll check again in a month. Unpublishing sure isn’t easy!
