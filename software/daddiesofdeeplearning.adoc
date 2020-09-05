@@ -1,0 +1,16 @@
+Daddies of Deep Learning
+technicat
+technicat
+Mar 28, 2019 · 1 min read
+
+The Turing Award has been awarded, and the winners are three “pioneers” of deep learning. I’m not trying to sound doubtful, just pointing out that’s the term most of the coverage has gone with.
+Image for post
+Image for post
+
+Except for the ACM Turing Award web site, which announced the recipients as “fathers” of deep learning.
+Image for post
+Image for post
+
+My first reaction was that’s awfully patriarchal. If the winners were women, would they have called them “mothers” of deep learning? Or a combination of men and women, “parents” of deep learning?
+
+But then I thought about it some more and realized, sexism aside, it’s just weird to go plural. It’s common to say someone is the “father” of an invention (or “mother” of an invention, including the “mother of invention”). But “fathers of” sounds like a sitcom, like “Three Fathers and an AI Baby.” Now that would have been a better headline!
