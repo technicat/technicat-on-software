@@ -1,0 +1,14 @@
+Fugu Maze
+technicat
+technicat
+Nov 27, 2018 · 1 min read
+
+As part of my end-of-year cleanup, I decided I should clear out some of my apps on the App Store, at least ones that no one is downloading.
+
+But I was suprised to see my Fugu Maze app on the Mac App store still being downloaded. I thought I removed it years ago. On the plus side, someone left a nice review last year (I’ve never had one of my games called “Japanese” before).
+Image for post
+Image for post
+
+But you can see from the other review how old this game is, and I’m not sure ever updated it. And I don’t think I even have the code for it, anymore (I just have the Unity project for the iOS/Android version, might have lost all the desktop code in the mobile conversion).
+
+So I’m going to try removing it from the Mac App Store again. If you’re curious about the app, download it now! (I just tried it, and it still works, but it’s pretty sluggish, and the mobile versions are much better-looking and faster, although I might discontinue those, too…that’s another story).
