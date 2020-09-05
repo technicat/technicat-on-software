@@ -1,0 +1,12 @@
+Version Control History
+technicat
+technicat
+Apr 25, 2019 · 1 min read
+
+I got this email from GitHub saying I signed up for GitHub Education, and would I please fill out this survey about how it has helped my career.
+Image for post
+Image for post
+
+Last time I was a student was 1994, a decade before git was a gleam in Linus’s eye, so I don’t think so. At that time, I used CVS, then SourceSafe, then Subversion, then Alienbrain (for game assets), then Perforce (another game studio), then Mercurial (just to be different), then git (I was worried about being too different), and most recently Unity Collaborate (for Unity, of course).
+
+There’s a nice timeline of version control systems by yet another vendor, Plastic. I haven’t tried that one, yet.
