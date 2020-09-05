@@ -1,0 +1,22 @@
+Lean Localization
+technicat
+technicat
+Jun 17, 2018 · 2 min read
+
+In my long list of Unity updates for HyperBowl (still using old particle system, still using GUIText…), is replacing the localization system. I was happy with the Localization Package from M2H, but it hasn’t been updated for years and is not even listed on the Asset Store, anymore, so I switched to Lean Localization from Carlos Wilkes, and it looks dandy.
+
+Instead of loading the translations from XML files, Lean Localization stores the translations in a LeanLocalization GameObject (or, more precisely, a component).
+Image for post
+Image for post
+
+That may be less suitable for a big team with a traditional localization pipeline, but it does make it easy to add translations piecemeal. For example, if I only have one Spanish translation, I can add it here instead of requiring a complete file of Spanish translations.
+
+To apply a localization in a uGUI text object, just attach a LeanLocalizedText script, specifying the phrase ID and default text if no translation is found (if you have text in the Text component, already, LeanLocalizedScript will automatically fill it in as Fallback Text.
+Image for post
+Image for post
+
+After attaching LeanLocalizedText to all the buttons and labels in the menu and filling in Spanish translations in the LeanLocalized object, here’s how it looks on my iPad after switching the system language to Spanish.
+Image for post
+Image for post
+
+For other types of text objects, you can copy the LeanLocalizedText script and substitute the necessary component. For example, for text meshes, I copied LeanLocalizedText as LeanLocalizedTextMesh and in the code just replaced references to the Text component with TextMesh.
