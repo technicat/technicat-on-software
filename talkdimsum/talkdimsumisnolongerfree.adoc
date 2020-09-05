@@ -1,0 +1,8 @@
+Talk Dim Sum Is No Longer Free
+technicat
+technicat
+Jul 11, 2016 · 1 min read
+
+As Apple’s end-of-support date for iAd loomed, I planned to switch Talk Dim Sum to another ad network, but I couldn’t find anything I liked, or at least disliked not too much. I don’t like the ads from AdMob, and there was a Chinese ad network that contacted me, but strangely when I was about to try it out I couldn’t find any of their emails or documentation, and I couldn’t remember the name of the company or web site. Perhaps it was all a dream.
+
+So I did the expedient thing and just made it a $.99 app. And so far one person has paid, so, well, it could be worse. Technically. And now I have to give out promo codes. Get yours here.
