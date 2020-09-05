@@ -1,0 +1,18 @@
+A Unity Readme
+technicat
+technicat
+Aug 14, 2018 · 1 min read
+
+It’s been bugging me for a long time that I can’t easily annotate GameObjects in Unity, so I waste a lot of time staring at them like a puzzled archaelogist, wondering why it is the way it is and what was I thinking at the time.
+
+But it’s easy enough to implement your own version of post-it notes. Just make a little script that only has a public string variable, like this:
+
+public class Readme : MonoBehaviour {[TextArea(5,20)]public string notes = “”;}
+
+Now you have a script that gives you an otherwise non-functional in-Editor editable text field. A single line is not very readable, but the TextArea(minlines,maxlines) attribute allows you to specify the minimum number of lines the text area is sized to and the maximum it can expand to as you add more lines (and then a scroll bar will appear when you exceed that).
+
+For example, in my HyperBowl logo scene, I created a Readme GameObject, attached the script, and filled in some explanatory text.
+Image for post
+Image for post
+
+And now I remember what I need to do.
