@@ -1,0 +1,24 @@
+The Unity Data Privacy Plugin
+technicat
+technicat
+Jun 5, 2018 · 2 min read
+
+If you’re a Unity user, you probably received an email on GDPR-eve explaining you should integrate the Unity Data Privacy plugin into your app if it uses Unity Analytics or any other Unity service in a not-quite-explicitly-specified list of services.
+
+Unless you’re also using Unity Ads, which incorporates its own opt-out button. Which begs the question of what if the user is not guaranteed to see an ad.
+
+And according to the forum thread about the plugin, it takes care of Unity’s HW Statistics reporting (which you can’t turn off in the free version of Unity), although the Unity GDPR statement says another solution will be available specifically for HW Statistics.
+
+My takeaway from all that is you should just use the plugin. It’s not difficult to integrate. The plugin includes menu options to create an opt-out uGUI button, which probably isn’t what you want. More likely, at least for me, I want to create a new button within my current GUI and hook it up to some code, which in this case is a call to OpenDataURL in a class with these functions:
+
+void OnFailure(string reason){}void OnURLReceived(string url){Application.OpenURL(url);}public void OpenDataURL(){DataPrivacy.FetchPrivacyUrl(OnURLReceived, OnFailure);}
+
+Note the privacy plugin classes are in the Unity.Analytics namespace.
+
+The resulting opt-out button isn’t really an opt-out button so much as a button that brings up a web page showing the Unity privacy policy and an opt-out button there. It also offers an option to request the player’s data (specific to this app on this device), which shows up in the web page some time later (within 24 hours) when the user brings it up again, and it looks like this on my Android phone:
+Image for post
+Image for post
+
+The privacy button at lower right links to the Google privacy policy and terms.
+
+Or if just pay $125/month for Unity Pro, turn off HW Statistics and not use any Unity services, you don’t have to deal with this.
