@@ -1,0 +1,13 @@
+Unity Player Settings: Don’t Believe the Stars
+technicat
+technicat
+May 20, 2018 · 1 min read
+
+A convenient (and occasionally inconvenient) aspect of the Unity Player Settings is that some of the settings are shared across build targets. These properties are indicated by asterisks.
+Image for post
+Image for post
+
+But sometimes they’re wrong. In the example above, the Scripting Runtime Version is shared across targets, but I just discovered the API Compatibility Level isn’t. Scripting Define Symbols isn’t either (and you wouldn’t want it to be).
+
+So, the lesson here is to check the player settings for each target, and don’t believe the stars.
+
