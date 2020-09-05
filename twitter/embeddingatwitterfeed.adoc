@@ -1,0 +1,10 @@
+Embedding a Twitter Feed
+technicat
+technicat
+Feb 27, 2018 · 1 min read
+
+I’m not sure why I didn’t do this before, but you can embed your twitter feed in a web page. When I looked in my twitter Settings, I already had a widget set up, so maybe I tried it before and wasn’t satisfied how it looked, but I think it looks alright now on my home page (or at least it doesn’t make it look notably worse), like here on my iPad:
+Image for post
+Image for post
+
+It behaves well in different window sizes (and resizes) on the desktop. although on my phone, the widget turns into a single-line “Tweets by” link, but that’s fine.
