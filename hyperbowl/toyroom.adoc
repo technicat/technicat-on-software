@@ -1,0 +1,23 @@
+The Toy Room
+technicat
+technicat
+Aug 12, 2018 · 2 min read
+
+This set of concept renders for HyperBowl for toy room lane is unique in that it was actually implemented, and I worked on that implementation, but as far as I know, it was never released. Or perhaps released to just a few customers. I remember having to implement triggers for this lane, so if you ran (bowled) over a particular toy, something would happen, although I forget what, exactly.
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
