@@ -1,0 +1,12 @@
+Unpublishing in Google Play
+technicat
+technicat
+Jan 7, 2018 · 2 min read
+
+If you noticed that my Google Play account had a lot of apps that haven’t been updated in years and in some cases didn’t even run, anymore, it’s not because of of a hoarder’s mentality, or at least not just because of that. Sometimes I left an app there long after it’s prime because when I hit the Unpublish button, Google Play would insist I update other parts of the app page, first, like content ratings, new screenshots sizes… In the three-way race between Google Play, the Amazon Appstore, and the App Store, Google Play was a distant third in ease-of-unpublishing (Apple is #1, as with Amazon you have to submit a request to unpublish and a reason for it).
+
+But now I’ve managed to clean out some apps (sorry guys, we’re “rightsizing”). It’s less obvious how to unpublish now, since the unpublish option is now in the Pricing and Distribution page.
+Image for post
+Image for post
+
+And to save out the unpublish option I still have to fill out new sections of the Pricing and Distribution page, and after saving it out, I still receive emails from Google Play saying the updates can’t be processed because I haven’t updated other information for the app. But in fact, the unpublishing does take effect. So Google Play is still a distant third in the unpublishing business, but at least you can do it.
