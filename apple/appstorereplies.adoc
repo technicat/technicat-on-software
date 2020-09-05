@@ -1,0 +1,18 @@
+App Store Replies
+technicat
+technicat
+Mar 28, 2017 · 2 min read
+
+If you’ve been gnashing your teeth over those unfair App Store reviews, now you can unleash those snarky replies! Or maybe not. The Activity tab for your app in iTunesConnect now displays reviews and provides a reply option, but there is a “developer pending” period after submitting a reply, so I don’t know how much Apple examines them. Here’s my first App Store review reply for HyperBowl:
+Image for post
+Image for post
+
+In a way, it just sucks up more of your time and is one more thing to obsess about, especially since there’s no notification of new reviews (and no notification that your response is no longer pending), so I spent a good portion of last night confirming for a bunch of apps, yep, no new review in the last two years.
+
+On the other hand, it’s nice to see reviews without having to go to the App Store, it is nice to reply to nice reviews (and I theorize nasty reviewers will back off a bit if they know you can reply), and this is one area where Google Play was ahead of the App Store.
+
+Also, iTunesConnect now shows all your reviews and ratings from all markets worldwide, whereas in the App Store I could only see the US market, so for HyperBowl I’ve been missing out on maybe half of the ratings and reviews.
+Image for post
+Image for post
+
+Now if I just knew some more foreign languages I could read all of them.
