@@ -1,0 +1,18 @@
+Use UIActivityViewController
+technicat
+technicat
+Oct 27, 2017 · 2 min read
+
+There are some high profile apps that have their own interface for sharing to social media. Some examples: Instagram has a very limited set of options, while Giphy is lousy with share buttons.
+
+But the problem with a custom sharing interface is that it’s often missing the share option that you want. Whenever I provide a book link, I’d rather not be all Amazon-centric, so I’d like to provide the Goodreads link to the book (Goodreads is now owned by Amazon, but whatever). Alas, the share option in the Goodreads app doesn’t just let you conveniently copy the link, short of choosing one of the available share options, copying the link, and then canceling that share option.
+Image for post
+Image for post
+
+Amazon’s Kindle app, on the other hand, uses UIActivityViewController, the built-in sharing interface provided in iOS. It presents as a sharing target every app on your device that advertises it can take the supplied data, in this case the book link. And that includes built-in operations like Copy.
+Image for post
+Image for post
+
+The easiest way to use UIActivityViewController is just supply the data (e.g. a link, an image, and some explanatory text) and let it do the rest. But it has a lot of customization options (good overview on NSHipster), such as excluding some options (some social media apps don’t like sharing to the competition), tailoring the share data according to share target (you might want different text on Facebook and Twitter, fro example), and even add custom share targets.
+
+So do yourself a favor. Just use UIActivityViewController.
