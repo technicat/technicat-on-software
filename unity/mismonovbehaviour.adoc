@@ -1,0 +1,14 @@
+Unity 2018.2.2 MisMonoBehaviour
+technicat
+technicat
+Aug 16, 2018 · 1 min read
+
+Last week my Unity Cloud Builds of HyperBowl were resulting in weird build bugs that I couldn’t reproduce in manual builds. I finally figured out (after failing to notice someone else reported it as a Unity 2018.2.2 bug a few hours before on the Unity forum ) that Unity was no longer properly compiling scripts where there was no space before the colon in the class declaration. In other words, this didn’t work:
+
+class MyClass: MonoBehaviour {}
+
+but this did:
+
+class MyClass : MonoBehaviour {}
+
+There’s no logged compiler error, but Unity will complain that the script is not a MonoBehaviour if you try to attach it to a GameObject. However, instances of the script already attached to GameObjects are effectively disabled. Hence the mysteriously messed up cloud builds (I’m guessing manual builds were OK since the scripts were not recompiled — I only tracked down the problem after changing those scripts before rebuilding manually).
