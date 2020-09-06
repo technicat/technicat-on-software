@@ -1,0 +1,16 @@
+Unity KiSS
+technicat
+technicat
+Apr 28, 2016 · 2 min read
+Image for post
+Image for post
+
+The best contract jobs are ones where I learn something interesting (actually, the best ones would be those that result in blockbuster sales and I get a cut, but that hasn’t happened, yet…). This was a fun one from a while back, in which I used Unity to prototype a KiSS (Kisekae Set System) viewer, basically a 2D Japanese doll dress-up kit. The display and interface is entirely implemented in the Unity GUI system (uGUI), which I found pretty handy in supporting the drag and drop of the clothing and props, and even the 2D animation driven by the KiSS scripting system. Here are some screenshots:
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
+Image for post
