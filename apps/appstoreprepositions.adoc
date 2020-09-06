@@ -1,0 +1,16 @@
+App Store Prepositions
+technicat
+technicat
+May 9, 2018 · 1 min read
+
+On one of my client projects, I was annoyed that the client kept writing on their web site that the app was “in the App Store”, because the conventional phrasing is “on the App Store.” At least, that’s the way that Apple says it.
+
+But I just looked at the app store badges on the Technicat web site, and whether deliberately or indifferently, there isn’t a standard preposition.
+Image for post
+Image for post
+
+Both Apple and Google go with “on”, so if there’s a standard, that’s it. But Amazon and Microsoft look like they’re making a point of being different with “at” and “from”, respectively.
+
+On the other hand, Apple is the only saying to “download”, while both Google and Microsoft go with “get”, and Amazon is passive with “available”.
+
+And don’t get me started on the different sizes and aspect ratios.
