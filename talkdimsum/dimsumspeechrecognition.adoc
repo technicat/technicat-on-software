@@ -1,0 +1,20 @@
+Dim Sum Speech Recognition
+technicat
+technicat
+Jun 5, 2017 · 1 min read
+
+My dim sum app is officially an app for learning about dim sum, but secretly, it’s an app for learning Cantonese, or at least enough Cantonese to order dim sum (Hong Kongers who are worried about the preservation of the language in the face of the mainland government pushing Mandarin, you’re welcome).
+
+Belatedly, while iOS11 was introduced at WWDC today, I only recently realized iOS10 has a speech recognition API that I could use in the app. So I added say-and-search feature in the latest update. Say the name of a dim sum dish or a word that tags one or more dishes — for example, here I said “siu mai”.
+Image for post
+Image for post
+
+Then tap the Search button and see the varieties of siu mai dishes listed in the app: regular siu mai, quail egg siu mai, mushroom siu mai, chicken siu mai…
+Image for post
+Image for post
+
+    Food
+    Dim Sum
+    Cantonese
+    iOS
+    Appdev
