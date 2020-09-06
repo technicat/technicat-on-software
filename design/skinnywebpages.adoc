@@ -1,0 +1,18 @@
+Skinny Web Pages
+technicat
+technicat
+Oct 3, 2019 · 2 min read
+
+It’s important to make sure your web pages look OK on skinny windows and screens, especially as mobile phone screens have been getting narrower and narrower. Even on iPads, you now have to consider your page may be displayed in a narrow Slide Over window, like when I tap on my twitter profile link in tweetbot.
+Image for post
+Image for post
+
+Fortunately, the Github Pages template I used for my home adapts well to narrow screens. But for my itch.io page, I had to switch back from the sidebar format to the grid layout which looks find.
+Image for post
+Image for post
+
+I don’t have control over the appearance of my other app store pages, and Google Play is an example of how sidebars fill up what little width there is.
+Image for post
+Image for post
+
+Design your web page like it’s going to show up on a cash register receipt.
