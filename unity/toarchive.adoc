@@ -1,0 +1,16 @@
+To Archive or to Archive
+technicat
+technicat
+Jun 30, 2019 · 1 min read
+
+A convenient option to free up Unity Collaborate space for your other projects is to archive your project. But there’s archiving your project and then there’s archiving your project. I almost made the mistake of choosing the archive option under Settings in the Unity Services Dashboard.
+Image for post
+Image for post
+
+That’s not just archiving, that’s deactivating your project in Unity Services. You can always unarchive/reactivate it later, but in the meantime any Unity Services like ads, IAP, multiplayer, will stop working for your app.
+
+To archive just the project in Collaborate, go to the Storage options in Collaborate.
+Image for post
+Image for post
+
+This will not affect the other Unity Services. I think there should be some greater distinction in the wording between archiving a project in Collaborate and archiving a project period. Or just use different words.
