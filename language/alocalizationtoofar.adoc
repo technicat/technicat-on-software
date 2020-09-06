@@ -1,0 +1,16 @@
+A Localization Too Far
+technicat
+technicat
+Jan 30, 2018 · 1 min read
+
+One mistake I keep finding in my app localizations is that company names get translated. This happens sometimes when my friends contribute translations, and it’s happened a lot with Google Translate (which I used with the M2H Localization Package)
+
+For example, I was just looking at the Chinese translation I have for “HyperBowl is a trademark of Hyper Entertainment, Plc.” and I ran it back through Google Translate.
+Image for post
+Image for post
+
+Fortunately, Google Translate is always getting better. When I tried the original translation again, but updated to the new corporate identity for Hyper Entertainment, it looks better.
+Image for post
+Image for post
+
+At least, the company name didn’t get translated, and the translation looks plausible. As soon as I learn Chinese, I’ll know for sure.
