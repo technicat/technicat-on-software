@@ -1,0 +1,16 @@
+The 30%
+technicat
+technicat
+Oct 11, 2019 · 1 min read
+
+The recent IGN article on how 30% is “actually” the industry standard take from game stores is actually pretty comprehensive and interesting, but it’s funny how surprised they seem, as if this is a scoop.
+
+This is old news, at least for online sales. Apple introduced their 30% cut over ten years ago and the newer app stores and game stores followed suit. Almost every store listed on my web site takes 30%:
+Image for post
+Image for post
+
+The only exception is itch.io, which defaults to to 10% but lets the developer choose. And even then, they reference 30% as the industry standard.
+Image for post
+Image for post
+
+This, by the way, is a good reason to shop at itch.io. Assuming most developers choose the default percentage, more of your money is going to them.
