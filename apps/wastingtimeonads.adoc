@@ -1,0 +1,14 @@
+Wasting Time on Ads
+technicat
+technicat
+Aug 6, 2018 · 1 min read
+
+I don’t have a lot of regrets, but of course there’s stuff I would do differently knowing what I know now. I’ve seen that question asked on twitter about gamedev, and my answer there isn’t anything gamedev-specific. Rather, the greatest time-waster I could have avoided is messing around with different ad vendors. If you’re a mobile app developer, especially on Google Play which insists on publicly listing your email address, surely you’re received spam from mobile ad reps.
+
+For example, I was cleaning out some old email and found this message from Kiip:
+Image for post
+Image for post
+
+As I recall, my answer was that after trying out Kiip for three months, my ad revenue was $.01 (well below the payment threshold). I guess when he was looking at my numbers, he missed that one.
+
+I eventually settled on AdMob for Android and iAd for iOS, and now just Unity Ads, but not without getting suckered by some of those “I love your app!” “I want to buy your traffic!” “Skype me!” emails. Now I know better. If you love my app and want to buy my traffic, offer me an advance, and maybe we’ll Skype.
