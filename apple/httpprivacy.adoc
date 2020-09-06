@@ -1,0 +1,15 @@
+HTTPrivacy
+technicat
+technicat
+Oct 15, 2018 · 1 min read
+
+Apple recently started requiring the privacy policy field to be filled out in iTunesConnect when submitting or updating an app. But they do that weird Apple thing where they think you’re confused by things like URLs, so they prefill the field with an http prefix.
+Image for post
+Image for post
+
+Now, this is utterly useless when I cut and paste a URL in (from Safari), and worse than useless because if I’m not careful when pasting, I get this:
+Image for post
+Image for post
+
+Also, http? Didn’t they make a big deal about how they were going to require apps to use https?
+
