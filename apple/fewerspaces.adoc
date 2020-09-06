@@ -1,0 +1,16 @@
+Fewer Spaces, More Keywords
+technicat
+technicat
+Dec 7, 2019 · 1 min read
+
+I’ve been conditioned to add a space after every comma, even in code, and it always looks better. But I just realized I’m limiting myself when there’s a character limit.
+
+For example, just today I realized in iTunesConnect I routinely hit the max character limit in the Keywords field for App Store apps, but like the doc says, all I need are commas.
+Image for post
+Image for post
+
+Yeah, it looks cramped without spaces, but I can fit in several more keywords (especially if they’re in Chinese), and I’m assuming more is better.
+Image for post
+Image for post
+
+Don’t worry, I won’t do this on twitter.
