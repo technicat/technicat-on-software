@@ -1,0 +1,12 @@
+Turning Off App Transport Security
+technicat
+technicat
+Sep 28, 2015 · 1 min read
+
+It’s not an OS update until something breaks, and the new App Transport Security in iOS 9 snuck up on me: after I thought I’d painlessly updated my apps, I realized my app HTTP connections didn’t work, with log messages explaining that App Transport Security did not allow cleartext over http.
+
+In one of my apps (for WordsEye), the solution was simple — change http to https in my URLs. My Talk Dim Sum app, on the other hand, has a bunch of links to wikipedia and other informational sites, so I just turned off App Transport Security in the info.plist file:
+Image for post
+Image for post
+
+In general, best practice is to allow http connections on a case by case basis, but let’s just get everything working, again.
