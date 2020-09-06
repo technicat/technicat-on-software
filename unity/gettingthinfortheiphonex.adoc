@@ -1,0 +1,32 @@
+Getting Thin for the iPhone X
+technicat
+technicat
+Jan 21, 2018 · 3 min read
+
+After accidentally leaving my iPhone 7 in the washer, I discovered that those things really are water resistant! But just to be safe, I decided this was a good time to upgrade my phone.
+
+As a consumer, I would just stick with the smallest, cheapest iPhone. Or an Android phone. But as an iOS developer, I need to upload app screenshots on the largest phone screen, i.e. 7 Plus or 8 Plus. Generally speaking, you need screenshots for every iPhone and iPad screen size, but you can reuse the largest iPhone and iPad screenshots for the smaller screen sizes (which is why I have the 12" iPad Pro — nice sales technique, Apple!)
+
+But Apple reversed their recent trend of simplifying the set of screen aspect ratios by introducing the iPhone X with its ridiculously narrow screen, and also newly-required safe areas, I figured I’d better test all my apps with that.
+
+And indeed, I had to change my Talk Dim Sum app to avoid the safe areas, even my twitter profile image to avoid the notch, and HyperBowl, which was originally designed for something close to a 3:4 screen (conveniently matching the iPad), required a lot of tweaking of the the cameras to get everything to show up on the iPhone’s close to 1:2 screen.
+
+Even after the camera adjustment, I still had this one square graphic where the HyperBowl logo doesn’t fit on the iPhone screen, and simply shrinking changing the orthographic size of the camera would expose blank areas at the top and bottom.
+Image for post
+Image for post
+
+So, it pains me to do this, but I just squash the object horizontally according to the screen aspect ratio, using this Unity script.
+
+public class ScaleWidthToAspect : MonoBehaviour {public float refAspect = 0.75f; // aspect ratio that this object was designed forvoid Start () {Camera camera = Camera.main; // assume that any old camera will dofloat aspect = camera.aspect/refAspect;transform.localScale = new Vector3( transform.localScale.x * aspect,transform.localScale.y,transform.localScale.z);}}
+
+Now it’s better, if you don’t pay too much attention to how it originally looked.
+Image for post
+Image for post
+
+Also, in the above screenshot you can see the iPhone X home “indicator”. Chances are, you don’t want to see that on your game screen, so in Unity, there’s a Player Preferences option to remove it.
+Image for post
+Image for post
+
+Although the indicator will still show up initially before fading away on each HyperBowl wipe screen, as apparently the indicator always shows up when a new scene is loaded.
+
+But iPhone X screenshots are still optional, and iMovie doesn’t even support creating iPhone X app preview videos, yet, so now I’m thinking about going back to the iPhone 8+.
