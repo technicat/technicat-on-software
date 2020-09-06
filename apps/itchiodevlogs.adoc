@@ -1,0 +1,10 @@
+itch.io Devlogs
+technicat
+technicat
+Aug 26, 2018 · 1 min read
+
+A lot of the fun of game development is writing about it, so I’m pleased to see these new devlog options on itch.io.
+Image for post
+Image for post
+
+So far, I’ve just used them for release notes when prompted after I update some builds (and even then I often forget). But the new “Long-form discussion” will allow me to direct content that I normally post on, well, here, to a game developer audience. Starting with this postmortem.
