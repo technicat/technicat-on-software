@@ -1,0 +1,22 @@
+A Tale of Two Spotlights
+technicat
+technicat
+Aug 25, 2017 · 2 min read
+
+A lot of my app updating is just keeping up with Moore’s Law. Fugu Maze is an example. It was one of my first apps on the App Store back in 2009 (and my first popular one — it had 20,000 downloads in the first week, before I started charging $.99 for it and it dropped to two downloads a day).
+
+Fugu Maze was one of my early Unity projects and initially just a way to play with maze generation algorithms I found on Wikipedia. I combined that with randomized wall texturing, first person controls, footstep and suspense sound effects (I hear the same effects in a lot of movies, so there’s no shame in using stock assets!), low lighting with distance fog and a spotlight to emulate a flashlight.
+Image for post
+Image for post
+
+Back then, to get a decent frame rate, I had to keep the maze size small and the rendering simple. But these days you can get fancier, so recently I knocked off a few items on my graphics to-do list, including bump mapped materials for the walls, pixel lighting, and even with that, you need to use deferred shading if you want nice round spotlights.
+Image for post
+Image for post
+
+One tradeoff is that the distance fog doesn’t work with deferred shading, but I’ll deal with that later. Here’s a test of the new and improved look, showing bumps and a nicer spotlight.
+Image for post
+Image for post
+
+If you’re curious, the texture (without the bumps) is a photo from Grouchy John’s Coffee.
+Image for post
+Image for post
