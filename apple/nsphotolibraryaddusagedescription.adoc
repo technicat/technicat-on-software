@@ -1,0 +1,18 @@
+NSPhotoLibraryAddUsageDescription
+technicat
+technicat
+Oct 8, 2018 · 2 min read
+
+I guess I’m late to the party, but, beginning with iOS 11, the NSPhotoLibraryAddUsageDescription key and accompanying text must be included in the info.plist file if the app tries to add photos to the photo library.
+
+I know this now because a user of my Talk Dim Sum app reported the app is crashing when he tries to save a dim sum photo to his photo library using the share (UIActivityViewController) popup.
+
+I thought this type of thing would result in an app review rejection, but it will just crash when the app tries to bring up the permissions dialog, and not only does it crash, it does it deliberately, as indicated by the log.
+Image for post
+Image for post
+
+Wow, that’s pretty strict. It seems to me that it would be a better user experience to, say, not crash, and do nothing. In any case, the next step is to figure out which English version of the key should be selected.
+Image for post
+Image for post
+
+Really, anyone who’s editing the info.plist file does not need to be shielded from the actual key names — Apple, you’re not doing anyone any favors here.
