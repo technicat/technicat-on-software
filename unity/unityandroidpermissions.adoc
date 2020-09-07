@@ -1,0 +1,22 @@
+Unity Android Permissions
+technicat
+technicat
+Nov 25, 2017 · 2 min read
+
+I’ve been waiting to update my Unity Android builds until someone noticed I haven’t been updating them, and recently someone noticed and asked when are you going to update HyperBowl for Android?
+
+So I trundled out to Target to buy a 7th gen Kindle fire to replace my 1st gen Kindle fire (and my more recently-purchased budget Samsung Galaxy tablet which, as per usual for budget tablets, stopped being useful after a year), and built and uploaded my APKs without incident.
+
+However, I noticed in the Google Play Console (which by the way is much improved this year), that whereas Unity used to do a nice job of not adding required user permissions to the Android manifest files:
+Image for post
+Image for post
+
+Now it’s got permissions going out the wazoo:
+Image for post
+Image for post
+
+In the Player Settings, you can check a checkbox specifying you only want Coarse Location, but still, why does a Unity game necessarily need location at all? Also, there’s currently a bug where it includes FINE_LOCATION, anyway. The big problem is that it implies a requirement for GPS, and when submitting to the Amazon Appstore, it limits availability to devices with GPS, which rules out most Kindle Fires, including the one I bought.
+Image for post
+Image for post
+
+Well, I can still use it for reading.
