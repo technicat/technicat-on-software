@@ -1,0 +1,16 @@
+Archive Once, Unarchive Twice
+technicat
+technicat
+Feb 7, 2019 · 2 min read
+
+It’s easy to accumulate a lot of project clutter in the Unity Cloud. I have over fifty projects in the Unity Cloud, split among four organizations. It’s not so much that I’m prolific as I’ve been using Unity services from the early days, so some projects were created for test by Unity support, some got duplicated for some mysterious reason, half of the organizations were apparently automatically created, and every time you create or download a project, even for ephemeral use, it’s easy to create a new cloud project in the meantime.
+
+There’s no easy way to delete a project, as far as a I can tell, and in any case that’s an action you might regret in the frenzy of a spring cleaning (“this project doesn’t spark joy!”), but archiving is just as good, as it shunts the archived project off to a separately displayed list, and it’s actually better, since you can always unarchive it later.
+
+Which is what I did. After archiving everything but a few active projects, I realized I wanted to revisit the code on some of the archived projects, so I unarchived them. But there’s a slight trick. After unarchiving the projects, I couldn’t commit code changes to them, with the Unity Editor still complaining the project was archived.
+
+What the Editor really meant is that the Unity Collaborate storage was still archived, even though the project was otherwise available to Unity Services again. So I had to perform a separate unarchive specifically in Unity Collaborate Storage.
+Image for post
+Image for post
+
+And now everything is back. Whew! And this, by the way, is why you should always test your project storage and backup systems by doing a full retrieval. Better safe than really, really sorry.
