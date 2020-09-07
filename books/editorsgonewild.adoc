@@ -1,0 +1,30 @@
+Editors Gone Wild
+technicat
+technicat
+Aug 26, 2019 · 3 min read
+
+When I wrote a game development book for a publisher several years ago, I started collecting writing style guides: the Chicago Manual of Style, the AP Style Guide, Strunk and White…all the sources referenced in the Grammar Girl podcast.
+
+I did this primarily to do a good job on my book but also because I enjoyed reading and contrasting the advice in the guides (as is done by Grammar Girl, a big reason I liked that podcast). My latest addition is Dreyer’s English, by Benjamin Dreyer, chief copy editor at Random House.
+Image for post
+Image for post
+
+Dreyer’s guide covers a lot of ground and is both instructive and entertaining, but what I really like is that he makes it clear when he’s offering an opinion. And he reiterates that ultimately, the book is the author’s book and the writing is the author’s voice.
+
+This is a frickin’ breath of fresh air, as I haven’t had great experiences with editors on that score. Admittedly, most of them weren’t really professional editors, like the high school newspaper editor who contributed his polemic style to one of my op-eds, or the writing requirement faculty at my college who felt he had to move one of my paragraphs to give me a pass, or the business school student magazine editor who asked to publish one of my blog essays and then rewrote the first paragraph without telling me.
+
+But more recently, the class notes I submitted to my alumni magazine as class secretary were edited without any notification (there’s a six-month delay between submission and publication, so it’s not like there wasn’t any time), and in my opinion the edits ranged from unnecessary to bad (like removing the quotes from a quotation). And that’s a real magazine with real editors.
+
+This is another reason why I bought all those writing style guides: I wanted to be able to back up my writing decisions in case an editor complained. And in the case of my book, they certainly did. But as my first (and so far only) experience in writing a book for a publisher, it was pretty disappointing.
+
+The development editor (or whatever the title is of the editor who’s supposed to guide the bulk of the writing), would leave terse and patronizing comments in the Word doc. Seemed like a busy guy: when he insisted I write my chapter conclusions in an “industry standard” list-of-what-we-learned format and I asked for a reference to that standard, he said he didn’t have time.
+
+That “industry standard” thing came up again when the draft went to the copy editor and she said the tense of the entire book had to be changed. Again, no reference to that standard, and if it’s so standard, how did the previous editor miss it?
+
+It’s not like they didn’t make mistakes themselves. The copy editor changed the punctuation in all my code samples (if you don’t know coding, I assure you it’s a bad idea). The development editor rewrote one of my paragraphs in a nonsensical circular definition. The proofreader proofread an old draft that he already proofread. And I noticed from the Google Books excerpt of the second edition of my book (which I declined to participate in) that they placed the new author’s picture next to my bio. It’s a team effort.
+
+Perhaps some of the unfriendliness in editing is due to archaic practices. When you’re editing on paper, the markup is going to be terse. But while Word is not exactly cutting edge, there’s plenty of room to communicate clear explanations, which is something editors are suppose to be expert at. Set an example! I’m here to learn (that’s why I bought all those books).
+
+This doesn’t necessarily mean pasting in whole sections of Strunk and White, but leave a reference if that’s the “standard” you have in mind. Editors of technical books should be familiar with the concept of citing references.
+
+At the very least, pretend like you’re on twitter and include a web link! Or if by standard you mean your opinion, make that clear. Don’t edit like you’re a twitter troll.
