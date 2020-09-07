@@ -1,0 +1,18 @@
+Publishers Are the Worst Pirates
+technicat
+technicat
+May 8, 2018 · 2 min read
+
+During a twitter thread complaining about game publishers, I interjected that pirates are the worst publishers, as they publish your work without permission and make money off it without giving you a cut.
+
+But sometimes publishers are the worst pirates, when they make money off your work without paying you, and after suckering you into providing custom builds for them. At least regular pirates don’t involve you in the process.
+
+For example, I went into angry letter mode with a publisher, recently, doing my best impression of the “I want my two dollars” paper boy in Better Off Dead (or alternatively, Glenn Close’s “I will not be ignored” in Fatal Attraction):
+
+    Thanks for getting back to me with an update, but that’s after three emails to accounting, two to support and one to the CEO.
+
+    The total amount is not much (it will just cover the amount I spent on an Android tablet to test, a Samsung Kids subscription to try out HyperBowl there, and the royalties I owe the HyperBowl IP licensor), but I noticed there was no promotion of the app from Fingerprint (a tweet would have been nice) and for some reason it wasn’t uploaded into the Game category, I don’t know why it was removed from Samsung Play in December (I think the contract expires at the end of this year, if I remember correctly), and the several other variations of the app I provided to QA were never deployed as far as I know.
+
+    So combine that with no payment for over a year and the difficulty getting an explanation or update, I have to say this is my worst experience with an app publisher (except maybe Handster which deployed my apps without telling me, but at least I didn’t have to prepare any customzied builds for them), and it was a mistake signing up with Fingerprint ( at least without requiring an advance payment).
+
+Well, it was my mistake for replying to a “We want to publish your app!” email that didn’t identify the app, and my mistake in not requiring an advance payment. Call it a “We’re not pirates” deposit.
