@@ -1,0 +1,72 @@
+App Store #IFs
+technicat
+technicat
+Sep 25, 2015 · 2 min read
+
+A couple of posts ago, I showed how I used the Unity built-in preprocessor directives in a script that allows me to select which game objects are active per platform. But there are some game objects that I need to enable/disable based on which app store I’m targeting.
+
+For example, my HyperBowl app should not display any references to Google Play on the iOS App Store or it will get rejected. That particular case could be handled by using the built-in definitions UNITY_IOS and UNITY_ANDROID, but I also can’t have the Google Play badge appear on builds for the Amazon Appstore. So I add definitions like GOOGLE and AMAZON to differentiate among Android stores, and use them in this script:
+
+public class PlatformStore: MonoBehaviour {
+ 
+ public bool Apple = false;
+ public bool GooglePlay = false;
+ public bool Amazon = false;
+ public bool Nook = false;
+ public bool Nabi = false;
+ public bool Samsung = false;
+ public bool HyperRocks = false;
+ public bool GameJolt = false;
+ public bool ItchIO = false;
+ public bool Wooglie = false;
+ public bool AmazonDesktop = false;
+ public bool WindowsStore = false;
+ public bool Wii = false;
+ 
+ void Start () {
+#if HYPERROCKS
+ gameObject.SetActive(HyperRocks);
+#endif
+#if GAMEJOLT
+ gameObject.SetActive(GameJolt);
+#endif
+#if ITCHIO
+ gameObject.SetActive(ItchIO);
+#endif
+#if WOOGLIE
+ gameObject.SetActive(Wooglie);
+#endif
+#if UNITY_IPHONE
+ gameObject.SetActive(Apple);
+#endif
+#if GOOGLE
+ gameObject.SetActive(GooglePlay);
+#endif
+#if NOOK
+ gameObject.SetActive(Nook);
+#endif
+#if AMAZON && UNITY_ANDROID
+ gameObject.SetActive(Amazon);
+#endif
+#if NABI
+ gameObject.SetActive(Nabi);
+#endif
+#if SAMSUNG
+ gameObject.SetActive(Samsung);
+#endif
+#if AMAZON && UNITY_STANDALONE
+ gameObject.SetActive(AmazonDesktop);
+#endif
+ #if UNITY_WSA
+ gameObject.SetActive(WindowsStore);
+ #endif
+ #if UNITY_WIIU
+ gameObject.SetActive(Wii);
+ #endif
+ }
+
+When attached to a game object (in the example below, an iOS App Store badge), I can then select which stores I want that game object to be active in.
+Image for post
+Image for post
+
+Of course, the applicable store definition has to be specified in the Player Settings, and I use an Editor script for that, but I’ll save the details for another post.
