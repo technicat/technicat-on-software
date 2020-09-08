@@ -1,0 +1,15 @@
+A Prefab Bug
+technicat
+technicat
+Oct 31, 2017 · 1 min read
+
+Stuff breaks just when upgrading middleware. For example, in the latest version of Unity (2017.2), my super simple bowling game Fugu Bowl now has bowling pins dropping out of the sky.
+
+At first I thought it was a physics bug, as I heard there have been significant changes to the physics engine, but it seems the pin reset script (attached to each pin) is not resetting the pins to their original positions after bowling a frame.
+
+public class Reset : MonoBehaviour {   private Vector3 startPos;   private Quaternion startRot;
+   public void Awake() {      SetPosition();      ResetPosition();    }   public void SetPosition() {     startPos = transform.localPosition;     startRot = transform.localRotation;   }   public void ResetPosition() {     transform.localPosition = startPos;     transform.localRotation = startRot;   }}
+
+I wish that the Unity release notes were accompanied by a list of new bugs, but instead I had to search the forums and google around, and I found in the issuetracker it’s a known recent change in behavior with prefabs, where Awake sees the original prefab position and not the instantiated position. Since the pins are instantiated from a pin prefab, they’re all getting reset to the same (arbitrary) prefab position.
+
+My workaround for now is to just recalculate the pin positions when resetting them, instead of only when they’re instantiated.
