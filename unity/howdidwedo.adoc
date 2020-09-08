@@ -1,0 +1,16 @@
+How Did We Do?
+technicat
+technicat
+Jul 12, 2018 · 1 min read
+
+I often receive a how-did-we-do survey after initiating a support request, and I often don’t bother to fill it out. Sometimes it’s just too long. Sometimes they send me the survey before the issue has been resolved. Sometimes I just don’t feel like it. I mean, I don’t work for them, and I would rather give them an appraisal in English than fill out an automatically-mailed multiple choice form like a data entry clerk. Relying on surveys always seemed lazy to me.
+
+But I’m OK with the feedback form I got from Unity, after I reported a double-billing of my Unity subscription.
+
+First of all, the issue was resolved in a timely manner (unlike, for example, when Arvixe didn’t process my domain new renewal and I ended up losing the domain — why even ask “were you satisfied?”).
+
+Second, instead of a link to a survey with page after page of questions, the Unity email only required one click ofthis set of options embedded in the email (which go to surveygizmo, but only to bring up a confirmation page):
+Image for post
+Image for post
+
+Third, it’s cute! It’s not like answering an SAT question, it’s clicking on emoji!
