@@ -1,0 +1,16 @@
+AAA Progress
+technicat
+technicat
+Mar 14, 2018 · 1 min read
+
+Every year I ambitiously plan a cross country road trip and then bail out for various reasons (usually apathy).
+
+But my planning is getting more efficient. This latest time, instead of waiting at a AAA office, I went to the AAA web site to get a triptik (a custom map describing and depicting the driving route).
+
+It worked fine, generating a printable map of the route, but the part I really liked is this progress indicator during the map generation that draws a car.
+Image for post
+Image for post
+Image for post
+Image for post
+
+Way better than a boring old progress bar!
