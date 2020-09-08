@@ -1,0 +1,20 @@
+Say My Game’s Name
+technicat
+technicat
+Aug 21, 2018 · 2 min read
+
+I know I have some mediocre games on the app stores, but one benefit is it tells me I’m getting spam when an email says “We love your games!” (I would believe “We love some of your games!”, and better yet, name them). Like this one I got on Google Play (otherwise known as Google App Developer Emails Ripe for Harvesting).
+Image for post
+Image for post
+
+Another tip-off is the automated followup a few days later. This one is even more general, including my nebulous “future games.”
+Image for post
+Image for post
+
+And this is the deal killer.
+Image for post
+Image for post
+
+I hate skyping (skypeing?), and this mass emailing just tells me hey, we spent the absolute minimum effort to take up as much as your time as possible.
+
+Sometimes, it takes me a while to learn a lesson, but last time I fell for this, while I did make some money, it was just enough to cover my hardware and software costs of preparing builds for the publisher (not counting the time), and it took me six months to chase down the payment. I might fall for it again, but only if they say my game’s name (and it better be one of the good ones).
