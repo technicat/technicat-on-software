@@ -1,0 +1,14 @@
+Check Your Mute Switch!
+technicat
+technicat
+Jul 14, 2018 · 2 min read
+
+I’ve generally had good feedback from my Talk Dim Sum app on the App Store, but one thing I didn’t anticipate early on is that the iPhone mute switch also mutes text-to-speech. So users who accidentally had the mute switch on (or didn’t realize that it would have this effect) thought the Cantonese speech feature in the app (which pronounces the dim sum dishes for you) was broken.
+
+Of course, I put a note in the app description saying “Check your mute switch!”, and of course, people don’t read that. So I got a few reviews saying, for example, “I really wanted to give this app five stars but because the speech is broken here’s two.” (Reviewers really get drunk with power doling out those stars)
+
+The obvious solution is to add some code checking and warning the user if mute switch is on, but it turns out Apple doesn’t provide that functionality in its API. But I found a Cocoapods package to work around that. The appropriately named Mute package checks, or rather guesses, that the mute switch is on by playing a short sound and seeing how long it takes to complete.
+Image for post
+Image for post
+
+Apple doesn’t provide an option in the iOS Simulator to simulate when the mute switch is on (they’re really out to lunch on this mute switch thing), and my iPad doesn’t have a mute switch, but I hardcoded a test and it seems to work fine. And since I added it to the app, I haven’t received any more bad reviews about it. Case closed! And can I get those extra three stars back?
