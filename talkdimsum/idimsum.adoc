@@ -1,0 +1,14 @@
+iDimSum
+technicat
+technicat
+Mar 29, 2017 · 1 min read
+
+Actually, my dim sum app is called Talk Dim Sum (as it has a Cantonese speech feature so you can hear how each dish is pronounced), but now that I see it spelled out, maybe I should have called it iDimSum. Except the domain name is taken.
+
+Anyway, what I really wanted to mention here is that I’m using iVersion, which the user on launch if a new version of the app is available and displays the update notes.
+Image for post
+Image for post
+
+For some reason, I haven’t see this type of thing much in apps, but I like it, and I think it works well with this app, as the update notes typically list the latest dim sum dishes I added.
+
+It’s easy to add. I just included iVersion in my Cocoapods file and didn’t have to add any lines of code.
