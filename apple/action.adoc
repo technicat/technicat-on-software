@@ -1,0 +1,32 @@
+Action!
+technicat
+technicat
+Jun 25, 2017 · 2 min read
+
+I try to watch a WWDC video every day, and I might be done before the next WWDC starts, but the toughest ones to slog through are the design videos. There’s some good stuff, but a lot of stating the obvious, and some questionable stuff that makes me think they’ve been coasting since the original Mac days.
+
+In fact, there’s one video that begins with the presenter holding pointing to a copy of the classic original Apple Human Interface Guidelines (back when there was just the Mac). I wish I still had my copy.
+
+But then later the presenter admonishes developers from using any recognizable share button like
+Image for post
+Image for post
+
+or this one
+Image for post
+Image for post
+
+because although that may be reasonable, it’s wrong! Use the Apple system action button! Because that’s what Apple users are used to!
+
+But then I just looked at the new App Store on iOS 11 and wondered, hmm, what’s that … button do?
+Image for post
+Image for post
+
+Well, it’s the share button. So is the old action button gone, and this is the new one?
+Image for post
+Image for post
+
+But then I checked the iTunes app on iOS 11 and it seems not all apps got the memo. It’s still got the same old action button.
+Image for post
+Image for post
+
+It’s hard to take them seriously, sometimes.
