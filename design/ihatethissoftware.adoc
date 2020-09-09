@@ -1,0 +1,18 @@
+I Hate This Software
+technicat
+technicat
+May 14 · 2 min read
+
+The tax filing extension just means I have more time to complain about the H&R Block tax software. There’s plenty of user interface that looks minimal effort, and this year it looks like they gave up on importing tax forms from Robinhood (it was listed and non-working in earlier releases this year and then just disappeared from the list).
+
+So I’m entering my transactions manually, and here’s a beaut: for single transactions, you have to enter the sales proceeds and the purchase price, in that order, just like on the 1099-MISC.
+Image for post
+Image for post
+
+But if you opt to group a number of transactions (varying purchase date, same sales date), you have to list the purchase price first.
+Image for post
+Image for post
+
+It’s not even the not in the same order as on the tax form, and not alphabetical order (“d comes before e, except in H&R Block…”) so there’s no excuse there.
+
+This is a recipe for mistakes. It’s like they’re trying to get you audited. But I still hate TurboTax more.
