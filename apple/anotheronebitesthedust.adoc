@@ -1,0 +1,16 @@
+Another One Bites the Dust
+technicat
+technicat
+Jun 18, 2018 · 2 min read
+
+When I started putting apps on the App Store oh so many years ago, I had an idle dream of publishing a hundred apps (so the yearly $99 Apple developer fee would effectively be a dollar per app per year). Now I’m going in the reverse direction and thinking I’ll probably end up at two, eventually.
+
+One reason is I don’t plan to introduce any more apps on the App Store because I don’t feel like dealing with the review process. For new apps, it’s Google Play all the way.
+
+The other reason is, whereas I used to get worked up whenever I received an app rejection for an update, instead of arguing fruitlessly now, I just unpublish the app. I figure that’s just one less app I have to maintain. Sometimes the rejection is something really simple (“You’re missing an app description.” “No I’m not.”) but often they cite a rule so general I can’t do anything about it. Like this latest one:
+Image for post
+Image for post
+
+The app in question is HyperBowl Snowpark, which is a HyperBowl game containing just the Snowpark lane. It took me a long time to get all the original HyperBowl lanes working, so I deployed them in separate apps, and when I finally got all of the original lanes working. I also deployed a “complete” app that I charge for, while the individual lanes are free and ad-supported.
+
+I’ve already unpublished two of the single-lane apps after Apple said they didn’t have default leaderboards (I didn’t see any way to set that, and besides each line has just one leaderboard, but who knows what’s going on with Game Center these days), and if they keep bringing up this “spam” rule for same gameplay with different environments, the rest may go, too. On the other hand, there are still a bunch of Angry Birds apps, so it doesn’t seem like they always apply it this strictly.
