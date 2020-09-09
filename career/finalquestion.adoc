@@ -1,0 +1,14 @@
+Final Question
+technicat
+technicat
+Jul 5, 2017 · 1 min read
+
+One aspect of interviews that I’ve never seen discussed is how to end it. It’s important, because that is the last impression the candidate will take with them.
+
+I don’t remember exactly how every one of my interviews ended, but naturally the ones that ended negatively stand out. Like “Why don’t you want to do this whiteboard test?” And, “I’m not supposed to ask you this, but you’re a US citizen, right?” And, “You did really well on that quiz, so you get to take another.”
+
+But the ones that really baffled me are the just-one-more-thing questions that sound like they were made up just to ask a final question. There was one time I was almost out the door and the hiring director of software engineering ran up to me and said, “Just one more thing — do you know how to use SourceSafe?”
+
+Many responses ran through my mind. Yes. But if I didn’t how to use SourceSafe, it would be easy to learn. I know, because I did it. And, you’re using SourceSafe? And you think it’s hard to learn? Maybe you don’t know how to use it and need to hire someone who does? My interest in the company suddenly nosedived.
+
+There’s that saying, there’s no such thing as a stupid question. Generally, that’s not really true. And it doesn’t apply to interviews. A better guideline is what you should have learned in college: ask questions that make you look smart. Or that entertainment truism: always leave them wanting more.
