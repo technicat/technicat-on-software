@@ -1,0 +1,45 @@
+Resetting Unity GameObjects: To Sleep or Not to Sleep
+technicat
+technicat
+Oct 21, 2015 · 2 min read
+Image for post
+Image for post
+
+This is probably my most-used Unity script. Upon Awake, it records the the starting position and rotation of the GameObject it’s attached to. Subsequent calls to ResetPosition will return the GameObject to that position and rotation.
+
+In HyperBowl, I use it to reset the bowling ball position to start each roll, to reset the pins after each frame, and to reset objects that have been knocked over by the bowling ball (e.g. the vases and blocks in the Rome lane), reset animated scoreboards, reset vehicles in traffic…
+
+You would think that’s a pretty simple script, but I did have to complicate it, recently. When resetting, I call Sleep on the object’s rigidbody, but starting with Unity 5.2, the bowling ball stays asleep even when in the air (as shown in the High Seas lane, above), ignoring the force of gravity, until it receives the control force when the player starts rolling (actually pushing) the ball.
+
+So now sleeping is a checkbox option, and when sleep is not chosen, instead the rigidbody’s velocity and rotation are set to zero (otherwise if I reset the bowling ball after it’s fallen off a ledge, it’s still falling at that rate after reset and in the worst case it’s falling so fast it goes through the floor).
+
+I should probably call WakeUp in the non-sleep case, but one mysterious kludge at a time…
+
+public class Reset : MonoBehaviour { public bool sleep = true; private Vector3 startPos;
+ private Quaternion startRot; private Rigidbody rb;
+ 
+ public void Awake() {
+  rb = GetComponent<Rigidbody>();
+  SetPosition();
+  ResetPosition();
+ }
+ 
+ public void SetPosition() {
+  startPos = transform.localPosition;
+  startRot = transform.localRotation;
+ }
+ 
+ public void ResetPosition() {
+  transform.localPosition = startPos;
+  transform.localRotation = startRot;
+  if (rb != null) {
+   if (sleep) {
+   rb.Sleep();
+  } else {
+ rb.velocity = Vector3.zero;
+   rb.angularVelocity = Vector3.zero;
+ }
+ }
+}}
+}
+
