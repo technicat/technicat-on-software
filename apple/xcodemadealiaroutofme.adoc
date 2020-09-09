@@ -1,0 +1,26 @@
+Xcode Made a Liar Out of Me
+technicat
+technicat
+Apr 21, 2017 · 2 min read
+
+I was wondering how my HyperBowl app recently and suddenly crossed the 100MB cellular download limit on the App Store.
+Image for post
+Image for post
+
+But then an Xcode minor release (patch) appeared with a note saying that it fixes an issue (bug) which produces archives larger than necessary (bloated).
+Image for post
+Image for post
+
+I was so confident that rebuilding with this new Xcode would slim down HyperBowl, especially since I didn’t receive the normal iTunesConect email warning you get about exceeding the 100MB cellular limit, that I put “Smaller app size” in the release notes. But actually, and embarassingly, the size remains the same at 138MB in the update listing.
+Image for post
+Image for post
+
+And confusingly, it’s even higher at 145MB in the main App Store page when viewed on my iPad.
+Image for post
+Image for post
+
+And even higher at 163MB when viewed from Safari on my Mac.
+Image for post
+Image for post
+
+Right after this update was approved, a new Xcode release showed up. Although the release notes make no mention of reducing build size, you never know.
