@@ -1,0 +1,20 @@
+Unity 2017 First Contact
+technicat
+technicat
+Jul 15, 2017 · 2 min read
+
+So after waiting a day and hearing nothing terrible, I started upgrading my projects from Unity 5.6.2 to Unity 2017.
+
+The installation is like previous Unity installations, but when launched the new Unity it required a license reactivation. Which seemed largely for the purpose of reminding me to pay them if I’m making a lot of money. Or maybe to make me feel bad for not making a lot of money.
+Image for post
+Image for post
+
+It’s followed by survey that asked me some GDC-survey type of questions, including again how much money I make. It took more than a couple of milliseconds (I’m assuming this is from the marketing folks — I can’t imagine engineers would misuse milliseconds so cavalierly), but was fairly short. I was actually kind of disappointed, since I didn’t see how, for example, stating my role in my company improves the Unity engine.
+Image for post
+Image for post
+
+The only problems I’ve encountered are an Xcode build issue involving an iOS plugin and this cryptic error banner in the Services window. But I’m used to ignoring error messages there.
+Image for post
+Image for post
+
+Now, it’s time to start looking at the good stuff.
