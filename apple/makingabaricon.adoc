@@ -1,0 +1,44 @@
+Making a Bar Icon
+technicat
+technicat
+Sep 7, 2017 · 3 min read
+
+Yesterday I decided to use my Technicat logo (designed by Dakota Snow) for the menu button in my Talk Dim Sum app. That way, I can say I don’t have that much maligned “hamburger” menu. It’s a technicat menu!
+
+By default, iOS treats a custom icon on the navigation (and tab) bar as a transparency mask, which is fine with me, but that means I have to do some work with the icon. So I loaded my technicat logo, a JPEG file, into GIMP (which is free, but I always have to relearn how to use it).
+Image for post
+Image for post
+
+Before I can do anything with the image, I have to change the mode to RGB.
+Image for post
+Image for post
+
+The lines of the logo are going to be too thin to show up properly in the final icon (I know this because I went through this whole process already), so I thickened the lines with the Erode filter.
+Image for post
+Image for post
+
+You can see it’s visibly thicker, and if desired, we can apply multiple passes of the filter, but one seems to be enough. Now we’re ready to make it transparent, using the Color to Alpha operation.
+Image for post
+Image for post
+
+This will generate transparency values based on the color, where white is fully transparent, and black is fully opaque.
+Image for post
+Image for post
+
+Now we have an image that’s transparent everywhere except in the lines of the drawing.
+Image for post
+Image for post
+
+And we’re ready to export the transparent image. JPEG does not include transparency, so we export as PNG.
+Image for post
+Image for post
+
+You can see the difference between the original image and the transparent, line-thickened version.
+Image for post
+Image for post
+
+To use the image as an icon, I created a new imageset in the Xcode project’s Asset Catalog and dragged a copy of the image into the 1x, 2x, and 3x slots, then resized them to 25pt, i.e. 25px, 50px, and 75px. I resized them by control-clicking on each slot, selecting Open with External Editor which opens them in the Preview app, and resizing and saving from there.
+Image for post
+Image for post
+
+Now, when the code adds that icon in the navigation bar at top left, here’s how it looks.
