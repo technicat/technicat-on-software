@@ -1,0 +1,14 @@
+Unity Wobble
+technicat
+technicat
+Nov 26, 2017 · 1 min read
+
+Remember that catchphrase “Weebles wobble but they don’t fall down!”? Probably not, but it came to mind when I updated HyperBowl recently and noticed, apparently due to a new physics engine, some objects that rest on non-flat surfaces now fall down immediately. Like a vase in the Rome lane, and the pines in the Snowpark lane.
+Image for post
+Image for post
+
+The fix/workaround which I probably should have done before anyway is to put invisible box colliders underneath the objects (and by the way, here you can also see primitive collider composition of the pins).
+Image for post
+Image for post
+
+Invisible colliders are the Band-Aids of level design.
