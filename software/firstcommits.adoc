@@ -1,0 +1,5 @@
+First Commits
+Every new repo should start off with three files: a README, a LICENSE, and a gitignore. Github makes this easy for you if you create the repo from the Github web site.
+Your first commit in a new repo should be a README file. Github makes this easy and pretty much gets up in your face to remind you.
+The second commit should be a license file. Github doesn't remind you but this isn't something that should be left blank. I see repos with no license specified, so it's not clear if the author expected anyone to do anything they want with it. It's not a great idea to make up your own license, either, especially when there are plenty of standard open source licenses. Github should prompt you to specify a license and offer the standard ones as a selection.
+And third, maybe first, you should commit a .gitignore file, otherwise you'll start off with files that you never wanted in the repo and you're stuck tracking and updating them even adding them to .gitignore (until you tell git to stop tracking each of them).
