@@ -1,0 +1,8 @@
+The Cinefex iPad App
+technicat
+technicat
+Jul 6, 2016 · 1 min read
+
+Somehow I’ve turned into mostly an iOS developer the last couple of years (using Unity, Xamarin, Swift, Objective-C…), including my latest client project, helping out on some updates of the Cinefex iPad app, which originally launched with an impressive Kickstarter.
+
+There’s a bit of nostalgia in working on this app, as it reminds me of my days working at a startup called Nichimen Graphics with people in the visual effects field (including a guy who worked on Tron!). It’s good to see the magazine is still going strong after all these years (since 1980) and now on my iPad.
