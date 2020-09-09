@@ -1,0 +1,25 @@
+Stupid Clauses
+technicat
+technicat
+Oct 19, 2017 · 2 min read
+
+Earlier this week, I spent $300 for a lawyer to tell me he agreed with me on what I didn’t like about a contract. I’m not really complaining: it reminds me that no one should complain about my hourly rate (and validates my inclination to tell potential clients to take a hike when they want me to evaluate their code for free). And it confirms that I’m not out to lunch on some of my objections to contract clauses.
+
+In this case, the one that bothered me the most is in the category that always bothers me: indemnification clauses (see your favorite web site or social media Terms of Service).
+
+    Buyer covenants to defend, indemnify and hold Seller and Seller’s broker harmless against all claims of real estate brokers or salesmen due to acts of Buyer or Buyer’s representatives, including, without limitatio n, any claims arising from Buyer’s failure to close on the Unit, and Buyer shall be liable for Seller’s damages, including attorneys’ fees and costs, which arise by virtue of such claims as set forth in this Paragraph 2.
+
+Basically, they just don’t want me to say I’m not using a broker and then have some Joe Broker Schmo pop up and say “Where’s my commission?” But of course, it’s written unnecessarily vaguely and broadly, puts me at additional risk financially and legally, is totally one-sided (in my consulting work, I usually counter an indemnity clause with “OK, if you really want it, let’s make it mutual” whereupon they drop it), and has a typo. Anytime a rep has to say assuringly, “Don’t worry, we won’t actually sue you” that’s a bad clause. If we’re all trusting each other, we don’t need that clause at all.
+
+There was another badly written and obnoxiously present clause in this contract:
+
+    If Buyer represents and warrants above that Buyer is buying the Unit as Buyer’s primary residence, Buyer furthermore represents and warrants that Buyer is not buying the Unit primarily for investment or any other purpose, either on behalf of Buyer or any other person or entity, and does not intend to resell, lease or rent the Unit.
+
+“for investment or any other purpose” taken literally would mean I’m buying the property for no reason at all. And of course I consider it an investment (the sellers always say, “It’s a great investment!”) And of course I intend to resell or lease the unit eventually. I’m not going to live in it until I die (I hope).
+
+So, basically, these lawyer-holes who put this stuff in just made money for the lawyer I contacted just to get the satisfaction of knowing that even though they won’t change it (this 75-page monstrosity is the standard contract used by a corporation selling units in multiple properties here). Again, I guess I shouldn’t complain. After all, I make money from reading code written by others. If only I could charge $300 an hour for it.
+
+    Contracts
+    Indemnfication
+    Real Estate
+    Las Vegas
