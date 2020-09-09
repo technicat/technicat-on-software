@@ -1,0 +1,16 @@
+Export Compliance
+technicat
+technicat
+Sep 1, 2017 · 1 min read
+
+If you’ve ever submitted an app to the App Store, you’ve seen this.
+Image for post
+Image for post
+
+If you don’t want to see this every time you update your app, you can add the ITSAppUsesNonExemptEncryption key to your info.plist in Xcode. By the way, it really bugs me that the add/remove buttons are inside the row instead of at the far left or right— it looks like they’re for adding subfields.
+Image for post
+Image for post
+
+The English representation of the key doesn’t show up in the auto-completion popup, but it does show up after you enter the key name, ITSAppUsesNonExemptEncryption (so if the English doesn’t show up and the type doesn’t automatically turn to Boolean, you typed it wrong).
+
+Once it’s there, make sure the value is NO, and you’re all set.
