@@ -1,0 +1,10 @@
+Fuhu Apps
+technicat
+technicat
+Jan 9, 2016 · 2 min read
+
+I’m not surprised the makers of the Nabi tablet is undergoing bankruptcy proceedings. Adverse business climate, blah, blah, but your app store sucked. And I bring that up not just because it’s annoying to me as an app developer, it shows a problem with execution and follow-through. This is what I wrote back when I joined the Nabi app store, which was under the name Fuhu Apps:
+
+    I like the Nabi tablet, but I’m not crazy about their app store. The good news: There’s no annual or sign-up fee. But, while it’s not as bad as handster (now under Opera), it makes you appreciate the polish of the big three Android stores (Google, Amazon, Nook), and of course, Apple. For one thing, it’s not easy to find. To submit apps, you have to sign up at fuhuapps.com (the folks at Zeemote tipped me off). As far as I can tell, there’s no web storefront, so you can’t link to your apps. The screenshots are required to be in a phone-sized resolution instead of the Nabi tablet resolution, so clearly they acquired some third-party appstore and didn’t get around to updating that part. I have a couple of apps that never made it through because of some weird glitch.
+
+And I didn’t mention that they only paid quarterly, more like book royalties than app royalties, and their developer support never got back to me on my question about payment. Also, that was written before the Nook app store suddenly got bad (coincidentally or not, right after their Microsoft investment). And look what happened there.
