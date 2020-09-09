@@ -1,0 +1,30 @@
+The Year in Release Notes
+technicat
+technicat
+Dec 31, 2016 · 2 min read
+
+One reason to use more than boilerplate release notes in the App Store is to avoid an utterly boring Version History. For example, look at the App Store history for Facebook (“Thanks for using Facebook!…Thanks for using Facebook!…Thanks for using Facebook!…”)
+
+I like browsing the version histories of my own apps just to make sure I’ve actually been making progress. And at year end, I can point to them and say, “See, look what I did.” So here are four iOS apps I can remember actively developing (the rest are mostly “Updated to Unity 5.3…Updated to Unity 5.3.1..Updated to Unity 5.3.2…All work and no play makes Jack a dull boy.”).
+WordsEye
+
+I’ve been working on this app for WordsEye for quite a while, and it was finally released, recently. So far, just one crash fix update.
+Image for post
+Image for post
+Talk Dim Sum
+
+I’ve been dabbling with this app ever since working and eating in Hong Kong and realizing iOS has Cantonese text-to-speech. Last year I switched it over from Xamarin to Swift last year. This year I switched it from free to paid after Apple discontinued iAds, so downloads have dropped. But I’ve received feature requests (for food and favorites), so gotta keep plugging away at it.
+Image for post
+Image for post
+HyperBowl
+
+My flagship app from the early days of the App Store in 2009. Up to around 400k downloads (counting the free versions), with a non-insignifant following on Facebook, and it’s licensed IP, so I gotta keep trying to make some money on it.
+Image for post
+Image for post
+Cinefex iPad Edition
+
+Another contract, this year I started working on updates of the iPad app for Cinefex. Most of the updates correspond to new editions of Cinefex magazine (issue 150 should be showing up soon!)
+Image for post
+Image for post
+
+See, look what I did!
