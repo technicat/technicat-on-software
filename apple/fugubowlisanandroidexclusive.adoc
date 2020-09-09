@@ -1,0 +1,30 @@
+Fugu Bowl Is Now An Android Exclusive
+technicat
+technicat
+Nov 1, 2017 · 3 min read
+
+After I spent a day figuring out a bizarre bug when upgrading Fugu Bowl to Unity 2017.2, Apple rejected the upgrade saying the app did not have enough content. Now, it’s bad enough to have them acting as judge and jury about the worthiness of your app to exist, but it makes no sense to use the same vague criteria to reject an update to an app that has over 100,000 downloads, especially when the update might have fixes (this one might have a fix for flickering shadows on the iPhone 8, but I don’t have an iPhone so I don’t know for sure).
+
+Anway, I’ve learned when Apple rejects an app with one of the submission guidelines that lets them reject anything, it’s a waste of time to argue, and it’s a waste of time trying to guess what will make them happy if they don’t say anything specific up front (when Apple Maps had its disastrous debut, I received a spate of “This app doesn’t have enough functionality, but if you integrate Apple Maps…”).
+
+So my standard mature and professional response now is to take my toys and go home. That is, I unpublish the app, because not only yeah, that’ll show them (not), but I don’t want unmaintained apps cluttering up my portfolio, and these days I’m trying to focus my efforts. There’s plenty of fish in the sea, bugs to fixed, apps to update and new apps to start, etc. etc.
+
+At least Apple makes it easy to unpublish an app. On the Amazon Appstore, you have to submit a request and reason. On Google Play, you have to update all the metada into a publishable state in order to unpublish the app, so I have a bunch of decaying apps there that will require so much work to unpublish it’s easier to wait a few years for Google to remove them automatically.
+
+But I do feel a bit sentimental about letting Fugu Bowl go. I think it was my first app on the App Store, and for a long time it was my most downloaded app there (it’s still a close second, now, next to HyperBowl Classic).
+
+The early App Store reviewers were a pretty vicious lot, and Fugu Bowl was (is) a ridiculously simple bowling game, minus even scoring, just kids cheering and booint for strikes and gutters, respectively, because it was just a proof-of-concept of the swipe-screen control for HyperBowl. So there were a lot of negative reviews. Of them, my favorite is this one that just got to the point without getting personal.
+
+    I don’t like this
+
+But I’ve learned that if you can just finish an app and get it on the App Store, someone will like it.
+
+    I love bowling!!!!!!!!!!!!!!
+
+    Dude, the longer I played this, the more I loved it. It’s so simple, but has pretty backgrounds. The little kids cheering me on made me feel rather…special. Seriously I felt like I was mentally challenged and this game was made to boost my self-esteem. xD But yeah, really like it.
+
+    There needs to be a game like this with a rolling ball but in an obstacle course type thing. An awesome game.
+
+For whatever reason, some reviews no longer show up, maybe because the reviewers deleted them. They include some of the choicer negative reviews, but also a Clarence Darrow-like defense reminding everyone that I did explain in the app description that this was a simple bowling game prototype for HyperBowl, so shut up about it (I wish I could reproduce that one here).
+
+But hey, if you have something to say about it, Fugu Bowl is still on Google Play.
