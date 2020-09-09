@@ -1,0 +1,9 @@
+SwiftyBeaver
+technicat
+technicat
+Jun 19, 2017 · 1 min read
+
+Perhaps the most roll-your-owned software is a logging utility (I recall a director of software engineering who started his reign by directing us to use his Java logging utility, and also Hungarian notation).
+
+Really, no self-respecting programmer will use print statements when you can initialize a framework and access a singleton to call a…print statement. But with SwiftyBeaver, which I just started using in my dim sum app, you get hearts!
+Image for post
