@@ -1,0 +1,14 @@
+Death by a Thousand Subscriptions
+technicat
+technicat
+Aug 8, 2018 · 1 min read
+
+I’ve been getting repeated emails from Microsoft about adding a review-this-app popup to HyperBowl on the Windows Store:
+Image for post
+Image for post
+
+So while I don’t mind receiving developer tips, and this is a good tip (which I would implement if I knew how to do it in Unity), I don’t like being nagged, so I hit the unsubscribe link:
+Image for post
+Image for post
+
+Apparently I just unsubscribed to a mail list just for this topic. I’ve seen other companies do this, providing an unsubscribe link that only works on the mail that you just received. I’d like to rate and review this practice!
