@@ -1,0 +1,30 @@
+The Manifesto
+technicat
+technicat
+Aug 11, 2017 · 4 min read
+Image for post
+Image for post
+
+I had my daily blog all planned out this morning, and then I got distracted by this Google manifesto and forgot what I was planning. So I’ll just write down my impressions of that.
+
+First of all, who started calling it a “manifesto?” What qualifies it as a manifesto? The fact that it’s ten pages long? You could also call it TL;DR or this-guy-needs-an-editor. I noticed some have called it a “screed” which has a nails-on-chalkboard ring to it and is a good way to make people not want to read it.
+
+Mostly I got distracted by the reactions to the manifesto and not the manifesto itself. Because I don’t work at Google and I wouldn’t have seen it if it hadn’t gotten out. And I wouldn’t have cared, because it’s old news – people say stuff like that. Although I’m used to hearing it from my seventy-year old Trump-voting neighbors who go on about the good old days talking about how girls aren’t good at math and where are the men around here, that light bulb needs replacing!
+
+So it’s kind of refreshing to hear a millennial talk like this (I don’t know his birth year but I gather he’s a recent grad and not with a PhD), because I’m tired of hearing about how great the millennial generation is and how everything is the old people’s fault (where “old” is over 35). Admittedly, we Gen-Xers (the forgotten generation, at least among marketers, in the millennial-boomer sandwich) still have Travis Kalanick.
+
+There have been many lengthy and well-written point-by-point responses to the manifesto, so you could say the manifesto-writer won because of the time it’s sucked up, but at least the kerfuffle has been informative and highlighted the issues. Issues like, how did this guy get through Google’s vaunted hiring process (it doesn’t say much for Harvard’s admissions standards, either). And is he really that good a programmer?
+
+There have also been lengthy and well-written (in terms of grammar) essays in support of the manifesto. Generally, they take the form of “He’s not anti-diversity because he says so right in the beginning,” which is like saying “He’s not prejudiced, because he said ‘I’m not prejudiced, but…’”. Then pointing out it’s all very scientific, which is what the Boston Church of Christ members said when they pushed their way into my dorm room, or as stated in the copy of the Watchtower sent to me by a Jehovah’s Witness friend.
+
+Among the manifesto’s supporters, so far I just see white men of all ages – have any of them ever noted, hey, for some reason it’s just us white guys here? And when do we get started on race? But maybe Indians are better programmers — never mind. In any case, they always neglect to mention the part where he lists female attributes like artsiness, anxiety and neuroticism. The part that could be in an episode of Mad Men (which every guy secretly or not so secretly wants to be in). I’m surprised he didn’t suggest adding hysterectomies to the Google health plan.
+
+The whole manifesto is layers of juicy stereotypes sandwiched between two slices of conciliatory reasonableness at the beginning and end, wrapped in a standard everyone’s-so-sensitive-and-politically-correct-please-don’t-hurt-my-feelings wrapper (I keep going to this sandwich theme because I’m thinking about lunch). The way to read these things is like how I watch Korean dramas — don’t pay attention to the beginning and end, concentrate on everything in-between.
+
+The manifesto did have a concrete suggestion to use pair programming to appeal to the more social nature of women. Now, that’s the part that got me. I mean sure, gender equality, blah, blah, blah, but I really hate pair programming. And I’m offended that he characterizes programming as the provenance of asocial nerds and that men are less social. But I really hate pair programming.
+
+I might be on board with criticism of the diversity training. I have no idea what they consist of (and I still don’t because he didn’t elaborate), but I’ve been at a couple of companies that conducted “sensitivity training” where the majority of non-offenders just killed time and the minority who caused all the trouble just pretended to along with it and then went back to being assholes at work. So really, not hiring them is the best solution, and firing is the second-best.
+
+While firing in a situation like this is always a tricky question (and if you think it’s clear-cut, think again), one thing I’ve learned is that even in places that don’t seem to fire anyone for anything, you will always get fired for making the boss look bad. So what would have been just another annoying cafeteria conversation (with free Google lunch) was circulated to…the world, just as more attention than ever is being paid to sexual harassment and gender discrimination in the industry and while the Department of Labor is targeting Google for pay disparity. The title of the manifest might well have been “Fire Me! A Manifesto.”
+
+If his lawsuit works out (if he also lied about his PhD on his resume, it might not), then it might turn out nicely for him. Perhaps that unrealistic attempt at posting the manifesto anonymously was a stroke of genius. But hey, if you’re going to applaud him for that, then you should have no beef about women obtaining their financial freedom by complaining to HR.
