@@ -1,0 +1,12 @@
+Invisible Scrollbars
+technicat
+technicat
+Jun 29, 2017 · 1 min read
+
+In UI (and gamedev), you hear about affordances, affordances, affordances. But affordances only work when you can see them. About six years ago, Apple decided to make scrollbars on OSX invisible. Sure, it looks prettier and cleaner. And now you can’t tell if there’s something you should scroll to. Form over function, baby.
+
+Apple is getting some blowback from this, too, because more than once I’ve replied to an App Store rejection on iTunesConnect complaining they didn’t give me any useful information:
+Image for post
+Image for post
+
+when actually there was more stuff to see if I scrolled down. There is some irony in their user experience getting in the way of lecturing me on user experience.
