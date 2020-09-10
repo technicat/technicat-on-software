@@ -1,0 +1,31 @@
+Is This The Twitter Big Thumbs Update?
+technicat
+technicat
+Jun 23, 2017 · 3 min read
+
+I mostly use twitter on my iPad, so I didn’t mind the latest update (though not a fan of the finely outlined icons that look like lint on my screen).
+Image for post
+Image for post
+
+Until I tried it on my iPhone.
+Image for post
+Image for post
+
+There, they removed the account/profile tab from the tab bar, so to check what I’ve tweeted, replied, and favorited (that’s what the heart used to mean, when it was a star), or to see my profile, instead of a single tap on the tab bar, it requires a tap on the upper left to bring in somewhat whitespace-wasting side menu:
+Image for post
+Image for post
+
+then a tap on the avatar icon or Profile item to get what used to be accessible from the rightmost tab:
+Image for post
+Image for post
+
+Besides being non-obvious and taking two taps instead of one, most of the action is still on the tab bar, so it takes more time and breaks the flow to have to go up there.
+
+And since I’m still used to tapping on the farthest right tab button, especially since I’m still mostly using twitter on my iPad, that means on the iPhone I’m often accidentally checking my messages, which normally is the tab I least often want to select. It’s also a convention among social media apps to have account/tab as the rightmost tab (see Pinterest, Instagram…)
+
+Having a top-left menu is somewhat Androidish (the notorious “hamburger” menu) and on iOS is a sign that you’ve reached the maximum number of tabs on the tab bar (the guidelines set by Apple with UITabBarController is 5), so now you’re going to use the nav bar and pretend this was how you designed it all along. At least, that’s why I do it.
+
+The fact that they left the five tabs in place on the iPad and reduced it to four on the iPhone leads me to wonder if they decided that five is too cramped on a phone. Most social media apps make full use of five tabs (Instagram) but some go with four (Pinterest).
+
+Did analytics or focus groups indicate that people are too big thumbed to navigate among five tabs? Is there a thumb obesity epidemic? Is this particular to twitter users? Is this a concession to an unreasonably powerful and influential twitter user who prides himself on big hands and is now ruining one of my favorite apps? Thanks, Trump.
+
