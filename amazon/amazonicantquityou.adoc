@@ -1,0 +1,40 @@
+Amazon, I Can’t Quit You, Entirely
+technicat
+technicat
+Jun 24, 2017 · 3 min read
+
+There once was a time when I deployed whatever I could to whatever app stores I could, because hey, I put the work into it. Now I’m pickier. On Amazon, I’ve removed all apps except the paid version of HyperBowl, which I’ve imaginatively called HyperBowl Pro.
+
+I have some sensible reasons for this app store layoff:
+
+    Downloads are infrequent.
+    Updating apps is time-consuming.
+    Updating apps is confusing if you don’t do it regularly (tip: you have to click on the X delete corner of the existing build icon before uploading a new APK, and don’t click the Remove Build button or you’ll lose your settings).
+    Sometimes they reject an app, e.g. if it doesn’t make use of Kindle Fire buttons or it it links to a page that references other app stores. I don’t need that, I go to Apple for my arbitrary app rejections.
+    My ancient Kindle Fire doesn’t run any of my apps, anymore.
+
+And some less rational reasons:
+
+    I don’t like Amazon, their Borg-like presence, and their attitude (“Join our Free App of the Day promotion. Sure, you won’t get paid, but you’ll make it up in volume!”)
+    It really bugs me that you can’t immediately unpublish an app, you have to submit a request with reason to unpublish (although that’s a better situation than the Google Play apps that I can’t unpublish until I update).
+    I don’t like how the Amazon appstore looks.
+
+Like most Amazon websites, the Amazon appstore looks like something I might have designed, at best unremarkable, at worst a bit painful to look at, especially with sharp-cornered app icons.
+Image for post
+Image for post
+
+But when you round the icon corners, they don’t look good on the app page, like here on the HyperBowl Pro page (which I’m leaving up because it is bringing significantly more revenue than the paid version on Google Play used to).
+Image for post
+Image for post
+
+These days, I’m all about app store looks. If I’m not making much money, then at least I want a good looking portfolio. And while Apple’s App Store is the Apple Store of app stores, then Amazon’s is more like a dollar store (although I do like my local Dollar Store).
+
+That’s a reason why I maintain my apps on the polished itch.io. I even upload APKs that rarely get downloaded because it just looks better with the little Android icons.
+Image for post
+Image for post
+
+I also like itch.io because they have app store badges for each app (so it’s sort of a storefront for app stores).
+Image for post
+Image for post
+
+They even support Amazon appstore badges, so who knows, maybe I’ll repopulate my account there at some point. When I get a new Kindle Fire.
