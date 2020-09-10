@@ -1,0 +1,11 @@
+fugu-unity-scripts
+technicat
+technicat
+Jan 5, 2017 · 1 min read
+
+More GitHub cleanup: I had a repo for mobile (iOS and Android) Unity scripts and another for cross-platform scripts, but now I’ve combined them into one repo and updated the contents to include everything that I’ve got in the theoretically reusable script folder for HyperBowl, which builds for mobile, web and desktop.
+Image for post
+Image for post
+
+The repo has some leftover Javascript files I’m not using, anymore, so I don’t know if they’re still valid. And it’s an undocumented mess, but it’s in production, so feel free to take a look, figure it out, and maybe use them!
+
