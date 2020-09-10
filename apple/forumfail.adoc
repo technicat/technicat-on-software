@@ -1,0 +1,22 @@
+Apple Developer Forum Fail
+technicat
+technicat
+Aug 8, 2016 · 2 min read
+
+I like to point out Apple’s UI gaffes, partly because it pains me to see them, but also because they present themselves as Lord of the UIs (although in the kindler gentler Tim Cook era they have at least removed the rankling “less than very good” phrase from their app review guidelines).
+
+Here’s one in the Apple Developer forums (which is an easy target — it’s got all kinds of problems). For some reason, instead of conventionally listing a number of pages at the bottom of the screen, you have to click on View All Posts.
+Image for post
+Image for post
+
+After that, you see all of two pages. So at first I thought what the hell, Apple only keeps a couple months worth of forum posts? (the forums are not very active)
+Image for post
+Image for post
+
+But then I realized, OK, you can click on the arrow to see more pages, but just one at a time, instead of a advancing several at a time like you see in well, just about every other forum site.
+Image for post
+Image for post
+
+I suspect this is a case of a designer saying, it looks cleaner this way! And yes it does, at the expense of clicking more and showing less.
+
+Maybe I should post this in the forums. But it doesn’t seem like people from Apple pay much attention to it.
