@@ -1,0 +1,16 @@
+Yes and No or No and Yes
+technicat
+technicat
+Sep 6, 2017 · 2 min read
+
+One of my new favorite language learning apps is Drops. It’s very slick, no ads, and the prompts for in-app purchases are non-obtrusive. I gave it five stars on the App Store, but it’s not perfect. For one, it suffers from release-note-repetition.
+Image for post
+Image for post
+
+And among the recent “tasty surprises”: previously, the “correct” checkmark was on the right and the “not correct” X mark was on the left. Now they’re swapped.
+Image for post
+Image for post
+
+This might not seem like a big deal, but my language learning progress has significantly slowed because now I’m conditioned to expect the checkmark on the right and I keep hitting the wrong button.
+
+This is probably exacerbated by having same-shaped buttons with no text, but I’ve run into a similar thing with Facebook, when it’s presented me with a sequence of confirmation dialogs that alternate the arrangement of Yes/No or OK/Cancel buttons. In the case of Drops, I have to wonder why they made this change, and was it really important enough to mess up my muscle memory?
