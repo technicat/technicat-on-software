@@ -1,0 +1,60 @@
+Back to the Mac App Store
+technicat
+technicat
+Jan 20, 2017 · 4 min read
+
+A reviewer of one of my apps on the App Store commented that HyperBowl had the most frequent updates without visible changes of any app that he’d ever seen. I think that was a compliment.
+
+Anyway, there are many reasons for frequent updates. One is that customers these days expect them. The big names like Facebook, Twitter and Pinterest update every two weeks (and don’t even bother to list specific changes in the release notes, unless you count “bug fixes” as a specific change).
+
+Another is that it’s better to make and submit (and then fix, if you screwed them up) incremental changes than make and submit them all at once. Especially with having to go through the review process.
+
+But the main reason I like to update my apps frequently is so that I remember how to, and so that I keep up with changes that help or break the build.
+
+Take for example the Mac App Store version of HyperBowl, which I left unupdated for over a year. I completely forgot how to build a Mac App Store app with Unity, so I had to reread the Unity documentation, which has been unupdated even longer than my app. For example, it suggests using a third-party tool that has not been updated in a couple of years and only exists in undocumented github form. It seems the Mac App Store is not high on Unity’s priority list.
+
+To be fair, the Mac App Store doesn’t seem high on Apple’s priority list, either. One indication it’s been too long since your last update is when the certificate used to sign your has expired, but when I went to the certificate management page, none of the nearly dozen types of certificates you can create or for the Mac App Store. However, if you bring up the Preferences window in Xcode, there they are:
+Image for post
+Image for post
+
+And once the Mac certificates are created, they can be used to sign the app and installer (I put these commands in a shell script to be run after the Unity build).
+
+codesign -force -sign “3rd Party Mac Developer Application: Technicat, LLC” — entitlements HyperBowl.entitlements HyperBowl.app/Contents/Frameworks/MonoEmbedRuntime/osx/libmono.0.dylibcodesign -force -sign “3rd Party Mac Developer Application: Technicat, LLC” — entitlements HyperBowl.entitlements HyperBowl.app/Contents/Frameworks/MonoEmbedRuntime/osx/libmonoPosixHelper.dylibcodesign -force -sign “3rd Party Mac Developer Application: Technicat, LLC” — entitlements HyperBowl.entitlements HyperBowl.appproductbuild -component HyperBowl.app /Applications -sign “3rd Party Mac Developer Installer: Technicat, LLC” HyperBowl.pkg
+
+The entitlements file is just a plist with the sandbox entitlement listed:
+
+<?xml version=”1.0" encoding=”UTF-8"?>
+<!DOCTYPE plist PUBLIC “-//Apple//DTD PLIST 1.0//EN” “http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version=”1.0">
+<dict>
+<key>com.apple.security.app-sandbox</key><true/>
+</dict>
+</plist>
+
+Before building, the app’s info.plist needs to be customized. It would be nice to have this in the Player Settings, but until that happens, various developers have cobbled up their own procedures. I took the postprocess build script from a forum thread, and winnowed it down to what seems to be minimally sufficient.
+
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using UnityEngine;
+using UnityEditor;
+using UnityEditor.Callbacks;
+using UnityEditor.iOS.Xcode;public class PostProcessBuildOSX {[PostProcessBuild(1)]public static void OnPostprocessBuild(BuildTarget target, string pathToBuiltProject) {bool isOSX = target == BuildTarget.StandaloneOSXIntel || target == BuildTarget.StandaloneOSXIntel64 || target == BuildTarget.StandaloneOSXUniversal;if (!isOSX) return;string plistPath = string.Format(“{0}/Contents/Info.plist”, pathToBuiltProject);
+PlistDocument plist = new PlistDocument();
+plist.ReadFromString(File.ReadAllText(plistPath));
+PlistElementDict rootDict = plist.root;rootDict.SetString(“NSHumanReadableCopyright”, PlayerSettings.companyName);
+rootDict.SetString(“CFBundleGetInfoString”, “HyperBowl “+PlayerSettings.bundleVersion);
+rootDict.SetString(“CFBundleIdentifier”, “com.technicat.hypermac”);
+rootDict.SetString(“CFBundleShortVersionString”, PlayerSettings.bundleVersion);
+rootDict.SetString(“CFBundleVersion”, PlayerSettings.bundleVersion);
+rootDict.SetString(“LSApplicationCategoryType”, “public.app-category.games”);File.WriteAllText(plistPath, plist.WriteToString());
+}
+}
+
+This script (placed in the Editor folder) sets the version to the same as the one I use for iOS/Android, the bundle ID, the app category, and the Get Info and Copyright strings that you see in the Get Info popup.
+
+So after performing a Unity Build, then running my shell script to codesign and create the installer, I have to upload the pkg file to iTunesConnect using Application Loader. Although the Apple documentation on Application Loader directs you to download Application Loader on a page that has no download link, the current version of Application Loader is now installed with Xcode. However, that wouldn’t upload my app, and on the Apple developer forums that seems to be a known issue as far back as September, and one workaround is to use an older version of Application Loader. Which brings us back to that cul-de-sac download documentation, but it turns out I have a pretty old version of Application Loader still in my Applications folder (maybe that’s why it’s still there).
+
+And that worked. As a bonus, I see the Mac App Store approval times are now as zippy as the App Store, with HyperBowl getting approved in a few hours. One reason I haven’t been updating is because I had a lot of trouble getting it through review the past couple of times (the reviewers seemed to be determined to find fullscreen glitches, even switching to/from fullscreen during level transitions — who are these guys, QA ronin?).
+
+Now that the submission process is sorted out on both ends, expect frequent updates. Because I can.
