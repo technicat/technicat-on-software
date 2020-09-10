@@ -1,0 +1,14 @@
+A Release Note Sandwich
+technicat
+technicat
+Apr 10, 2017 · 1 min read
+
+I was wondering why my recent builds of HyperBowl were suddenly exceeding the AppStore 100MB cellular download limit, and the release notes of the just-released Xcode 8.3.1 update explain why.
+Image for post
+Image for post
+
+However, I notice they sandwiched that tidbit between a repetition of the major features introduced in Xcode 8.3 (even though the first line says Xcode 8.3.1), with the omission of one line (is the faster-builds feature no longer there?).
+Image for post
+Image for post
+
+It’s like they don’t want to admit this is just a patch release. This reminds me of that time on one of my projects where we delayed a patch release so the product would look less buggy. Don’t be embarrassed — just release the fix and explain what it fixes!
