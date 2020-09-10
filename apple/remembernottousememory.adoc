@@ -1,0 +1,14 @@
+Remember Not To Use Memory In Your App
+technicat
+technicat
+Sep 2, 2017 · 1 min read
+
+Each new App Store feature is a new way to get your app rejected. I’ve started filling out the new app subtitle field that will show up in the iOS 11 App Store, and as a result Fugu Match was rejected the other day because I had “Test your memory!” as the subtitle and the word “memory” is trademarked by a German company (it would be nice if Apple would just say “it’s in the subtitle”).
+Image for post
+Image for post
+
+This, apparently is old news, and maybe they just started enforcing it, as “Test your memory!” didn’t get flagged in my previous update. In any case, I changed it.
+Image for post
+Image for post
+
+I hope no one has trademarked “remember.”
