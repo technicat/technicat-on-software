@@ -1,0 +1,10 @@
+Opt-In When You’re Already Opted In
+technicat
+technicat
+Apr 19, 2018 · 1 min read
+
+When I paid my taxes online, the payment submission page included this option.
+Image for post
+Image for post
+
+The phrasing is just fine, except the check box was already checked, so it really should have read “Uncheck box if you don’t wish to receive promotional emails and other updates.” It’s opt-in phrasing with opt-out implementation.
