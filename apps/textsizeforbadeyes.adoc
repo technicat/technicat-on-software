@@ -1,0 +1,32 @@
+Text Size for Bad Eyes
+technicat
+technicat
+Oct 15, 2017 · 2 min read
+
+There’s all this talk about how designers should have empathy, but empathy’s a lot easier when you’re empathizing with yourself. For example, until recently I’ve been in the school of I-want-it-exactly-the-way-I-want-it when choosing font sizes in my apps. But there are some bad app apples out there that display text like they’re on medicine bottle labels or the unsubscribe instructions in spam. Google Maps in particular drives me crazy because zooming in doesn’t make the street names any more legible to my ageing eyes (which started ageing when I was seven).
+Image for post
+Image for post
+
+Google Maps doesn’t respond to the Text Size slider in the iOS Settings app, either, but most of the apps I use regularly, like Twitter, do support Apple’s Dynamic Type.
+Image for post
+Image for post
+
+I figured I should start doing so, too. It’s easy. In my Talk Dim Sum app, now instead of a fixed size font, I’m requesting the preferred font, like this:
+
+UIFont.preferredFont(forTextStyle: .body)
+
+So with the Text Size cranked up to maximum, my dim sum descriptions looks like this:
+Image for post
+Image for post
+
+while the tiniest Text Size looks like this:
+Image for post
+Image for post
+
+For the text to instantly resize in response to Text Size changes, you need to set this property on the UIView displaying the text:
+
+adjustsFontForContentSizeCategory = true
+
+The dynamic text (actually called Dynamic Type by Apple) also responds to the Bold Font option in Settings (just under the Text Size option in Display and Brightness).
+Image for post
+Image for post
