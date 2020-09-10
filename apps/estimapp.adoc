@@ -1,0 +1,16 @@
+Estimapp
+technicat
+technicat
+Jul 8, 2017 · 2 min read
+
+Often, when someone tells me they have an app idea, if they’re not pitching to have me implement it and give them a cut of the revenue, they want to know how much it’ll cost to develop (if your idea starts with “Uber of…” start adding zeroes). Usually they have in mind somewhere in the neighborhood of lunch money.
+
+But courtesy of ProductHunt, I discovered this handy app dev cost estimation app called Estimapp (it also works for other types of projects, like web development).
+Image for post
+Image for post
+
+It’s a nifty idea. The app is offered by a development studio, so it’s both a quoting mechanism for them and an item in their portfolio. Although one could quibble about the numbers, any formula based on actual dev experience is better than “It should be quick and easy, right?”.
+
+What I like is that it shows you common features that you probably take for granted in an app (like a login) and shows how that adds to the cost and complexity. There’s still this black hole of cost and complexity when app ideators implicitly assume server-side development — that’s a whole other ball of wax. And the cost of long-term maintenance and development (for some reason, app users who are used to getting updates every two weeks don’t consider that). But it’s a start.
+
+I’ve been telling would-be app inventors to go to their local Barnes and Noble and pick up a copy of Idea to iPhone, and for the advanced, I recommend web resources like the Apple developer site and Gamasutra postmortems. Now I can also recommend this app.
