@@ -1,0 +1,7 @@
+See the Whole Xcode Warning
+technicat
+technicat
+Sep 2, 2016 · 1 min read
+
+One of those things that’s been driving me nuts is how Xcode truncates build warnings, which is almost guaranteed to happen with deprecation messages. After fruitlessly trying to fix it by widening the Issue Navigator, I followed the google->stackoverflow path and found out of course, it’s going to be in the General tab of the Xcode Preferences, and the default line maximum is for some reason just three lines. I cranked it up to 30 lines, which also seems arbitrary to me, but at least it should be enough.
+Image for post
