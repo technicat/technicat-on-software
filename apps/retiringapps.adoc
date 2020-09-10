@@ -1,0 +1,24 @@
+Retiring Apps
+technicat
+technicat
+Dec 6, 2016 · 3 min read
+
+For years, my policy about unpublishing apps was not to. Especially after going through Apple’s approval process, that app is there to stay. But this past year or two has seen some downsizing of my app portfolio for a variety of reasons.
+
+For example, both Apple and Google, as part of their sweep for moldering apps, unpublished a few apps that I made with middleware (like Andromo) that I can’t or won’t use, anymore, resulting in unattended apps.
+
+There are some apps that I was updating, but the approval process was getting to be too much trouble. I had an app called Elektra Dance that Apple periodically rejected (because of implied nudity). That was an example of an app that I didn’t even care about that much, but it spent so much time wallowing in the review process, I’ve been keeping it around for years. Nevertheless, after new Apple objections from the most recent update attempt, I decided enough is enough, time to declare victory and Developer Reject that app so I won’t keep going back to the Resolution Center (the App Store version of getting sent to the principal’s office).
+
+In the good old days, you didn’t have to worry about an app approval process with Google, but they recently started applying more scrutiny to paid apps for some reason, and by scrutiny I mean an apparently automatic scanner that flagged a comma separated credit list in my paid HyperBowl app (HyperBowl Pro) as a set of tags and a complaint that the content rating I supplied was incorrect. I got rid of the credit list but couldn’t figure out what content rating they wanted. Originally, it basically had a PG rating and when cranking it up to NC-17 didn’t work I decided this was a lot of time spent on an app that’s mostly pirated, anyway. So now I’m sticking to free ad-supported apps on Google Play, including the free version of HyperBowl.
+
+Which led me to think that instead of being reactive, let’s be strategic about this product pruning, or at least pretend we’re doing it for strategic reasons. So I did the same thing on the Amazon Appstore, the evil twin of Google Play, except in that opposite universe I’m making more money off the paid version of HyperBowl, so I’m getting rid of the free version.
+
+But this is another reason I don’t like to remove apps. No matter how silly the app or how many people don’t like it, there are always some that do. And I hate to throw away nice reviews even more than I hate throwing away apps.
+Image for post
+Image for post
+
+Now I’m having second thoughts, but Amazon doesn’t have a simple publish/unpublish switch like Google and Apple. You send in a removal request, which takes two days to process, and if you have removal remorse, you have to reintroduce your app as a new app (one reason why the Amazon Appstore is the evil twin).
+
+The Nook app store had this process, too, and look where they are now. Although Google has a simple switch, it doesn’t work if the app metadata isn’t up to date, so I have several apps that I would like to remove, but then I’d have to update the store description with all the latest fields and required graphics just to remove an app because I don’t want to update it, anymore. That just seems perverse.
+
+So Apple has the most arduous app approval process, but they do app removal right.
