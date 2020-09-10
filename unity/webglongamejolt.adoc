@@ -1,0 +1,26 @@
+Unity WebGL on GameJolt
+technicat
+technicat
+Jan 28, 2017 · 3 min read
+
+When I first started with Unity, around ten years ago back when it was Unity 1.5, it was partly for the web player (the other reasons were that it ran on a Mac and didn’t cost $100k). I figured even if I couldn’t figure out how to publish (this was before the App Store, Google Play, Mac App Store, Window Store, Amazon Appstore…you get the idea), I could at least showcase my work on a web site. And that’s what I did, especially with my Unity version of HyperBowl (also got a lot of Mac widget downloads that way).
+
+The Unity web player is no more, but in-browser play is still an option via Unity’s WebGL support. The transition to WebGL has been stop and start. For some reason, the mouse/trackpad controls for HyperBowl still don’t work correctly as they did on the webplayer (and still do on the desktop versions), so the ball can only be controlled with the keyboard. Maybe it has something to do with cursor lock. And while I was able to deploy the WebGL files on my self-hosted HyperBowl site, my first deployments to GameJolt and itch.io didn’t work, which kind of posed a problem after I stopped self-hosting my site.
+
+But after trying again, recently, I found the WebGL build runs fine on GameJolt. On itch.io, I’m able to deploy WebGL builds of my smaller games, but HyperBowl gets an “unable to read index.html” error.
+
+So, in a that’s-how-I-planned-it-all-along reorg, I’ve refocused the HyperBowl GameJolt page on just the WebGL version of the game. Currently, the presence of the Play option disables the pay-what-you-want feature for downloads, although there is still ad revenue share. Anyway, the page looks better with just the Play button instead of having both Play and Download options (or so I rationalize).
+Image for post
+Image for post
+
+Meanwhile, the itch.io page just has downloads and no WebGL player. And the itch.io page looks better without embedded WebGL, as currently that’s the only mode in which it displays screenshots.
+Image for post
+Image for post
+
+The other challenge is making the WebGL presentation, er, presentable. The problem with using one of the default Unity WebGL templates is you get a big white margin around the WebGL canvas. I got rid of that by making a custom template copied from the built-in Minimal template and then adding a CSS file as described in this blog. This also means the embed size you specify actually matches the desired size of the WebGL canvas.
+
+The result: the WebGL version of HyperBowl looks pretty much like the desktop version.
+Image for post
+Image for post
+
+There are still some glitches, such as the lack of a loading progress bar (I need to modify the template, but I think there’s a Unity bug right now in the progress bar used with the default template, anyway), and loading does take a while. One thing I’d like to play around with is switching the compression from zip to Brotl. A bigger change would be to download HyperBowl lanes on demand. And I should figure out why it’s not working on itch.io.
