@@ -1,0 +1,5 @@
+App Rejection Movies
+technicat
+technicat
+Mar 1, 2017 · 1 min read
+Well, my interest in developing apps for the Apple TV lasted about a week, with my initial excitement at getting HyperBowl to run on it doused with the cold bucket of water known as the Resolution Center. They complained about the black bars running along the edges on wide screens, and rather than identifying a specific rule about that, they just cited the entire iOS Human Interface Guidelines and — this is new — a bunch of videos (listed below). I used to think of visiting the Resolution Center as akin to being sent to the principal’s office, but now I feel like the guy in A Clockwork Orange strapped in a chair and forced to watch app-guideline-violation aversion films.
