@@ -1,0 +1,10 @@
+Buy My Obsolete Book. It’s a Bargain!
+technicat
+technicat
+May 9, 2016 · 1 min read
+Image for post
+Image for post
+
+I see my Unity book on Amazon has recently dropped from $36 to $13. I’m not surprised, considering I’ve probably been the only buyer for a while (I buy copies to give away as promotion for my consulting and contract development).
+
+And maybe they figured out it’s obsolete. But setting aside that it’s for Unity 4 (we’re up to Unity 5.3.4 now), uses Javascript (everyone should be using C# in Unity), and the original Unity GUI system (uGUI is the new one), all the code works (at least, the updated code on github should). And now it’s cheaper for me to buy copies for myself to give away.
