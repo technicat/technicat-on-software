@@ -1,0 +1,16 @@
+Demo Day
+technicat
+technicat
+Jul 9, 2017 · 2 min read
+
+A weird thing about the blistering heat of Las Vegas summers: it makes me want to go outside. The rest of the year, I’m content to stay in all day with the windows open and fresh air coming in, but a sealed environment makes me feel I gotta get out of here. I guess space travel is not in my future.
+
+So this Saturday I went against my antisocial instincts and trundled downtown in 115 degree heat to check out Las Vegas Demo Day. After all, free pizza.
+Image for post
+Image for post
+
+The event takes place monthly at the Redflint Experience Center. It’s a nice venue, and in between sessions, I got to try out the Vive at their VR station. I like the Vive better than my Oculus Rift (much more glasses-friendly), and Tilt Brush was a blast.
+
+The presenters were a mixture of experienced and newer developers, and the projects a nice variety of games, web apps, mobile apps, and academic-ish, with intermissions for mingling and follow-up discussions. It’s a friendly environment and a good opportunity to network (some people are there to check out the talent).
+
+The other centers of software dev networking here are the Iron Yard (also downtown, and where I attended an entertaining talk by Nolan Bushnell) and the Innevation Center (took me a while to figure out the “ne” is for Nevada and not just bad spelling). And maybe Grouchy John’s where the iOS Developers meetup sometimes congregates. So while it’s not Silicon Valley, Las Vegas does have a tech scene.
