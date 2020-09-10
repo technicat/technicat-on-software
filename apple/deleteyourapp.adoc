@@ -1,0 +1,10 @@
+Delete Your App, Or Else
+technicat
+technicat
+Jun 17, 2017 · 1 min read
+
+Apple has been making good on its thread to remove apps that haven’t been updated in a long time (another reason anyone who has a bright app idea, you need to think about long-term maintenance!). It’s tempting to leave your app there until Apple removes it, but then you have to see a message like this every single time you log into iTunesConnect for as long as I don’t know when.
+Image for post
+Image for post
+
+So if Apple tells you to update or remove it, do it
