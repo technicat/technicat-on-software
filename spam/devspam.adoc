@@ -1,0 +1,23 @@
+Dev Spam
+technicat
+technicat
+Sep 12, 2017 · 1 min read
+
+There’s a special class of spam I’ve been receiving more of, lately, which comes in the guise of a fellow developer reaching out. It pains me to see that — it’s one thing to get an obvious mass email from a recruiter who claims he saw my programming skills in my Foursquare profile, but devs employing sleazy marketing tactics are like Klingons fighting without honor. And often badly.
+
+For example, here’s one I got yesterday, oddly enough on an email address that is not associated with GitHub.
+
+    Hey, Philip,
+
+    I found your GitHub profile by clicking through the SwiftHTTP repo.
+
+    I’m reaching out because I’m an ios dev interested in making network and server errors easier to visualize and understand in production. If I may first ask, do you know or care about when your users are losing cell connection?
+
+    Learning about any problems/pains/wishes you’ve had (so I can help fix them!) regarding the network would be awesome.
+
+    Thanks!
+    James
+
+And I haven’t contributed or forked that repo, although I may have used it, or at the very least I’ve starred it.
+
+It’s from “James” with no title or links provided, but the email address indicates it’s from an outfit called Caffeine Computing. If they identified themselves and showed real evidence they checked me out (if they looked at my github repos, for example, and my apps…), then, developer to developer, I’d be happy to respond, as a courtesy, But if there’s one thing I hate more than an obvious mass email, it’s a mass email pretending not to be a mass email.
