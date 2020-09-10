@@ -1,0 +1,20 @@
+The Case of the Missing Space in the App Name
+technicat
+technicat
+Nov 14, 2017 · 2 min read
+
+All bug reports should be titled like Agatha Christie mysteries. It adds intrigue and lends more detail than the typical “something’s broken, please help me”.
+
+This particular case seems to have arisen with iOS 11 and in particular, for some reason, affects all my HyperBowl builds. For example, instead of displaying “HyperBowl Forest” as the app name on the device, it shows “HyperBowlForest”, even though the space is there in the Unity Player Settings and in the Xcode info.plist.
+
+As usual, it’s been solved, or rather worked around, by a sleuth on stackoverflow. Short story: edit the plist as raw text and put in a Unicode space yourself (but not just a regular space).
+
+Here it is in action. Open the info.plist file as source code:
+Image for post
+Image for post
+
+Then replace the apparently useless space in CFBundleDisplayName with the Unicode for a figure space.
+Image for post
+Image for post
+
+Now, I just have to remember to do that every time I do a Unity build.
