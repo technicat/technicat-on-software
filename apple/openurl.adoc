@@ -1,0 +1,12 @@
+openURL is now open
+technicat
+technicat
+May 31, 2017 · 1 min read
+
+It’s nice to have source code, even if it’s just a header file. Xcode was giving me iOS 10 deprecation warnings, telling me to replace openURL with openURL, so a quick Jump to Definition shows the message should actually replace openURL with open(URL.
+Image for post
+Image for post
+
+    iOS
+    Xcode
+    Openur
