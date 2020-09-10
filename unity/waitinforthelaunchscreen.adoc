@@ -1,0 +1,39 @@
+Waiting for the Launch (Screen)
+technicat
+technicat
+Jun 11, 2016 · 1 min read
+
+Just when I thought I’d fixed every new bug introduced with new Unity 5 behavior, they drag me back in. I finally got around looking at why the opening wipe in HyperBowl is now just a whooshing sound.
+
+Turns out the the Awake and Start callbacks in the initial scene now start running before the launch (splash) screen disappears. So the solution is to wait for the splash screen to disappear, essentially checking the Unity function Application.isShowingSplashScreen.
+
+HyperBowl’s game logic is implemented in state machines, where states are coroutines, so it’s pretty easy to create a new start state that waits for the splash screen to disappear before moving on to the good stuff.
+
+virtual public void Awake () {
+ state = “WipeReady”;
+ }virtual public IEnumerator WipeReady() {
+   while (Application.isShowingSplashScreen) {
+   yield return null;
+ }
+ state = “WipeOpen”;
+ }
+
+In case you're wondering, this is the FSM implementation:
+
+public abstract class FSM : MonoBehaviour {
+ 
+ protected string state = null;
+ 
+ 
+ IEnumerator RunFSM () {
+   while (state != null) {
+     yield return null;
+   }
+   yield return StartCoroutine(state);
+  }
+ 
+
+ public virtual void Start() {
+   StartCoroutine (RunFSM ());
+ } }
+
