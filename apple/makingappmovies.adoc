@@ -1,0 +1,18 @@
+Making App Movies
+technicat
+technicat
+Jun 9, 2017 · 2 min read
+
+I noticed that the App Store now lets you include up to three app previews (videos) along with the five screenshots, so I refreshed myself on how to make them. Word on the street is that iOS 11 will have on-device screen recording, but in the meantime, you can create screen recordings of your device by plugging it into your Mac, starting up Quicktime Player, and selecting Create Movie Recording from the File menu. Then select your device as the video and audio source next to the record button and press that button to start/stop the recording.
+Image for post
+Image for post
+
+When you close the window, it’ll prompt you to save the recording. iTunesConnect will not accept this .mov file as it’s 60FPS, and I used to have to go through a bunch of steps in iMove to convert it to 30FPS, but now iMovie has a App Preview support. So start up iMovie, go to the File menu to create an App Preview, which will then prompt you to import the .mov file (or you can use the Import Media option in the File menu)
+Image for post
+Image for post
+
+I select the entire range of the clip and drag it into the movie pane (both can be done in the Edit menu), then in the File menu export (Share) to the intended target, which is App Preview, which will be an .mp4 file you can upload to iTunesConnect.
+Image for post
+Image for post
+
+Of course, you can also upload it to YouTube.
