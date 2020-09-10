@@ -1,0 +1,27 @@
+Get Your App Update, Read All About It…
+technicat
+technicat
+Oct 5, 2016 · 2 min read
+
+There’s plentiful advice on how to write App Store descriptions, but really, with popular apps typically updated every couple of weeks, the action is in the update notes.
+
+Some update notes read like they’re written by the software engineers, in a “Just the fact’s, Ma’am” style. I know, because that’s how I write them. Take the IMDB app, for example:
+Image for post
+Image for post
+
+Some apps look more like they’re written by someone in Marketing. Or an engineer who’s drunk way too much coffee. The Yelp app reminds me of the Trader Joe’s flyers.
+Image for post
+Image for post
+
+Some update notes take the opportunity to engage the user. Meetup presents their changes as rewards for user feedback and asks for more.
+Image for post
+Image for post
+
+In some cases, the app update notes seem to be an excuse to hold a creative writing workshop. Half the time, I don’t know what the Medium release notes are saying. I fully expect to find a screenplay in there one of these days.
+Image for post
+Image for post
+
+But overenthusiasm is better than half-assing it, like LinkedIn, Facebook and Apple. These boilerplate update notes look like they’re written by that minimal-effort engineer who always enters “fixed bugs” in his git commits.
+
+But I guess if you’re a big company, this avoids having a meeting every two weeks to agree on the release notes.
+Image for post
