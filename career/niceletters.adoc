@@ -1,0 +1,42 @@
+Nice Letters
+technicat
+technicat
+Apr 8, 2017 · 4 min read
+
+My career started in big companies, government contractors, and academia, and moved steadily through smaller companies into startups and now a company of one. I don’t miss the old days, but one thing those outfits did well was give out nice awards and commendations.
+
+My favorite was from the Space Telescope Science Institute (STScI). They did (and probably still do) put a lot of effort into acknowledging the personnel there in yearly awards ceremonies where we all packed into the auditorium to see various teams receive their recognition. I honestly didn’t get much done while I was there beyond writing an Emacs mode for filling out telescope observation proposals (which I hear was not supported after I left), so I was pleasantly surprised two years after I left the Institute to arrive at my office in BBN and find on my desk a patch that was flown on the Hubble servicing mission and this poster signed by the astronauts.
+Image for post
+Image for post
+
+After I left the Institute and before I went to BBN, I worked at the Johns Hopkins Applied Physics Lab (like MIT Lincoln Lab, basically the defense/government contract arm of the university), on a contract as an SAIC employee (the Space Telescope gig was similar — I was actually an employee of the Association of Universities for Research in Astronomy).
+
+When I was transitioning from this type of to startups, I would get snarky remarks from interviewers about the slow pace of big companies, but this is one of those cases where shut-the-hell-up-if-you-don’t-know-what-you’re-talking-about. Yeah, government and corporate gears run slowly, but sometimes that inflexibility means more work.
+
+Which was the case at APL where I spent three months hanging out in the library reading Aviation Week waiting for my security clearance (I later heard the application was just sitting in an outbox for several weeks and was processed fairly quickly once it was actually sent), and then really had to crank the six months remaining before the very immovable demo date (a simulated wargame — think Battlezone with submarines). But it was nice of them to acknowledge that during the project.
+Image for post
+Image for post
+
+Fortunately, the project was a success. Which was not a forgone conclusion — it was one of those projects where you see people avoiding the lab in case they might catch whatever it is you’ve got. And literally, I was sick, probably with the flu, during the crunch period, and then almost sick to my stomach when the software crashed after I hit the Start button to launch the simulation on demo day (I was able to fix it quickly — thank god for fast recompiles).
+Image for post
+Image for post
+
+The project manager also sent a nice letter to my boss at SAIC.
+Image for post
+Image for post
+
+And maybe he bent the ear of one of the attending observers, too, because I got a nice letter from ARPA. My name got misspelled with two Ls instead of one, but I’ll take it (and that’s why I usually go by Phil).
+Image for post
+Image for post
+
+There was a long stretch after that with no letters as I switched to more commercial work (although BBN was a good place — they would actually tell you in person that you’re doing a good job, and the VP of my division had a talk with me when I left, as he made a practice of asking every departing employee what they could do better). But raises and stock options were easier to get.
+
+Eventually, though, I joined a startup in the Bay Area founded by one of my old bosses at the Space Telescope Science Institute, and maybe because of his background I got another commendation letter.
+Image for post
+Image for post
+
+And, shades of the STScI award ceremony, we had a gathering where we got some plaques and cash bonuses. You can see from the blank spots on the plaque, this was intended to be an ongoing thing, but amidst a lot of politics, turnover, and management upheaval, that didn’t happen. So it’s not like startups are smoothly running engines of efficiency, either. In the meantime, someone noted my observation that the plaque reminded me of the employee recognition wall hangings at fast food joints and added an entry.
+Image for post
+Image for post
+
+Also, they got my name wrong with the extra L. But I did get a good raise and stock options. So it all worked out.
