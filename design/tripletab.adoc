@@ -1,0 +1,8 @@
+Triple Tab
+technicat
+technicat
+Oct 6, 2016 · 1 min read
+
+As I’ve pointed out in a previous post, most popular social media apps conform to a conventional top-level arrangement with five tabs on a bottom tab bar, featuring the main feed (often called Home, though Facebook calls it Feed) on the left, Account on the right, Notifications/Activity second to right, Search/Explore second to left, and a primary activity in the center (photo upload in Instagram, write in Medium…)
+
+There are variations, of course, and I can think of a couple of apps that just have four tabs, such as Pinterest and Periscope. But just today I updated the Meetup app, and this is the first I can remember seeing a tab bar with only three tabs. Not that there’s anything wrong with it. But if anyone uses just two tabs, that would be weird.
