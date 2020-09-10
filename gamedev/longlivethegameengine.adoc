@@ -1,0 +1,18 @@
+Long Live the Game Engine
+technicat
+technicat
+Feb 12, 2016 · 2 min read
+
+Every time a new game engine arrives (Lumberyard) or goes from prohibitively expensive to dirt cheap (Unreal), I rethink how I ended up using Unity. It wasn’t a touch choice — back in 2006, it was among a handful (and by handful, I mean two, Torque being the other one) “indie” 3D game engines that ran on a Mac, and the only one that actually ran well.
+
+As a bonus, it featured a webplayer (which is now deprecated, but a WebGL replacement is more or less there), which was an important bonus because I had no plans on deployment other than posting on my web site for fun and portfolio.
+
+Now I can also cite useful features like the Asset Store, their broad platform support across mobile devices and consoles-I still have webplayers running, but iOS and Android are now my bread and butter (well, just butter…well, margarine, maybe) and impressive momentum in the industry, to where they seem to be the default choice, definitely for indies and probably a lot of studios.
+
+But as I pat myself on the back for making a lucky choice (my eval didn’t work, so I almost didn’t bother with Unity until I got a demo from Joachim Ante during a chance meeting at WWDC), the really fortunate feature of Unity is it’s longevity. I started with Unity 1.5 almost ten years ago, and now, several Pro licenses later, the current version is 5.3. The only comparable run I can think of is Unreal, and they primarily use their engine and secondarily sell it (or, more accurately now, give it away).
+
+In that timespan, a lot of game engines and middleware have been retired or withered away, or otherwise taken off the market, often after an acquisition: Renderware, Torque, Gamebryo, Vision, Blade (that subscription model doesn’t seem so good, now, does it?)… Call it buyer’s remorse. Or “pivoting”.
+
+Staying independent may indicate a commitment to the long run, but staying small is limiting. For example, the C4 engine is out, stay tuned for the new. Leadwerks is still chugging along, though. And here’s a list of choices in 2014.
+
+So when you’re evaluating game engines, besides the flashy stuff, think about how long that engine is going to be around. That’s not an easy question to answer, so you might also think about what engine you might end up porting to.
