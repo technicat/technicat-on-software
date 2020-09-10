@@ -1,0 +1,14 @@
+Buy Me a Coffee
+technicat
+technicat
+May 1, 2018 · 1 min read
+
+A while ago I was musing that app sales would improve if they were sold in units of cups of coffee (“stop whining about this app, it cost less than a cup of coffee!”), and it turns out not to be an entirely original idea. You can place a “Buy me a coffee” badge on your site, like I did on mine:
+Image for post
+Image for post
+
+and clicking on it brings you to my Buy me a coffee page.
+
+It’s easy to set up, you say a little bit about yourself, specify the price of your coffee ($3, $4, or $5 a cup), and the payment (once it reaches a minimum payout of $10) goes to your paypal or stripe account, minus a small cut that the buymeacoffee people take, of course (I suspect they make more off the balances that never reach $10).
+
+Tip your developer!
