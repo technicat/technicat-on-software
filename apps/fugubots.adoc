@@ -1,0 +1,26 @@
+Fugu Bots Is Better Than Angry Bots
+technicat
+technicat
+Aug 3, 2017 · 3 min read
+
+When I made some tweaks and enhancements to Unity’s Angry Bots demo some years ago and released it for iOS and Android, I got an angry review on Google Play saying what a rip off it was for me to just release it with ads, and the reviewer would release a version without ads just to show me!
+
+I don’t know if that person followed through, and I suspect not, because it’s a pain in the ass to release any app – just filling out the store page with screenshots and icons and feature graphics will take a whole day. And repackaging demos as new apps sometimes requires a lot of coding – in the case of another Unity demo, I restructured all of the code as an FSM mostly so I could restart the game when it ended, which the original didn’t allow for. And also an in-game menu to pause and restart the game.
+
+In the case of my Angry Bots, which I called Fugu Bots, besides ads I added Game Center integration and sizing of the UI elements for iPads. And maybe some other stuff because that was quite a while ago, and I didn’t update it until this year when Apple notified me it was on their we’re-going-to-remove-it-because-you-haven’t-updated-it list. That update took me a while because a lot of Unity has changed and scripts, including shader scripts, had to be updated (fortunately, a lot of that was handled automatically by Unity), and the lightmapping is all new, so the lightmaps had to be regenerated.
+
+I’m guessing Unity got the same memo because they also updated Angry Bots on the App Store earlier this year. But you can see it still has tiny UI on my iPad, and they apparently overlooked the missing lightmaps.
+Image for post
+Image for post
+Image for post
+Image for post
+
+Compare to Fugu Bots.
+Image for post
+Image for post
+Image for post
+Image for post
+
+And since I switched Fugu Bots to Unity Ads, it’s generating income for Unity! If I do any more work on it, I’ll probably reimplement the GUI with the new Unity GUI. Multiplayer is another possibility. And some users have asked for more levels. Which would be a lot of work but should be doable.
+
+In the meantime, while I updated the mobile version, I also built a WebGL version on itch.io.
