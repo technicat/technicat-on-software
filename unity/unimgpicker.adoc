@@ -1,0 +1,16 @@
+Unimgpicker
+technicat
+technicat
+Aug 10, 2017 · 2 min read
+
+A gimmicky feature I have in the mobile versions of HyperBowl is the ability to replace the bowling ball texture with a photo. It’s one of those things I was just playing around with it, but it turned out some users really liked it.
+
+But that means, since it’s not a built-in Unity feature (but for some reason that weird webcam video texture is), I need a plugin, and the previous one I was using broke in Xcode after upgrading to Unity 2017. Fortunately, there’s a free one on github called unimgpicker, and I was able to swap it in without much trouble.
+
+As a test, I started up HyperBowl on my iPad, and it so happens for some reason I still have a photo from Comic Con in my album of the cool bags (one for registration, and another for donating blood — now I wish I’d donated blood the last seven Comic Cons!)
+Image for post
+Image for post
+
+I have a button in the pause menu that invokes unimpicker, which brings up the standard iOS photo album chooser, and tapping on a photo selects it as the new ball texture. So here’s my Comic Con bag bowling ball.
+Image for post
+Image for post
