@@ -1,0 +1,10 @@
+Variables Gone Wild
+technicat
+technicat
+May 9, 2017 · 1 min read
+
+Looks like a variable, constant or enum didn’t get properly evaluated here.
+Image for post
+Image for post
+
+This is a reminder not to have any embarassing variable names, just in case. This one isn’t too bad, but no one wants to be reminded they’re being upsold.
