@@ -1,0 +1,20 @@
+Minimal Tweaking
+technicat
+technicat
+Jan 4, 2017 · 2 min read
+
+After getting my new GitHub user page up and running, I thought about moving on to some other static site generation system to get a more snazzy look. After all, even the sites showcased by GitHub aren’t using the built-in Jekyll support.
+
+But with just a little tweaking of the Minimal theme, I got something I’m satisfied with, for now.
+Image for post
+Image for post
+
+To fill up the original white space on the left with a logo, I added the logo image file to the repo, made a copy of the defaults.html file from the Minimal repo, add a line to include the logo, add a line for the logo credit, and changed “View my GitHub profile” to “Projects on GitHub”.
+
+Reading the default.html file also helped me figure out how the site variables are used, so I specified the title, description and google_analytics values in the _config.yaml file.
+
+I also made a styles.css file for CSS customization but haven’t added anything there, yet.
+
+You can create your own 404 Not Found page (otherwise you’ll get a GitHub 404 page) by adding a 404.html or 404.md file. I just made a copy of my index.md, so you always get the same web page.
+
+Next step, setting up the custom domain (right now it’s just forwarding).
