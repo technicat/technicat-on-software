@@ -1,0 +1,31 @@
+Favorites in Realm
+technicat
+technicat
+May 24, 2017 · 2 min read
+
+In my previous story (I’m still getting used to saying story instead of blog or article), I mentioned how I’m using Realm to store favorited dishes in my Talk Dim Sum app. Here I’ll show basically how it works. It’s real simple.
+
+After including the RealmSwift package into my Swift project via Cocoapods, I defined a Favorite class that can be saved into a Realm database (known as a realm, naturally)
+
+class Favorite : Object {   dynamic var Chinese:String = “”   override static func primaryKey() -> String? {      return “Chinese”   }}
+
+Inheriting from Object makes instances of Favorite saveable to a realm. It has one property, the Chinese name of the dish. It is specified dynamic so the property will be saved, and that property is also the primary key (which is optional)
+
+When a user taps the heart button in the app, it instantiates a Favorite with the name of that dish and calls this function to save it.
+
+func addFavorite(fav:Favorite) {   guard let realm = try? Realm() else {   return   }try? realm.write {   realm.add(fav)   }}
+
+I’m ignoring exceptions (I used to complain about people using ignore-always in Common Lisp, but I’m basically doing the same thing here). Reasons that Realm might throw an exception here is if there’s not enough space to create or add to a realm, or if I’m attempting to save a Favorite when a Favorite with the same primary key is already in the realm. I’m assuming I’m only favoriting dishes that aren’t already favorited, but one way to avoid an exception if that isn’t the case is to pass true for the optional :update parameter in Realm.add.
+
+Unfavoriting works similarly, but with deleting instead of adding.
+
+func removeFavorite(fav:Favorite) {   guard let realm = try? Realm() else {   return   }   try? realm.write {      realm.delete(fav)   }}
+
+And to check if a dish is favorited, I check if it’s Favorite is in the realm. This is where the primary key is handy.
+
+func findFavorite(chinese:String)->Favorite? {guard let realm = try? Realm() else {return nil}let fav = realm.object(ofType: Favorite.self, forPrimaryKey: chinese)return fav}
+
+And when displaying the entire collection of favorited dishes, I can just query for all the Favorites in the realm.
+
+var favorites:Results<Favorite>? {   get {      guard let realm = try? Realm() else {         return nil      }      return realm.objects(Favorite.self)   }}
+
