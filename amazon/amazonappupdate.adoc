@@ -1,0 +1,5 @@
+Amazon App Update
+technicat
+technicat
+Apr 3, 2016 · 1 min read
+I don’t know if I just haven’t been updating my apps on the Amazon Appstore enough, or they actually changed it to make it more confusing, but for a while, uploading app updates has been been somewhat confusing. If I just upload a new apk, it still lists the apk from the previous version and complains about it. If I hit the Remove Binary button at top, that solves the problem but wipes out some app settings, such as the localizations I checked off on the previous build. The way to do it, I’ve finally figured out or remembered, is to delete the previous apk by clicking on the X delete button next to the listed apk, then upload the new apk. There, that was easy.
