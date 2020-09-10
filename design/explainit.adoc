@@ -1,0 +1,14 @@
+Explain It To Me So I Understand
+technicat
+technicat
+Sep 24, 2017 · 1 min read
+
+In Korean dramas, a character often says something that is translated as “Explain it to me so I understand.” Which is not something that you normally hear in English conversation but seems like a really useful phrase.
+
+For example, while registering for yet another useless rewards program, here are the instructions I got for creating a password:
+Image for post
+Image for post
+
+I understood “8 characters long” and nothing after that. “2 of the following” what? I guess it’s two of three categories — two of two wouldn’t make sense — but that “and/or” makes it unclear. So does the “uppercase/lowercase letter”. Why not just say “letter”, unless uppercase and lowercase are two separate categories, in which case this is even more confusing.
+
+By the way, notice how I spell out simple numbers instead of using digits. It’s what I learned as stylistically better, and it does look better. Stylistic niceties aside, I’ve never believed you need a professional writer to write every little snippet of text in a program, but I expect programmers are capable of writing clear prose. I mean, that help text would be confusing as a code comment, too.
