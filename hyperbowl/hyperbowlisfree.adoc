@@ -1,0 +1,14 @@
+HyperBowl is Free on the Mac App Store, Because I’m Giving Up on the Mac App Store
+technicat
+technicat
+May 12, 2017 · 2 min read
+
+Short version: I’m not planning to update HyperBowl on the Mac App Store, so now it’s free.
+
+Long version: I signed up as a Mac App Store developer in 2011, when they were charging a separate $99 in addition to the iOS developer membership fee. I didn’t renew after the first year because the App Store reviewer started picking on all kinds of different things, to the point where I thought they just didn’t like it. And when I complained to the App Review Board, they called me up to say it was too much like the iOS version and I should redo the whole thing from scratch. This is why I never appeal to the review board, anymore.
+
+Four years later, they stopped charging the separate $99 and combined the Mac App Store developer membership with the iOS membership, so on a whim I resubmitted HyperBowl on the prospect that the previous reviewer had found another job, by now. It was rejected again, but based on an issue that looked like they tested the wrong build, so I waited six months, resubmitted, and finally HyperBowl was on the App Store!
+
+After a few months, I realized people were actually buying it, so I started updating it, but just recently, it started happening again. A bunch of nitpicking on disparate issues, then complaining it’s too much like the iOS version, then saying it needs in-game instructions for the controls since they’re not standard Mac controls (it’s a game!) but since this time the exchange was still on iTunesConnect and not a phone call, I pointed out the iOS version is actually a port of the desktop version, which was a port of the arcade version, and provided a screenshot of the in-game instructions.
+
+However, first rule of App Review is App Review is never wrong. Three weeks later, I got a response saying I need to add an in-game tutorial explaining the controls. While a fancy tutorial is always nice, I think the existing instructions displayed in the pause menu that appears as soon as you see the ball is sufficient, and no one has complained they couldn’t figure out how to play the game. Since I’ve made a grand total of $124 from the Mac App Store and got a few good ratings and reviews, I’m declaring victory, abandoning the Mac App Store, and making HyperBowl free, there. Updated Mac versions of HyperBowl will be on itch.io.
