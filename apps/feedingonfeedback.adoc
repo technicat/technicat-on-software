@@ -1,0 +1,12 @@
+Feeding on Feedback
+technicat
+technicat
+Jan 5, 2019 · 2 min read
+
+The latest review for my Talk Dim Sum app is a pretty nice one, particularly in how it appreciates my frequent updates.
+Image for post
+Image for post
+
+It’s actually not the first review for this app and some of my others that note positively the frequency of updates (even one that humorously remarked the updates provided no noticeable changes!). This just reinforces one of the points I make when someone talks to me about making an app: you can’t just release an app and leave it there — you need to plan on updating it regularly. Anything that’s been sitting in an app store without updates for more than a few months will look like abandonware.
+
+Fortunately, at least when you’re working on your own apps, reviews like the one above provide motivation for getting another update out, completing a virtuous cycle. And sometimes you need a lot of motivation, because updates can be a lot of work, especially if you have long intervals between them and let build-breaking middleware and tool changes accrue (I’m stuck on some HyperBowl updates because the Google Play version has ad problems, the App Store version has build problems, I’m afraid to make another Steam build, and the Windows Store build is just too much trouble…) This is another reason to make those updates frequently!
