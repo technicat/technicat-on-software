@@ -1,0 +1,16 @@
+Make Your Icons Match (Even If They Don’t Match)
+technicat
+technicat
+Aug 1, 2017 · 2 min read
+
+Recently, I decided to add an iMessage sticker pack extension to Talk Dim Sum, just because I wanted to learn how to make a sticker pack.
+
+It’s actually not a bad product idea if I had some good images to use as stickers, but in any case, most of the work was actually making the icons, because as with everything else in the app development world, this required a set of images with yet different resolutions and in this case, not even square.
+
+Because of the different aspect ratio, I didn’t reuse the existing app icon and instead chose an image that was a little better suited to a rectangle.
+Image for post
+Image for post
+
+The problem is, every time I submit an update of this app, now, Apple immediately rejects it saying the app icon has to match the App Store icon, and then they copy and paste some boilerplate info on uploading a properly sized app icon. And then each time I reply pointing out the app icon and App Store icon do match, it’s the iMessage icon that doesn’t match and it’s not square, so do they really require the iMessage icon to match the App Store icon? And then they just approve the app without answering.
+
+This has happened twice in a row. I’m getting the impression I can do this indefinitely, but it would probably save time in the long run to just replace all the icons (admittedly, these aren’t great icons, I just took what was convenient and seemed less bad than whatever I chose before). So if you’re adding an iMessage extension to your app, be forewarned.
