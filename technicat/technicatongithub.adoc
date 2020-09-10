@@ -1,0 +1,12 @@
+Technicat on GitHub
+technicat
+technicat
+Jan 3, 2017 · 1 min read
+
+For a while, I’ve been using Medium as my home page for Technicat, but a blog is a blog and a home page is a home page, so now, prompted by recent announcements for GitHub Pages, I’m trying out my github user page as a home page.
+
+Somehow appropriately for Github, the setup and documentation is confusing, but it’s pretty easy to start tweaking in Markdown once you’ve got something running. The set of built-in Jekyll themes is limited, so I started off minimal (literally, I chose the Minimal theme). A nice little convenience is the automatically included link to your GitHub profile.
+Image for post
+Image for post
+
+I’ll look at customizing the Jekyll or entirely replacing with a static site later (keeping in mind this is a public repo, so the entire source will be public). Or just move on to somewhere else.
