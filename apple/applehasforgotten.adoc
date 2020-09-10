@@ -1,0 +1,15 @@
+I remember the original Mac interface guidelines were design bibles (I wish I still had them — they were sitting on my shelf for years). The rules were simple, with well explained rationales, and consistent adherence to them aided the user’s mental model.
+
+But I also feel that Apple is not the beacon of guiding design light that it used to be, although they still act like they are (especially when you get an app rejection) and the trend toward form over function is a big part: their WWDC talks go on about making “delightful” apps, removing borders from buttons so they’re indistinguishable from labels, removing the affordance of visible scroll bars so it’s not obvious there’s more content you can scroll to (or even which direction to scroll), and, as mention, removing the home button so you have to google for what is the new swipe equivalent (it’s sad when you have to google how to use an apple).
+
+And while in the early Mac days I would know I could always find operations appropriately in the menubar and context menus (and I would use these rules when making apps), it seems pretty random (on iMovie, for example, one delete operation is available in the menubar, one other one is on one visible element, and command-delete is only available on one type of element).
+
+Some things are too easy to invoke. One-tap convenience caused me to accidentally make a lot of phone calls just by tapping on my call history (until Apple finally fixed that after too many accidental calls to 911), and, a current peeve, I often accidentally switch playing podcasts just from an stray tap.
+
+But Steve Jobs was also guilty of breaking the rules you mention. His insistence on a one-button mouse gave us shift/control/option/command clicks (not really simpler than a right-button mouse click) and even double click (just a shortcut for right-click and run). And they don’t admit they make mistakes, so the Apple mouse still had one button, just a really big one that you could click in various ways like multiple buttons. Now with trackpads they can just pretend the mouse never happened.
+
+And the new MacOS confused the single-click/double-click issue (a real problem when I’ve had to help people not good with comptuters: “double-click that, just single click this, control-click this…”) with the dock. Thanks to Jobs I’ve been double-clicking to run over a decade and now there’s this dock where you single-click to run, and in the worst case you launch something twice.
+
+So I would argue this trend started with the new Apple after Jobs took it over again, and probably there are several contributing influences, including the ascendance of Ives, the move toward mobile, maybe just a global trend (used to be it was just Apple and Sony that were about the pretty, and now it’s everyone), and the passing of Jobs. The Apple Stores started to move to a cheaper experience but they backtracked on that, and while some say there’s a lack of inspiration and innovation, some things have been executed better (I’m not a fan of iCloud, but it’s a lot better than MobileMe).
+
+I feel better ranting about this knowing that the original Mac UI designers also have complaints:
