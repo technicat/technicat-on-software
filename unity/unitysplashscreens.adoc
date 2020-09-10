@@ -1,0 +1,20 @@
+Unity Splash Screens
+technicat
+technicat
+Jun 21, 2017 · 2 min read
+
+I only realized a couple of weeks ago after upgrading to Unity 5.6.1 that even with the Unity Personal edition, I can customize splash screens. For some reason I thought that was only a Pro feature (maybe because it says so here).
+
+With Personal, you can’t disable the Unity logo, but that’s fine by me. What you can do is add your own. Here I go to the Splash Screen section of Player Settings, and set the Unity logo to display below my logo. I click on the + button on Logos to add one texture for my logo and drag my Technicat texture (designed by Shane Nakamura) there (it has to be a sprite).
+Image for post
+Image for post
+
+Since my logo has a white background, I set the Background Color of the splash screen to be white and set the Splash Style to be Dark on Light, so the Unity logo will be black text on a white background. And this is the result I see when I launch my app:
+Image for post
+Image for post
+
+Like the Transitions Manager package I’d been using a long time (and which seems to be gone from the Asset Store now), this splash screen appears on all platforms (Android, WebGL…).
+
+As a bonus, on iOS, the native launch screen also appears. I thought they were gone for a while when the new Unity splash screen was introduced (maybe I misremember, or maybe the launch screens came back in Unity 5.6.1). In Player Settings, I still have the Legacy launch screen images filled out (I tried using the new launch screen customization but couldn’t get it to work). So this is the first screen that shows up when launching HyperBowl:
+Image for post
+Image for post
