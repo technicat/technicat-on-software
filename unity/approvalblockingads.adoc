@@ -1,0 +1,24 @@
+Approval Blocking Ads
+technicat
+technicat
+Sep 21, 2017 · 3 min read
+
+I’ve been using Unity Ads in my apps largely because Apple dropped iAd (which I liked), and AdMob ads are often awful (the clincher was when I saw those ads that say your phone is hacked, so download this antivirus software now!).
+
+I also actually like seeing Unity Ads, as they’re videos of other games (so I feel it was a mistake when Unity Ads started including non-game ads, but I haven’t seen any since the election). I even don’t mind this gratuitous opening shot of the Final Fantasy ad that shows up most often.
+Image for post
+Image for post
+
+I have to admit, I really don’t mind it. Let’s just call it a Game of Thrones homage. The bigger problem is this screen at the end.
+Image for post
+Image for post
+
+This is an approval blocker. If you submit an app and the Apple reviewer sees those non-Apple app store badges, they’ll reject it as containing “irrelevant” information, where “irrelevant” means the competition (to be fair, Amazon does this too, for apps submitted to the Amazon app store).
+
+This issue was reported on the Unity forums last year, and the Unity Ads people got all the ads cleaned up (requires advertisers to have different content for iOS and Android), but it seems like they forgot or there was a lot of staff turnover, because it started happening again, and now there’s a long process of waiting for the advertisers to fix up their ads.
+
+The Unity Ads people have recommended just submitting again and hoping Apple won’t notice, but I don’t like my odds — when I reported the issue again this year, I ran a test on one of my free HyperBowl apps that have a Show Ad button in the menu that I’m sure no except myself uses (but it sure is handy for tests like this), and at the time two out of three ads showed Google Play badges. I did some testing again today, and it’s down to maybe one out of three.
+
+All my free apps try to display an ad at launch, so a reviewer is almost definitely going to see an ad, whereas apps like Unity’s sample Trash Dash just have a Show Ad button used to get more in-game credit, andwho knows if a reviewer even bothers to tap on that.
+
+I don’t want to play App Store roulette, so I’m holding off on updates to any apps that have Unity Ads, or in some cases I’ve converted them to paid apps. Another possibility is to remove ads and add in-app purchases to make up the revenue. But Unity IAP is perhaps another can of worms…
