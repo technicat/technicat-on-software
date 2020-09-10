@@ -1,0 +1,12 @@
+AppLaunchpad
+technicat
+technicat
+Dec 16, 2016 · 1 min read
+
+I gave AppLaunchpad a try, uploading five HyperBowl screenshots. Five, because AppLaunchpad generates a set of screen-sized iPhone mockup images with captions intended for the App Store (and five is the maximum number of screenshots displayed by the App Store).
+
+In that sense, it is useful, as it generates images for all iPhone screen sizes, although the differing iPhone 4 aspect ratio is a problem, as you can see the bowling ball here is obviously flattened.
+Image for post
+Image for post
+
+Other limitations: I don’t see any support for landscape orientations or iPad screens, and although several color combinations are offered, I still had trouble finding one I liked. Nevertheless, I think it looks good on the HyperBowl (itch.io) page, and I will probably try it on the App Store, at least to generate iPhone 6/7+ sized screenshots.
