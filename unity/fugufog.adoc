@@ -1,0 +1,36 @@
+Fugu Fog
+technicat
+technicat
+Aug 26, 2017 · 2 min read
+
+As mentioned in my previous article, switching to Unity’s deferred shading in my Fugu Maze app disabled the distance fog.
+Image for post
+Image for post
+
+Getting the fog back is not difficult, though, using Unity’s postprocessing image effects.
+
+The effects aren’t built into Unity (as one would expect, but I’m guessing that’s going to happen down the line, and meanwhile it’s also on github), but it’s easy to import and use, and the process is well-documented by Unity, so I’m pretty much repeating their explanation here, specifically for fog.
+
+First, import the package from the Asset Store. Then select the Camera in your scene that you want to render the app and add the postprocessing component to it via the Component menu.
+Image for post
+Image for post
+
+Then in the Assets menu, create a new post-processing profile, which will show up in your Project panel.
+Image for post
+Image for post
+
+Since we’re interested specifically in fog, select the new profile and enable Fog.
+Image for post
+Image for post
+
+Now you can drag the postprocessing profile into the postprocessing component on the Camera (or click on the widget on the right to choose it).
+Image for post
+Image for post
+
+Conveniently, this fog shares the same settings as the original Fog (which will still be in effect with forward rendering), specified in the Lighting window, so you need to enable and tweak it there. Any scripts that affect the original fog will also affect the new fog.
+Image for post
+Image for post
+
+And here’s how it looks in Fugu Maze. Foggy!
+Image for post
+Image for post
