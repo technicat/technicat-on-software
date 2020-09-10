@@ -1,0 +1,12 @@
+Apple Analytics
+technicat
+technicat
+Apr 4, 2016 · 2 min read
+Image for post
+Image for post
+
+After years of faithful (and free) service, I abandoned App Annie recently, basically out of paranoia. First, I got locked out of my iTunesConnect account for a while due to repeated failed login attempts, according to Apple, which is something that happened a few years back with App Annie. Then my Amazon Appstore password was reset due to possible “phishing” attempts. And then when I tried to update my App Annie credentials, they all had my App Annie logins as my app store logins. So then I remembered I was always a bit nervous about App Annie being based in Beijing (now their HQ is in the Bay Area along with a bunch of VC investment) and you know, with the Apple and FBI thing…
+
+Anyway, I noticed the fairly new Sales and Trends graph on iTunesConnect (suspicious minds may wonder about the coincidence of that and problems with App Annie) and it’s looking good. First of all, it solves the problem I had where I was missing the first several months of my iTunesConnect data on App Annie, and yet here it is somehow still available in iTunesConnect, and telling me I hit the magical half-million download mark a while back (now at 538k). Or half-magical, if honestly a million is the magic number.
+
+It’s got some nice features, too, like a slider that adjusts the graph window (for some reason by default it starts around 2003, so as you can imagine there’s a long empty period until the existence of an app store), the typical area/line/bar graph choices, and the ability to display weekly, quarterly or yearly numbers. This gives me a lot more perspective — I’m used to seeing a daily or weekly graph, which depressingly showed me a spike in my first week on the App Store and a somewhat flat line after that. But the yearly graph shows I made progress for a while and barely passed the 100k download mark in 2012 (a good year). That’s the good news. The precipitous decline after that…
