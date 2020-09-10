@@ -1,0 +1,16 @@
+Delete My Account, and I Want My Two Dollars
+technicat
+technicat
+Sep 21, 2018 · 2 min read
+
+Now that the original Unity webplayer is no longer supported by modern browsers, I have non-functioning games on various game portals. I decided to do some cleanup and remove some of them, starting with Kongregate. It’s too bad, because some of the comments are entertaining, like this set for my simple maze game Fugu Maze.
+Image for post
+Image for post
+
+Nevertheless, I’ve only accumulated a few unpaid dollars in ad-share revenue, so no point in spending any more time on these even if I could update them (I don’t think I even have working code for the desktop version of Fugu Maze, just the mobile versions). But I couldn’t find any way to unpublish a game. I had trouble even editing the game details.
+
+So I messaged support to delete my account, but they warned:
+
+    We can delete the game for you if you’d like, but you’ll lose any revenue that it has generated. If you’d prefer to keep the revenue so far, we can just unpublish the game so that no one will be able to play it anymore. Let us know which option would be better for you!
+
+Well, the revenue’s not going to up, anyway, and it’s never going to hit the payout threshold, so I said go ahead and delete the account. But it’s pretty lame that they won’t paypal me the balance on account closing. I want my two dollars! (actually, it’s somewhere between four and seven dollars, I forget already).
