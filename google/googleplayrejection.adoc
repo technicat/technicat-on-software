@@ -1,0 +1,16 @@
+Google Play Rejection
+technicat
+technicat
+Apr 25, 2016 · 2 min read
+
+I get far more downloads of my apps on the App Store than on Google Play, but Google Play is a nice fallback (at least for Unity apps, which can be built cross-platform). If Apple rejects an app, I always knew I could at least deploy it on Google Play.
+
+But it looks like Google Play is copying one more thing from Apple — their bureaucratic app review process. I was shocked, shocked I say, to receive an email from Google directing me to
+
+    remove excessive keywords from all translations of your Store Listing. For example, your app store listing contains: “J. Walt Adamczyk, Zoie Alandra, TJ Bordelon, Phil Britt, Phil Chu, Brian Johnson, Christine Kaneshige, Jon Kranc, Mike Peterson, Al Podrasky, Aaron Pulkka, Wendy Rosenthal, Cary Sandvig, Dave Spencer, Mike Swinney, Ed Trillo, Gene Turnbow, and Phil Zucco” in the Full Description.
+
+Apparently, the reviewer, human or not, detected a series of comma-separated words and assumed it’s a list of keywords, which violates their metadata policy.
+
+And, a la Apple’s notorious App Review Board, the email directs me to their policy support team, but that link just takes me to an irrelevant series of forms about app removals or account termination. The email is one of those do-not-reply emails (reinforcing my bot theory), so my only avenue of response was the how-are-we-doing survey link that was included (let’s see if their scanners detect keywords like “boneheaded”)
+
+Now, time to update my apps on the Amazon Appstore. Amazon, this is your chance — you were a distant number three (out of three) in my app store rankings, but number two is dropping the ball…
