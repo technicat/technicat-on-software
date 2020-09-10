@@ -1,0 +1,22 @@
+The Missing Link.xml
+technicat
+technicat
+Aug 28, 2017 · 2 min read
+
+I’m beginning to think my initial grand plan of several years ago to have a hundred apps on the App Store was a bit ambitious. Once you get over a dozen apps, it’s a chore just to keep them running, or even just buildable.
+
+But as a programmer it bugs me to have unbuildable code, and worse, for mysterious reasons. So this weekend, I took a crack again at getting my Fugu Type app to run again. It was one of my early Unity iOS apps, an excuse to try out the Unity API for accessing the keyboard in a little typing exercise/game.
+
+Fugu Type still builds OK with the Mono scripting backend, but not with il2cpp, which is what you have to build with now for iOS compatibility, or at least to avoid a popup on the device saying the app needs to be updated (I don’t know why the Mono backend is still available for iOS).
+
+A more careful search of the build error messages in the Console pointed the way to the problem: a reference to an old plugin, U3DXT, which I’d removed a while back because, well, it’s old and wasn’t compatible with the latest Unity and/or iOS.
+Image for post
+Image for post
+
+I searched the project and it seemed I’d removed the plugin cleanly, so I went to the usual fallback plan and googled the error message, which led me to remember something else I’d forgotten. The U3DXT installation involved listing the plugin API in a link.xml file to avoid getting removed by the code stripping phase of the build. This is documented by Unity here and there, but in places you would probably only find by googling.
+
+So, yep, I did have a link.xml file still in the project and it listed the U3DXT functions. Removed, and it built fine.
+Image for post
+Image for post
+
+So, great, now that I can update the app again, I’ll really have to update it!
