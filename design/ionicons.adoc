@@ -1,0 +1,25 @@
+Ionicons
+technicat
+technicat
+Jan 5, 2017 · 2 min read
+
+If I was going to vote for my favorite web site of 2016, it might be Ionicons, the icon set used with the Ionic hybrid framework.
+
+They’re everything I want in icons: free (MIT license), simple clean designs and 512x512 so they’re big enough and scale down nicely for most purposes (except the 1024x1024 required for App Store icons) without turning into smudges. And it’s always nice to see a power of 2. (Instead of “5x5” to indicate all’s well, we should say “512x512”)
+
+Also, they have transparent backgrounds, which is not just generally useful when you can’t assume a matching screen background, but also required when using the icon on the iOS tab bar or navigation bar.
+
+Some of these might sound like obvious icon attributes, but if I have to ask someone for icons, I usually get a bunch of arbitrary size (and aspect ratio) images with solid backgrounds. Basically, a jigsaw puzzle. I’ve even received them all combined in one image. (“Oh, you need them separate?”)
+
+I use these icons everywhere. For example, in apps:
+Image for post
+Image for post
+
+and I’m starting to use them on web sites:
+Image for post
+Image for post
+
+The icons typically come in outline and solid versions. I usually like the solid versions better, as shown in the app above, but on the web site above I thought the outline looked better.
+
+The ionicons site has a nice search feature, so it’s fun to just browse and hope the icon you’re looking for is there. Enjoy!
+Image for post
