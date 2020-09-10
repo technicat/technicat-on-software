@@ -1,0 +1,20 @@
+App Conventions
+technicat
+technicat
+Apr 6, 2016 · 2 min read
+
+When designing apps, you should of course read the interface guidelines, but you should also survey the field to see the modern conventions. Of course, there are differences, and fashions change, but there’s a surprising amount of uniformity.
+
+Take tabs. A typical social-featured iOS app has five tabs on the bottom, which you would expect if you read the iOS Human Interface Guidelines and saw that UITabBar displays a maximum of five icons. But it’s interesting to see what those icons are: almost all social apps (on my device, Facebook, twitter, tumblr, instagram, flicker, artstation, artstack, pinterest, ello, medium…) have the content stream in the leftmost tab, notifications in the second to leftmost or second to rightmost tab (sometimes called activity, e.g. tumblr, and some apps like Pinterest just avoid the whole naming issue by having no tab names — but what do they call them in internal meetings, “that watchamacallit in the second tab?”), account info in the rightmost tab, and the middle is often the creation screen, e.g. the camera in instagram or write in medium.
+
+Those last two examples are also kind of weird in that they override the middle tab button so it brings up a modal screen. Facebook is further bizarre in placing a Messenger button there, which brings you out of the app into the Messenger app, but it’s sort of the same idea in placing the function you want to promote in the center button, as opposed to placing what you want to first see in the leftmost button.
+
+Also, have you noticed user avatar icons in iOS apps are almost always round? Again, if you’re familiar with the underlying implementation, it’s pretty easy to render round images (by tweaking UIImageViews layers), probably easier than doing on web pages, so this may be why older apps like twitter and Facebook still have square icons (with rounded corners, so never mind that harder on the web theory), but it’s interesting to see Facebook’s Messenger and Pages use round icons.
+
+As for search, it seems they all use a UISearchbar at top, sometimes with an everpresent bar over the feed (Facebook) or, probably more often, a search icon (spyglass) that brings up said search bar.
+
+As for likes, seems like everyone’s going with hearts instead of stars, with twitter a notable convert, though Facebook still has thumbs. Hearts tend to be red when voted (pinterest), though medium has a weird green color, which matches their other tint colors, but…green?
+
+For comments, I think I see a trend toward chat-bubble displays, with pinterest adding them. Maybe an attempt to make everything look more like messaging apps, but it does look more interesting.
+
+There are some apps that do all this very differently, like Giphy. But, yuck, have you seen that thing?
