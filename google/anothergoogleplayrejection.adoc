@@ -1,0 +1,35 @@
+Another Google Play Rejection
+technicat
+technicat
+Jul 1, 2016 · 2 min read
+
+Times are changing. Where once I relied on Google Play as a sure way to publish an app even if Apple rejected it, now Google Play is rejecting the interest out of me, while Apple has reduced the pain in their process, most notably cutting review times down to typically less than a day.
+
+In the meantime, as I blogged before, Google rejected an update for one app because they interpreted credits as tags (which only a bot or an idiot would do), and just today:
+
+    After review, Unity Feed, com.appmakr.app177073, has been removed from Google Play because your app title violates our impersonation policy.
+
+I’m not that crazy about their suggested fix (Feed for Unity would be a weird app name):
+
+    Read through the Impersonation article for more details. For example, you can note relevance at the end of your app title.
+
+    Incorrect: “Ingress Guide”
+
+    Correct: “Guide for Ingress”
+
+And this rule or whatever it is is not even in their Impersonation article (the closest example is “Justin Bieber Official”, but I don’t have “official” in my title and in fact in the description I use “unofficial”). That page has some garbled text, too, at least on Safari, so I suspect they threw that up very recently or just didn’t put much effort into it.
+
+I haven’t been maintaining the app, anyway, since it was using AppMakr and either that stopped working or I lost interest in it (lost in the haze of ancient app history, which was just a few years ago). But it’s annoying that they pulled the app without any warning (telling me afterwards doesn’t count).
+
+And the letter is trying too hard to look like it came from a real person. I’m pretty sure “Seth” is a bot. It makes me appreciate the stupid human rejections I got from Apple.
+
+    If you’ve reviewed the policy and feel this removal may have been in error, please reach out to our policy support team. One of my colleagues will get back to you within 2 business days.
+
+    I appreciate your support of Google Play!
+
+    Best,
+
+    Seth
+
+    Google Play Review Team
+
