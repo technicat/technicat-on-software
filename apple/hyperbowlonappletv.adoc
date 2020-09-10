@@ -1,0 +1,26 @@
+HyperBowl On the Apple TV, In A Couple Of Years?
+technicat
+technicat
+Apr 4, 2017 · 3 min read
+
+Catching up on podcasts, I was listening to the iFilm episode on Logan, and there was an anecdote of how an uninformed movie party host refused to adjust his TV to present the film in its intended aspect ratio because he didn’t like the resulting black bars on the screen.
+
+This is essentially why my first submission of HyperBowl for Apple TV got rejected. The reviewer said the black bars around the original (for Windows) 4:3 aspect ratio of HyperBowl was not a good user experience and listed links to the iOS Human Interface Guidelines (there is no equivalent document for tvOS) and a bunch of excruciating evangelist-narrated videos on “delightful” apps.
+Image for post
+Image for post
+
+So I put in a new background and had it scale to fill the screen (I’ll put the script on github sometime):
+Image for post
+Image for post
+
+The reviewer then rejected it again, saying the two separate images on each side do not provide a good user experience. I pointed out that it’s actually one image with the 3D window on top, 2D games typically have active regions on a static background, the guidelines the reviewer sent me say nothing about this, and that it wasn’t feasible to redesign the 3D environments to look right in a drastically different field of view (I’m assuming the reviewer wants the 3D window to be fullscreen). The reviewer simply replied that “not all solutions work for every app” and supplied the same goddamned links.
+
+In my experience, there are generally three categories of rejections: a clear violation of the app guidelines, an underlying company agenda (“not enough functionality” is a catch-all for this, like “not enough functionality, but if you add Apple Maps we’ll accept it”), and when a reviewer decides to be a designer or arbiter of game concepts.
+
+In that last case, you’re hosed. Like when I first submitted HyperBowl to the Mac App Store (with the first background above, borrowed from the original Windows version of the game), and after a series of different rejection reasons and a ranting appeal to the app review board, I got a phone call saying the app was too similar to the iOS version (never mind that the iOS version was a port of the original Windows version), and that I should redo the app from the ground up.
+
+But not completely hosed, as a couple of years later I thought, hmm, maybe that reviewer has moved on to another job, and when I submitted HyperBowl to the Mac App Store again, it was approved.
+
+In many ways, dealing with tvOS apps is easier than Mac App Store apps. Unlike the Mac App Store, tvOS apps are part of the same app store as iOS apps and can share the same iTunesConnect entry (there are pros and cons of this, e.g. you have to provide localizations for all the same languages as the iOS version). And Unity support is pretty good (except for the documentation), whereas building Mac App Store apps requires research into folklore.
+
+However, as with the Mac App Store, it doesn’t seem like tvOS apps are great revenue generators compared to iOS apps, and like the Mac App Store, my initial experience makes me think it’s not investing any more time in (or even appealing to the review board — I don’t like getting my rejections by phone). But who knows, again as with the Mac App Store, I may resubmit it in a couple of years. If Apple TV is still around.
