@@ -1,0 +1,22 @@
+Making Unity WebGL Fit
+technicat
+technicat
+Jun 18, 2017 · 2 min read
+
+Unity provides a couple of HTML templates for WebGL builds, but I found early on I need my own custom template if only to remove the default margin that surrounds the content, particularly in games like HyperBowl that have a background which should fill the browser window.
+
+The easiest way to create your own templates is to copy the WebGLTemplates folder in your Unity installation to the Assets folder of your Unity project.
+Image for post
+Image for post
+
+Rename the copied template folders (I renamed Minimal and Default to FuguMinimal and FuguDefault), and start customizing! The change I wanted to add is to the stylesheet style.css. This removes the default margin.
+
+canvas {width: 100%;height: 100%;position: absolute;}
+
+Now, when I build, I can choose my slightly customized template.
+Image for post
+Image for post
+
+And, after uploading to GameJolt, the WebGL content is centered properly without an unsightly white border.
+Image for post
+Image for post
