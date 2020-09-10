@@ -1,0 +1,24 @@
+HyperBowl Pro Is Retired
+technicat
+technicat
+Nov 3, 2016 · 3 min read
+
+One thing about running a one-person business is that I don’t have to be entirely business-like with decisions. For example, I don’t like to remove retire apps, even if they’re just sitting there collecting dust and no users. It took a lot of work (OK, sometimes a weekend) to get that thing on the App Store or Google Play, so it’s not going out until it’s kicked out (which is actually happening now as Apple is lawnmowering through the App Store, removing ageing apps).
+
+So I haven’t removed any apps from the App Store, but I have removed a few apps from Google Play that were created when some combination of Unity/Java/Android/OSX updates changed how the apps were signed, and then changed back to its previous behavior at some point so I couldn’t update the apps, anymore.
+
+That wasn’t too traumatic. Basically, I fired them. (“Thanks for your service, but it’s time for you to go. Best of luck on the Amazon Appstore.”) I was a lot more reluctant to remove my one paid app on Google Play, HyperBowl Pro, because some people (not a lot) did buy it and overall it got nice ratings and reviews. But apparently, some of the people who bought it enjoyed putting it on pirate sites every time I updated the app (and you can’t complain about that without someone chiming in what a great business opportunity getting pirated is, because in some distant future or alternate universe this might lead to a sale), one person wanted his $.99 back after playing with it for a year, and another threatened a one-star rating if I didn’t make the change he wanted within a week.
+
+Still, I felt obligated to my paying customers (even the complaining and threatening ones) to occasionally update the app (with a peevish note in the app description saying if you don’t want to pay for it, get the free one with ads).
+
+Then Google changed. They used to be the one I went to whenever Apple cruelly spurned me, and I’d just upload the Android version of the app (Unity is so nicely cross-platform) to Google Play, and say, yeah, I showed them. But now, as if actually selling apps on Google Play is not hard enough, Google has begun applying a lot more scrutiny to paid apps than free apps.
+
+This started a few months ago, when I started getting rejections to my updates because some automatic scanner was identifying the developer credit list in the app description as a list of tags, which now violates their guidelines. Clicking on the links to the appeal board didn’t lead to any appeal board (I wasn’t optimistic about that, anyway — my experience with the App Store appeal board is that if you have to appeal, the best you’re going to get is “we’re not wrong, but we’ll let it go this time”), so I ended up just deleting the credit list. Sorry, guys.
+
+That was good enough for a few more updates, but then I got another rejection citing an incorrect content rating. HyperBowl is a bowling game with no blood or gore (or people), so it was rated as appropriate for anyone, so I interpreted the rejection, which cited all content in the game including ads, as targeting the Show Ad button in the game menu (again, one of those things I just felt like doing — sort of a Tip Your Developer button that might get me a fraction of a penny for all those pirated copies).
+
+I filled out the content rating form again and answered more pessimistically, since I don’t have control over the ads and don’t know what ad was bothering them, allowing the possibility of blood and gore and pretty much anything up to (but not including) soft-core porn or Farelly brothers humor (there are questions in the questionnaire about vomit and flatulence). The resulting calculated rating makes the game sound like a Tarantino movie and required me to remove distribution from Australia. But what the hell, they can always get the pirated version.
+
+And then after trying to update again, I still got a rejection based on the content rating. So this is the breakup point. Google, I feel you’re not trying to make this work, and to be honest, and I’m just going through the motions. So let’s drop this app.
+
+And anyone who feels they’re missing out on the Caligula horror show that might be playing in the ads, you can always get the free version (it’s almost that bad — Unity Ads recently introduced non-game ads, and at this time of year that means election ads).
