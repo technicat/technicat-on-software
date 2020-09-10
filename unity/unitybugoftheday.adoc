@@ -1,0 +1,16 @@
+Unity Bug and Workaround of the Day
+technicat
+technicat
+Jun 16, 2017 · 1 min read
+
+Since upgrading to Unity 5.6.1, I’ve been getting frequent errors of this nature when performing a build:
+Image for post
+Image for post
+
+The backtrace indicates the problem is happening in the Editor GUI (which also tells you, if you didn’t know it already, that the original immediate-mode GUI scripting system is still used to implement the Unity Editor).
+Image for post
+Image for post
+
+Some googling reveals people have run into this over the past years in various specific scenarios, and one way to work around it is to just reset the layout (I always choose Default).
+Image for post
+Image for post
