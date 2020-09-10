@@ -1,0 +1,5 @@
+My Top Ten Most Popular App Store Apps, Ever
+technicat
+technicat
+Jan 19, 2017 · 1 min read
+About a week ago, I observed that my App Store developer page seemed to list my apps in order of total downloads. I just looked at my Sales page in iTunesConnect, and it turns out that’s not quite true. It’s close, but whereas HyperBowl Classic shows up as number one and Fugu Bowl as number two on the App Store, Fugu Bowl is actually still my all-time leader. Yes, Fugu Bowl, the minimal bowling game that doesn’t even have any scoring. So I’m guessing the App Store is listing apps in order of popularity, a mix of total downloads and some kind of trending measure.
