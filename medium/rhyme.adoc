@@ -1,0 +1,21 @@
+Make Your Release Notes Rhyme
+technicat
+technicat
+Mar 22, 2017 · 1 min read
+
+I’ve made fun of Medium for waxing creative (and at length) in their app update notes, but I think they’re on to something with their latest limerick.
+Image for post
+Image for post
+
+I suppose there’s a risk of delaying updates if you run into writer’s block, so here’s a boilerplate rhyme:
+
+    Yes there’s a bug in the app.
+
+    But please don’t review it as crap.
+
+    Fix it by updating,
+
+    and give it a good rating,
+
+    not just a sarcastic slow clap.
+
