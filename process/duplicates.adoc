@@ -1,0 +1,17 @@
+Duplicates Are Your Friends
+technicat
+technicat
+Jun 7, 2017 · 2 min read
+
+One nice feature that Unity as a web site has added over the years is their open bug database. I like to think I had something to do with it, as I asked for this early on (lingering memories of spending six months tracking down an SGI bug only to find out it was in their bug database), and when a Unity developer said that’s unheard of, I pointed to Sun’s Bug Parade as an example. Here’s an example entry:
+Image for post
+Image for post
+
+However, there are problems shown with this entry. First of all, I don’t like the practice of closing duplicate bugs. It shows that the priority is keeping the open bug count down or recording as many closed bugs as possible. It reminds me of the game publisher who told us to mark all bugs as fixed when we shipped the game!
+
+But duplicate bugs are still open bugs, and when you close them you’re discarding or at least hiding useful information. Especially when you say the issue is “resolved.” It’s not resolved. The bug database is not just a todo list for programmers — it ideally should give you all the available information about the state of the product.
+
+In any case, there should be a link to the issue it’s duplicating (and a link back so you can see all the related cases). Now there’s no way to see if it’s really resolved or just resolved because it’s a duplicate. There’s no way to compare the case you just reported with the other instances of this issue. Who knows, maybe it was misclassified and it’s not really a duplicate, but there’s no way you can check.
+
+And after asking users to carefully fill out a form and provide a sample project and reproducible steps and error message and stack trace, just saying thanks, you just wasted your time, we already know about this, bug is CLOSED — that’s just a big bureaucratic middle finger to bug reporters.
+
