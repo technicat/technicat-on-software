@@ -1,0 +1,16 @@
+Popovers
+technicat
+technicat
+May 7, 2017 · 1 min read
+
+This Saturday I spent a little time cleaning up my apartment, and a little time cleaning up my Swift code. In particular, those pesky compiler warnings about UIPopoverController being deprecated as of iOS 9.0, as I was getting in this convenience method I defined as an extension of UIViewController:
+
+func popover(_ controller:UIViewController, view:UIView) {   let pop = UIPopoverController (contentViewController: controller)   pop.present (from: view.bounds, in: view, permittedArrowDirections: UIPopoverArrowDirection.any, animated: true)}
+
+Instead of creating a UIPopoverController to present the controller you want to display, now you set the modal presentation style of the controller to present, and then access that controller’s popoverPresentationController to set the attributes of the popover:
+
+func popover(_ controller:UIViewController, view:UIView) {   controller.modalPresentationStyle = .popover   controller.popoverPresentationController?.sourceView = view   controller.popoverPresentationController?.permittedArrowDirections = .any   present(controller)}
+
+And this is how it looks in my Talk Dim Sum app (this one using barButtonItem instead of sourceView to anchor the popover):
+Image for post
+Image for post
