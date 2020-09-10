@@ -1,0 +1,14 @@
+Delete Unity Builds
+technicat
+technicat
+Feb 24, 2016 · 1 min read
+
+Right after successfully uploading a Unity iOS build to iTunesConnect, I like to delete the build (the generated Xcode project) to free up space and avoid comitting all that junk to my repo. That’s easy enough, usually just involves deleting a folder, but for some reason I decided there should be a Unity feature for that (perhaps I deleted the wrong folder accidentally once). It’s not too hard to write a Unity Editor script that displays a delete button for every build location:
+
+public class Build : EditorWindow {[MenuItem (“FuguGames/Builds”)]static void Init() {  EditorWindow.GetWindow(typeof(Build));}public void OnGUI() {  LayoutTarget(BuildTarget.iOS);  LayoutTarget(BuildTarget.Android);  LayoutTarget(BuildTarget.WebPlayer);  LayoutTarget(BuildTarget.WebPlayerStreamed);  LayoutTarget(BuildTarget.StandaloneWindows);  LayoutTarget(BuildTarget.StandaloneWindows64);  LayoutTarget(BuildTarget.StandaloneOSXUniversal);  LayoutTarget(BuildTarget.StandaloneOSXIntel);  LayoutTarget(BuildTarget.StandaloneLinux);  LayoutTarget(BuildTarget.StandaloneLinux64);  LayoutTarget(BuildTarget.StandaloneLinuxUniversal);  LayoutTarget(BuildTarget.tvOS);   LayoutTarget(BuildTarget.WiiU);}private void LayoutTarget(BuildTarget target) {  string path = EditorUserBuildSettings.GetBuildLocation(target);  if (!System.String.IsNullOrEmpty(path)) {    EditorGUILayout.BeginHorizontal();    string name = target.ToString();    if (EditorUserBuildSettings.activeBuildTarget == target) {       name = name + “ (current)”;     };   EditorGUILayout.LabelField(name);   if (System.IO.File.Exists(path) ||      System.IO.Directory.Exists(path)) {       if (GUILayout.Button(“Delete Build”)) {           FileUtil.DeleteFileOrDirectory(path);}}EditorGUILayout.EndHorizontal();EditorGUILayout.LabelField(path);}}}
+
+and then you get a menu item that brings up this window:
+Image for post
+Image for post
+
+Happy deleting!
