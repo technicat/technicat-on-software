@@ -1,0 +1,8 @@
+Fugu Itch
+technicat
+technicat
+Jan 23, 2017 · 1 min read
+
+For the same reasons I made itch.io my HyperBowl landing page, I decided to go all in and use it for all my games (generally, vaguely, and sporadically branded Fugu Games). Those reasons include supporting WebGL versions of the games, badges for various app stores (Apple, Google, Amazon, Windows Store and Steam), videos and screenshots, and some nice social features.
+
+There’s also some nice support for theme customization of the game pages and the “creator” page (but not for the profile page), and the mobile browser support isn’t bad. Here’s how my creator page, with a banner image I created on WordsEye, looks on my iPhone:
