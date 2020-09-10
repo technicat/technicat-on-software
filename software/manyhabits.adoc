@@ -1,0 +1,12 @@
+The Many Habits of Highly Effective Programmers
+technicat
+technicat
+Sep 5, 2017 · 1 min read
+
+Over ten years ago, I more or less started blogging/essaying with Seven Habits of Highly Effective Programmers. It’s probably still my most-read essay (when it started getting traffic, I thought my Wordpress site was under attack), and got some nice reviews from Jeff Atwood of StackOverflow fame and Agile leader James Shore.
+
+In the meantime, I haven’t been the only one to riff off Steven Covey’s title (and the one on learntoprogram.tv looks really similar to mine)
+Image for post
+Image for post
+
+It’s nice to see Jeff Atwood’s CodingHorror review still at the top, but the original direct link to my essay is gone because I left Dreamhost after one downtime too many (which I kind of regret after they stepped up, recently) and thus had to relocate all my articles to Medium, but hey, at least now I get claps. And you can buy the book.
