@@ -1,0 +1,20 @@
+If You Love Something, Name It Free. Unless It’s an App.
+technicat
+technicat
+Jun 12, 2017 · 1 min read
+
+I don’t know if there was a policy change, but my Fugu Maze Free app, which I updated successfully last week, was just rejected as violating this rule (which for some reason is under the Performance section of the App Store Review Guidelines):
+
+    App names must be limited to 30 characters and should not include prices, terms, or descriptions that are not the name of the app.
+
+So, apparently you can’t have “Free” in the app title.
+
+By the way, the line following the one above is:
+
+    App subtitles are a great way to provide additional context for your app
+
+I have no idea what an app subtitle is.
+
+In any case, I can’t think of a different name for Fugu Maze Free, and I don’t want to rename it to Fugu Maze and delete the original Fugu Maze (which was originally free until I started charging for it, then people stopped downloading it, so I made a separate free version because I didn’t want to screw over the people who paid for it…), so I’m retiring Fugu Maze Free.
+
+I’m setting you free, Fugu Maze Free. Thanks for all the downloads.
