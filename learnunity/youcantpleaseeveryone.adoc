@@ -1,0 +1,7 @@
+You Can’t Please Everyone
+technicat
+technicat
+Aug 7, 2016 · 1 min read
+
+I was contacted by my publisher about updating Learn Unity 4 for iOS Game Development, so I took a look at the Amazon reviews. Six of the eight reviews are favorable, and of the negative reviews, one complains there’s too much focus on submitting to the App Store, and the other complains there’s not enough (I assume that’s what he means by deployment). There is actually one chapter on it.
+Image for post
