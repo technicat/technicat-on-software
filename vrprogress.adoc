@@ -1,0 +1,22 @@
+VR Progress
+technicat
+technicat
+Aug 10, 2016 · 2 min read
+
+A year after failing to assemble a Google Cardboard kit I saw on the shelf at Barnes and Noble, I made some more progress by finding a fully assembled Cardboard viewer at Toys ‘R Us (they had a couple of models).
+Image for post
+Image for post
+
+That was cool, but the viewer doesn’t fit the iPhone SE I downscaled to (I haven’t seen any Cardboard viewers that do). But after seeing a stack of Oculus Rifts at Best Buy (oddly, another nearby store has none and displays a sign saying they’ll arrive this winter), I plunked down for a whole Rift setup.
+Image for post
+Image for post
+
+The Asus Rift-ready PC I also got from Best Buy does the trick, but doesn’t have any setup documentation (do they think they’re Apple?), and the most helpful information came from Amazon reviews.
+
+Once I got it up and running after buying more cables (it only has one HDMI port which is needed for the Rift), I have to admit I’m hooked, sort of, and the experience is pretty much as advertised — it’s immersive and absorbing, a bit disturbing a la 3D movies (like when a dinosaur starts running at you), and some of the motion-intensive apps made me feel like throwing up.
+
+I’m surprised I haven’t heard anyone express problems with the Rift and glasses. The Oculus doc on their web site says it should fit your glasses but if it doesn’t, don’t use those glasses. Which is pretty much what I did. My regular glasses didn’t fit, so I switched to my alternate pair with the newer prescription that gives me headaches. The immersion is somewhat dampened by the headset pressing my glasses into my face, so that keeps the sessions short. I’ve started supporting the headset with my hands, and at one point I just wore the headset like a baseball cap and watched the imagery on the monitor. The most annoying thing is my glasses are bent and scruffed up after each session so I have to wipe them clean each time.
+
+That’s still better than other devices I’ve tried at trade shows that didn’t accomodate glasses at all (resulting in very short demos: “Look at that object.” “What object? It’s all a blur.”). Again, this is a similar experience I’ve had with 3D movies — those glasses never work with my glasses. This should be one of the first questions asked of new technologies: will it work for the four-eyed market? Remember who your early adopters are.
+
+In the meantime, I might just have to get contacts.
