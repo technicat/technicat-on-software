@@ -1,0 +1,12 @@
+HyperItch
+technicat
+technicat
+Feb 2, 2017 · 1 min read
+
+I haven’t been paying much attention to the itch.io desktop app, figuring it’s just an app version of the web site, but actually it’s pretty slick. It will launch the Windows, Mac, or WebGL version of your app (and probably Linux, too), download, update, and so on. Here’s HyperBowl launched from the app on a Mac:
+Image for post
+Image for post
+
+You just need to make sure the app can find the executable, so for Windows I have the Unity-build .exe file and data folder zipped together, while for the Mac version I just have the .app file (which is really a folder) zipped.
+
+And the app is open source!
