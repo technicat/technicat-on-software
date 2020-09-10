@@ -1,0 +1,20 @@
+In-App Reviews
+technicat
+technicat
+Mar 30, 2017 · 2 min read
+
+With iOS 10.3, Apple introduced a new function that provides an in-app rate-this-app interface. Just add a call to SKStoreReviewController.requestReview (Xcode will offer to throw in an available wrapper) and you’ll need to import StoreKit:
+
+if #available(iOS 10.3, *) {SKStoreReviewController.requestReview()} else {// Fallback on earlier versions
+
+In my Talk Dim Sum app, I invoked it from a Rate This App menu option, and this is how it looks.
+Image for post
+Image for post
+
+While you’re testing, this is as far as it gets, but once it’s released, the Submit button works, and it offers the option of also writing a review (the OK button is ambiguous, but I suppose it’s better than “No, I don’t want to write a review”).
+Image for post
+Image for post
+
+One problem with using it this way is that, as I understand it, Apple intends this as a replacement for the commonplace intermittent please-rate-this-app popups, and so, according to the documentation, the popup may or may not appear, depending on “App Store policy”, and you shouldn’t invoke it from a button or menu item, like I’m doing. And indeed, after invoking it a few times, it did stop appearing.
+
+But really, I’m not interested in periodically nagging users to rate this app — it would be nice to reliably bring up this interface, or at the very least have a return value indicating it was unable to appear, so I can fall back to the previous behavior (bringing up the App Store via a deep link).
