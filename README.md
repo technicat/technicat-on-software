@@ -20,7 +20,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 # App Development
 
-[So You Have an App Idea](software/soyouhaveanappidea.adoc)
+[So You Have an App Idea](appdev/soyouhaveanappidea.adoc)
 
 ## Management
 
