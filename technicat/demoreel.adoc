@@ -1,0 +1,30 @@
+My Demo Reel
+technicat
+technicat
+Aug 19, 2015 · 2 min read
+
+I don’t really have a demo reel (that would be a great feature for sites like LinkedIn). But YouTube can serve that purpose, at least for projects performed while YouTube has been around:
+
+My self-published app in development is Talk Dim Sum
+
+One of my current contracts is maintenance of the iPad app for Cinefex:
+
+Before that, I built the iOS app for WordsEye, developer of a web site that generates 3D scenes from natural language descriptions.
+
+Playstation Home is shut down, but here’s footage of the two released in-world games I contributed to. I wish I could show you some of the unreleased ones (like the one with zombies…)
+
+Before that, I spent between three to four years helping out on the CryEngine-based Blue Mars virtual world. It’s like Second Life, but with CryEngine. I mostly worked on support for user scripting, like this golf game.
+
+In between game or game-ish projects, I helped resuscitate Nendo, a nifty 3D modeller for Izware. It was originally developed in the nineties at Nichimen Graphics, where I worked on their big 3D product, but I always wanted to do a bit of work on this one. It has a recording mode that makes it easy to replay the construction of a model.
+
+My one AAA console game, Darkwatch for Sammy Studios. It started out as a two-month contract working on the HUD and turned into an eight month contract working on the HUD and some other stuff. In the meantime, Sammy Studios turned into High Moon Studios.
+
+My first game contract that didn’t involve a cancelled game. Well, the console versions of this game was cancelled, but I helped get four episodes of the PC game out before then.
+
+Here’s one of my own projects, the biggest one really, a licensed port of the arcade bowling game HyperBowl to iOS (and other Unity platforms).
+
+I think the arcade version (which I worked on a bit, also) might still be found in some Dave and Busters.
+
+And my first console game was pre-YouTube and available in the bargain bin within days, but apparently enough people liked it, there are quite a few YouTube videos. I was responsible for the GameCube version and wrote a postmortem.
+
+Considering many of these games can’t be played, anymore, it’s nice to have this evidence for posterity. Too bad it doesn’t go back to my Apple II days.
