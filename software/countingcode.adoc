@@ -1,0 +1,8 @@
+Counting Code
+technicat
+technicat
+May 6, 2016 · 1 min read
+Image for post
+Image for post
+
+Not that it’s important, but once in a while I like to see how much code is there, and the open source CLOC script does a nice job. Here are the results from HyperBowl, one my larger Unity projects. I’m a little impressed that it recognizes Unity prefab files, even though I wouldn’t include them in lines of code.
