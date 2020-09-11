@@ -54,7 +54,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Minimizing Meetings](process/minimizingmeetings.adoc)
 
-[QA for Everyone](software/qaforeveryone.adoc)
+[QA for Everyone](process/qaforeveryone.adoc)
 
 [Software Remodeling](software/softwareremodeling.adoc)
 
