@@ -10,8 +10,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [BBN Culture](software/bbnculture.adoc)
 
-[So You Have an App Idea](software/soyouhaveanappidea.adoc)
-
 [Programmer's Don't Lie](software/programmersdontlie.adoc)
 
 [Design Patters are from Purgatory](software/designpatternsarefrompurgatory.adoc)
