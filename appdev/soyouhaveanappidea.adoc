@@ -2,7 +2,7 @@
 
 About once a month, someone will present me with an app idea. In general, I don’t want to hear it, I don’t want to sign an NDA to hear it, I don’t want to work on it for free or for cheap, and if you’re worried about me stealing your idea don’t tell it to me. If you tell me about your app idea, anyway, let’s be clear, this is me providing free consulting, not you doing me a favor. And before you describe your idea to me, or pitch it to anyone else, do some homework. Here are some general resources you should look at:
 
-A quick-start, the book Idea to iPhone, pretty easy to find at your local Barnes and Noble’s, is a great introduction to getting your app realized — from fleshing out your idea to realistically limiting its scope to finding someone to implement it, and finally marketing.
+A quick-start, the book https://ideatoiphone.com/[Idea to iPhone], pretty easy to find at your local Barnes and Noble’s, is a great introduction to getting your app realized — from fleshing out your idea to realistically limiting its scope to finding someone to implement it, and finally marketing.
 
 Assuming you’re targeting the iPhone (despite the competitive market shares, it’s always an “iPhone” idea), visit the Apple developer site and see what’s involved in creating an App Store account. Decide whether you’re going to publish the app in someone else’s account or in your own account.
 
