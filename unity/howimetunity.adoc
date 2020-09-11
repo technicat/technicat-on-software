@@ -3,7 +3,7 @@
 = How I Met Unity
 
 [quote]
-This is the preface I wrote for the first edition of my game programming book Learn Unity 4 for iOS Game Development. My preface was removed in the second edition, so here it is for posterity.
+This is the preface I wrote for the first edition of my game programming book https://www.apress.com/gp/book/9781430248767[Learn Unity 4 for iOS Game Development]. My preface was removed in the second edition, so here it is for posterity.
 
 Technically, I first started programming on a TRS-80 in my junior high school library, but really I just typed in the same BASIC code listing from a magazine every day until the librarian mentioned I could save the program on a cassette. I’m embarrassed to recall my first reaction when I heard the library had a computer: “What’s it good for?”
 
