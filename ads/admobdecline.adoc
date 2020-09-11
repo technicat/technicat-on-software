@@ -1,0 +1,8 @@
+AdMob Decline
+technicat
+technicat
+Oct 31, 2015 · 1 min read
+Image for post
+Image for post
+
+This is literally the rise and fall of my AdMob revenue over the last two years (which is what the AdMob dashboard considers “all time”). There’s been a steady decline and then a drop off a cliff six months ago when I switched to UnityAds, and a bump up a copule of months ago when I switched back to AdMob. In the meantime, there’s been a double whammy — in addition to the gradual drop in impressions, there’s been a recent drop in revenue per impression, so while the impressions are starting to go up again, the actual revenue, not so much. Back to UnityAds?
