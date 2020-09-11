@@ -1,0 +1,5 @@
+A Case for Comic Sans
+technicat
+technicat
+Oct 30, 2015 · 1 min read
+Sometimes, just looking at my code fills me with ennui. The default boring bland look of Unity MonoDevelop doesn’t help, either. One solution: go to Preferences and pick a new font. A little Comic Sans will cheer you up.
