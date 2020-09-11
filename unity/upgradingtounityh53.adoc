@@ -1,0 +1,20 @@
+Upgrading to Unity 5.3
+technicat
+technicat
+Jan 23, 2016 · 2 min read
+
+So I finally got HyperBowl upgraded to Unity 5.3. When that was was released a couple of months ago, I tried upgrading one of my smaller projects first and ran into a problem with mobile builds, the Unity Editor saying I didn’t have that platform installed. A search for similarly-stymied users on the Unity forum turned up the tidbit that you now have to select all the platforms you want in the Unity installer.
+Image for post
+Image for post
+
+But those additional platforms still failed to install. So, further support for the wait-for-the-first-patch-of-a-major-upgrade rule (and Unity minor releases are major upgrades), I tried again with Unity recently, and tada, everything installed (how far my threshold for a feeling of progress has fallen).
+
+After that, my projects have so far reimported successfully, and by successfully I mean without crashing. HyperBowl is a fairly large project, enough so I’m running into repo size limits, and I couldn’t get it imported into Unity 5.2 without it hanging, again had to wait for the first patch. In 5.2, there was some significant physics change that I had to accomodate. For 5.3, the big change was with TextMesh — much of my text was now misaligned, particularly in the main menus and on the scoreboard.
+
+Turns out, after another search on the Unity site turned up a report from December, this is happening specifically with non-dynamic fonts, in my case those I originally set as all-uppercase fonts to save space (though dynamic fonts, a more recent feature, save even more space as they are generated on the fly, so this change is probably just as well).
+
+I’ve now switched the problematic fonts to Dynamic and still had to manually recenter each text a little bit, but that did the trick.
+Image for post
+Image for post
+
+A Unity bugslayer on twitter told me the font issue will be fixed in the next update (I hope this doesn’t mean I’ll have to adjust everything again). In the meantime, the biggest feature I’m hoping to use in this update is the new Apple TV support. Stay tuned!
