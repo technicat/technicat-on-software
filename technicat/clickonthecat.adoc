@@ -1,0 +1,18 @@
+Click on the Cat
+technicat
+technicat
+Aug 29 · 2 min read
+
+In my latest technicat.com web site revamp, prompted by my gradual withdrawal from social media, I removed all the social media links under the cat (icons from ionicons, logo by Dakota Snow, a talented artist barista I met at a coffee shop in Redwood City — all those coffee shop breaks paid off!), replaced them with app store inks that I still care about, i.e. have good reviews (app store icons also from ionicons, except for itch.io), and removed the bulkier app store badges I had on the right side.
+
+I liked the simpler look, but now it was awfully empty on the right side, so I’ve started displaying a picture of the day from my unsplash collection (until I get tired of changing it daily, then maybe it’ll be the picture of the week).
+Image for post
+Image for post
+
+The Jekyll minimal theme provided by github pages nicely moves the picture to under the cat and icons on narrow screens (phones). That right side area is normally where a blog would be displayed, but github seems to have some issues automatically displaying them and I think the photos look better, anyway. If I have some important breaking news to display I can always just type them in.
+
+At first I also had a github icon from ionicons linking to my github profile (in lieu of the text link provided in the default minimal template) but that seemed inconsistent with the whole app store icons in a row theme, so for now, I will just trust that people will figure out that they can click on the cat to see my repos.
+
+Which, by the way, is where I’ve been moving my Medium stories, to the repo which originally contained my Technicat on Software essays. Slowly and manually, since I’ve clicked on Medium’s export to archive button twice a week ago and I’m still waiting. In the meantime, I’m reformatting everything in asciidoc, which maybe is overkill (probably markdown would be just fine), but never waste an opportunity to learn a new technology, or at least a markup language.
+
+This does allow me to organize anything that seems useful into collections of links, which has been a problem on Medium, where search involves a lot of scrolling and visual scanning. So if one day you can’t find this article, go to technicat.com and click on the cat!
