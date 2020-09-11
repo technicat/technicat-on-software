@@ -56,7 +56,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [QA for Everyone](process/qaforeveryone.adoc)
 
-[Software Remodeling](software/softwareremodeling.adoc)
+[Software Remodeling](process/softwareremodeling.adoc)
 
 ## Career
 
