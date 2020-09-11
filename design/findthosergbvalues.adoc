@@ -1,0 +1,9 @@
+Find Those RGB Values
+technicat
+technicat
+May 23, 2016 · 1 min read
+
+As usual, I don’t see any way to do this in the default image viewer that pops up, Apple Preview, but I often need to figure out the RGB values used in an image, at the very least so I can encode matching colors. And, as usual, I go to GIMP (and then I google to find out how to use it).
+
+In GIMP, the solution is to bring up the Pointer window (under Windows->Dockable Dialogs), move the mouse over the pixel of interest, and there you have it, the RGB in percent (handy for UIColor) and hex (handy for CSS and UIColor with the DynamicColors extension).
+Image for post
