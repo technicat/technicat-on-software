@@ -1,0 +1,10 @@
+Cancel Left or Right
+technicat
+technicat
+May 13, 2016 · 1 min read
+
+Should the Cancel button be on the left or right of a confirm dialog? Seems like an simple issue, but make an inconsistent choice and you’ve degraded the user experience. For example, I tapped on a tumblr link in the Facebook iOS app and then tapped Open on the tumblr web page:
+Image for post
+Image for post
+
+I tapped the right button on the dialog to open the app and was presented with another confirm dialog that had the cancel button on the right, which I reflexively tapped. Now what I wanted.
