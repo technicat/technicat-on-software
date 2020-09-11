@@ -1,0 +1,9 @@
+Product Hunt Credits
+technicat
+technicat
+Dec 1, 2015 · 1 min read
+
+Now that I have a ProductHunt account, I’m looking at their iOS app more closely. As an app developer, one thing I really appreciate is their Acknowledgments screen (unintuitively, tap on the Follow button on your Profile screen to find the Acknowledgments button).
+
+This screen lists the third-party components they use — as far as I can tell, you can find them all on Cocoapods.
+Image for post
