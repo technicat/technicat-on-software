@@ -16,7 +16,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Startup Without Falling Down](software/startupwithoutfallingdown.adoc)
 
-# App Development
+## App Development
 
 [So You Have an App Idea](appdev/soyouhaveanappidea.adoc)
 
