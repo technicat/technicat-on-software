@@ -1,0 +1,14 @@
+What I’m Thankful For
+technicat
+technicat
+Jan 10, 2016 · 1 min read
+
+At the beginning of the year, GameDevsLikeYou tweeted the question “What are you thankful for?” I mentioned the new Star Wars movie, and open source.
+
+Specifically, I’m impressed and grateful for all the open source available for iOS development. I only discovered CocoaPods late last year and have been browsing it assidously since. Here are the packages in the pod file of one of my apps:
+
+pod ‘SwiftyUserDefaults’pod ‘Locksmith’pod ‘SwiftyJSON’pod ‘JDStatusBarNotification’pod ‘CHTCollectionViewWaterfallLayout’pod ‘SnapKit’pod ‘FBSDKMessengerShareKit’pod ‘FBSDKCoreKit’pod ‘FBSDKLoginKit’pod ‘FBSDKShareKit’pod ‘CGRectExtensions’pod ‘IQKeyboardManagerSwift’pod ‘RFKeyboardToolbar’
+
+I won’t bother describing each package — just type the name in the CocoaPods very cool search field and you’ll get the full info (I do wish they had a way to search the full list instead of relying solely on the search field).
+
+And CocoaPods is open source, of course. And Cocoapods is installed with the open source RubyGems. As is Ruby. And don’t get me started on what went into OSX.
