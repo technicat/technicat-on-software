@@ -1,0 +1,8 @@
+Bug of the Day
+technicat
+technicat
+May 2, 2016 · 1 min read
+Image for post
+Image for post
+
+It’s not easy dusting off an old Unity project and trying to get it to work again. But in this case, after spending a few hours trying to figure out why I couldn’t add a Standard Asset water prefab without it turning purple, I finally figured out it’s not me, it’s the prefab. Create a new project, import Standard Assets from the installation, and drag a water prefab into the scene, and it looks like toon lava. Workaround: import the older(?) Standard Assets from the Unity Asset Store.
