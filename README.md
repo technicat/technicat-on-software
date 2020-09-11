@@ -18,6 +18,10 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Startup Without Falling Down](software/startupwithoutfallingdown.adoc)
 
+# App Development
+
+[So You Have an App Idea](software/soyouhaveanappidea.adoc)
+
 ## Management
 
 [Management Means Never Having to Say You're Sorry](management/managementmeansneverhavingtosayyouresorry.adoc)
