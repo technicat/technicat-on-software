@@ -88,7 +88,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [HyperBowl on the Small Screen ](hyperbowl/hyperbowlonthesmallscreen.adoc)
 
-# Unity
+## Unity
 
 [How I Met Unity](unity/howimetunity.adoc)
 
