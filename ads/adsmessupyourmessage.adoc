@@ -1,0 +1,16 @@
+Ads Mess Up Your Message
+technicat
+technicat
+Jul 4, 2016 · 2 min read
+
+I’m not anti-ad. You have to make money somehow. I’m still making a few pennies a month from text-only Google web ads, and most of my app revenue is from ads (charging for apps on Google Play is an exercise in futility).
+
+But by allowing ads, you’re essentially allowing someone else to scribble on your app or website, and that someone could be vulgar or deceitful. This is why I don’t use AdMob on my apps, anymore (“Your app is infected!” in flashing text…), and I don’t retweet/share any sites that use Outbrain or Taboola (“Childhood stars and the monsters they turned into”).
+
+And in some cases, it really detracts from your content. Here, for example, an article praising an indie film that works against Asian American stereotypes is accompanied by an ad catering to a fetish for Asian women.
+Image for post
+Image for post
+
+And here, an article about the dangers of distraction and multitasking is interrupted by one of my web design pet peeves, an ad between paragraphs.
+Image for post
+Image for post
