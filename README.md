@@ -24,11 +24,19 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Management Means Never Having to Say You're Sorry](management/managementmeansneverhavingtosayyouresorry.adoc)
 
+## Career
+
+[You Don't Need a Mentor](career/youdontneedamentor.adoc)
+
+[Have Contract, Will Travel](career/havecontractwilltravel.adoc)
+
+[Get a Job](career/getajob.adoc)
+
 ## Interviews
 
-[The Art of the Interview](interview/artoftheinterview.adoc)
+[The Art of the Interview](career/interview/artoftheinterview.adoc)
 
-[My Interviews](interview/myinterviews.adoc)
+[My Interviews](career/interview/myinterviews.adoc)
 
 ## Design
 
@@ -64,15 +72,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Software Remodeling](process/softwareremodeling.adoc)
 
-## Career
-
-[You Don't Need a Mentor](career/youdontneedamentor.adoc)
-
-[Have Contract, Will Travel](career/havecontractwilltravel.adoc)
-
-[Get a Job](career/getajob.adoc)
-
-[My Interviews](career/myinterviews.adoc)
 
 ## Game Development
 
@@ -80,13 +79,13 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [So You Want to Make a Game](gamedev/soyouwanttomakeagame.adoc)
 
-## Whirl Tour
-
-[Taking a Whirl Tour](gamedev/whirltourtakingawhirltour.adoc)
-
 ## Credits
 
 [Where's My Name?](gamedev/credits/wheresmyname.adoc)
+
+## Whirl Tour
+
+[Taking a Whirl Tour](gamedev/whirltourtakingawhirltour.adoc)
 
 ## HyperBowl
 
