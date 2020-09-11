@@ -1,0 +1,8 @@
+Don’t Throw Away That Application Loader
+technicat
+technicat
+Jan 27, 2016 · 1 min read
+
+Application Loader is one of those things I keep thinking I should get rid of because I don’t use it and it’s just taking up space (like having a winter coat in Southern California). But then Xcode starts balking at my uploads to iTunesConnect with cryptic objections like “cannot verify client”, and after wasting time googling and blaming myself, I remember sometimes it just works if I use Application Loader. The trick is to Export your archive from Xcode first, then you can find it with Application Loader.
+Image for post
+Image for post
