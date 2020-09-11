@@ -1,0 +1,60 @@
+Converting Javascript, I mean Unityscript, to C# : Part 1
+technicat
+technicat
+Mar 16, 2016 · 2 min read
+
+I’m finally seeing the light at the end of the tunnel on converting all of my Unity Javascript to C# (I apologize to everyone who bought my Unity book that all the examples were in Javascript). You shouldn’t start this process without reading up on C# (the Microsoft reference is actually pretty good, and I like the O’Reilly books), but for the most part, it’s just a lot of syntax changes. For example, here’s the Javascript used to rock the ship in the High Seas lane of HyperBowl:
+
+#pragma strict
+ 
+ private var speed:float=0.5;
+ private var rockness:float=5;
+ 
+ private var rocktime:float = 0.0;
+ 
+ private var trans:Transform;
+ 
+ function Awake() {
+   trans = transform;
+ }
+ 
+ function Update () {
+   trans.localEulerAngles.z = Mathf.Sin(rocktime*speed)*rockness;
+   rocktime+=Time.deltaTime;
+ }
+
+To convert it to C#:
+
+    Add an explicit class declaration, inheriting from MonoBehaviour
+    Remove the var keyword in variable declarations and move the type to that location
+    Prepend public to variables that were implicitly public.
+    Append f to single-float literals (otherwise, they’re interpreted as double-floats)
+    Remove the function keyword from function declarations and place the return type there
+    We can’t directly modify a member of a struct, so to change a transform position or rotation, we need to construct a new Vector3.
+    Finally, I like to place the whole thing in an appropriate namespace (a great feature, one of the first reasons I started porting to C#)
+
+namespace Hyper {
+ 
+ public class ShipRock : MonoBehaviour {
+ 
+ private float speed=0.5f;
+ private float rockness=5f;
+ 
+ private float rocktime = 0.0f;
+ 
+ private Transform trans;
+ 
+ void Awake() {
+ trans = transform;
+ }
+ 
+ void Update () {
+ float z = Mathf.Sin(rocktime*speed)*rockness;
+ Vector3 angles = new Vector3(  trans.localEulerAngles.x,trans.localEulerAngles.y, z);
+ trans.localEulerAngles = angles;
+ rocktime+=Time.deltaTime;
+ }
+ 
+ }
+ }
+
