@@ -8,7 +8,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Seven Habits of Highly Effective Programmers](software/sevenhabitsofhighlyeffectiveprogrammers.adoc)
 
-[Management Means Never Having to Say You're Sorry](software/managementmeansneverhavingtosayyouresorry.adoc)
+[Management Means Never Having to Say You're Sorry](management/managementmeansneverhavingtosayyouresorry.adoc)
 
 [BBN Culture](software/bbnculture.adoc)
 
