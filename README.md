@@ -80,9 +80,13 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [So You Want to Make a Game](gamedev/soyouwanttomakeagame.adoc)
 
-[Taking a Whirl Tour](gamedev/takingawhirltour.adoc)
+## Whirl Tour
 
-[Where's My Name?](gamedev/wheresmyname.adoc)
+[Taking a Whirl Tour](gamedev/whirltourtakingawhirltour.adoc)
+
+## Credits
+
+[Where's My Name?](gamedev/credits/wheresmyname.adoc)
 
 ## HyperBowl
 
