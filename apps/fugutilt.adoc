@@ -1,0 +1,10 @@
+Fugu Tilt
+technicat
+technicat
+May 4, 2016 · 1 min read
+Image for post
+Image for post
+
+It’s not easy raising an app from the dead, but I decided it was time to dust off Fugu Tilt, not least because Apple is decommissioning iAd, and I need to replace it with something (UnityAds). I haven’t updated it in three years, so the water was broken, and there’s a bug in the latest Standard Assets water in the Unity installation, which is worked around by importing Standard Assets from the Asset Store, but in the process I lost the skyboxes that are in the installed Standard Assets but not the Asset Store…
+
+In any case, it’s working again, now, and although it’s really simple (and a number of reviewers let me know it), basically an early learning exercise in Unity physics, it’s still one of my top ten all-time downloaded apps on the App Store.
