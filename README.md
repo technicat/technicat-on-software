@@ -6,8 +6,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Software Development
 
-[Seven Habits of Highly Effective Programmers](software/sevenhabitsofhighlyeffectiveprogrammers.adoc)
-
 [Management Means Never Having to Say You're Sorry](management/managementmeansneverhavingtosayyouresorry.adoc)
 
 [BBN Culture](software/bbnculture.adoc)
@@ -19,6 +17,10 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Design Patters are from Purgatory](software/designpatternsarefrompurgatory.adoc)
 
 [Startup Without Falling Down](software/startupwithoutfallingdown.adoc)
+
+## Management
+
+[Management Means Never Having to Say You're Sorry](management/managementmeansneverhavingtosayyouresorry.adoc)
 
 ## Design
 
