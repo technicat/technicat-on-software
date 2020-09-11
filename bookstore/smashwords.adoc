@@ -1,0 +1,16 @@
+Technicat on Smashwords
+technicat
+technicat
+Jul 5, 2016 · 2 min read
+
+It’s annoying when companies pretend to forget you unsubscribed from their marketing email, but sometimes it’s effective. After a summer sale email from Smashwords showed up, I had to reset my password just to log in to unsubscribe again, and in the process I discovered they now have epub support.
+
+Their previous Word-only support was a deal-killer when I last checked them out, but this time I decided why not try uploading the same epub for Technicat on Software that I self-publish on Amazon.
+Image for post
+Image for post
+
+It sort of worked. The book is now on Smashwords and you can buy it, but the epub requires some markup changes to be included in their “premium catalog” which I gather means all the various devices and distribution channels they support. But it did get pirated quickly (on ebookinga, a site that strenuously insists it’s not a piracy site and you’d better get a lawyer and plan to spend money if you file a DCMA).
+
+In Smashword’s defense, they do say their epub support is in beta (they call it Smashwords Direct, I think), and it’s still a Word-centric publishing world. Amazon doesn’t support epub that well, either (it drops the Table of Contents).
+
+Actually, the thing that annoys me the most on Smashwords has nothing to do with publishing — I can’t see any way to log out of my account. Well, that and my disappearing unsubscribe.
