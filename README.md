@@ -28,7 +28,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [It's the User Interface](design/itstheuserinterface.adoc)
 
-[Narcissistic Design](design/narcicissticdesign.adoc)
+[Narcissistic Design](design/narcissisticdesign.adoc)
 
 ## Lisp
 
