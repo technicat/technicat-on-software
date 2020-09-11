@@ -1,0 +1,23 @@
+Exceptionally Swift
+technicat
+technicat
+Feb 4, 2016 · 1 min read
+
+When I started in the game industry, one thing I had to get used to, besides a bizarre discomfort among many industry programmers with object-oriented development, was the lack of exceptions. Pretty much every game I worked on not only did not make use of exceptions, but had exceptions disabled at build-time for optimal performance. I do this with all my Unity builds, as I wistfully remember the lovely object-oriented exception (condition) system in Common Lisp (It’s a miracle I ended up in the game industry at all).
+
+So I was a bit disheartened to find Swift didn’t have exceptions, until Swift did have exceptions (starting Swift 2.0 or thereabouts). It’s based on enumerations instead of classes (they have to do everything differently-even braces, spaces, and semicolons), but still, nice to have.
+
+For example, now my tortuous non-informative boolean chain of JSON parsing methods (do they call them methods in Swift?):
+
+override func ParseResult( obj:JSON)->Bool {
+  if !super.ParseResult (obj) {
+    return false
+  } else {// do your stuff here
+// return false if there's problemreturn true}
+
+Is a bit nicer. Weirder, but nicer:
+
+override func ParseResult( obj:JSON) throws {
+  try super.ParseResult (obj)
+// do your stuff here
+// throw something if there's a problem}
