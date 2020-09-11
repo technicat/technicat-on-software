@@ -1,0 +1,16 @@
+Ask An Asian American
+technicat
+technicat
+Aug 7 · 2 min read
+
+I had grand plans to switch from Unity development to Unreal development this year. Then I put Unreal on hold after my new MacBook Air started wheezing while just installing Unreal, and instead I got entranced by the idea of using the open source Godot engine, which I was able to install, but still my Mac gets hot while during Godot dev.
+
+And now I’m getting distracted by the Ren’Py visual novel engine. Good news is it runs fine on my Mac. It’s got some inconveniences, like expecting you to have a single project directory, and some conveniences, like the Build Distributions option that generates a single zip file that I can upload to itch.io and runs out of the box for Linux, macOS, and Windows.
+Image for post
+Image for post
+
+As a test/learning project, I created a sequence of conversations that I’ve had as an Asian American.
+Image for post
+Image for post
+
+It’s not exactly the great American novel, but there’s plenty of material I can add to it.
