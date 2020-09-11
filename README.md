@@ -28,6 +28,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Art of the Interview](interview/artoftheinterview.adoc)
 
+[My Interviews](interview/myinterviews.adoc)
+
 ## Design
 
 [It's the User Interface](design/itstheuserinterface.adoc)
