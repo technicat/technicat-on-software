@@ -52,9 +52,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Lisp
 
-[I Miss Lisp](lisp/imisslisp.adoc)
+[I Miss Lisp](software/isp/imisslisp.adoc)
 
-[Lisp Led Me to Outer Space](lisp/lispledmetoouterspace.adoc)
+[Lisp Led Me to Outer Space](software/lisp/lispledmetoouterspace.adoc)
 
 ## Process
 
