@@ -40,15 +40,15 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Interviews
 
-[The Art of the Interview](career/interview/artoftheinterview.adoc)
+[The Art of the Interview](software/career/interview/artoftheinterview.adoc)
 
-[My Interviews](career/interview/myinterviews.adoc)
+[My Interviews](software/career/interview/myinterviews.adoc)
 
 ## Design
 
-[It's the User Interface](design/itstheuserinterface.adoc)
+[It's the User Interface](software/design/itstheuserinterface.adoc)
 
-[Narcissistic Design](design/narcissisticdesign.adoc)
+[Narcissistic Design](software/design/narcissisticdesign.adoc)
 
 ## Lisp
 
