@@ -103,9 +103,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## MIT
 
-[What I Learned at MIT](mit/whatilearnedatmit.adoc)
+[What I Learned at MIT](personal/mit/whatilearnedatmit.adoc)
 
-[Leaving MIT](mit/leavingmit.adoc)
+[Leaving MIT](personal/mit/leavingmit.adoc)
 
 ## Books
 
