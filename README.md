@@ -222,17 +222,17 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Serenity](media/film/serenity.adoc)
 
 
-## Racism
+## Equality
 
-[FDR Quotes](racism/fdrquotes.adoc)
+[FDR Quotes](media/eqaulity/fdrquotes.adoc)
 
-[Blame Canada](racism/blamecanada.adoc)
+[Blame Canada](media/equality/blamecanada.adoc)
 
-[The Only Good Statue is a Dog Statue](racism/theonlygoodstatueisadogstatue.adoc)
+[The Only Good Statue is a Dog Statue](media/equality/theonlygoodstatueisadogstatue.adoc)
 
-[Speak Klingon](racism/speakklingon.adoc)
+[Speak Klingon](media/equality/speakklingon.adoc)
 
-[Where Are You on the Racist O'Meter?](racism/racistometer.adoc)
+[Where Are You on the Racist O'Meter?](media/equality/racistometer.adoc)
 
 
 ## Places
