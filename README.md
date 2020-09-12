@@ -18,11 +18,11 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## App Development
 
-[So You Have an App Idea](appdev/soyouhaveanappidea.adoc)
+[So You Have an App Idea](software/appdev/soyouhaveanappidea.adoc)
 
 ## Management
 
-[Management Means Never Having to Say You're Sorry](management/managementmeansneverhavingtosayyouresorry.adoc)
+[Management Means Never Having to Say You're Sorry](software/management/managementmeansneverhavingtosayyouresorry.adoc)
 
 ## Career
 
@@ -52,48 +52,48 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Process
 
-[Agile Isn't](process/agileisnt.adoc)
+[Agile Isn't](software/process/agileisnt.adoc)
 
-[The Art of the Schedule](process/artoftheschedule.adoc)
+[The Art of the Schedule](software/process/artoftheschedule.adoc)
 
-[Back It Up: Safe IT Practices](process/backitup.adoc)
+[Back It Up: Safe IT Practices](software/process/backitup.adoc)
 
 [Chess Moves](software/chessmoves.adoc)
 
-[Don't Juke the Stats](process/dontjukethestats.adoc)
+[Don't Juke the Stats](software/process/dontjukethestats.adoc)
 
 [Driving Lessons](software/drivinglessons.adoc)
 
-[Lean Agile Scrum Sprints](process/leanagilescrumsprints.adoc)
+[Lean Agile Scrum Sprints](software/process/leanagilescrumsprints.adoc)
 
-[Minimizing Meetings](process/minimizingmeetings.adoc)
+[Minimizing Meetings](software/process/minimizingmeetings.adoc)
 
-[QA for Everyone](process/qaforeveryone.adoc)
+[QA for Everyone](software/process/qaforeveryone.adoc)
 
-[Software Remodeling](process/softwareremodeling.adoc)
+[Software Remodeling](software/process/softwareremodeling.adoc)
 
 
 ## Game Development
 
-[Work Hard, Play Hard](gamedev/workandplay.adoc)
+[Work Hard, Play Hard](software/gamedev/workandplay.adoc)
 
-[So You Want to Make a Game](gamedev/soyouwanttomakeagame.adoc)
+[So You Want to Make a Game](software/gamedev/soyouwanttomakeagame.adoc)
 
 ## Credits
 
-[Where's My Name?](gamedev/credits/wheresmyname.adoc)
+[Where's My Name?](software/gamedev/credits/wheresmyname.adoc)
 
 ## Whirl Tour
 
-[Taking a Whirl Tour](gamedev/whirltourtakingawhirltour.adoc)
+[Taking a Whirl Tour](software/gamedev/whirltourtakingawhirltour.adoc)
 
 ## HyperBowl
 
-[HyperBowl on the Small Screen ](hyperbowl/hyperbowlonthesmallscreen.adoc)
+[HyperBowl on the Small Screen ](software/gamedev/hyperbowl/hyperbowlonthesmallscreen.adoc)
 
 ## Unity
 
-[How I Met Unity](unity/howimetunity.adoc)
+[How I Met Unity](software/gamedev/unity/howimetunity.adoc)
 
 ## MIT
 
@@ -103,117 +103,117 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Books
 
-[Carl Melcher Goes to Vietnam](books/carlmelcher.adoc)
+[Carl Melcher Goes to Vietnam](media/books/carlmelcher.adoc)
 
-[Cellphone](books/cellphone.adoc)
+[Cellphone](media/books/cellphone.adoc)
 
-[Console Wars](books/consolewars.adoc)
+[Console Wars](media/books/consolewars.adoc)
 
-[The Complete Book of Scriptwriting](books/completebookofscriptwriting.adoc)
+[The Complete Book of Scriptwriting](media/books/completebookofscriptwriting.adoc)
 
-[Creativity, Inc.](books/creativityinc.adoc)
+[Creativity, Inc.](media/books/creativityinc.adoc)
 
-[Deep Blue](books/deepblue.adoc)
+[Deep Blue](media/books/deepblue.adoc)
 
-[The Demon in the Freezer](books/demoninthefreezer.adoc)
+[The Demon in the Freezer](media/books/demoninthefreezer.adoc)
 
-[Electric Dreams](books/electricdreams.adoc)
+[Electric Dreams](media/books/electricdreams.adoc)
 
-[Finding Serenity](books/findingserenity.adoc)
+[Finding Serenity](media/books/findingserenity.adoc)
 
-[Five Design Books](books/fivedesignbooks.adoc)
+[Five Design Books](media/books/fivedesignbooks.adoc)
 
-[Free: The Past and Future of a Radical Price](books/free.adoc)
+[Free: The Past and Future of a Radical Price](media/books/free.adoc)
 
-[The Game Localization Handbook](books/gamelocaliation.adoc)
+[The Game Localization Handbook](media/books/gamelocaliation.adoc)
 
-[Gearheads](books/gearheads.adoc)
+[Gearheads](media/books/gearheads.adoc)
 
-[Haunted Empire](books/hauntedempire.adoc)
+[Haunted Empire](media/books/hauntedempire.adoc)
 
-[Idea to iPhone](books/ideatoiphone.adoc)
+[Idea to iPhone](media/books/ideatoiphone.adoc)
 
-[If Chins Could Kill](books/ifchinscouldkill.adoc)
+[If Chins Could Kill](media/books/ifchinscouldkill.adoc)
 
-[John McCain](books/johnmccain.adoc)
+[John McCain](media/books/johnmccain.adoc)
 
-[Leading Geeks](books/leadinggeeks.adoc)
+[Leading Geeks](media/books/leadinggeeks.adoc)
 
-[Len Deighton](books/lendeighton.adoc)
+[Len Deighton](media/books/lendeighton.adoc)
 
-[Marissa Meyer and the Fight to Save Yahoo](books/yahoo.adoc)
+[Marissa Meyer and the Fight to Save Yahoo](media/books/yahoo.adoc)
 
-[Masters of Doom](books/mastersofdoom.adoc)
+[Masters of Doom](media/books/mastersofdoom.adoc)
 
-[More About Ada](books/moreaboutada.adoc)
+[More About Ada](media/books/moreaboutada.adoc)
 
-[Mr. Monk on Patrol](books/monkonpatrol.adoc)
+[Mr. Monk on Patrol](media/books/monkonpatrol.adoc)
 
-[My Papi Has a MotorCycle](books/mypapihasamotorcycle.adoc)
+[My Papi Has a MotorCycle](media/books/mypapihasamotorcycle.adoc)
 
-[Rethinking Narcissism](books/rethinkingnarcissism.adoc)
+[Rethinking Narcissism](media/books/rethinkingnarcissism.adoc)
 
-[The Second Life Herald](books/secondlife.adoc)
+[The Second Life Herald](media/books/secondlife.adoc)
 
-[Seinfeldia](books/seinfeldia.adoc)
+[Seinfeldia](media/books/seinfeldia.adoc)
 
-[Serenity Found](books/serenityfound.adoc)
+[Serenity Found](media/books/serenityfound.adoc)
 
-[Shatner Rules](books/shatnerrules.adoc)
+[Shatner Rules](media/books/shatnerrules.adoc)
 
-[Smart Mobs](books/smartmobs.adoc)
+[Smart Mobs](media/books/smartmobs.adoc)
 
-[Sometimes the Magic Works](books/themagicworks.adoc)
+[Sometimes the Magic Works](media/books/themagicworks.adoc)
 
-[Spam Kings](books/soamkings.adoc)
+[Spam Kings](media/books/soamkings.adoc)
 
-[Steve Jobs](books/realitydistortion.adoc)
+[Steve Jobs](media/books/realitydistortion.adoc)
 
-[Thoughts on Design](books/thoughtsondesign.adoc)
+[Thoughts on Design](media/books/thoughtsondesign.adoc)
 
-[To Engineer Is Human](books/toengineerishuman.adoc)
+[To Engineer Is Human](media/books/toengineerishuman.adoc)
 
-[Ultimate Punishment](books/ultimatepunishment.adoc)
+[Ultimate Punishment](media/books/ultimatepunishment.adoc)
 
-[The Upright Thinkers](books/uprightthinkers.adoc)
+[The Upright Thinkers](media/books/uprightthinkers.adoc)
 
-[We Were Soldiers](books/weweresoldiers.adoc)
+[We Were Soldiers](media/books/weweresoldiers.adoc)
 
-[Winner's Dream](books/winnersdream.adoc)
+[Winner's Dream](media/books/winnersdream.adoc)
 
 
 ## TV
 
-[Buffy: Not Just for Boys](tv/buffynotjustforboys.adoc)
+[Buffy: Not Just for Boys](media/tv/buffynotjustforboys.adoc)
 
-[Mo' Better Buffy](tv/betterbuffy.adoc)
+[Mo' Better Buffy](media/tv/betterbuffy.adoc)
 
-[Buffy Fans](tv/buffyfans.adoc)
+[Buffy Fans](media/tv/buffyfans.adoc)
 
-[The Scoobies' Journey](tv/scoobies.adoc)
+[The Scoobies' Journey](media/tv/scoobies.adoc)
 
-[Slayerfest '98](tv/slayerfest98.adoc)
+[Slayerfest '98](media/tv/slayerfest98.adoc)
 
-[Firefly](tv/firefly.adoc)
+[Firefly](media/tv/firefly.adoc)
 
-[Conversations with Creators](tv/conversationswithcreators.adoc)
+[Conversations with Creators](media/tv/conversationswithcreators.adoc)
 
-[Eureka](tv/imisseureka.adoc)
+[Eureka](media/tv/imisseureka.adoc)
 
-[The Man in the High Castle](tv/maininthehighcastle.adoc)
+[The Man in the High Castle](media/tv/maininthehighcastle.adoc)
 
 
 ## Film
 
-[Blade Runners](film/bladerunners.adoc)
+[Blade Runners](media/film/bladerunners.adoc)
 
-[Logan](film/logan.adoc)
+[Logan](media/film/logan.adoc)
 
-[Lone Star](film/whoknewtexansweresodeep.adoc)
+[Lone Star](media/film/whoknewtexansweresodeep.adoc)
 
-[Ronin](film/ronin.adoc)
+[Ronin](media/film/ronin.adoc)
 
-[Serenity](film/serenity.adoc)
+[Serenity](media/film/serenity.adoc)
 
 
 ## Racism
@@ -239,23 +239,23 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Social
 
-[Block Is My Favorite Feature](internet/social/blockismyfavoritefeature.adoc)
+[Block Is My Favorite Feature](media/social/blockismyfavoritefeature.adoc)
 
-[Goodbye, Goodreads](internet/social/goodbyegoodreads.adoc)
+[Goodbye, Goodreads](media/social/goodbyegoodreads.adoc)
 
-[It's Not GeoSocial](internet/social/geosocial.adoc)
+[It's Not GeoSocial](media/social/geosocial.adoc)
 
-[Social Panhandling](internet/social/socialpanhandling.adoc)
+[Social Panhandling](media/social/socialpanhandling.adoc)
 
 ## Twitter
 
-[Explore with Twitter](internet/social/explorewithtwitter.adoc)
+[Explore with Twitter](media/social/explorewithtwitter.adoc)
 
-[Hearts vs Stars](internet/social/hearsvsstars.adoc)
+[Hearts vs Stars](media/social/hearsvsstars.adoc)
 
 ## Personal
 
-[Yeah I'm Introverted](books/yeahimintroverted.adoc)
+[Yeah I'm Introverted](yeahimintroverted.adoc)
 
 ## History
 
