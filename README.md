@@ -20,6 +20,12 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [So You Have an App Idea](software/appdev/soyouhaveanappidea.adoc)
 
+## History
+
+[A Farewell to Floppies](software/history/floppies.adoc)
+
+[The History of Programming](software/history/historyofprogramming.adoc)
+
 ## Management
 
 [Management Means Never Having to Say You're Sorry](software/management/managementmeansneverhavingtosayyouresorry.adoc)
@@ -249,19 +255,16 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Twitter
 
-[Explore with Twitter](media/social/explorewithtwitter.adoc)
+[Explore with Twitter](media/social/twitter/explorewithtwitter.adoc)
 
-[Hearts vs Stars](media/social/hearsvsstars.adoc)
+[Hearts vs Stars](media/social/twitter/hearsvsstars.adoc)
 
 ## Personal
 
-[Yeah I'm Introverted](yeahimintroverted.adoc)
+[Turning 50](personal/turning50.adoc)
 
-## History
+[Yeah I'm Introverted](personal/yeahimintroverted.adoc)
 
-[A Farewell to Floppies](software/history/floppies.adoc)
-
-[The History of Programming](software/history/historyofprogramming.adoc)
 
 
 
