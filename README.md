@@ -224,7 +224,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Equality
 
-[FDR Quotes](media/eqaulity/fdrquotes.adoc)
+[FDR Quotes](media/equality/fdrquotes.adoc)
 
 [Blame Canada](media/equality/blamecanada.adoc)
 
