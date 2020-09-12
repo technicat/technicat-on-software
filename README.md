@@ -237,11 +237,11 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Places
 
-[Hungtinton Beach](places/huntingtonbeach.adoc)
+[Hungtington Beach](personal/places/huntingtonbeach.adoc)
 
-[Iowa City](places/iowacity.adoc)
+[Iowa City](peronal/places/iowacity.adoc)
 
-[Manzanar](places/manzanar.adoc)
+[Manzanar](personal/places/manzanar.adoc)
 
 ## Social
 
