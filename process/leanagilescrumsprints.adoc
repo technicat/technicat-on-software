@@ -2,8 +2,6 @@
 
 = Lean Agile Scrum Sprints
 
-Mar 21, 2017 · 2 min read
-
 I miss Waterfall software development. Not the actual process (I always had trouble pretending a stack of design specs wasn’t a work of fiction — in the fantasy genre), but the name. Waterfall is so…tranquil.
 
 Now the trendy methodologies sound like they require daily infusions of Red Bull. First there was Agile, from which sprung Extreme Programming and Scrum, and sprints made their way from Scrum to Design Sprints (to paraphrase Steve Jobs, great designers steal). And this all takes place in Lean Startups.
