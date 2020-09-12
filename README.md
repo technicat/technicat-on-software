@@ -52,7 +52,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Lisp
 
-[I Miss Lisp](software/isp/imisslisp.adoc)
+[I Miss Lisp](software/lisp/imisslisp.adoc)
 
 [Lisp Led Me to Outer Space](software/lisp/lispledmetoouterspace.adoc)
 
