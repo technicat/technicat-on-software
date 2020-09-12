@@ -239,19 +239,19 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Social
 
-[Block Is My Favorite Feature](social/blockismyfavoritefeature.adoc)
+[Block Is My Favorite Feature](internet/social/blockismyfavoritefeature.adoc)
 
-[Goodbye, Goodreads](social/goodbyegoodreads.adoc)
+[Goodbye, Goodreads](internet/social/goodbyegoodreads.adoc)
 
-[It's Not GeoSocial](social/geosocial.adoc)
+[It's Not GeoSocial](internet/social/geosocial.adoc)
 
-[Social Panhandling](social/socialpanhandling.adoc)
+[Social Panhandling](internet/social/socialpanhandling.adoc)
 
 ## Twitter
 
-[Explore with Twitter](social/explorewithtwitter.adoc)
+[Explore with Twitter](internet/social/explorewithtwitter.adoc)
 
-[Hearts vs Stars](social/hearsvsstars.adoc)
+[Hearts vs Stars](internet/social/hearsvsstars.adoc)
 
 ## Personal
 
