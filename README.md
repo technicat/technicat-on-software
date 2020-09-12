@@ -259,9 +259,9 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## History
 
-[A Farewell to Floppies](history/floppies.adoc)
+[A Farewell to Floppies](software/history/floppies.adoc)
 
-[The History of Programming](history/historyofprogramming.adoc)
+[The History of Programming](software/history/historyofprogramming.adoc)
 
 
 
