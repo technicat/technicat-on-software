@@ -32,11 +32,11 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Career
 
-[You Don't Need a Mentor](career/youdontneedamentor.adoc)
+[You Don't Need a Mentor](software/career/youdontneedamentor.adoc)
 
-[Have Contract, Will Travel](career/havecontractwilltravel.adoc)
+[Have Contract, Will Travel](software/career/havecontractwilltravel.adoc)
 
-[Get a Job](career/getajob.adoc)
+[Get a Job](software/career/getajob.adoc)
 
 ## Interviews
 
