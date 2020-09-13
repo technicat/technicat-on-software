@@ -6,9 +6,7 @@ As an example, I’m going to pick on Unity because I noticed a couple of things
 
 What’s my request? Request the product? Request a quote? Request info? Request a phone call? Assuming it’s request info, then “Request Info” would be a better button label.
 
-And someone pointed out on the Unity forum that the Unity Connect privacy settings phrasing is a head-spinner.
-
-Aside from the awkward phrasing, the subhead Data Processing conveys no useful information and turning a switch on to enable opt-out is confusing, like agreeing to a double negative.
+And someone pointed out on the Unity forum that the Unity Connect privacy settings phrasing is a head-spinner. Aside from the awkward phrasing, the subhead Data Processing conveys no useful information and turning a switch on to enable opt-out is confusing, like agreeing to a double negative.
 
 So I recommended some refactoring: the subhead should be “Allow Connect to use your data to recommend” and each of the options would be phrased like “People you might want to follow” and the switch on means Yes, allow it.
 
