@@ -1,7 +1,4 @@
-The Design of Everyday Things, In Today’s Mailbag
-technicat
-technicat
-Jul 31, 2017 · 2 min read
+= The Design of Everyday Things, In Today’s Mailbag
 
 If any book has given me an epiphany, it’s Donald Norman’s The Design of Everyday Things. Just his example of that blinking VCR clock that’s always blinking because no one could figure out how to set the time (if you’re too young to know what I’m talking about, well, microwaves still have that issue), imprinted on me the realization that almost every interface, if not every, could be improved, and it’s not that hard to think of improvements, if you just think about it.
 
