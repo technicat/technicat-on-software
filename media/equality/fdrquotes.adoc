@@ -8,28 +8,40 @@ For example, I frequently see quotes from the eminently quotable Franklin Delano
 
 Although it seems to be agreed upon by most (but somehow not all), that the internment was a travesty of justice (even back then, there were many who knew it was wrong), FDR seems to get a pass on it. So next time you see a quote from him, try appending (as I do mentally) what I just said above, or the short version:
 
-    “…said the guy who ordered the internment of Japanese-Americans.”
+[quote]
+…said the guy who ordered the internment of Japanese-Americans.
 
 Here, you can practice on this selection I just grabbed from goodreads:
 
-    “The only thing we have to fear is fear itself.”
+[quote]
+“The only thing we have to fear is fear itself.”
 
-    “Remember, remember always, that all of us, and you and I especially, are descended from immigrants and revolutionists.”
+[quote]
+Remember, remember always, that all of us, and you and I especially, are descended from immigrants and revolutionists.
 
-    “If you treat people right they will treat you right … ninety percent of the time.”
+[quote]
+If you treat people right they will treat you right … ninety percent of the time.
 
-    “Human kindness has never weakened the stamina or softened the fiber of a free people. A nation does not have to be cruel to be tough.”
+[quote]
+Human kindness has never weakened the stamina or softened the fiber of a free people. A nation does not have to be cruel to be tough.
 
-    “Better the occasional faults of a government that lives in a spirit of charity than the consistent omissions of a government frozen in the ice of its own indifference.”
+[quote]
+Better the occasional faults of a government that lives in a spirit of charity than the consistent omissions of a government frozen in the ice of its own indifference.
 
-    “True individual freedom cannot exist without economic security and independence. People who are hungry and out of a job are the stuff of which dictatorships are made.”
+[quote]
+“True individual freedom cannot exist without economic security and independence. People who are hungry and out of a job are the stuff of which dictatorships are made.”
 
-    “Great power involves great responsibility.”
+[quote]
+Great power involves great responsibility.
 
-    “In the truest sense, freedom cannot be bestowed; it must be achieved.”
+[quote]
+In the truest sense, freedom cannot be bestowed; it must be achieved.
 
-    “Today we are faced with the pre-eminent fact that if civilization is to survive, we must cultivate the science of human relationships, the ability of all peoples of all kins to live together and to work together in the same world at peace.”
+[quote]
+Today we are faced with the pre-eminent fact that if civilization is to survive, we must cultivate the science of human relationships, the ability of all peoples of all kins to live together and to work together in the same world at peace.
 
-    “It is the purpose of government to see that not only the legitimate interests of the few are protected but that the welfare and rights of the many are conserved.”
+[quote]
+It is the purpose of government to see that not only the legitimate interests of the few are protected but that the welfare and rights of the many are conserved.
 
-    “There should be no bitterness or hate where the sole thought is the welfare of the United States of America. No man can occupy the office of President without realizing that he is President of all the people.”
+[quote]
+There should be no bitterness or hate where the sole thought is the welfare of the United States of America. No man can occupy the office of President without realizing that he is President of all the people.
