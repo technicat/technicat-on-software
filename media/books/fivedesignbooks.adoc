@@ -32,7 +32,7 @@ This example actually came to mind years ago when I was arguing with some cowork
 
 But that’s what happens when you start reading about UI design. You get into exasperating arguments with those who haven’t.
 
-== The Macintosh Human Interface Guidelines by Apple Computer
+== http://interface.free.fr/Archives/Apple_HIGuidelines.pdf[The Macintosh Human Interface Guidelines] by Apple Computer
 
 Tog, as a member of the original Mac team, was also an author of the original Macintosh Human Interface Guidelines, the grandaddy of the current Apple Human Interface Guidelines.
 
