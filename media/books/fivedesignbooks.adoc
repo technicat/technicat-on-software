@@ -4,7 +4,7 @@ I was tempted to title this Five Design Books You Should Read Before You Die, bu
 
 Anyway, someone on twitter asked for favorite UX books, and these five popped to mind immediately. Interestingly, they’re all old books, and I haven’t read them in a long time, so I don’t remember them well, but they each have something distinctive that stuck with me.
 
-== The Design of Everyday Things by Donald Norman
+== https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things[The Design of Everyday Things by Donald Norman]
 
 If any book was a revelation to me, this book by Don Norman was it. This was the book that showed me the light: if something is confusing or difficult for the user, it’s not user error, it’s a design problem.
 
