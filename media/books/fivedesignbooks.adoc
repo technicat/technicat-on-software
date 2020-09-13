@@ -20,7 +20,7 @@ The example from this book that I remember is the fork, its history and variatio
 
 == https://www.designinginteractions.com/[Designing Interactions] by Bill Moggridge
 
-I love books that collect the experiences of various luminaries (Masterminds of Programming, Game Theory: Design and Practice…)., and this compilation by Bill Moggridge features plenty, including those who don’t get nearly enough press, like Doug Englebart.
+I love books that collect the experiences of various luminaries (https://www.oreilly.com/library/view/masterminds-of-programming/9780596801670/[Masterminds of Programming], Game Theory: Design and Practice…)., and this compilation by Bill Moggridge features plenty, including those who don’t get nearly enough press, like Doug Englebart.
 
 But the account in this book that sticks in my mind is that of Palm Computing and how the first prototype was a block of wood they carried around in their shirt pockets and simulated using to get a feel for it. There’s no substitute for actually using, or pretending to use, your own design.
 
