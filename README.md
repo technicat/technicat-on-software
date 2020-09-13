@@ -46,6 +46,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Design
 
+[The Design of Everyday Things, In Today's Mailbag](software/design/designofeverydaythings.adoc)
+
 [It's the User Interface](software/design/itstheuserinterface.adoc)
 
 [Narcissistic Design](software/design/narcissisticdesign.adoc)
