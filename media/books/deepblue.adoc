@@ -1,6 +1,6 @@
 :toc:
 
-= Behind Deep Blue: Building the Computer that Defeated the World Chess Champion
+= https://press.princeton.edu/books/paperback/9780691118185/behind-deep-blue[Behind Deep Blue: Building the Computer that Defeated the World Chess Champion]
 
 I’ve never been a particularly good chess player — when I played on my high school chess team, my rating peaked at just above 1700, which is, well, decent. But ever since I played and lost to my first chess computer, I’ve aspired to writing a great chess program.
 
