@@ -14,7 +14,9 @@ Although it seems to be agreed upon by most (but somehow not all), that the inte
 Here, you can practice on this selection I just grabbed from goodreads:
 
 [quote]
-“The only thing we have to fear is fear itself.”
+----
+The only thing we have to fear is fear itself.
+----
 
 [quote]
 Remember, remember always, that all of us, and you and I especially, are descended from immigrants and revolutionists.
