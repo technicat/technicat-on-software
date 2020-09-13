@@ -54,6 +54,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Narcissistic Design](software/design/narcissisticdesign.adoc)
 
+[Writing the User Interface](software/design/writingtheuserinterface.adoc)
+
 ## Lisp
 
 [I Miss Lisp](software/lisp/imisslisp.adoc)
