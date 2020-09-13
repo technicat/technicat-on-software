@@ -48,6 +48,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Design of Everyday Things, In Today's Mailbag](software/design/designofeverydaythings.adoc)
 
+[Five Design Books](software/design/fivedesignbooks.adoc)
+
 [It's the User Interface](software/design/itstheuserinterface.adoc)
 
 [Narcissistic Design](software/design/narcissisticdesign.adoc)
@@ -128,8 +130,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Electric Dreams](media/books/electricdreams.adoc)
 
 [Finding Serenity](media/books/findingserenity.adoc)
-
-[Five Design Books](media/books/fivedesignbooks.adoc)
 
 [Free: The Past and Future of a Radical Price](media/books/free.adoc)
 
