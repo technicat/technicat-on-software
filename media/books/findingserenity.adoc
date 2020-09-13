@@ -1,6 +1,6 @@
 = Finding Serenity
 
-I was sure I’d read _inding Serenity_, a collection of essays on the TV show Firefly edited by Jane Espenson, but there it was on the sale-priced-because-the-show’s-closing pile in the waning hour of this year’s Comic Con, and skimming it, I didn’t recognize the articles, so I bought it. Good deal, turns out the book I read previously was Serenity Found, the sequel.
+I was sure I’d read https://en.wikipedia.org/wiki/Finding_Serenity[finding Serenity], a collection of essays on the TV show Firefly edited by Jane Espenson, but there it was on the sale-priced-because-the-show’s-closing pile in the waning hour of this year’s Comic Con, and skimming it, I didn’t recognize the articles, so I bought it. Good deal, turns out the book I read previously was Serenity Found, the sequel.
 
 After those two Firefly books, and some Buffy and Angel collections, I’m beginning to recognize a pattern. Books on the Whedonverse are mostly stuffed with analyses from adoring fans, one or two reminisces from the cast and crew, and for some reason there’s always one really annoying essay (like the Buffy essay complaining the show isn’t that humorous — it could have been condense to one line: “I don’t get it.”). And in the case of Firefly, a healthy dose of Fox-bashing.
 
@@ -12,4 +12,4 @@ But a simpler explanation is oversight. The essay Chinese Words in the ‘Verse 
 
 I have a couple of apps on the App Store that feature Cantonese text-to-speech (Apple has Cantonese built into Macs and iOS devices, great for the Hong Kong market). The chapter listing all of the Chinese dialog in Firefly gives me an idea for another one — an app that pronounces Firefly Chinese as it was meant to be heard: in Cantonese and not horribly mangled. I’m serious. Stay tuned.
 
-Firefly is still one of my favorite shows and maybe the favorite, but not because of the ain’t-it-cool Chinese trappings. In that respect, I feel it’s all hat and no cattle. But I’m impressed that Finding Serenity has three chapters devoted to it, so that’s something.
+Firefly is still one of my favorite shows and maybe the favorite, but not because of the ain’t-it-cool Chinese trappings. In that respect, I feel it’s all hat and no cattle. But I’m impressed that _Finding Serenity_ has three chapters devoted to it, so that’s something.
