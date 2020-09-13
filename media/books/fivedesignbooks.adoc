@@ -24,7 +24,7 @@ I love books that collect the experiences of various luminaries (Masterminds of 
 
 But the account in this book that sticks in my mind is that of Palm Computing and how the first prototype was a block of wood they carried around in their shirt pockets and simulated using to get a feel for it. There’s no substitute for actually using, or pretending to use, your own design.
 
-== Tog on Interface by Bruce Tognazzini
+== https://www.nngroup.com/books/tog-on-interface/[Tog on Interface] by Bruce Tognazzini
 
 This collection of essays is written by “Tog”, one of the original Mac interface designers. I remember the one that explained how surprisingly efficient it was to access the Mac menu bar. Since the menu bar was at the top of the screen, users didn’t have to move the mouse precisely over the desired menu. Instead, they could just whip the mouse up the screen, as the top essentially acted as a mouse barrier, and then move the mouse laterally as needed. (This of course doesn’t hold true on window systems that have menu bars on floating windows)
 
@@ -33,7 +33,6 @@ This example actually came to mind years ago when I was arguing with some cowork
 But that’s what happens when you start reading about UI design. You get into exasperating arguments with those who haven’t.
 
 == The Macintosh Human Interface Guidelines by Apple Computer
-
 
 Tog, as a member of the original Mac team, was also an author of the original Macintosh Human Interface Guidelines, the grandaddy of the current Apple Human Interface Guidelines.
 
