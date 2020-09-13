@@ -42,4 +42,4 @@ This was the Apple whose mantra was making interfaces intuitive, clear and consi
 
 The Apple II BASIC Programming Manual got me into programming on the Apple II+, the Lisp Machine Manual was another absorbing read that started me on Lisp machines and the first part of my career programming in Lisp, and in that tradition, the Macintosh Human Interface Guidelines made me want to be a Mac developer (Macs did not come with a copy of the Guidelines, but they should have…)
 
-And, just as I’m trying to wrap up this article today, I finished rereading Snow Crash and discovered in the end notes that the Macintosh Human Interface Guidelines was one of the inspirational sources for that story!
+And, just as I’m trying to wrap up this article today, I finished rereading https://en.wikipedia.org/wiki/Snow_Crash[Snow Crash] and discovered in the end notes that the Macintosh Human Interface Guidelines was one of the inspirational sources for that story!
