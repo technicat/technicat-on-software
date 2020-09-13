@@ -1,19 +1,12 @@
-Writing the User Interface
-technicat
-technicat
-Apr 29, 2018 · 2 min read
+= Writing the User Interface
 
 When people talk about user interface design these days (or UX as the cool kids call it), it’s usually about layout, colors, fonts, widgets, gestures…but if there’s text, the actual words are just as important as anything else.
 
 As an example, I’m going to pick on Unity because I noticed a couple of things just recently. This email promoting their extended services has a “Submit your request” button and links to web pages that also have “Submit your request” buttons.
-Image for post
-Image for post
 
 What’s my request? Request the product? Request a quote? Request info? Request a phone call? Assuming it’s request info, then “Request Info” would be a better button label.
 
 And someone pointed out on the Unity forum that the Unity Connect privacy settings phrasing is a head-spinner.
-Image for post
-Image for post
 
 Aside from the awkward phrasing, the subhead Data Processing conveys no useful information and turning a switch on to enable opt-out is confusing, like agreeing to a double negative.
 
