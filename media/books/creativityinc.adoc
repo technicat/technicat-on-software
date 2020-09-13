@@ -1,6 +1,6 @@
 = Creativity, Inc.
 
-When I saw _Creativity, Inc._ on the bookshelf, I thought it was just another business book on creativity — in other words, dumb. But this book is by Ed Catmull on how Pixar is run. I mean, this is the guy who invented texture mapping. And that early part of the book recounting the early days of his career and the hardware computer graphics business that preceded Pixar is pretty interesting, but the meat of the book is how Pixar keeps its groove on (and quite interestingly, how Pixar imparted that groove to Disney after the merger).
+When I saw https://www.creativityincbook.com/about/[Creativity, Inc.] on the bookshelf, I thought it was just another business book on creativity — in other words, dumb. But this book is by Ed Catmull on how Pixar is run. I mean, this is the guy who invented texture mapping. And that early part of the book recounting the early days of his career and the hardware computer graphics business that preceded Pixar is pretty interesting, but the meat of the book is how Pixar keeps its groove on (and quite interestingly, how Pixar imparted that groove to Disney after the merger).
 
 There’s plenty of stuff about processes and storytelling and processes about processes and storytelling, and Steve Jobs, but there’s one lesson in there that I’ve been telling people: check your backups. Pixar almost lost an entire movie due to two classic errors: rm -f and assuming that the backup process was working. They really lucked out due to an employee working at home who had copied everything.
 
