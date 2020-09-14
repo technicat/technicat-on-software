@@ -48,6 +48,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [The Art of the Interview](software/career/interview/artoftheinterview.adoc)
 
+[The Exit Interview](software/career/interview/exitinterview.adoc)
+
 [My Interviews](software/career/interview/myinterviews.adoc)
 
 ## Design
