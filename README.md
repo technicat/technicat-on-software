@@ -42,7 +42,10 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Have Contract, Will Travel](software/career/havecontractwilltravel.adoc)
 
+[The Key Ring to Success](software/career/keyringtosuccess.adoc)
+
 [You Don't Need a Mentor](software/career/youdontneedamentor.adoc)
+
 
 ## Interviews
 
