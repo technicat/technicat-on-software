@@ -1,7 +1,4 @@
-The Exit Interview
-technicat
-technicat
-Apr 2 · 2 min read
+= The Exit Interview
 
 One thing I learned while working for and repeatedly resigning from corporate America is to take advantage of the exit interview. That’s the last time they will ask for comments (and often the first time — those annual salary reviews are useless).
 
@@ -10,7 +7,5 @@ For example, when I left my first job at Texas Instruments, a distinguished engi
 At BBN, the VP of my division made a point of meeting every exiting employee and asking if they felt the company could do anything better. Which was pretty nice, and overall it was a pretty nice company, so I only opined that our research-oriented division was getting overshadowed by all the attention bestowed on the new Internet business (I suppose I could have complained about the new CEO from IBM pushing open offices on us and generally ruining the company culture, but I was just trying to give him something he could work with…)
 
 It’s not just for jobs. When I decided to unpublish HyperBowl from the Amazon Appstore today and had to fill out a request form to do that, I decided not to let the comment field go to waste. There’s plenty I could have complained about, including having to fill out this form, but I went bigger picture and left an allusion to the well-known issue of their warehouse working conditions (of particular concern in this pandemic).
-Image for post
-Image for post
 
 Maybe it’s too general and someone reading it might think it’s about programmer crunch times or toxic culture. But that’s fine. It’s on record, open to interpretation, in a database somewhere. In the cloud.
