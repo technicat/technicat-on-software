@@ -28,6 +28,10 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Management
 
+[Apologize](software/management/apologize.adoc)
+
+[Have Expectations](software/management/haveexpectations.adoc)
+
 [Management Means Never Having to Say You're Sorry](software/management/managementmeansneverhavingtosayyouresorry.adoc)
 
 ## Career
