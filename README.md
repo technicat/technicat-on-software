@@ -36,11 +36,13 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Career
 
-[You Don't Need a Mentor](software/career/youdontneedamentor.adoc)
+[Bill Hourly](software/career/billhourly.adoc)
+
+[Get a Job](software/career/getajob.adoc)
 
 [Have Contract, Will Travel](software/career/havecontractwilltravel.adoc)
 
-[Get a Job](software/career/getajob.adoc)
+[You Don't Need a Mentor](software/career/youdontneedamentor.adoc)
 
 ## Interviews
 
