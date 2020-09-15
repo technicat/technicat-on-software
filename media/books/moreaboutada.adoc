@@ -4,7 +4,7 @@
 
 A few years ago, I wrote about how a history of computer programming would feature women who haven’t received enough recognition (which in itself is a good reason for everyone to learn about the history of computers), most notably Ada Lovelace.
 
-Since then, I’ve updated my reading, including, most recently, Sydney Padua’s imaginative alternate-history graphic novel The Thrilling Adventures of Lovelace and Babbage.
+Since then, I’ve updated my reading, including, most recently, http://sydneypadua.com/[Sydney Padua]’s imaginative alternate-history graphic novel https://en.wikipedia.org/wiki/The_Thrilling_Adventures_of_Lovelace_and_Babbage[The Thrilling Adventures of Lovelace and Babbage].
 
 I expected a fun read and wasn’t disappointed (how is this not a TV series by now?), but the real treat is all of the real biographical details, much of it original painstaking research, of Lovelace and company (not just Babbage, who perhaps is a cautionary tale for entrepreneurs, but also a cast of characters in their circle and of their time).
 
