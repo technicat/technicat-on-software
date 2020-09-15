@@ -142,6 +142,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Electric Dreams](media/books/electricdreams.adoc)
 
+[Faith of My Fathers](media/books/johnmccain.adoc)
+
 [Finding Serenity](media/books/findingserenity.adoc)
 
 [Free: The Past and Future of a Radical Price](media/books/free.adoc)
@@ -155,8 +157,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Idea to iPhone](media/books/ideatoiphone.adoc)
 
 [If Chins Could Kill](media/books/ifchinscouldkill.adoc)
-
-[John McCain](media/books/johnmccain.adoc)
 
 [Leading Geeks](media/books/leadinggeeks.adoc)
 
