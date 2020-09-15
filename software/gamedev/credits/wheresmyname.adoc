@@ -8,7 +8,7 @@ This blog I wrote in 2008 after reading the IGDA draft credit guidelines (got a 
 
 The latest email newsletter from the Independent Game Developers Association includes a mention of the https://www.gamasutra.com/view/news/110881/Mythic_In_Warhammer_Online_Credits_Controversy.php[EA Mythic credit controversy] and a request to review the beta draft of the IGDA Game Credit Standards.
 
-While I’ve found the IGDA papers and reports valuable enough to sign Fugu Games up as a studio affiliateto show support, and the credit guidelines are better than nothing (as far as I know, there really is nothing else out there), and I’ve just taken one quick pass at it, I’ll weigh in with a few criticisms (hey, they did ask).
+While I’ve found the IGDA papers and reports valuable enough to sign Fugu Games up as a studio affiliate to show support, and the credit guidelines are better than nothing (as far as I know, there really is nothing else out there), and I’ve just taken one quick pass at it, I’ll weigh in with a few criticisms (hey, they did ask).
 
 First, the report doesn’t distinguish between a game that has no credits and a game that is incompletely credited. Software outside of games sometimes includes credits, but it is hardly standard practice (and one of my friends who was credited on a commercial document editor thought it was a silly practice). So, if only to avoid blog comments by software developers outside the game industry in the nature of “why are you game developers whining about credits, I don’t get any”, I think the IGDA should focus clearly on the fairness issue of incompletely credited games.
 
