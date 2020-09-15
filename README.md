@@ -4,125 +4,9 @@ Now in [asciidoc](https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c41721dda74
 Copyright &copy; Technicat LLC.
 Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-## Software Development
-
-[Management Means Never Having to Say You're Sorry](management/managementmeansneverhavingtosayyouresorry.adoc)
-
-[BBN Culture](software/bbnculture.adoc)
-
-[Programmer's Don't Lie](software/programmersdontlie.adoc)
-
-[Design Patters are from Purgatory](software/designpatternsarefrompurgatory.adoc)
-
-[Startup Without Falling Down](software/startupwithoutfallingdown.adoc)
-
 ## App Development
 
 [So You Have an App Idea](software/appdev/soyouhaveanappidea.adoc)
-
-## History
-
-[A Farewell to Floppies](software/history/floppies.adoc)
-
-[The History of Programming](software/history/historyofprogramming.adoc)
-
-## Management
-
-[Apologize](software/management/apologize.adoc)
-
-[Have Expectations](software/management/haveexpectations.adoc)
-
-[Management Means Never Having to Say You're Sorry](software/management/managementmeansneverhavingtosayyouresorry.adoc)
-
-## Career
-
-[Bill Hourly](software/career/billhourly.adoc)
-
-[Get a Job](software/career/getajob.adoc)
-
-[Have Contract, Will Travel](software/career/havecontractwilltravel.adoc)
-
-[The Key Ring to Success](software/career/keyringtosuccess.adoc)
-
-[You Don't Need a Mentor](software/career/youdontneedamentor.adoc)
-
-
-## Interviews
-
-[The Art of the Interview](software/career/interview/artoftheinterview.adoc)
-
-[The Exit Interview](software/career/interview/exitinterview.adoc)
-
-[My Interviews](software/career/interview/myinterviews.adoc)
-
-## Design
-
-[The Design of Everyday Things, In Today's Mailbag](software/design/designofeverydaythings.adoc)
-
-[Five Design Books](software/design/fivedesignbooks.adoc)
-
-[It's the User Interface](software/design/itstheuserinterface.adoc)
-
-[Narcissistic Design](software/design/narcissisticdesign.adoc)
-
-[Writing the User Interface](software/design/writingtheuserinterface.adoc)
-
-## Lisp
-
-[I Miss Lisp](software/lisp/imisslisp.adoc)
-
-[Lisp Led Me to Outer Space](software/lisp/lispledmetoouterspace.adoc)
-
-## Process
-
-[Agile Isn't](software/process/agileisnt.adoc)
-
-[The Art of the Schedule](software/process/artoftheschedule.adoc)
-
-[Back It Up: Safe IT Practices](software/process/backitup.adoc)
-
-[Chess Moves](software/chessmoves.adoc)
-
-[Don't Juke the Stats](software/process/dontjukethestats.adoc)
-
-[Driving Lessons](software/drivinglessons.adoc)
-
-[Lean Agile Scrum Sprints](software/process/leanagilescrumsprints.adoc)
-
-[Minimizing Meetings](software/process/minimizingmeetings.adoc)
-
-[QA for Everyone](software/process/qaforeveryone.adoc)
-
-[Software Remodeling](software/process/softwareremodeling.adoc)
-
-
-## Game Development
-
-[Work Hard, Play Hard](software/gamedev/workandplay.adoc)
-
-[So You Want to Make a Game](software/gamedev/soyouwanttomakeagame.adoc)
-
-## Credits
-
-[Where's My Name?](software/gamedev/credits/wheresmyname.adoc)
-
-## Whirl Tour
-
-[Taking a Whirl Tour](software/gamedev/whirltourtakingawhirltour.adoc)
-
-## HyperBowl
-
-[HyperBowl on the Small Screen ](software/gamedev/hyperbowl/hyperbowlonthesmallscreen.adoc)
-
-## Unity
-
-[How I Met Unity](software/gamedev/unity/howimetunity.adoc)
-
-## MIT
-
-[What I Learned at MIT](personal/mit/whatilearnedatmit.adoc)
-
-[Leaving MIT](personal/mit/leavingmit.adoc)
 
 ## Books
 
@@ -203,6 +87,142 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [Winner's Dream](media/books/winnersdream.adoc)
 
 
+## Career
+
+[Bill Hourly](software/career/billhourly.adoc)
+
+[Get a Job](software/career/getajob.adoc)
+
+[Have Contract, Will Travel](software/career/havecontractwilltravel.adoc)
+
+[The Key Ring to Success](software/career/keyringtosuccess.adoc)
+
+[You Don't Need a Mentor](software/career/youdontneedamentor.adoc)
+
+
+## Credits
+
+[Where's My Name?](software/gamedev/credits/wheresmyname.adoc)
+
+## Design
+
+[The Design of Everyday Things, In Today's Mailbag](software/design/designofeverydaythings.adoc)
+
+[Five Design Books](software/design/fivedesignbooks.adoc)
+
+[It's the User Interface](software/design/itstheuserinterface.adoc)
+
+[Narcissistic Design](software/design/narcissisticdesign.adoc)
+
+[Writing the User Interface](software/design/writingtheuserinterface.adoc)
+
+## Film
+
+[Blade Runners](media/film/bladerunners.adoc)
+
+[Logan](media/film/logan.adoc)
+
+[Lone Star](media/film/whoknewtexansweresodeep.adoc)
+
+[Ronin](media/film/ronin.adoc)
+
+[Serenity](media/film/serenity.adoc)
+
+## Game Development
+
+[Work Hard, Play Hard](software/gamedev/workandplay.adoc)
+
+[So You Want to Make a Game](software/gamedev/soyouwanttomakeagame.adoc)
+
+
+
+## History
+
+[A Farewell to Floppies](software/history/floppies.adoc)
+
+[The History of Programming](software/history/historyofprogramming.adoc)
+
+## Interviews
+
+[The Art of the Interview](software/career/interview/artoftheinterview.adoc)
+
+[The Exit Interview](software/career/interview/exitinterview.adoc)
+
+[My Interviews](software/career/interview/myinterviews.adoc)
+
+
+## Lisp
+
+[I Miss Lisp](software/lisp/imisslisp.adoc)
+
+[Lisp Led Me to Outer Space](software/lisp/lispledmetoouterspace.adoc)
+
+
+## Management
+
+[Apologize](software/management/apologize.adoc)
+
+[Have Expectations](software/management/haveexpectations.adoc)
+
+[Management Means Never Having to Say You're Sorry](software/management/managementmeansneverhavingtosayyouresorry.adoc)
+
+
+## Process
+
+[Agile Isn't](software/process/agileisnt.adoc)
+
+[The Art of the Schedule](software/process/artoftheschedule.adoc)
+
+[Back It Up: Safe IT Practices](software/process/backitup.adoc)
+
+[Chess Moves](software/chessmoves.adoc)
+
+[Don't Juke the Stats](software/process/dontjukethestats.adoc)
+
+[Driving Lessons](software/drivinglessons.adoc)
+
+[Lean Agile Scrum Sprints](software/process/leanagilescrumsprints.adoc)
+
+[Minimizing Meetings](software/process/minimizingmeetings.adoc)
+
+[QA for Everyone](software/process/qaforeveryone.adoc)
+
+[Software Remodeling](software/process/softwareremodeling.adoc)
+
+## Software Development
+
+[Management Means Never Having to Say You're Sorry](management/managementmeansneverhavingtosayyouresorry.adoc)
+
+[BBN Culture](software/bbnculture.adoc)
+
+[Programmer's Don't Lie](software/programmersdontlie.adoc)
+
+[Design Patters are from Purgatory](software/designpatternsarefrompurgatory.adoc)
+
+[Startup Without Falling Down](software/startupwithoutfallingdown.adoc)
+
+
+
+## Whirl Tour
+
+[Taking a Whirl Tour](software/gamedev/whirltourtakingawhirltour.adoc)
+
+## HyperBowl
+
+[HyperBowl on the Small Screen ](software/gamedev/hyperbowl/hyperbowlonthesmallscreen.adoc)
+
+## Unity
+
+[How I Met Unity](software/gamedev/unity/howimetunity.adoc)
+
+## MIT
+
+[What I Learned at MIT](personal/mit/whatilearnedatmit.adoc)
+
+[Leaving MIT](personal/mit/leavingmit.adoc)
+
+
+
 ## TV
 
 [Buffy: Not Just for Boys](media/tv/buffynotjustforboys.adoc)
@@ -224,17 +244,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [The Man in the High Castle](media/tv/maininthehighcastle.adoc)
 
 
-## Film
 
-[Blade Runners](media/film/bladerunners.adoc)
-
-[Logan](media/film/logan.adoc)
-
-[Lone Star](media/film/whoknewtexansweresodeep.adoc)
-
-[Ronin](media/film/ronin.adoc)
-
-[Serenity](media/film/serenity.adoc)
 
 
 ## Equality
