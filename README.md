@@ -32,7 +32,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Free: The Future of a Radical Price](media/books/free.adoc)
 
-[The Game Localization Handbook](media/books/gamelocaliation.adoc)
+[The Game Localization Handbook](media/books/gamelocalization.adoc)
 
 [Gearheads](media/books/gearheads.adoc)
 
