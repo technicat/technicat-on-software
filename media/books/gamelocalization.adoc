@@ -1,7 +1,7 @@
 = The Game Localization Handbook
 
 
-I see there’s a newer edition of this book. Here’s a review of the first edition that I wrote on Epinions, so it’s a bit dated (with reference to hardware).
+I see there’s a https://www.jblearning.com/catalog/productdetails/9780763795931[newer edition] of this book. Here’s a review of the first edition that I wrote on Epinions, so it’s a bit dated (with reference to hardware).
 
 As video games become more respectable(?), an increasing number of books, magazines and web sites offer to divulge the “secrets” of game development.
 
