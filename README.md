@@ -30,7 +30,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Finding Serenity](media/books/findingserenity.adoc)
 
-[Free: The Past and Future of a Radical Price](media/books/free.adoc)
+[Free: The Future of a Radical Price](media/books/free.adoc)
 
 [The Game Localization Handbook](media/books/gamelocaliation.adoc)
 
