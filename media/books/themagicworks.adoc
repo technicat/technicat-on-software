@@ -2,7 +2,7 @@
 
 As a career programmer, and on whimsical occasion an aspiring author, I’ve always thought that programming is more like writing. Aside from the obvious parallels in entering text and following syntax and grammar rules, good code is expressive, succinct and has style. And I have speculated that the organizational and structural challenges in developing large, complex programs are analogous to those posed by novel writing.
 
-Now I feel validated after reading Terry Brook’s account of his creative process in Sometimes the Magic Works: Lessons from a Writing Life. In spite of the reference to magic in the title, Brooks discourages the aspiring novelist from simply brainstorming some ideas and jumping into writing mode. Instead, he urges the writer to structure the work with an outline beforehand, paying particular attention to creating an incisive beginning and compelling end to the story.
+Now I feel validated after reading Terry Brook’s account of his creative process in https://en.wikipedia.org/wiki/Sometimes_the_Magic_Works[Sometimes the Magic Works: Lessons from a Writing Life]. In spite of the reference to magic in the title, Brooks discourages the aspiring novelist from simply brainstorming some ideas and jumping into writing mode. Instead, he urges the writer to structure the work with an outline beforehand, paying particular attention to creating an incisive beginning and compelling end to the story.
 
 As an exercise, he takes the reader through a sample story creation, explaining efficient and unobstrusive character development, noting subtleties such as the choice of character and place names. (The sample story features the protagonist Maud Manx and nemesis Feral Finch in a town called Octegenarian, Montana. OK, it’s not that subtle.)
 
