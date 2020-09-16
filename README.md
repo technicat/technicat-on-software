@@ -58,7 +58,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Rethinking Narcissism](media/books/rethinkingnarcissism.adoc)
 
-[The Second Life Herald](media/books/secondlife.adoc)
+[The Second Life Herald](media/books/secondlifeherald.adoc)
 
 [Seinfeldia](media/books/seinfeldia.adoc)
 
