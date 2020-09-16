@@ -70,7 +70,7 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Sometimes the Magic Works](media/books/themagicworks.adoc)
 
-[Spam Kings](media/books/soamkings.adoc)
+[Spam Kings](media/books/spamkings.adoc)
 
 [Steve Jobs](media/books/realitydistortion.adoc)
 
