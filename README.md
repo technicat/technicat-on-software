@@ -50,8 +50,6 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Masters of Doom](media/books/mastersofdoom.adoc)
 
-[More About Ada](media/books/moreaboutada.adoc)
-
 [Mr. Monk on Patrol](media/books/monkonpatrol.adoc)
 
 [My Papi Has a MotorCycle](media/books/mypapihasamotorcycle.adoc)
@@ -141,6 +139,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 [A Farewell to Floppies](software/history/floppies.adoc)
 
 [The History of Programming](software/history/historyofprogramming.adoc)
+
+[More About Ada](software/history/moreaboutada.adoc)
 
 ## Interviews
 
