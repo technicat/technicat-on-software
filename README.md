@@ -10,6 +10,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 ## Books
 
+[The Art of Darkwatch](media/books/artofdarkwatch.adoc)
+
 [Carl Melcher Goes to Vietnam](media/books/carlmelcher.adoc)
 
 [Cellphone](media/books/cellphone.adoc)
