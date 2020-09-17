@@ -1,6 +1,6 @@
 = Leading Geeks
 
-From the title of Paul Glen’s Leading Geeks, I expected this book to be asinine and useless. I was half right — it’s asinine and worse than useless.
+From the title of Paul Glen’s http://leadinggeeks.com/[Leading Geeks], I expected this book to be asinine and useless. I was half right — it’s asinine and worse than useless.
 
 The author both warns against buying into the geek stereotype and promotes it, sometimes in the same sentence: “We will move past useless sterotypes and look into patterns of geek attitudes, beliefs and behaviors that make them both unusual and unusually difficult to lead and understand.” Is this on the Discovery Channel? Or perhaps on one of Fox’s “When Animals Attack” episodes.
 
