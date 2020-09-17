@@ -8,7 +8,7 @@ Since then, I’ve updated my reading, including, most recently, http://sydneypa
 
 I expected a fun read and wasn’t disappointed (how is this not a TV series by now?), but the real treat is all of the real biographical details, much of it original painstaking research, of Lovelace and company (not just Babbage, who perhaps is a cautionary tale for entrepreneurs, but also a cast of characters in their circle and of their time).
 
-Ada also receives an entire chapter (the first chapter!) in Walter Isaacson’s The Innovators, which also sketches the course of her too-short life with its unavoidably juicy details (she was genuinely a “rockstar” programmer). One point I would quibble with is Isaacson’s determination that Ada wasn’t the first programmer, based on the technicality that Babbage the hardware guy obviously knew how to program his computer (if it were ever to be built, that is).
+Ada also receives an entire chapter (the first chapter!) in Walter Isaacson’s https://en.wikipedia.org/wiki/The_Innovators_(book)[The Innovators], which also sketches the course of her too-short life with its unavoidably juicy details (she was genuinely a “rockstar” programmer). One point I would quibble with is Isaacson’s determination that Ada wasn’t the first programmer, based on the technicality that Babbage the hardware guy obviously knew how to program his computer (if it were ever to be built, that is).
 
 But that’s like saying (I hope this is not too tortured an analogy) that the first car driver was the person who first invented the car. Again, technically, yes, but that’s a far cry from a professional driver (race car, Lyft…). Here’s a better and more in-depth explanation from a programmer’s viewpoint.
 
