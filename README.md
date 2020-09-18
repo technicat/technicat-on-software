@@ -52,6 +52,8 @@ Available under the [Creative Commons Attribution-NonCommercial-NoDerivatives li
 
 [Masters of Doom](media/books/mastersofdoom.adoc)
 
+[A Memoir According to Kathy Griffin](media/books/kathygriffin.adoc)
+
 [Mr. Monk on Patrol](media/books/monkonpatrol.adoc)
 
 [My Papi Has a MotorCycle](media/books/mypapihasamotorcycle.adoc)
