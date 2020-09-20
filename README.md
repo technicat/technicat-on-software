@@ -35,6 +35,8 @@ Converted to [asciidoc](https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c4172
 
 [Gearheads](asciidoc/media/books/gearheads.adoc)
 
+[The Glass Cage](asciidoc/media/books/glasscage.adoc)
+
 [Haunted Empire](asciidoc/media/books/hauntedempire.adoc)
 
 [Idea to iPhone](asciidoc/media/books/ideatoiphone.adoc)
@@ -85,6 +87,7 @@ Converted to [asciidoc](https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c4172
 
 [Winner's Dream](asciidoc/media/books/winnersdream.adoc)
 
+[Winning Arguments](asciidoc/media/books/winningarguments.adoc]
 
 ## Career
 
