@@ -87,7 +87,7 @@ Converted to [asciidoc](https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c4172
 
 [Winner's Dream](asciidoc/media/books/winnersdream.adoc)
 
-[Winning Arguments](asciidoc/media/books/winningarguments.adoc]
+[Winning Arguments](asciidoc/media/books/winningarguments.adoc)
 
 ## Career
 
