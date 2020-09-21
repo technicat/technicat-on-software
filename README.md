@@ -86,7 +86,7 @@
 
 [Winning Arguments](asciidoc/media/books/winningarguments.adoc)
 
-[Writing the Character Centered Screenplay](asciidoc/media/books/writingthecharactercenteredscreenplay.adoc)
+[Writing the Character-Centered Screenplay](asciidoc/media/books/writingthecharactercenteredscreenplay.adoc)
 
 ## Career
 
