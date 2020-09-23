@@ -1,34 +1,22 @@
-The Artist Known As Me
-technicat
-technicat
-Jan 23, 2019 · 2 min read
+= The Artist Known As Me
 
 One nice thing about having my book on Apple Books is that I can finally put a badge on my web site. For Amazon and Barnes and Noble, I have to make do with old-fashioned links (although Amazon does have a badge for the Amazon Appstore).
-Image for post
-Image for post
+
 
 But the Apple badge doesn’t work well with author links, or rather the author links don’t work well. If instead of linking to a specific book page, like this:
-Image for post
-Image for post
+
 
 I link to the View More by this Author link (which gratifyingly is an “artist” URL), the resulting page shows a bunch of music which was partly made by another me.
-Image for post
-Image for post
+
 
 On iOS, this is all you see, as it brings you into the iTunes app, not the iBooks app. On other devices, at least you can scroll down and see the books I wanted you to see.
-Image for post
-Image for post
+
 
 Barnes and Noble has a less severe version of this problem. It also is basically just searching for anything with my name and thus includes a bird book not by me.
-Image for post
-Image for post
+
 
 Only Amazon does it right. They let you indicate which books you’ve authored or coauthored and give you an author page under your control.
-Image for post
-Image for post
 
 It’s not the prettiest thing, but it lets you include a blurb, link a blog, etc.
 
 And there’s an “author central” site where you can check how much of a world-famous author you are. Hey, I’m in the top one million!
-Image for post
-Image for post
