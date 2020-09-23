@@ -1,21 +1,10 @@
-Don’t Buy My Book
-technicat
-technicat
-Nov 2, 2019 · 4 min read
+= Don’t Buy My Book
 
 Now that I added a link to my Google Play books author page, I see it does a good job of listing all the books I’ve authored and no other
-Image for post
-Image for post
 
 unlike Barnes and Noble, which includes books on birds and music which I definitely did not write.
-Image for post
-Image for post
 
 Google Play Books (such an awkward name!) also conveniently provides samples,
-Image for post
-Image for post
-Image for post
-Image for post
 
 so I can compare the two editions of my Unity book (Unity 4 and Unity 2017), at least up to the end of the first chapter.
 
@@ -26,47 +15,27 @@ My second complaint (pointed out in Amazon reviews), is that the code is still (
 Which brings me to my third complaint, that Apress moved all their book code to github, and I could have told them (reminded them) that updated code for my book was already on github. (My third complaint isn’t so much about code repos as the publisher tendency to ignore you after your book is published and only contact you when they want something)
 
 My fourth complaint is that there are some errors that should have been caught, like this detail of web browser support.
-Image for post
-Image for post
 
 That’s all wrong now (only WebGL is currently supported), but definitely at least Flash support was long gone by then.
 
 This is something I’d expect the technical reviewer to catch. The reviewer for my book did a fine job, but I don’t see a credit for him in the second edition. Here’s part of his bio in the first edition.
-Image for post
-Image for post
 
 And for some reason, they removed my profile photo in the second edition, replacing it with the new author but leaving it next to my bio details.
-Image for post
-Image for post
 
 While they removed my face, they did add my address along with the new author’s, in two places.
-Image for post
-Image for post
 
 But a) I haven’t lived there in six years, and b) why include my apartment number? I supposed I should be glad they didn’t include my phone number and email.
 
 I attribute that all to general carelessness. I saw some of that while working on the first edition, e.g. when one editor added English punctuation to all my code listings. But one thing that seems intentional is the removal of my introduction in the first book
-Image for post
-Image for post
 
 I suppose the nostalgic how-did-I-get-here part could be dispensed with, but there was a history of the project that is the basis of the book code
-Image for post
-Image for post
 
 and also an explanation of how I ended each chapter.
-Image for post
-Image for post
 
 I recommended several books in this section, and it’s too bad to see them gone, I think they’re still good reading!
 
 But what I’m really peeved at is the removal of my acknowledgments.
-Image for post
-Image for post
 
 I wonder if this is because I acknowledged my parents, a programming teacher, and my programmer friends (including one who passed away quite young) but not the publisher. That is rectified in the new edition.
-Image for post
-Image for post
 
 So if you buy my Unity book, I hope you buy the first edition (Unity 4). They’re both obsolete, the first edition more so, but I get a bigger royalty percentage from that one, and it’s the original, unabridged, slightly less messy, more fully credited version with my favorite bits. Except my profile photo, I have to admit it wasn’t a good one. If I could make just one change, I’d use this.
-Image for post
-Image for post
