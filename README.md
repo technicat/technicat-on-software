@@ -54,6 +54,8 @@
 
 [My Papi Has a MotorCycle](asciidoc/media/books/mypapihasamotorcycle.adoc)
 
+[Perfidia](asciidoc/media/books/perfidia.adoc)
+
 [Rethinking Narcissism](asciidoc/media/books/rethinkingnarcissism.adoc)
 
 [The Second Life Herald](asciidoc/media/books/secondlifeherald.adoc)
