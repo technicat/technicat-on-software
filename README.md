@@ -22,6 +22,8 @@
 
 [Electric Dreams](asciidoc/media/books/electricdreams.adoc)
 
+[To Engineer Is Human](asciidoc/media/books/toengineerishuman.adoc)
+
 [Faith of My Fathers](asciidoc/media/books/johnmccain.adoc)
 
 [Finding Serenity](asciidoc/media/books/findingserenity.adoc)
