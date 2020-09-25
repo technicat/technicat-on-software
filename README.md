@@ -38,6 +38,8 @@
 
 [Haunted Empire](asciidoc/media/books/hauntedempire.adoc)
 
+[The Hunger Games](asciidoc/media/books/hungergames.adoc)
+
 [Idea to iPhone](asciidoc/media/books/ideatoiphone.adoc)
 
 [If Chins Could Kill](asciidoc/media/books/ifchinscouldkill.adoc)
