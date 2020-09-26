@@ -70,6 +70,8 @@
 
 [Shatner Rules](asciidoc/media/books/shatnerrules.adoc)
 
+[Slay the Dragon!](asciidoc/media/books/slaythedragon.adoc)
+
 [Smart Mobs](asciidoc/media/books/smartmobs.adoc)
 
 [Sometimes the Magic Works](asciidoc/media/books/themagicworks.adoc)
