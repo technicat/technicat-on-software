@@ -1,11 +1,6 @@
-Slay the Dragon!
-technicat
-technicat
-Feb 13, 2017 · 3 min read
-Image for post
-Image for post
+= Slay the Dragon!
 
-I got around to reading Slay the Dragon! Writing Great Video Games a little while ago because I’m interested in writing, I work in game development, I met one of the authors when he was a producer at Crave Games and I worked on a game and later consulted for them, and the book looked like a bargain when I ordered it from Amazon for around $10.
+I got around to reading http://www.slaythedragonbook.com/[Slay the Dragon! Writing Great Video Games] a little while ago because I’m interested in writing, I work in game development, I met one of the authors when he was a producer at Crave Games and I worked on a game and later consulted for them, and the book looked like a bargain when I ordered it from Amazon for around $10.
 
 I’m pleased to say it’s the best game writing book I’ve ever read. It’s also the only one I remember reading, but seriously, I enjoyed the comprehensive nature of the book and the authors’ obvious love of the industry and craft, and I highly recommend it to anyone interested in writing for games, or who’s already a game developer (this is why I try to read about game audio design, cinematography…the more you know about all aspects of gamedev, the better), or even just curious about it. I even sent a copy to my comic book writer sister.
 
