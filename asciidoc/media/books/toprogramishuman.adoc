@@ -1,9 +1,6 @@
-To Program Is Human
-technicat
-technicat
-Feb 18, 2018 · 3 min read
+= To Program Is Human
 
-Digging up old book reviews, I discovered for some reason I wrote two reviews of To Engineer is Human. Here is the second one. Or maybe the first.
+Digging up old book reviews, I discovered for some reason I wrote two reviews of https://www.penguinrandomhouse.com/books/130247/to-engineer-is-human-by-henry-petroski/[To Engineer is Human]. Here is the second one. Or maybe the first.
 
 When I worked in Silicon Valley, it seemed everyone wanted the title Software Architect. It’s a sexy-sounding title, maybe because in the movies all the cool people work in advertising or architecture firms, but in the real building world, while the architects get the glory, someone has to put it together and make sure it doesn’t fall apart.
 
