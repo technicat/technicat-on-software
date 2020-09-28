@@ -84,6 +84,8 @@
 
 [To Engineer Is Human](asciidoc/media/books/toengineerishuman.adoc)
 
+[To Program Is Human](asciidoc/media/books/toprogramishuman.adoc)
+
 [Ultimate Punishment](asciidoc/media/books/ultimatepunishment.adoc)
 
 [The Upright Thinkers](asciidoc/media/books/uprightthinkers.adoc)
