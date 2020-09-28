@@ -92,6 +92,8 @@
 
 [We Were Soldiers](asciidoc/media/books/weweresoldiers.adoc)
 
+[What Shold I Do With My Life](asciidoc/media/books/whatshouldidowithmylife.adoc)
+
 [Winner's Dream](asciidoc/media/books/winnersdream.adoc)
 
 [Winning Arguments](asciidoc/media/books/winningarguments.adoc)
