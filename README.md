@@ -104,6 +104,8 @@
 
 [Amber Unicorn](asciidoc/media/books/bookstore/amberunicorn.adoc)
 
+[Computer Bookstores](asciidoc/media/books/bookstore/computerbookstores.adoc)
+
 ## Career
 
 [Bill Hourly](asciidoc/software/career/billhourly.adoc)
