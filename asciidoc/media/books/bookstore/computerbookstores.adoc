@@ -1,4 +1,4 @@
-= The Last of the Computer Bookstores
+== The Last of the Computer Bookstores
 
 During my recent trip to Portland, I was saddened to see *Powell’s Technical Books* is no more, now just a portion of the third floor of Powell’s main store. And there are five floors (that’s why they call it https://www.powells.com/[Powell’s City of Books]).
 
