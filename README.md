@@ -100,6 +100,10 @@
 
 [Writing the Character-Centered Screenplay](asciidoc/media/books/writingthecharactercenteredscreenplay.adoc)
 
+## Bookstores
+
+[Amber Unicorn](asciidoc/media/books/bookstore/amberunicorn.adoc)
+
 ## Career
 
 [Bill Hourly](asciidoc/software/career/billhourly.adoc)
