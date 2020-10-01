@@ -1,6 +1,6 @@
 == LeanPub
 
-Every once in a while, I take a break from working on my self-published apps to work on my self-published books. Or book, as there’s just one, currently on Amazon and Barnes and Noble. I saw https://leanpub.com/GearUp[Gear Up!] was published on LeanPub, so I decided to give that a try.
+Every once in a while, I take a break from working on my self-published apps to work on my self-published books. Or book, as there’s just one, currently on Amazon and Barnes and Noble. I saw https://leanpub.com/GearUp[Gear Up!] was published on https://leanpub.com/[LeanPub], so I decided to give that a try.
 
 It’s pretty easy to set up a new book — the hardest part is making myself pay the $100 book creation fee (refundable after 30 days or so if you don’t like how it’s turning out), but after that, it’s just filling out what you want on the web page, price, and upload the preformatted versions of your book or write your book directly in LeanPub. Here’s my book page.
 Image for post
