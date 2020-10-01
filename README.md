@@ -106,6 +106,8 @@
 
 [Computer Bookstores](asciidoc/media/books/bookstore/computerbookstores.adoc)
 
+[LeanPub](asciidoc/media/books/bookstore/leanpub.adoc)
+
 ## Career
 
 [Bill Hourly](asciidoc/software/career/billhourly.adoc)
