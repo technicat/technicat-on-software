@@ -108,6 +108,8 @@
 
 [LeanPub](asciidoc/media/books/bookstore/leanpub.adoc)
 
+[Writing iBooks](asciidoc/media/books/bookstore/writingibooks.adoc)
+
 ## Career
 
 [Bill Hourly](asciidoc/software/career/billhourly.adoc)
