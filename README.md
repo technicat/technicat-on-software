@@ -122,6 +122,12 @@
 
 [You Don't Need a Mentor](asciidoc/software/career/youdontneedamentor.adoc)
 
+## Comic Con
+
+[Amazing Comic Con](asciidoc/media/comiccon/amazingcomiccon.adoc)
+
+[Vegas Valley Comic Book Festival](asciidoc/media/comiccon/vegasvalleycomicbook.adoc)
+
 
 ## Credits
 
@@ -269,9 +275,6 @@
 [The Man in the High Castle](asciidoc/media/tv/maininthehighcastle.adoc)
 
 
-## Comic Con
-
-[Amazing Comic Con](asciidoc/media/comiccon/amazingcomiccon.adoc)
 
 
 ## Equality
