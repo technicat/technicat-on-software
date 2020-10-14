@@ -1,7 +1,4 @@
-Feeling Flutter
-technicat
-technicat
-Dec 4, 2019 · 3 min read
+= Feeling Flutter
 
 This is the year I seriously started working on native Android app development, prompted by occasional queries about when I’m going to come up with an Android version of Talk Dim Sum.
 
