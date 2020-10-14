@@ -1,7 +1,4 @@
-Flutter Bubbles
-technicat
-technicat
-Feb 26 · 2 min read
+= Flutter Bubbles
 
 As I gradually, or perhaps intermittently, get the Android version of Talk Dim Sum up to speed with the iOS version, the latest in-progress feature is the phrases screen, which is intended to provide dialogue useful in dim sum dining situations.
 
