@@ -1,4 +1,4 @@
-Original book, more or less, is on [itch.io](https://technicat.itch.io/technicat-on-software).
+Original ebook (ePub and PDF) is on [itch.io](https://technicat.itch.io/technicat-on-software).
 
 ## App Development
 
