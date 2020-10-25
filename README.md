@@ -1,3 +1,5 @@
+Original book, more or less, is on [itch.io](https://technicat.itch.io/technicat-on-software).
+
 ## App Development
 
 [So You Have an App Idea](asciidoc/software/appdev/soyouhaveanappidea.adoc)
