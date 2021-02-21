@@ -224,6 +224,8 @@ Original ebook (ePub and PDF) is on [itch.io](https://technicat.itch.io/technica
 
 ## Software Development
 
+[Seven Habits of Highly Effective Programmers](asciidoc/software/sevenhabitsofhighlyeffectiveprogrammers.adoc)
+
 [Management Means Never Having to Say You're Sorry](asciidoc/management/managementmeansneverhavingtosayyouresorry.adoc)
 
 [BBN Culture](asciidoc/software/bbnculture.adoc)
