@@ -1,6 +1,2 @@
-[![learn unity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
-[![learn unity review](/images/learnunity/reviews/shmosef.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
-[![learn unity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
-[![learn unity review](/images/learnunity/reviews/student.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
-[![learn unity review](/images/learnunity/reviews/nja.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
-[![learn unity review](/images/learnunity/reviews/carlos.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
+[![technicat on software review](/images/technicatonsoftware/reviews/ronin.png)](https://github.com/technicat/technicat-on-software)
+[![technicat on software review](/images/technicatonsoftware/reviews/umali.png)](https://github.com/technicat/technicat-on-software)
