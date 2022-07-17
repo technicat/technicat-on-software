@@ -1,8 +1,4 @@
-Archived blogs and essays. 
-
-Original ebook (ePub and PDF) is on [itch.io](https://technicat.itch.io/technicat-on-software).
-
-Now blogging on [ghost](http://philchu.ghost.io/)
+Original ebook (ePub and PDF) and a junkpile of archived blogs and essays. 
 
 
 
