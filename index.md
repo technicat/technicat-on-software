@@ -1,5 +1,3 @@
 ---
 [![technicat on software review](/images/technicatonsoftware/reviews/ronin.png)](https://github.com/technicat/technicat-on-software)
 [![technicat on software review](/images/technicatonsoftware/reviews/umali.png)](https://github.com/technicat/technicat-on-software)
-
-
